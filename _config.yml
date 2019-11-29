@@ -1,5 +1,5 @@
 name: Priyanka Saggu
-url: 'https://priyankasaggu11929.github.io/blog'
+url: 'https://priyankasaggu11929.github.io/'
 description: 'I speak here {^_^}'
 
 exclude: [Gemfile, Gemfile.lock, README.md]
