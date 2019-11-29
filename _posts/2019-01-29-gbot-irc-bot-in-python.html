@@ -1,0 +1,61 @@
+---
+layout: post
+title: "#gbot - IRC bot in Python"
+date: 2019-01-29 04:26:50.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Projects]
+meta:
+  _publicize_job_id: '27033238991'
+  timeline_notification: '1548716215'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/01/29/gbot-irc-bot-in-python/"
+---
+<p><!-- wp:paragraph --></p>
+<p>January 28, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Right from day one of my training in <a href="https://dgplug.org/">#dgplug</a>, I always wanted to know, "How batul, the IRC bot in #dgplug" was developed". And now today, When I myself had registered a channel #GirlScriptSnp on irc.freenode.net for conducting GirlScript Sonipat training sessions. The first thought was to just create and load a bot which was as powerful as <a href="https://github.com/kushaldas/ircbot">batul</a>. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, now, finally, I came up with my version of batul,&nbsp;which is <strong>gbot</strong>. Unlike batul, which was entirely coded in GoLang, I have developed <strong>gbot</strong> in Python.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":159} --></p>
+<figure class="wp-block-image"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-01-29-03-57-43-e1548714546991.png" alt="gbot--priyankasaggu119" class="wp-image-159" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>gbot is powerful than a normal(intermediate-level) IRC bot and provides a lot of options which can be expanded very easily.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Summarizing here the operations available in gbot:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Besides, connecting to a freenode-server and replying to the "PING" messages of a server with "PONG", gbot is capable of capturing/logging all the IRC messages in the console.</li>
+<li>It can check whether a nick has an admin status or not.</li>
+<li>If a nick has admin status, it can access various privileged commands such as #startclass and #endclass(to start and end a session, respectively, in the IRC.)</li>
+<li>Besides, with admin access, a nick can add (nick #addop) or remove (nick #removeopp) operators from the channel too.</li>
+<li>gbot maintains a queue of the students who are raising their hands by typing "!"  to ask their questions in the channel and call them whenever their turn shows up.</li>
+<li>It can inform the participating students to wait if they try to re-queue themselves in the questions queue.</li>
+<li>The mentor with admin access can answer the student's queries by typing "next" and popping out the student's nick from the question's queue in FIFO fashion.</li>
+<li>gbot can also inform students when there is no session going on in the channel.</li>
+<li>And lastly, as every bot can always do, it can reply with a Hello! message specifically to the nick saying "hi" to it.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for now. Looking forward to adding more functionalities into it.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>You can check the entire-source code <a href="https://github.com/Priyankasaggu11929/gbot_ircbot">here</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Till next time, o/</p>
+<p><!-- /wp:paragraph --></p>

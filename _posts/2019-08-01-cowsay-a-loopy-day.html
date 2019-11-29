@@ -1,0 +1,91 @@
+---
+layout: post
+title: 'Cowsay: A loopy day @ @'
+date: 2019-08-01 06:07:01.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Projects, Ansible]
+meta:
+  _publicize_job_id: '33502606225'
+  timeline_notification: '1564619827'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/08/01/cowsay-a-loopy-day/"
+---
+<p><!-- wp:paragraph --></p>
+<p> July 31, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Umm, I don't know if you understand anything out of the title or not ( or you already might be knowing as well). But, it came to my rescue today and this is the only satisfying thing that has happened to me, for the day. 😛</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":522,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-08-01-06-31-11-e1564621390543.png" alt="cowsay" class="wp-image-522" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Ok, before revealing what is this (for the one's like me 😆), lemme actually compile up the <strong>progress of my day.</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>The title is an apt one because definitely it was a loopy day. I spent my whole day looping around implementing some basic level <strong>Ansible</strong> in the docker containerised VM setup (that I created <a href="https://priyankasaggu119.wordpress.com/2019/07/31/containerisation-using-docker/">yesterday</a>). And I'm still in the loop. So, maybe I will write more about it later someday.</li>
+<li>I (actually destroyed) experimented with many VM partitions, labels and file systems. Explored some of the important command line tools (fdisk, parted, mkfs for now) for managing hard disk partitions. [<em>That's my progress in Ops School Curriculum.</em>]</li>
+<li>The loop actually turned to be very fruitful as well. I'm understanding the terminologies of docker in their right way now. Besides, have literally realised the importance of writing custom docker images. So, now the next step will be to write more efficient Dockerfiles, or otherwise, I will be left in just downloading even the basic packages and tools, for the whole day (and that I absolutely don't want). </li>
+<li>Tmux proved to be instrumental. I am loving the way how beautifully it allows me to work on multiple components at the same time. And yes, it has certain other interesting applications as well. I am looking forward to using it for pair-programming (atleast, will give a try forsure).</li>
+<li>Also learnt how to beautify my email replies. Thanks to a *Pro-reviewer* :) .</li>
+<li>And the most important part of the day. I finally have  a thing to waste my time with,&nbsp;when I have something important to do 😂, THE &nbsp;<code>cowsay</code>.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph {"className":".scroll-box { height: 400px; overflow-y: scroll; }"} --></p>
+<p class=".scroll-box { height: 400px; overflow-y: scroll; }">🎉🎉 <strong>Now revealing the most awaited part of the post.</strong> 🎉🎉</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p><code>cowsay</code>&nbsp;is a classic program. It does not really do anything useful. <strong>It just provides amusment</strong>. Give&nbsp;<code>cowsay</code>&nbsp;a line of text and it will generate the image of a talking cows in ASCII art saying that line.</p>
+<p><cite><a href="https://medium.com/@jasonrigden?source=post_page---------------------------">Jason Rigden</a><br /></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:paragraph --></p>
+<p>Ok :D . So, <strong>Cowsay</strong> is nothing but an unix command which creates ASCII arts echoing sentences that you pass along with it.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>// command to install cowsay.
+$ sudo apt-get install cowsay
+
+// Usage:- cowsay &lt;some_text&gt;
+$  cowsay Finally revealed what is cowsay!</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>And you will see an ASCII art like this as your output:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>__________________________________
+&lt; Finally revealed what is cowsay! &gt;
+ ----------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>There are certian other flags to draw cowsay art in different modes. If you also want to entertain yourself, read about them <a href="https://medium.com/@jasonrigden/cowsay-is-the-most-important-unix-like-command-ever-35abdbc22b7f">here</a>. I am definitely gonna play with<em>&nbsp;</em><code>cowsay</code> characters while running Ansible Playbooks.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>And if you want to check for all the <em>available cowsay characters</em>, run the following script in your terminal (pipe it into <strong>less</strong>).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ for f in /usr/share/cowsay/cows/*; do cowsay -f "${f:23:-4}" "${f:23:-4}"; done | less</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>I was trying to add a vertical scrollbar here for showing the output of the above command, but it's not happening right now. So, will update later if I manage to find out a way for this.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>You may want to check this <a href="https://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/">post</a> as well for more such interesting linux commands. (But make sure, you try them in an isolated environment. These might have some malicious code inside.)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for this post. o/</p>
+<p><!-- /wp:paragraph --></p>

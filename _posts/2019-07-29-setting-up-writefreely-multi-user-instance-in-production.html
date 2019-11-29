@@ -1,0 +1,326 @@
+---
+layout: post
+title: Setting up WriteFreely multi-user instance in production!
+date: 2019-07-29 14:40:21.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Projects, Writefreely, GCP, DevOps]
+meta:
+  timeline_notification: '1564391425'
+  _publicize_job_id: '33392392031'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/07/29/setting-up-writefreely-multi-user-instance-in-production/"
+---
+<p><!-- wp:paragraph --></p>
+<p>July 29, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The last time when I had set up a <a href="https://priyankasaggu119.wordpress.com/2019/07/27/setting-up-wordpress-on-gcp/">WordPress on GCP</a>, I was actually supposed to do all that by scratch. But my foolness made me do things quickly and I went for the ready-made Bitnami image and was done.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, now to compensate (and actually for setting up another Production server), here I am writing again on  "<strong>how to set up a WriteFreely multi-user instance behind reverse-proxy</strong>" all  by scratch.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Requirements:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>A production server to host the multi-user instance (in my case, a GCP Ubuntu 18.04 LTS VM).</li>
+<li>A registered domain name (I will be using ps119.tk) [<em>Refer to the article <a href="https://priyankasaggu119.wordpress.com/2019/07/27/setting-up-wordpress-on-gcp/">here</a>, in case you want to know, how to register a free custom domain name.</em>]</li>
+<li>An Apache or Nginx web server to be used as reverse proxy ( in my case, Apache2).</li>
+<li> A MySQL (5.6+) or SQLite database server timezoned to UTC. </li>
+<li>And as the <a href="https://writefreely.org/start">Writefreely official documentation</a> says:
+<ul>
+<li>The ability to run an executable.</li>
+<li>About 30 minutes. :D</li>
+</ul>
+</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>I will be covering most part of the configuration mentioned above in the steps below.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>So, Let's get started...</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Update and upgrade the system.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo apt update &amp;&amp; sudo apt dist-upgrade</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Install and start Apache web server.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo apt install apache2
+$ sudo systemctl start apache2</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Install MySQL and configure it as per your setup requirements.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo apt install mysql-server
+$ sudo mysql_secure_installation</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Enable Apache modules in order to operate it as a reverse-proxy. Also, restart is after to reflect the changes.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo a2enmod proxy
+$ sudo a2enmod proxy_http
+$ sudo systemctl restart apache2</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now, after installing all the required dependencies. The next step is to create a MySQL database.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>// Leave the password blank when prompted
+$ sudo mysql -u root -p
+
+//At "mysql&gt;" prompt
+CREATE USER 'writefreely'@'localhost' IDENTIFIED BY 'YouPasswordHere';
+CREATE DATABASE IF NOT EXISTS writefreely CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+GRANT ALL PRIVILEGES on writefreely.* to 'writefreely'@'localhost';
+FLUSH PRIVILEGES;
+exit</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Create the following directories and move into that. (change "ps119.tk" to "your domain name")</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo mkdir /var/www/ps119.tk
+$ sudo mkdir /var/www/ps119.tk/writefreely
+$ cd /var/www/ps119.tk/writefreely</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now inside this directory, download the WriteFreely zip using the link for the latest Linux version from <a href="https://github.com/writeas/writefreely/releases/">here</a>. Unzip the "tar" file and remove the zip file after (for cleaning purpose).</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>//use the latest link.
+$ sudo wget "https://github.com/writeas/writefreely/releases/download/v0.10.0/writefreely_0.10.0_linux_amd64.tar.gz"
+$ sudo tar -xvzf writefreely_0.10.0_linux_amd64.tar.gz
+$ sudo rm writefreely_0.10.0_linux_amd64.tar.gz
+</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>It's time to configure WriteFreely now. You can follow as per my configuration for a multi-user reverse proxy instance (Make suitable changes wherever needed).</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$sudo ./writefreely --config
+
+Loaded configuration config.ini.
+
+  ✍ WriteFreely Configuration ✍
+
+This quick configuration process will update the application's config file, config.ini.
+
+It validates your input along the way, so you can be sure any future errors aren't caused by a bad configuration. If you'd rather configure your server manually, instead run: writefreely --create-config and edit that file.
+
+Server setup 
+Production, behind reverse proxy
+Local port: 8080
+
+Database setup 
+MySQL
+Username: writefreely
+Password: ******************************
+Database name: writefreely
+Host: localhost
+Port: 3306
+
+App setup 
+Multi-user instance
+Instance name: blogs.demo
+Public URL: https://ps119.tk
+Closed
+Max blogs per user: 1
+Enabled
+Public
+Public
+2019/07/29 05:31:24 Connecting to mysql database...
+2019/07/29 05:31:24 Database already initialized.</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>As we chose for "Multi-user instance", it is required to import the <em>database-schema</em> and create a <em>Admin-user</em>.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo ./writefreely --init-db
+// change [username] and [password] with the suitable values.
+$sudo ./writefreely --create-admin [username]:[password]
+</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now, generate the encryption keys for your instance.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo ./writefreely --gen-keys</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Create a "<strong>Virtual Host"</strong> to host the WriteFreely instance on Apache web server and copy the following content in the <em>writefreely.conf</em> file.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo nano /etc/apache2/sites-available/writefreely.conf
+
+//PASTE THE FOLLOWING CONTENT (change ps119.tk to your domain name)
+
+&lt;VirtualHost *:80&gt;
+    ServerName ps119.tk
+
+    ProxyPreserveHost On
+
+    ProxyPass / http://127.0.0.1:8080/
+    ProxyPassReverse / http://127.0.0.1:8080/
+&lt;/VirtualHost&gt;</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Enable the newly created virtual host and disable the existing one. Also reload Apache after it, to reflect the config changes.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo a2ensite writefreely.conf
+$ sudo a2dissite 000-default.conf
+$ sudo systemctl reload apache2</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>We have almost reached to one of the few final steps now. It's time for us to create a systemd service for WriteFreely. (Again paste the following content after creating a <em>writefreely.service</em> file)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo nano /etc/systemd/system/writefreely.service
+
+//PASTE THE FOLLOWING CONTENT (change ps119.tk to your domain name)
+
+[Unit]
+Description=Write Freely Instance
+After=syslog.target network.target
+
+[Service]
+Type=simple
+StandardOutput=syslog
+StandardError=syslog
+WorkingDirectory=/var/www/ps119.tk/writefreely
+ExecStart=/var/www/ps119.tk/writefreely/writefreely
+Restart=always
+
+[Install]
+WantedBy=multi-user.target</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now, enable the <em>writefreely.service</em> so that it will start the writefreely service every time the system boots. </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo systemctl enable writefreely.service</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Finally, start the service. </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo systemctl start writefreely.service</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>An optional (but recommended) step to install certbot to get <em>Let's Encrypt SSL Certificates</em> for our instance.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo apt-get update
+$ sudo apt-get install software-properties-common
+$ sudo add-apt-repository universe
+$ sudo add-apt-repository ppa:certbot/certbot
+$ sudo apt-get update
+$ sudo apt-get install certbot
+$ sudo apt-get install certbot python-certbot-apache
+
+// Select the URL to set the SSL certificates for and choose the appropriate options after.
+$ sudo certbot --apache</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Voila, we are done with the setup of our multi-user WriteFreely instance. 🎉 🎉</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p> Now, the only thing left for us is to actually acces it. So, go to https://&lt;your_domain_name&gt; (like https://ps119.tk in my case) and below is how it will look.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":440,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-07-29-14-11-19.png" alt="" class="wp-image-440" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Login into the instance with the [username] and [password] of the Admin-user (we created above) and customize it as per your requirements.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>And there you go, you have your own blog production server. :D</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>An Optional Section</strong>:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>I wanted to actually redirect "<a href="http://ps119.tk">ps119.tk</a>" to "<a href="https://ps119.tk/read" /><a href="https://ps119.tk/read">https://ps119.tk/read</a>", so that whenever somebody visits the URL https://ps119.tk/, they directly land onto the <strong><em>Readers</em></strong> page.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, with a lot of tinkering on web, I managed to do it with a small modifications in <em>writefreely.conf</em> file. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>(I still doubt whether this is the right way of doing it. But this is how, I have done it and it so so works for me as well.)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ cd /etc/apache2/sites-enabled/ 
+$ sudo vim writefreely.conf  
+
+// Modifications in the redirecting rule.
+
+&lt;VirtualHost *:80&gt;
+    ServerName ps119.tk
+
+    ProxyPreserveHost On
+
+    ProxyPass / http://127.0.0.1:8080/
+    ProxyPassReverse / http://127.0.0.1:8080/
+    RewriteEngine on
+    RewriteCond %{SERVER_NAME} =ps119.tk
+    RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI}read [END,NE,R=permanent]
+
+&lt;/VirtualHost&gt;
+</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Read <a href="https://httpd.apache.org/docs/trunk/rewrite/remapping.html">here</a> to learn more about .htaccess file, redirecting and remapping.</p>
+<p><!-- /wp:paragraph --></p>

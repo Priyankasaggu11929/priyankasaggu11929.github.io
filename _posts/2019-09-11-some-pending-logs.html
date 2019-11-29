@@ -1,0 +1,130 @@
+---
+layout: post
+title: Some pending logs!
+date: 2019-09-11 22:58:46.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Misc, DevOps, Projects]
+meta:
+  _publicize_job_id: '35181023474'
+  timeline_notification: '1568222931'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/09/11/some-pending-logs/"
+---
+<p><!-- wp:paragraph --></p>
+<p>September 11, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It's been a very long time since I wrote here for the last. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The reason is nothing big but mainly because:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Apparently, I was not able to finish some tasks in time that I used to write about.</li>
+<li>I was not well for a long time that could be an another reason . </li>
+<li>Besides, life happened in many ways which ultimately left me working on some other things first, because they seemed to be *important* for the time.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>And, yes, there is no denying the fact that I was procastinating too because writing seems to be really hard at most times.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Though I had worked on many things throughout the time and I'll try to write them here as short and quick logs below.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Around the second last week of august, I worked on setting up<strong> a self-hosted OpenVPN server</strong> which supported client scalability. The infrastructure required two servers/VMs, each having a <a href="https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04">basic firewall setup</a> and a non-root "sudo" priviliged user. One among them was to host the OpenVPN service and another one was to serve as a <a href="https://en.wikipedia.org/wiki/Certificate_authority">Certificate Authority</a> (CA). You can refer the following links to check for the related process.
+<ul>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04">How To Set Up an OpenVPN Server on Ubuntu 18.04</a></li>
+<li><a href="https://computingforgeeks.com/easy-way-to-install-and-configure-openvpn-server-on-ubuntu-18-04-ubuntu-16-04/">Easy Way to Install and Configure OpenVPN Server on Ubuntu 18.04 / Ubuntu 16.04</a></li>
+<li><a href="https://computingforgeeks.com/how-to-use-nmcli-to-connect-to-openvpn-server-on-linux/">How to use nmcli to connect to OpenVPN Server on Linux</a></li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>In the last week of August, I worked on another task i.e to read about <em>Syslogs and figure out how each of the systems can email the root mails to a certain email address for log collection</em>. Thus, I read about Syslogs, how it works, its format and various Syslogs message levels. The latter part of the task was accomplished using <a href="https://wiki.archlinux.org/index.php/SSMTP">ssmtp</a> as mail program &amp; writing <em>cron jobs </em>to actually send them to the intended email addresses. Check the following links for resources.
+<ul>
+<li><a href="https://stackify.com/syslog-101/">Syslog Tutorial: How It Works, Examples, Best Practices, and More</a></li>
+<li><a href="https://tecadmin.net/send-email-smtp-server-linux-command-line-ssmtp/">How to Send Email via SMTP Server from Linux Command Line (with SSMTP)</a></li>
+<li><a href="https://askubuntu.com/questions/332481/setup-cron-job-to-send-email-to-a-bunch-of-people-on-a-regular-basis">Setup cron job to send email to a bunch of people on a regular basis</a></li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p><em>This one question always came up, many times, the students managed to destroy their systems by doing random things. </em><code>rm -rf</code><em> is always one of the various commands in this regard.</em></p>
+<p><cite><a href="https://kushaldas.in/about.html">Kushal Das</a></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>While I was doing the above task, at one time I ruined my local system's mail server configs and actually ended up doing something which kushal writes about in one of his <a href="https://kushaldas.in/posts/announcing-lymworkbook-project.html">recent post</a> (quoted above). I was using the command <code>rm -rf</code> to clean some of the left-over dependencies of some mail packages, but that eventually resulted into machine being crashed. It was not the end of the mess this time. I made an another extremely big mistake meanwhile. I was trying to back up the crashed system, into an external hard disk using <code><a href="https://en.wikipedia.org/wiki/Dd_(Unix)">dd</a></code>. But because I had never used <code>dd</code> before, so again I did something wrong and this time, I ended up losing <em>~500 GBs </em>of backed up data. This is "the biggest mistake" and "the biggest lesson" I have learnt so far. 😔😭 (now I know why one should have multiple backups) And as there was absolutely no way of getting that much data back, the last thing I did was, formatting the hard-disk into 2 partitions, one with <code>ext4</code> file system for linux backup and the other one as <code>ntfs</code> for everything else. </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Thank you so much <a href="https://mjbraganza.com/about/">jasonbraganza</a> for all the help and extremely useful suggestions during the time. :)</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Okay, now after all the hassle bustle above, I got something really nice. This time, I received the <strong><em>"Raspberry Pi 4, 4GB, Complete Kit </em></strong>" from kushal. </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Thank you very much <a href="http://kushaldas.in">kushal</a> for the RPi and an another huge thanks for providing me with all the guidance and support that made me reach to even what I am today. </em>:)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>During the same time, I attended a <a href="https://dgplug.org/irclogs/2019/Logs-2019-08-22-13-30.txt">dgplug guest session</a> from <a href="http://utkarsh2102.tk/">utkarsh2102</a>. This session gave me a "really" good beginner's insight of how things actually work in <a href="https://www.debian.org/">Debian Project</a>. <em>I owe a big thanks to utkarsh2102 as well, for he so nicely voluteered me from there onwards, to actually start with Debian project.</em> I have started with DPMT and have done packaging 4 python modules so far. And now, I am looking forward to start contributing to Debian Ruby Team as well.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>With the start of september, I spent some time solving some basic Python problems from kushal's <a href="https://lym.readthedocs.io/en/latest/workbook.html">lymworkbook</a>. Those issues were related to some really simply sys-admins work. But for me, working around and wrapping them in Python was a whole lot of learning. I hope I will continue to solve some more problems/issues from the lab. </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>And lastly (and currently), I am back to reading and implementing concepts from <a href="https://priyankasaggu119.wordpress.com/2019/07/30/ops-school-progress/">Ops School</a> curriculum.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>Voila, finally, I finish compiling up the logs from some last 20 days of work and other stuffs. (and thus, I am eventually finishing my long pending task of writing this post here as well).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I will definitely try to be more consistent with my writing from now onwards. :)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for now. o/</p>
+<p><!-- /wp:paragraph --></p>

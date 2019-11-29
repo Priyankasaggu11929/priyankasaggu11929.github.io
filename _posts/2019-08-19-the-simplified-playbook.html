@@ -1,0 +1,299 @@
+---
+layout: post
+title: The Simplified playbook!
+date: 2019-08-19 04:46:25.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Linux SysAdmin, Projects, DevOps, Ansible, Playbook, Security]
+meta:
+  timeline_notification: '1566170188'
+  _publicize_job_id: '34256219731'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/08/19/the-simplified-playbook/"
+---
+<p><!-- wp:paragraph --></p>
+<p>August 18, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Ah, I literally procastinated a lot for writing this blog post. But I, "actually", am not regretting at all for this once, because the time was justly spent well with my parents &amp; family.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Anyways, before moving forward with other tasks in the series, I am supposed to finish the backlogs (finish writing my 2 blogposts, including this one).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>And therefore, let me quickly describe the reason for writing this post.</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This post doesn't actually have a distinct topic rather it's just an <strong><em>update/improvement</em></strong> to one of my last blogpost "<a href="https://priyankasaggu119.wordpress.com/2019/08/12/a-guide-to-a-safer-ssh/">A guide to a “safer” SSH!</a>" . Back there, I was fairly doing every errand by writing separate individual tasks. For instance, when I was supposed to make changes in <em>sshd_config</em> file, I used an approach to find the intended lines using "regex" and replace each one of them individually with the new required configurations. Similar was the case while writing iptables rule through ansible playbook on a remote machine.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>But these individual execution of co-related tasks was making the whole ansible implementation/deployment process extremely time-consuming and the ansible playbook itself look unneccesarily lengthy and complex. Thus, the real idea of writing these playbooks to automate stuffs in a faster and easier manner, proved to be pretty much worthless in my case.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, here I am taking over <a href="https://kushaldas.in">kushal'</a>s advice of improving these ansible playbooks to achieve simplicity and better optimized execution time. The whole idea is to compile up these co-related tasks (for example, making changes in <em>sshd_config</em> file for the purpose of SSH-hardening) in a single file and copy this file to the intended location/path/directory on the remote node/server.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Let me quickly walk you through some simple hands-on examples to make the idea more precise and understand in action. (We will be improving our existing ansible playbook only)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>So, earlier in the <a href="https://priyankasaggu119.wordpress.com/2019/08/12/a-guide-to-a-safer-ssh/">post</a>, while writing the "<strong>ssh role</strong>", our tasks looked something like this:</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for ssh
+- name: Add local public key for key-based SSH authentication
+  authorized_key:
+          user: "{{username}}"
+          state: present
+          key: "{{ lookup('file', item) }}"
+  with_fileglob: public_keys/*.pub
+- name: Harden sshd configuration
+  lineinfile:    
+          dest: /etc/ssh/sshd_config    
+          regexp: "{{item.regexp}}"    
+          line: "{{item.line}}"
+          state: present
+  with_items:
+    - regexp: "^#?PermitRootLogin"
+      line: "PermitRootLogin no"
+    - regexp: "^^#?PasswordAuthentication"
+      line: "PasswordAuthentication no"
+    - regexp: "^#?AllowAgentForwarding"
+      line: "AllowAgentForwarding no"
+    - regexp: "^#?AllowTcpForwarding"
+      line: "AllowTcpForwarding no"
+    - regexp: "^#?MaxAuthTries"
+      line: "MaxAuthTries 2"
+    - regexp: "^#?MaxSessions"
+      line: "MaxSessions 2"
+    - regexp: "^#?TCPKeepAlive"
+      line: "TCPKeepAlive no"
+    - regexp: "^#?UseDNS"
+      line: "UseDNS no"
+    - regexp: "^#?AllowAgentForwarding"
+      line: "AllowAgentForwarding no"
+- name: Restart sshd
+  systemd:
+          state: restarted    
+          daemon_reload: yes
+          name: sshd
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p> And if we observe closely at the last second task, we are altering each intended line of the <em>sshd_config</em> file in an individual fashion which is definitely not required. Rather the changes could be made at once, in a new copied file of the existing "<em>sshd_config"</em> file and thus sent to the remote node at the required location/path/directory.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>This copied sshd_file will reside in the "<strong>files/</strong>" directory of our "<strong>ssh role</strong>".</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>├── ssh
+│   ├── defaults
+│   │   └── main.yml
+│   ├── files   👈(HERE)
+│   ├── handlers
+│   │   └── main.yml
+│   ├── meta
+│   │   └── main.yml
+│   ├── README.md
+│   ├── tasks
+│   │   └── main.yml
+│   ├── templates
+│   ├── tests
+│   │   ├── inventory
+│   │   └── test.yml
+│   └── vars
+│       └── main.yml</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Copy the local <em>sshd_config</em> file to this <strong><em>files/ </em></strong>directory.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># like in my case, the ansible playbook is residing at "/etc/ansible/playbooks/"
+$ sudo cp /etc/ssh/sshd_config /etc/ansible/playbooks/ssh/files/</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>And then make the required changes in this file as specified in the last second task of our old "<strong>ssh role</strong>".</li>
+<li>Finally modify the "<strong>ssh role</strong>" by replacing the last second task with the task of <em>copying this file in the remote node at "<strong>/etc/ssh/</strong>" directory path</em> thus removing the un-neccessary recursive steps.</li>
+<li>Now, the new "<strong>ssh role</strong>" would look like the following.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for ssh
+- name: Add local public key for key-based SSH authentication
+  authorized_key:
+          user: "{{username}}"
+          state: present
+          key: "{{ lookup('file', item) }}"
+  with_fileglob: public_keys/*.pub
+- name: Copy the modified sshd_config file to remote node's /etc/ssh/ directory.
+  copy:
+    src: /etc/ansible/playbooks/ssh/files/sshd_config
+    dest: /etc/ssh/sshd_config
+    owner: root
+    group: root
+    mode: 0644
+- name: Restart sshd
+  systemd:
+          state: restarted    
+          daemon_reload: yes
+          name: sshd
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>And we are done. This will execute considerably much faster than the old ansible role and looks comparatively much simpler as well.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>Similar improvements can be made in case of "<strong>iptables role</strong>" as well. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Our old "<strong>iptables role"</strong> looked something like this:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for iptables
+- name: Install the `iptables` package
+  package:
+    name: iptables
+    state: latest
+- name: Flush existing firewall rules
+  iptables:
+    flush: true
+- name: Firewall rule - allow all loopback traffic
+  iptables:
+    action: append
+    chain: INPUT
+    in_interface: lo
+    jump: ACCEPT
+- name: Firewall rule - allow established connections
+  iptables:
+    chain: INPUT
+    ctstate: ESTABLISHED,RELATED
+    jump: ACCEPT
+- name: Firewall rule - allow port ping traffic
+  iptables:
+    chain: INPUT
+    jump: ACCEPT
+    protocol: icmp
+- name: Firewall rule - allow port 22/SSH traffic
+  iptables:
+    chain: INPUT
+    destination_port: 22
+    jump: ACCEPT
+    protocol: tcp
+- name: Firewall rule - allow port80/HTTP traffic
+  iptables:
+    chain: INPUT
+    destination_port: 80
+    jump: ACCEPT
+    protocol: tcp
+- name: Firewall rule - allow port 443/HTTPS traffic
+  iptables:
+    chain: INPUT
+    destination_port: 443
+    jump: ACCEPT
+    protocol: tcp
+- name: Firewall rule - drop any traffic without rule
+  iptables:
+    chain: INPUT
+    jump: DROP
+- name: Firewall rule - drop any traffic without rule
+  iptables:
+    chain: INPUT
+    jump: DROP
+- name: Install `netfilter-persistent` &amp;&amp; `iptables-persistent` packages
+  package:
+      name: "{{item}}"
+      state: present
+  with_items:
+     - iptables-persistent
+     - netfilter-persistent
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>In order to simplify it, Create a new file, named "<em><strong>rules.v4"</strong></em> in the "<strong><em>files/</em></strong>" directory of "<strong>iptables role</strong>" and paste the following iptables rule in there.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>*filter
+:INPUT ACCEPT [0:0]
+:FORWARD ACCEPT [0:0]
+:OUTPUT ACCEPT [151:12868]
+:sshguard - [0:0]
+-A INPUT -i lo -j ACCEPT
+-A INPUT -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT
+-A INPUT -p icmp -j ACCEPT
+-A INPUT -p tcp -m tcp --dport 22 -j ACCEPT
+-A INPUT -p tcp -m tcp --dport 80 -j ACCEPT
+-A INPUT -p tcp -m tcp --dport 443 -j ACCEPT
+-A INPUT -j DROP
+COMMIT</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>And the final step would be same as above role, ie. copying this "<strong><em>rules.v4</em></strong>" file in the "<strong><em>/etc/iptables</em></strong>" directory of the remote node.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>So, the new improved "<strong>iptables role</strong>" will now look like the following.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for iptables
+- name: Install the `iptables` package
+  package:
+    name: iptables
+    state: latest
+- name: Flush existing firewall rules
+  iptables:
+    flush: true
+- name: Inserting iptables rules in the "/etc/iptables/rules.v4" file.
+  copy:
+    src: /etc/ansible/playbooks/iptables/files/rules.v4
+    dest: /etc/iptables/rules.v4
+    owner: root
+    group: root
+    mode: 0644
+- name: Install `netfilter-persistent` &amp;&amp; `iptables-persistent` packages
+  package:
+      name: "{{item}}"
+      state: present
+  with_items:
+     - iptables-persistent
+     - netfilter-persistent
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all about this quick blogpost on how to efficiently write recursive co-related tasks in an ansible playbook.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hope it helped.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Till next time. o/</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>[<strong>Note</strong>:- I will link this article in the <a href="https://priyankasaggu119.wordpress.com/2019/08/12/a-guide-to-a-safer-ssh/">old post</a> as an update.]</p>
+<p><!-- /wp:paragraph --></p>

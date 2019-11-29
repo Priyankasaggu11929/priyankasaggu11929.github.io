@@ -1,0 +1,102 @@
+---
+layout: post
+title: A very quick guide for mutt installation!
+date: 2019-07-30 04:09:16.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Projects]
+meta:
+  timeline_notification: '1564439960'
+  _publicize_job_id: '33416267516'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/07/30/a-very-quick-guide-for-mutt-installation/"
+---
+<p><!-- wp:paragraph --></p>
+<p>July 30, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>From past several days, I am constantly hearing folks from <a href="http://foss.training">#dgplug</a>, talking about their <em><strong>email management tactics</strong></em>, using several different email clients/tools. And <a href="https://kushaldas.in">Kushal's</a> idea of keeping his inbox in a <em>zero state</em>, pulled my maximum attention.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, now, here I am taking my very first step towards the same. :D</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I am starting by changing my usual web-based email client to a<strong> command line, text-based email client, <a href="http://www.mutt.org/">Mutt</a></strong>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>And with the aim of keeping this post a little sweet one, let me quickly walk you through the installation steps.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>[<strong>Note</strong>:- These steps are in correspondance to a Ubuntu 18.04.1 LTS machine.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Install mutt with the following command.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo apt-get install mutt</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Create a <em>.muttrc</em> file in your home directory and put the following content (with appropriate alterations as per your gmail account).</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ vim ~/.muttrc
+
+//Paste the following content inside your file and make changes in the angular brackets.
+
+set realname = "&lt;first and last name&gt;"
+set from = "&lt;gmail username&gt;@gmail.com"
+set use_from = yes
+set envelope_from = yes
+
+set smtp_url = "smtps://&lt;gmail username&gt;@gmail.com@smtp.gmail.com:465/"
+set smtp_pass = "&lt;app password&gt;"
+set imap_user = "&lt;gmail username&gt;@gmail.com"
+set imap_pass = "&lt;app password&gt;"
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+set ssl_force_tls = yes
+
+# G to get mail
+bind index G imap-fetch-mail
+set editor = "vim"
+set charset = "utf-8"
+set record = ''</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>IMPORTANT</strong>:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>You might be worried about putting your gmail account password in a text-file (and obviously you should be). So, the alternative solution is to generate a new <strong>App Specific Password</strong> and put that in place of your actual gmail password in &lt;app password&gt;. It solves the issue of getting "Login Failed" errors as well, while connecting to the email IMAP server.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>You may want to check this post <a href="https://www.lifewire.com/get-a-password-to-access-gmail-by-pop-imap-2-1171882">here</a>, to better understand how to generate an app specific password in gmail.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>And now the final step is to run mutt. You will see it downloading all your emails from the inbox in terminal.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ mutt</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>I have already purged some 11,000 emails right after installing it and there is lots more still left to filter. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>And yes, I am yet to learn how to properly use mutt as well.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for this short post. o/</p>
+<p><!-- /wp:paragraph --></p>

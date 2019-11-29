@@ -1,0 +1,57 @@
+---
+layout: post
+title: A Simple Bash Script To Mass Compress and Resize Images.
+date: 2019-07-28 01:14:47.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Projects, DevOps]
+meta:
+  timeline_notification: '1564256690'
+  _publicize_job_id: '33340678975'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/07/28/a-simple-bash-script-to-mass-compress-and-resize-images/"
+---
+<p><!-- wp:paragraph --></p>
+<p>July 28, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Problem Statement</strong>:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>I wanted to compress &amp; resize the large, heavy images of my previous blog, in one go. ( and obviously without much effort)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Solution</strong>:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Some minimal Bash Script with use of "<strong><a href="https://imagemagick.org/script/convert.php">Convert</a></strong>" command, worked well for me. I founded it to be extremely useful for various other mrdia conversions as well.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>#!/bin/sh
+
+mkdir photos-Optimized;
+read -p "Convert images from which extension(eg. png):" ext1
+read -p "Convert into which extension (eg. png):" ext2
+read -p "Dimension to be optimized to, in px (eg. 100x100):" dim
+
+for photos in *.$ext1;	
+do 
+	convert -verbose "$photos" -quality 85% -resize $dim ./photos-Optimized/"$photos-Optimized.$ext2"; 
+done
+</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Thanks a lot <a href="https://kushaldas.in">Kushal Das</a> for pointing it to me :)</p>
+<p><!-- /wp:paragraph --></p>

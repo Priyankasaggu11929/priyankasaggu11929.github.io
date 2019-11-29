@@ -1,0 +1,363 @@
+---
+layout: post
+title: Automating Wordpress Installation Through Ansible !
+date: 2019-08-05 16:45:29.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Linux SysAdmin, Projects, Ansible, Wordpress, DevOps]
+meta:
+  timeline_notification: '1565003733'
+  _publicize_job_id: '33674494270'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/08/05/automating-wordpress-installation-through-ansible/"
+---
+<p><!-- wp:paragraph --></p>
+<p>August 5, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This article will cover the process of automating WordPress installation on multiple Ubuntu (Debian) nodes/servers using ansible.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I would like you to first go through my <a href="https://priyankasaggu119.wordpress.com/2019/08/03/the-ansible-progress-so-far/">previous post</a> to get a good idea of "How Ansible works" and the problems you may face while setting up a basic ansible structure. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>And then, you can definitely follow-up with the process here.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Requirements:-</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>An ansible controller machine (Basically a machine which has ansible installed on it and can SSH into remote servers/nodes).</li>
+<li>A remote-server (node) to test the ansible-playbook (the one which we will be using to install WordPress on from remote).</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>To-Do's:-</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Setup Apache2 web-server.</li>
+<li>Install dependencies for WordPress:
+<ul>
+<li>mariadb-server</li>
+<li>php</li>
+<li>libapache2-mod-php</li>
+<li>php-mysql</li>
+<li>python-mysqldb </li>
+</ul>
+</li>
+<li>Install WordPress and configure it.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>Let's get started:-</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Earlier, we were having some very simple ansible-playbooks that were supposed to do only a certain specific task like pinging a remote server, setting up nginx or apache etc.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p>As you start adding more and more tasks to plays, your&nbsp;<strong>Playbooks</strong>&nbsp;can become increasingly difficult to handle. For that reason, the recommended approach in those situations (actually, in all cases) is to use a directory structure that contains the directives for each group of tasks in distinct files. This approach allows us to re-use these configuration files in separate projects further down the road. Each of these files define what is called in the&nbsp;<strong>Ansible ecosystem</strong>&nbsp;a role.</p>
+<p><cite><a href="https://www.tecmint.com/author/gacanepa/">Gabriel Cánepa</a>&nbsp;</cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:paragraph --></p>
+<p>Therefore, following the similar approach, we will be creating 3 roles for our playbook.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li><strong>apache2-install</strong> [For installing apache2 on the remote node. Though I could have merged it in the wp-dependencies but I will use it later, to explain the ansible role directories ]</li>
+<li><strong>wp-dependencies</strong> [For installing and configuring the required packages and setting up database for WordPress]</li>
+<li><strong>wp-install-config</strong> [For actually installing &amp; configuring WordPress]</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>For creating an ansible-directory, choose any location on your ansible controller machine (I am using /etc/ansible/playbooks on my local Ubuntu 18.04.1 host machine).</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ cd /etc/ansible/playbooks
+$ sudo ansible-galaxy init apache2-install
+$ sudo ansible-galaxy init wp-dependencies
+$ sudo ansible-galaxy init wp-install-config</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Create the main ansible-playbook "playbook.yml" (you can name it anything though) and put all the three roles in there. We will define their structure later in the post. </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+- hosts: webservers
+  become: true
+  become_method: sudo
+  roles:
+        - apache2-install
+        - wp-dependencies
+        - wp-install-config
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>And if you try to list (ls) any of these newly created directories, it will have a structure like this:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>├── defaults
+│   └── main.yml
+├── files
+├── handlers
+│   └── main.yml
+├── meta
+│   └── main.yml
+├── README.md
+├── tasks         
+│   └── main.yml
+├── templates
+├── tests
+│   ├── inventory
+│   └── test.yml
+└── vars
+    └── main.yml
+</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Let's try to break a traditional ansible-playbook and re-write it again according to this direcetory structure, so that, you can get a good idea of how things work in ansible roles.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>## Example: apache2.yml
+
+---
+- hosts: webservers
+  become: true
+  become_method: sudo
+  vars:
+    max_clients: 200
+  tasks:
+    - name: install apache2
+      apt: name=apache2 update_cache=yes state=latest
+
+    - name: enabled mod_rewrite
+      apache2_module: name=rewrite state=present
+      notify:
+        - restart apache2
+
+  handlers:
+    - name: restart apache2
+      service: name=apache2 state=restarted
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>The above playbook "apache2.yml" is a single play. We will divide the several elements of this play into the directory structure of "apache2-install" ansible role.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Right from the top, <em>the first 3 lines <strong>" hosts: webserver"</strong>, <strong>"become: true"</strong> and "<strong>become_method: sudo</strong>"</em> will go in the main YAML file i.e. <strong>playbook.yml </strong>(we have already done that above).</li>
+<li>The next sections <em>"<strong>vars: max_clients: 200</strong>"</em> will go in "<em><strong>apache2-install/vars/main.yml"</strong></em>.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# vars file for apache2-install
+{
+        "vars":
+       { "max_clients":200 }
+}
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now, comes the most important <strong>"tasks"</strong> section and that will go inside "<strong>/apache2-install/tasks/main.yml</strong>".</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for apache2-install
+- name: install apache2
+  apt: name=apache2 update_cache=yes state=latest
+
+- name: enabled mod_rewrite
+  apache2_module: name=rewrite state=present
+  notify:
+    - restart apache2
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>And finally, we have the "<strong><em>handlers</em></strong>" section. That will go in "<strong><em>apache2-install/handlers/main.yml</em></strong>".</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# handlers file for apache2-install
+- name: restart apache2
+  service: name=apache2 state=restarted
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>And Tada, we have refactored our <strong>apache2.yml</strong> playbook into <strong>apache2-install</strong> ansible role.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4><strong>Moving on...</strong></h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, that we have setup one role, let's quickly do the work for other 2 more significant roles as well.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>wp-dependencies</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Copy the tasks(below) in "<strong>wp-dependencies/tasks/main.yml</strong>". It will first update all the packages, install all the required dependencies, ensure whether mariadb is running or not. Besides, it will copy ~/.my.cnf to remote servers/nodes. Finally, it will create a mariadb database and setup the username and password for the same.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for wp-dependencies
+- name: Update packages (this is equivalent to apt update)
+  apt: name=* state=latest
+
+- name: Install dependencies for WordPress
+  apt: name={{ item }} update_cache=yes state=present
+  with_items:
+        - mariadb-server
+        - php
+        - libapache2-mod-php
+        - php-mysql
+        - python-mysqldb
+
+- name: Ensure MariaDB is running (and enable it at boot)
+  service: name=mariadb state=started enabled=yes
+
+- name: Copy ~/.my.cnf to nodes
+  copy: src=~/.my.cnf dest=/root/.my.cnf
+
+- name: Create MariaDB database
+  mysql_db: name={{ wp_mysql_db }} state=present
+
+- name: Create MariaDB username and password
+  mysql_user:
+        login_user=root
+        login_password=&lt;YourMariaDBRootPasswordHere&gt;
+        name={{ wp_mysql_user }}
+        password={{ wp_mysql_password }}
+        priv=*.*:ALL
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>&lt;Note&gt;</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p> 1. Change the &lt;YourMariaDBRootPasswordHere&gt; with the actual password.</p>
+<p>2. Right now, there is no available workaround that will allow you to set up the root password via&nbsp;<strong>Ansible</strong>&nbsp;in the same step where you create the administrative database account for WordPress. So, you have to manually do it through "<strong>mysql_secure_installation</strong> " and copy the root password in "<strong>~/.my.cnf</strong>" (it is advisable to keep it same on all nodes).</p>
+<p><cite><a href="https://www.tecmint.com/author/gacanepa/">Gabriel Cánepa</a></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>&lt;/Note&gt;</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>For setting up the databse cerdentials, copy the content below in "<strong>wp-dependencies/defaults/main.yml</strong>". (Change the values for the keys accordingly.)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# defaults file for wp-dependencies
+  wp_mysql_db: MyWordPress
+  wp_mysql_user: WordPressUser
+  wp_mysql_password: uvwxyz
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>wp-install-config</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Insert the following content in "<strong>wp-install-config/tasks/main.yml</strong>". This will create a directory to download WordPress, fetch the URL for the latest downloadable Wordpress tar file, extract it and finally send the config files (that we are going to download in a minute) to the destination "<strong>/var/www/html/</strong>" in the remote nodes where we have setup apache2 web server.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for wp-install-config
+- name: Create directory to download WordPress
+  command: mkdir -p /opt/source/wordpress
+
+- name: Download WordPress
+  get_url: url=https://www.wordpress.org/latest.tar.gz dest=/opt/source/wordpress/wordpress.tar.gz validate_certs=no
+
+- name: Extract WordPress
+  command: "tar xzf /opt/source/wordpress/wordpress.tar.gz -C /var/www/html --strip-components 1"
+
+- name: Send config file
+  copy: src=~/wp-config-sample.php dest=/var/www/html/wp-config.php mode=0644
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Download and copy <a href="https://pastebin.com/LX77e2W8">wp-config-sample.php</a> and save this to the ansible controller machine in the <strong>home directory of the superuser (~/wp-config-sample.php)</strong>. Also, make sure that values of the variables <strong>DB_NAME,&nbsp;DB_USER, and&nbsp;DB_PASSWORD</strong> are same as in&nbsp;<strong>"wp-dependencies/defaults/main.yml</strong>".</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, we are left with some last few steps. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Open "<strong>/etc/ansible/hosts</strong>" in an editor of your choice and scroll down to bottom. Create a group <strong>[webservers]</strong> and put the IP addresses of the remote-nodes under it. (I will be putting only one for now. You can put any number of IPs after you make sure that the playbook works fine for your mentioned node.)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>[webservers]
+35.224.209.3</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>And yes, we are done will all the preppings. It's the final show-down time. :D</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Run the ansible playbook now.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># Syntax: ansible-playbook &lt;path to your ansible playbook&gt;
+
+$ ansible-playbook /etc/ansible/playbooks/playbook.yml</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>And if you see an output like, sit back and rest for a minute. This is what we want :D</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>## Truncated output from above.
+
+35.224.209.3               : ok=14   changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0  </code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now, open your browser and point the URL to <a href="http://35.224.209.3">http://35.224.209.3</a> and it will land you to the wp-admin page. </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:image {"id":564,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-08-05-16-38-01.png" alt="" class="wp-image-564" /><br />
+<figcaption>WordPress InstallationPage</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Configure it accordingly and we are all done. 🎉🎉🎉🎉</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for this post. o/</p>
+<p><!-- /wp:paragraph --></p>

@@ -1,0 +1,524 @@
+---
+layout: post
+title: A guide to a "safer" SSH!
+date: 2019-08-12 18:19:22.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Linux SysAdmin, Projects, Ansible, SSH, DevOps, Security]
+meta:
+  _publicize_job_id: '33985292546'
+  timeline_notification: '1565614166'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/08/12/a-guide-to-a-safer-ssh/"
+---
+<p><!-- wp:paragraph --></p>
+<p>August 11, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now after working on remote VPS for a good decent time, I have understood that it's not difficult to connect to remote nodes via SSH. Rather the concern is to <strong>connect to these remote nodes in a more safe and secure manner</strong>. Therefore, when this thought is taken into consideration, we need to work on certain things to ensure the security aspect.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, this post will walk you through a demonstrated list of almost all the major steps that can be taken in this regard.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>And now that when I am trying to learn writing "<em>infrastructure as code</em>" using ansible. I will try implementing this task of <strong><em>efficient configuration management, SSH-hardening &amp; SSH-security </em></strong>via writing ansible roles again.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>I recommend you to go and checkout some of the previous posts on <a href="https://priyankasaggu119.wordpress.com/2019/08/03/the-ansible-progress-so-far/">ansible</a> and <a rel="noreferrer noopener" aria-label="iptables (opens in a new tab)" href="https://priyankasaggu119.wordpress.com/2019/08/09/lets-get-started-with-iptables/" target="_blank">iptables</a>. That way, it would be quite easy for you to understand the norms used later in this post.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Taking this basic foundation further and not wasting a second more now, let's quickly start writing our ansible code for the today's use-case.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>PREREQUISITES:</strong></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>A newly created server/VM. (I will be writing it for Ubuntu or Debian based machines, but you can use the same code for other distros as well, with little alterations)</li>
+<li>An ansible controller machine (i.e. a machine with ansible installed on it). It could be your local machine or a remote server again which can connect to other nodes via SSH.</li>
+<li>And lastly, an ansible "hosts" file made ready with the IP addresses of your required remote servers.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>TODO's:</strong></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Create a non-root user with sudo access.</li>
+<li>Upgrade all the installed packages to ensure that they are in their latest state.</li>
+<li>Install few more basic required packages to make the initial configuration management easier.</li>
+<li>Copy the local SSH key to the remote node to enable passwordless logins.</li>
+<li>Perform SSH-hardening via altering <strong>sshd_config</strong> file in accordance with some basic security measures.</li>
+<li>Create some basic required <strong>iptables rules</strong> to improve and ensure security.</li>
+<li>Setup <strong>fail2ban</strong> to prevent SSH brute-force connection attacks.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>IMPLEMENTATION:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The very first step is to create an ansible directory in our ansible-controller machine. This will contain the main provisioning ansible playbook, <strong>"<em>playbook.yml</em>"</strong> file and, all the <strong><em>other required ansible roles</em></strong>. (<em>you can make this directory anywhere in your machine. I am creating one for me in "\etc\ansible\" directory path</em>). Run the following commands for the same:</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo mkdir playbooks
+$ cd playbooks
+$ sudo touch playbook.yml
+$ sudo ansible-galaxy init users
+$ sudo ansible-galaxy init packages
+$ sudo ansible-galaxy init ssh
+$ sudo ansible-galaxy init iptables
+$ sudo ansible-galaxy init fail2ban</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>And this will give you a directory tree structure like one shown below ( and all the nested roles will be similar to ones like "users").</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>.
+├── playbook.yml
+├── users
+│   ├── defaults
+│   │   └── main.yml
+│   ├── files
+│   ├── handlers
+│   │   └── main.yml
+│   ├── meta
+│   │   └── main.yml
+│   ├── README.md
+│   ├── tasks
+│   │   └── main.yml
+│   ├── templates
+│   ├── tests
+│   │   ├── inventory
+│   │   └── test.yml
+│   └── vars
+│       └── main.yml
+├── packages
+├── ssh
+├── iptables
+└──fail2ban
+</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The next step is to write our main provisioning ansible playbook, "<strong><em>playbook.yml</em></strong>". This will define the flow of commands to be run later on, in order to achieve the purpose. Meanwhile, we will create some variables as well here, to facilitate the latter tasks of multiple ansible roles like username, password etc.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+- name: Provisioning a new SSH-hardened and more secure server.
+  hosts: sshnodes
+  become_user: root
+  become: true
+  become_method: sudo
+  vars:
+          username: testuser
+          # For password, we are required to pass a password hash/digest. 
+          # So, I will be using python's hashlib module to create secure hash(or message digest) for our password.
+          # passwordhash = python -c 'import hashlib; print(hashlib.pbkdf2_hmac('sha256', b'examplepassword', b'examplesalt', 100000))'
+          password: passwordhash
+          publickey: ~/.ssh/id_rsa.pub
+  roles:
+          - users
+          - packages
+          - ssh
+          - iptables
+          - fail2ban
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Here, we have our driving file ready. So, let's move further writing the actual hardening elements   now.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Role: users</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Change directory (cd) to "/users/tasks/main.yml" and write the basic tasks to check for the pre-requisites of creating a non-root sudo user. </li>
+<li>A new thing, we will see here is "<strong>lineinfile</strong>" ansible module which is used to alter some specific lines in a file (file given through "<em>dest</em>") using regexp (regular expressions). </li>
+<li>The tasks written in this role will perform the following jobs sequentially:
+<ul>
+<li>Check/Ensure whether "wheel" group is present or not. If not, it will create one.</li>
+<li>Check whether the "wheel" group has sudo privileges or not. If not, check for the given regexp "<em>^%wheel</em>" (line starting with wheel) in the "/etc/sudoers" file and replace it with "<em>%wheel ALL=(ALL:ALL) ALL</em>".</li>
+<li>Next comes installing the "sudo" package if it is not there.</li>
+<li>And finally, create the non-root sudo user account as per the variables specified in "playbook.yml".</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for users
+- name: Ensure wheel group is present
+  group:
+    name: wheel
+    state: present
+- name: Ensure wheel group has sudo privileges
+  lineinfile:
+    dest: /etc/sudoers
+    state: present
+    regexp: "^%wheel"
+    line: "%wheel ALL=(ALL:ALL) ALL"
+    validate: "/usr/sbin/visudo -cf %s"
+- name: Install the `sudo` package
+  package:
+    name: sudo
+    state: latest
+- name: Create the non-root user account
+  user:
+    name: "{{username}}"
+    password: "{{password}}"
+    shell: /bin/bash
+    update_password: on_create
+    groups: wheel
+    append: yes
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Role: packages</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>This role is a pretty simple one and aims to keep the required packages intact and to ensure automatic upgrades of these packages. </li>
+<li>Change directory to "/packages/tasks/main.yml" and create tasks to do the following:
+<ul>
+<li>Upgrade all the already installed/available packages in the remote node.</li>
+<li>Install some extra packages which, in our case, are vim, htop and net-utils.</li>
+<li>Finally, install the "<a href="https://wiki.debian.org/UnattendedUpgrades">Unattended-upgrades</a>" package. </li>
+<li>And copy the corresponding <em>"<strong>20-auto-upgrdaes.j2</strong>"</em> configuration file <strong><em>from the current role's template path to remote nodes "/etc/apt/apt.conf.d/20auto-upgrades" file.</em></strong> As we are trying to copy the data into a root privileged directory, we need to change the owner, group and mode as well.</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for packages
+- name: Upgrading all packages (Ubuntu/Debian)
+  apt:
+    upgrade: dist
+- name: Install a few more packages
+  package:
+    name: "{{item}}"
+    state: present
+  with_items:
+   - vim
+   - htop
+   - net-tools
+- name: Install the `unattended-upgrades` package
+  package:
+    name: unattended-upgrades
+    state: present
+- name: Copy the `20auto-upgrades` configuration file
+  copy:
+    src: /etc/ansible/playbooks/packages/templates/20-auto-upgrdaes.j2
+    dest: /etc/apt/apt.conf.d/20auto-upgrades
+    owner: root
+    group: root
+    mode: 0644
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Copy the following configuration in <em>"<strong>packages/templates/20auto-upgrdades.j2</strong>"</em> file to enable automatic security upgrades meanwhile ensuring that the server won't automatically reboot when these updates requires for it.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>APT::Periodic::Update-Package-Lists "1";
+APT::Periodic::Unattended-Upgrade "1";</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Role: ssh</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>This role aims to achieve passwordless remote logins via passing local SSH-key to remote node's newly created non-root sudo user account. </li>
+<li>Change directory to "/ssh/tasks/main.yml" and create tasks to do the following:
+<ul>
+<li>Check for the local machines SSH public key at the location provided in the "<em>vars</em>" section of "playbook.yml" and copy it to remote node at ".ssh/authorized_keys" file.</li>
+<li>Perform SSH-hardening again using ansible's "<em>lineinfile</em>" module to alter the default ansible configuration to a more secure and restricted one.</li>
+<li>finally, in the last task, restart the sshd daemon service to reflect the configuration changes.</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for ssh
+- name: Add local public key for key-based SSH authentication
+  authorized_key:
+          user: "{{username}}"
+          state: present
+          key: "{{ lookup('file', item) }}"
+  with_fileglob: public_keys/*.pub
+- name: Harden sshd configuration
+  lineinfile:    
+          dest: /etc/ssh/sshd_config    
+          regexp: "{{item.regexp}}"    
+          line: "{{item.line}}"
+          state: present
+  with_items:
+    - regexp: "^#?PermitRootLogin"
+      line: "PermitRootLogin no"
+    - regexp: "^^#?PasswordAuthentication"
+      line: "PasswordAuthentication no"
+    - regexp: "^#?AllowAgentForwarding"
+      line: "AllowAgentForwarding no"
+    - regexp: "^#?AllowTcpForwarding"
+      line: "AllowTcpForwarding no"
+    - regexp: "^#?MaxAuthTries"
+      line: "MaxAuthTries 2"
+    - regexp: "^#?MaxSessions"
+      line: "MaxSessions 2"
+    - regexp: "^#?TCPKeepAlive"
+      line: "TCPKeepAlive no"
+    - regexp: "^#?UseDNS"
+      line: "UseDNS no"
+    - regexp: "^#?AllowAgentForwarding"
+      line: "AllowAgentForwarding no"
+- name: Restart sshd
+  systemd:
+          state: restarted    
+          daemon_reload: yes
+          name: sshd
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Role: iptables</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>If you are done with reading <a href="https://priyankasaggu119.wordpress.com/2019/08/09/lets-get-started-with-iptables/">this previous article on iptables</a>, you all how know what iptables are meant for. So, I am skipping directly to the tasks for this ansible role here.</li>
+<li>Change directory to "/ssh/tasks/main.yml" and create tasks to do the following:
+<ul>
+<li>Check for "<strong>iptables</strong>" package in the remote node. If it's not present, install it.</li>
+<li>Flush all the already written iptables firewall rules to start from scratch. </li>
+<li>Create a firewall rule to allow all loopback traffic that might exist between various applications and services on the remote node.</li>
+<li>Create another firewall rule to allow established connections like already establish SSH connections for both outgoing and incoming packet transfer.</li>
+<li>The following next 4 firewall rules are meant to allow or open the frequently required ports i.e "ping, 22/ssh, 80/http &amp; 443/https".</li>
+<li>The next task appends another rule to "drop" any other traffic (packets) which don't match the above defined firewall rules.</li>
+<li>And finally in order to retain these ephemeral rules, install "netfilter-persistent" and "iptables-persistent" packages.</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for iptables
+- name: Install the `iptables` package
+  package:
+    name: iptables
+    state: latest
+- name: Flush existing firewall rules
+  iptables:
+    flush: true
+- name: Firewall rule - allow all loopback traffic
+  iptables:
+    action: append
+    chain: INPUT
+    in_interface: lo
+    jump: ACCEPT
+- name: Firewall rule - allow established connections
+  iptables:
+    chain: INPUT
+    ctstate: ESTABLISHED,RELATED
+    jump: ACCEPT
+- name: Firewall rule - allow port ping traffic
+  iptables:
+    chain: INPUT
+    jump: ACCEPT
+    protocol: icmp
+- name: Firewall rule - allow port 22/SSH traffic
+  iptables:
+    chain: INPUT
+    destination_port: 22
+    jump: ACCEPT
+    protocol: tcp
+- name: Firewall rule - allow port80/HTTP traffic
+  iptables:
+    chain: INPUT
+    destination_port: 80
+    jump: ACCEPT
+    protocol: tcp
+- name: Firewall rule - allow port 443/HTTPS traffic
+  iptables:
+    chain: INPUT
+    destination_port: 443
+    jump: ACCEPT
+    protocol: tcp
+- name: Firewall rule - drop any traffic without rule
+  iptables:
+    chain: INPUT
+    jump: DROP
+- name: Firewall rule - drop any traffic without rule
+  iptables:
+    chain: INPUT
+    jump: DROP
+- name: Install `netfilter-persistent` &amp;&amp; `iptables-persistent` packages
+  package:
+      name: "{{item}}"
+      state: present
+  with_items:
+     - iptables-persistent
+     - netfilter-persistent
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>Role: fail2ban</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>This role again is a simple one to help prevent brute force attacks on the remote node.</li>
+<li>Copy the following custom fail2ban configurations in "<strong><em>/fail2ban/templates/jail.local.j2</em></strong>" file. This configuration instructs to limit the maximum tries to establish a SSH connection to 3. Also, it bans the trouble-making node's IP address for an hour.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>[DEFAULT]
+# Ban hosts for one hour:
+bantime = 3600
+
+# Override /etc/fail2ban/jail.d/00-firewalld.conf:
+banaction = iptables-multiport
+
+[sshd]
+enabled = true
+maxretry = 3</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Change directory to "/fail2ban/tasks/main.yml" and create tasks to do the following:
+<ul>
+<li>Install "<strong>fail2ban"</strong> package.</li>
+<li>Overide the basic fail2ban configurations by the custom "<strong>jail.local.j2</strong>" file present in the <strong><em>templates</em></strong> section of the current role directory. Again, we need to change the owner, group and mode as well because of the path being a privileged one.</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for fail2ban
+- name: Install the `fail2ban` package
+  package:
+    name: fail2ban
+    state: latest
+- name: Override some basic fail2ban configurations
+  copy:
+    src: /etc/ansible/playbooks/fail2ban/templates/jail.local.j2
+    dest: /etc/fail2ban/jail.local
+    owner: root
+    group: root
+    mode: 0644
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, finally we are done writing our all 5 ansible roles required to establish and ensure a secure SSH connection, the last thing is to try testing if all the plays work fine way or not.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ ansible-playbook playbook.yml</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>and if you get an output like one shown below. You are good to go.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code> ____________
+&lt; PLAY RECAP &gt;
+ ------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+23.251.151.76              : ok=24   changed=9    unreachable=0    failed=0    skipped=1    rescued=0    ignored=0   </code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Cheers, We have reached our goal for this article.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>But I have something more before I end.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The above ansible playbook which we have written for securing the SSH remote connection is undoubtedly serving our purpose to a large extend. But nothing can be made perfect in just one go. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It is always recommended to keep an eye on the system's processes and services to get a deeper insight of what things are working properly and what other things requires more attention from our end. And for this purpose, an auditing tool sounds handy.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, our last step would be to quickly setup an auditing tool for us, here, the <a href="https://cisofy.com/lynis/">Lynis</a>. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p><strong>Lynis</strong> is a battle-tested security tool for systems running Linux, macOS, or Unix-based operating system. It performs an extensive health scan of your systems to support system hardening and compliance testing. The project is open source software with the&nbsp;<abbr title="GNU Public License">GPL</abbr>&nbsp;license and available since 2007.</p>
+<p><cite><a href="https://cisofy.com/lynis/">https://cisofy.com/lynis/</a></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>SSH into our newly deployed VM and run the following commands to install lynis from the official git repository.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo apt-get install git 
+$ git clone https://github.com/CISOfy/lynis
+$ sudo chown -R 0:0 lynis
+$ cd lynis</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>And finally run an audit with the following commands.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ su -
+# ./lynis audit system</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>And after a long dedicated scan, it will give you a detailed report which includes measures like Hardening index, Tests performed etc.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":735,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-08-12-18-04-29.png" alt="Lynis_report" class="wp-image-735" /><br />
+<figcaption>Lynis Audit report for a test VM hardened using our above ansible-playbook.</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>As we see, the Lynis scan on our newly deployed VM (hardened using the above playbook) has a <strong>Hardening index of 74</strong> which is highly appreciable for our work.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Along with this report, it will also output warnings and  suggestions that can be used to improve the results to higher extents. You can check the entire Lynis scan log at "/var/log/lynis.log".</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>And bam! 🙌 This is the end of this article. :D</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>[UPDATE:</strong> I have improved some part of the above playbook for optimized execution and simpler look. You can check the updated post <a href="https://priyankasaggu119.wordpress.com/2019/08/19/the-simplified-playbook/">here.</a> <strong>]</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>REFERENCES:</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a href="https://blog.ssdnodes.com/blog/secure-ansible-playbook/">Ansible security playbook for your VPS (part 1)</a></li>
+<li><a href="https://blog.ssdnodes.com/blog/secure-ansible-playbook-2/">Ansible security playbook for your VPS (part 2)</a></li>
+<li><a href="https://blog.ssdnodes.com/blog/tutorial-vps-security-audits-using-lynis/">Tutorial: VPS Security Audits Using Lynis</a></li>
+<li><a href="https://blog.ssdnodes.com/blog/ansible-tutorial-getting-started/">Getting started with Ansible for configuration management (Tutorial)</a></li>
+<li><a href="https://github.com/geerlingguy/ansible-role-security">geerlingguy/<strong>ansible-role-security</strong></a></li>
+<li><a href="https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html">Top 20 OpenSSH Server Best Security Practices</a></li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>

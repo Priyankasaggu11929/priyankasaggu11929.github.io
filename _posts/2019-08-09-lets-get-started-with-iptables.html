@@ -1,0 +1,379 @@
+---
+layout: post
+title: Let's get started with iptables!
+date: 2019-08-09 09:17:24.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Linux SysAdmin, Projects, Security, iptables]
+meta:
+  _publicize_job_id: '33841141370'
+  timeline_notification: '1565322449'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/08/09/lets-get-started-with-iptables/"
+---
+<p><!-- wp:paragraph --></p>
+<p>August 8, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>[ After procastinating to write for a whole long day due to a number of xyz reasons, here I am finally writing about what I did in past 2 days. ]</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4><strong><em>It's about iptables!</em></strong></h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Whatever we do on any network, it includes exchange of huge number of incoming and outgoing network packets. Now, it's not necessarily bound that whatever is coming to our end (our host/ server/machine), has to be accepted. Same goes for the outgoing traffic as well (like not everything has to be transferred outside). And there is another thing called forwarding which means, there is some traffic created from some network node (suppose A) and it is intended for some another network node (suppose B). Between them, our node is acting as a forwarding node i.e it will direct/forward the incoming traffic from node A to node B (for instance, routers are meant for forwarding packets or routing). And yes, this forwarding process also requires some levels of restrictions.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><em>Thus, there has to be something to monitor &amp; regulate this network activity.</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>And <strong><a href="https://en.wikipedia.org/wiki/Firewall_(computing)">Firewall</a></strong> is that component which ensures that this incoming, outgoing, and forwarding of network packets is happening according to a certain defined set of rules.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The linux distributions are shipped with a few different firewall tools, that could be used for the above purpose. One among them (that we are gonna discuss here) is <em><strong>iptables firewall</strong></em>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p><strong>Iptables</strong> is a standard firewall included in most Linux distributions by default (a modern variant called nftables will begin to replace it). It is actually a front end to the kernel-level netfilter hooks that can manipulate the Linux network stack. It works by matching each packet that crosses the networking interface against a set of rules to decide what to do.</p>
+<p><cite><a href="https://www.digitalocean.com/community/users/jellingwood">Justin Ellingwood</a></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now that we have a good introduction to "<em>what Firewall is and why it is required"</em>. Also, we know that <strong><em>iptables</em></strong> can be used to fulfil the requirement. Let's quickly get introduced with the basic terminologies used in <em>iptables</em> as well.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong><span style="text-decoration:underline;">Rules</span></strong>: These are certain validations against which the network packets are compared, so that, they can be marked whether to accept or drop or queue or log or something else. The comparision can be done on many things like the packet protocol type, the source or destination address or port, the interface that is being used, its relation to previous packets, etc. (<strong><em>Don't worry if it sounds complicated right now, we will see all these later in the post with simple examples.</em></strong> :) )</li>
+<li><strong><span style="text-decoration:underline;">Target</span></strong>: If the network traffic is validated (matched) against a rule, the follow up action is known as <em>Target</em>. The target could be accepting, dropping, or moving the packet to a different chain, or logging the validation, etc.</li>
+<li><strong><span style="text-decoration:underline;">Chains</span>:</strong> These are simply a sequential set of rules (that we have talked above). A packet is checked sequentially along this chain of rules, and if it matches with a certain rule, the corresponding action is performed. No further comparision of the packet will be there, with rest of the rules left. A user can create these <em>chain(s) of rules</em> as per the requirement. By default, there are 5 chains available ( if you have read the introduction carefully, then you can easily imagine about what the rules defined in the first three chains will do. :) )
+<ol>
+<li>INPUT</li>
+<li>OUTPUT</li>
+<li>FORWARD</li>
+<li>PREROUTING (This chain include rules for modifying the packets as they arrive.)</li>
+<li>POSTROUTING (This chain include rules for modifying packets as they are leaving.)</li>
+</ol>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p>Each chain can contain zero or more rules, and has a default&nbsp;<strong>policy</strong>. The policy determines what happens when a packet drops through all of the rules in the chain and does not match any rule. You can either drop the packet or accept the packet if no rules match.</p>
+<p><cite><a href="https://www.digitalocean.com/community/users/jellingwood">Justin Ellingwood</a></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong><span style="text-decoration:underline;">Tables</span></strong>: And moving along the hierarchy, the set of chains is known as a <em>Table.</em> There could be five possible tables:
+<ol>
+<li>filter (the default table for packet filtering)</li>
+<li>nat (meant for Network Address Translation(NAT))</li>
+<li>mangle (associated with specialised packet alteration)</li>
+<li>raw (configures exemptions from connection tracking)</li>
+<li>security (associated with <a href="https://en.wikipedia.org/wiki/Mandatory_access_control">Mandatory Access Control</a>)</li>
+</ol>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>And here, I end the boring (though necessary :) ) theoretical part. Let's have a hands-on now on  writing some basic iptables rules.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>REQUIREMENT:</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>A separate, non-root superuser account i.e a user with sudo privileges. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>[<strong>NOTE</strong>: For most part below, we will be working on the "<strong>INPUT</strong>" chain inside the default "<strong>filter</strong>" table. You can always try to write new rules for other chains in different tables as you feel a bit confident about your concepts. ]</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Launch a new terminal. (I am using a new VM, so it will be all from scratch.)</li>
+<li>Run the following command to confirm if "<strong>iptables</strong>" is installed in your system by default or not. If it gives you a number (something like shown), then you are good to go.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo iptables --version
+//OUTPUT
+iptables v1.6.1</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>In case, if it throws an error of "command not found", install it using:</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo apt-get install iptables</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now, that we have our setup ready. Let's write our first command to see what are the default chains available to us in "filter" table.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo iptables -L
+
+// If you want to see what chains are there in other tables, use the general syntax
+// Syntax: sudo iptables -t &lt;table_name&gt; -L
+//for example:
+$ sudo iptables -t nat -L</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:image {"id":624,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-08-09-06-29-01-e1565314520100.png" alt="list iptables" class="wp-image-624" /><br />
+<figcaption>output of "sudo iptables -L"</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>As you see, we have 3 default chains, "<strong>INPUT, FORWARD, and OUTPUT</strong>" with zero rules by default. The default policy (I'll be discussing in a second about this) is <strong>ACCEPT</strong> for all three of the above chains. And right below these three chains, we have headers to indicate various components of the rules.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p>Each chain can contain zero or more rules, and has a default&nbsp;<strong>policy</strong>. The policy determines what happens when a packet drops through all of the rules in the chain and does not match any rule. You can either drop the packet or accept the packet if no rules match.</p>
+<p><cite><a href="https://www.digitalocean.com/community/users/jellingwood">Justin Ellingwood</a></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>If you want to change the default policy of these chains, it can be done as following ( ⚠️ I am changing it to DROP to show you an example, but it is not recommended to change the default policy to DROP before adding any specific rules to ACCEPT packets. ⚠️)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>//syntax: sudo iptables -P &lt;chain_name&gt; Policy
+//Or, sudo iptables --policy &lt;chain_name&gt; Policy
+
+$ sudo iptables -P INPUT DROP</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>And if by mistake you have ran the above command before adding any rules, or anyway in any case, you want to flush/dump all your existing rules (if you have any) at once. Use the command:</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo iptables -F</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>let's write/append our very basic first rule in the INPUT chain of the "filter" table. This rule will block all connections from a specific IP address 10.0.0.1.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>// syntax: sudo iptables -t &lt;table_name&gt; -A &lt;chain_name&gt; [parameters]
+
+$ sudo iptables -t filter -A INPUT -s 10.0.0.1 -j DROP
+
+// As filter is a default table, we can re-write it as
+$ sudo iptables -A INPUT -s 10.0.0.1 DROP</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>-t</strong>" flag is used to determine the name of the table in while the rule is being written.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>"-A</strong>" flag (or it can be "<strong>--append</strong>" as well)  determines the chain in which the rule will be appended (or added at the end).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>-s</strong>" flag is used to match with the source address of the packet.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>-j</strong>" flag specifies the target of matching packets. So, here the packets that match the preceding criteria should be accepted and allowed through.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The next rule will accept all the network packets coming from a range of IP address "10.0.0.0" to "10.0.0.255". ("/24" means a subnet mask of 255.255.255.0)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>// The "slash" or "/" notations or the netmask specifies the range of the IP addresses.
+$ sudo iptables -A INPUT -s 10.0.0.0/24 ACCEPT</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Similarly, the next rule will block all the network packets destined for the IP address range "23.220.0.0" to "23.220.255.255" (Don't worry, these are just random IPs).</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo iptables -A INPUT -d 23.220.0.0/16</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>-d</strong>" flag is&nbsp;to match with the destination address of the packet. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Let's move a little forward and try to write rules for specific ports. The next rule will block all the SSH conncetions coming from 192.168.192.21. (Assuming SSH is at the default port 22)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo iptables -A INPUT -p tcp --dport 22 -s 192.168.192.21 -j DROP</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>-p</strong>" flag tells about which protocol is used. Here we have defined the rule for TCP. If it was for some other protocol like udp, icmp etc., it would have been like "<strong>-p udp</strong>" or "<strong>-p icmp</strong>".</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>--dport</strong>" determines the destination port number. As here, we are blocking the packet destined for port 22 on our machine. So, port 22 is a destination port for the incoming packet. (The just opposite flag will be "<strong>--sport</strong>" to determine the source port number.)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The next iptables rule will block SSH connections from any IP address. ( ⚠️ Don't run it though unless you have a specific ACCEPT rule defined for your particular address which you use to join this intended IP address, or you yourself would be locked outside. ⚠️)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo iptables -A INPUT -p tcp --dport ssh -j DROP</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>We can delete the already defined rules as well. The following command will delete the above command if you mistakenly ran that. :)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo iptables -D INPUT -p tcp --dport ssh -j DROP
+
+//If you know the index of the rule in the chain, you can delete the rule by the index number.
+//suppose the index of the above rule(at what index, the above rule is in sequence of rules in the chain) is 5.
+//syntax: sudo iptables -t &lt;table_name&gt; -D &lt;chain_name&gt; &lt;index_number&gt;
+$ sudo iptables -D INPUT 5</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>-D</strong>" (or "<strong>--delete</strong>") flag determines which rule is to be deleted.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p>Another thing to keep in mind is that the order of the rules in each chain&nbsp;<em>matter</em>. A packet must not come across a more general rule that it matches if it is meant to match a more specific rule. Because of this, rules near the top of a chain should have a higher level of specificity than rules at the bottom. You should match specific cases first, and then provide more general rules to match broader patterns. If a packet falls through the entire chain (doesn't match any rules), it will hit the&nbsp;<em>most</em>&nbsp;general rule, the default policy.</p>
+<p><cite><a href="https://www.digitalocean.com/community/users/jellingwood">Justin Ellingwood</a></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>So, keeping the above thought in mind, you may want to insert a rule at a particular index in the sequence. The next rule will be inserted at index 2 in the INPUT chain of filter table. (The following rule specifies to drop all the udp packets. )</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>//syntax: sudo iptables -t &lt;table_name&gt; -I &lt;chain_name&gt; &lt;index_number&gt; [parameters]
+
+$ sudo iptables -I INPUT 2 -p udp -j DROP</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>-I</strong>" (or "<strong>--insert</strong>") flag is paired with a index number (like in our case, "2" ) to determine at what particular index the rule is to be inserted in the chain.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>let's quickly see one more iptables rule to drop all packets destined for wireless (wlan0) interface.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo iptables -A INPUT -i wlan0 -j DROP</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>-i</strong>" flag matches the network packets with the specific in-interface. (The just opposite flag is "<strong>-o</strong>" for out-interface)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>We have covered some basic <em>iptables</em> rule. Before discussing a few complex iptables examples, let's quickly see how to make user-defined chains.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The following command is to add a user-defined chain in an iptables table.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>// syntax: sudo iptables -t &lt;table_name&gt; -N &lt;new_chain_name&gt;
+
+$ sudo iptables -t filter -N sampleChain</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><em>Note that these user-defined chains don't have any default policy.</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>To remove a user-defined table, use the following command.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>//syntax: sudo iptables -t &lt;table_name&gt; -X &lt;user-defined_chain_to_be_deleted&gt;
+$ sudo iptables -t filter -X sampleChain</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Like "<strong>-L</strong>" is used to list all the chains and rules in a table, we can output them in a format which reflects the commands required/used to enable each of them.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>//syntax: sudo iptables -t &lt;table_name&gt; filter -S
+$ sudo iptables -t filter -S
+
+//The output will be somewhat like
+-P INPUT ACCEPT
+-P FORWARD ACCEPT
+-P OUTPUT ACCEPT</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><em>Before we conclude this article, let's try to write a more complex iptables rule with a more realistic approach.</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>This next iptables rule will explicitly accepts your current SSH connection.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo iptables -A INPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>-m</strong>" flag is to determine "<strong>conntrack</strong>" module which is one among the set of extensions/modules that provides extra capabilities to iptables core functionality. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p><code>conntrack</code>&nbsp; module gives access to commands that can be used to make decisions based on the packet's relationship to previous connections.&nbsp;</p>
+<p><cite><a href="https://www.digitalocean.com/community/users/jellingwood">Justin Ellingwood</a></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:paragraph --></p>
+<p>"<strong>--ctstate</strong>" is one of the commands provided under <strong>conntrack</strong> module. It is used to match network packets based on how they were related the previous packets seen by the host.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The value "<strong>ESTABLISHED</strong>" specifies to allow packets that are part of an existing connection. While the value "<strong>RELATED</strong>" specifies to allow packets that are associated with an established connection. <strong><em>These two values are the determining part for our current SSH session.</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><em>Pheww</em></strong>, I think this was a good basic intro to iptables. Now that these iptables rules are ephemeral i.e. everything will go away once we reboot our machine/host/server.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, in order to sabe the iptables cofiguration tables, you need to install another iptables package from the Ubuntu's default repositories.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo apt-get update
+$ sudo apt-get install iptables-persistent</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>And finally run this command to save the configuration, so that it remains intact after reboot of the machine.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo service netfilter-persistent save</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all from my end for iptables. I have read a bit more for myself though. So, adding pointers to the references down below.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Till next time. o/</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>REFERENCES:</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-the-iptables-firewall-works">How the Iptables Firewall Works</a></li>
+<li><a href="https://linux.die.net/man/8/iptables">iptables(8) - Linux man page</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04">How To Set Up a Firewall Using Iptables on Ubuntu 14.04</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands#saving-rules">Iptables Essentials: Common Firewall Rules and Commands</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-configure-tools-to-use-ipv6-on-a-linux-vps">How To Configure Tools to Use IPv6 on a Linux VPS</a> (Whatever we have discussed above is for IPv4. If you have IPv6 enabled on your server, you are required to configure both the iptables to handle the intended traffic.)</li>
+</ul>
+<p><!-- /wp:list --></p>

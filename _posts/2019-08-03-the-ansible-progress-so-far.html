@@ -1,0 +1,230 @@
+---
+layout: post
+title: The Ansible progress so far!
+date: 2019-08-03 08:32:56.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Linux SysAdmin, Projects, DevOps, Ansible]
+meta:
+  timeline_notification: '1564801379'
+  _publicize_job_id: '33587630641'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/08/03/the-ansible-progress-so-far/"
+---
+<p><!-- wp:paragraph --></p>
+<p>August 2, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>[<strong>Note</strong>: This post will cover the work progress from last 2 days, i.e. August 1st and 2nd.]</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I am learning <a href="https://www.ansible.com/">ansible</a> now. It was not a really smooth passage to the point where I am right now in ansible. But today, with<em> literally lots of efforts</em>, I finally managed to run some first few ansible-playbooks on a remote node. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>(Maybe, it's not ansible which is hard to learn, but my curiosity/stupidity to jump into multiple things at the same time, made it an absolute pain in the brain.)</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>From past 4-5 days, I was just struggling to get myself a proper setup, where I can test my ansible-playbooks. And it was not happening only. It may be because I was thinking like I can experiment on multiple things at the same time (like working on Docker containers for the VMs). If I try to put my problems in a chronological order, it will look something like this:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The first thought was to get myself an alternative solution for GCP VM instances and I finally ended up working with Docker containers. That was an addition to me, but a real exhausting frustration at the same time. For continuous 2 days, I was just recursively downloading the minimal dependencies and packages on the bare docker containers. And I finally decided to give up after <a href="http://kushaldas.in">Kushal</a>'s advice to not work on multiple nodes, but just start with one at a time. And I thank him no end for this. :)</li>
+<li>In between, there was a time when I had a temporary setup of 4 VM nodes using docker containers. And I was able to SSH into all the three "end nodes" from the one main "control node". I assumed that it will work for ansible as well, but it proved me wrong. I was trying to use ansible "<em>ping module</em>" to ping the other three nodes. But sadly, it was not happening in Docker containers. Everytime, the nodes were unreachable. So, that was the moment when I finally decided to leave docker behind.</li>
+<li>After docker, I came to my usual GCP VMs. And yeah, the <em>"ping module</em>" worked this time. But again while running ansible playbooks for automating stuffs like nginx-setup and apache-setup, I met with another problem of "<a href="https://serverfault.com/questions/580753/ssh-aborts-with-too-many-authentication-failures"><em>SSH aborting with too many authentication failure</em>s</a>" and "<em><a href="https://github.com/ansible/ansible/issues/43830">Authentication or permission failure</a></em>". It was ultimately resulting into nothing but unreachable nodes. After lots of tinkering on web and amendments in ssh and ansible config files. I finally got the one-liner solution for this. And this time, the happiness was no end. :D</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># In your ansible.cfg change "remote_temp" variable to the following.
+
+remote_tmp = /tmp/.ansible-${USER}/tmp</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>So, now, the nodes were reachable through ansible and I was trying to write plays for setting up apache in the remote node (Ubuntu 18.04 machine). The next error came while using "apt" module and it was:-</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)\nE: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend)</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>And I did exhaustive search and tried almost every possible solution on web to check this, but it didn't happened to be solved. So, finally had to change the playbook.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, after changing the playbook and adding certain other values, like setting up "become" and "become_method" values to provide <strong>sudo</strong> permissions. It happened. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><em>Finally the ansible-playbook did the work and made changes on the remote node as it was supposed to do.</em></strong>🎉 🎉🎉 🎉</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>For everyone who want to start with ansible, I am compiling up the resources which I am using.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li><a href="https://docs.ansible.com/ansible/latest/index.html#ansible-documentation">Ansible Documentation</a> (official documentation)</li>
+<li><a href="https://www.ansible.com/blog/getting-started-writing-your-first-playbook">YAML Sntax</a> (Very important for starting writing ansible-playbooks. I found this extremely useful.)</li>
+<li><a href="https://linuxhint.com/ansible-tutorial-beginners/">Ansible Tutorial for Beginners.</a></li>
+<li><a rel="noreferrer noopener" href="https://www.tecmint.com/install-and-configure-ansible-automation-tool-in-linux/" target="_blank">How to Install and Configure ‘Ansible’ Automation Tool for IT Management – Part 1</a></li>
+<li><a rel="noreferrer noopener" href="https://www.tecmint.com/use-anisble-playbooks-to-automate-complex-tasks-on-multiple-linux-servers/" target="_blank">How to Use Anisble Playbooks to Automate Complex Tasks on Multiple Remote Servers – Part 2</a></li>
+<li><a href="http://How to Automate Simultaneous WordPress Deployments in Multiple Linux Servers Using Ansible – Part 3">How to Automate Simultaneous WordPress Deployments in Multiple Linux Servers Using Ansible – Part 3</a></li>
+<li><a href="https://www.ansible.com/blog/getting-started-writing-your-first-playbook">Getting started: Writing your first playbook.</a></li>
+<li><a href="https://github.com/ansible/ansible-examples">ansible-examples.</a></li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Besides, adding my first two working playbooks here. :)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The most basic and simple one. [Just to ping all the hosts and check if they respond or not. ]</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># playbook.yml
+---
+- hosts: webservers
+  tasks:
+    - action: ping
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># To run an ansible playbook, use the command below.
+$ ansible-playbook playbook.yml
+
+#OUTPUT (because I have cowsay, so you will see my output from the ASCII cows. :) )
+
+ ___________________
+&lt; PLAY &#091;webservers] &gt;
+ -------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ ________________________
+&lt; TASK &#091;Gathering Facts] &gt;
+ ------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ok: &#091;priyankasaggu119@35.184.187.20]
+ _____________
+&lt; TASK &#091;ping] &gt;
+ -------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ok: &#091;priyankasaggu119@35.184.187.20]
+ ____________
+&lt; PLAY RECAP &gt;
+ ------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+priyankasaggu119@35.184.187.20 : ok=2    changed=0    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>And one for the nginx setup.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># nginx.yml
+---
+- hosts: webservers
+  sudo: yes
+  tasks:
+    - name: Installs nginx web server
+      apt: pkg=nginx state=present update_cache=true
+      notify:
+        - start nginx
+
+  handlers:
+    - name: start nginx
+      service: name=nginx state=started
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ ansible-playbook nginx.yml
+
+#OUTPUT
+ ___________________
+&lt; PLAY &#091;webservers] &gt;
+ -------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ ________________________
+&lt; TASK &#091;Gathering Facts] &gt;
+ ------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ok: &#091;priyankasaggu119@35.184.187.20]
+ __________________________________
+&lt; TASK &#091;Installs nginx web server] &gt;
+ ----------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+ &#091;WARNING]: Could not find aptitude. Using apt-get instead
+
+ok: &#091;priyankasaggu119@35.184.187.20]
+ ____________
+&lt; PLAY RECAP &gt;
+ ------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+priyankasaggu119@35.184.187.20 : ok=2    changed=0    unreachable=0    failed=0    skipped=0    rescued=0    
+ignored=0   </code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for ansible today. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>August 2 is Daddy's birthday. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:verse --></p>
+<pre class="wp-block-verse">HAPPY BIRTHDAY PAPA :D</pre>
+<p><!-- /wp:verse --></p>
+<p><!-- wp:paragraph --></p>
+<p>and there was an interview too. (I think I will reach a count of some 35-40 in some time.)</p>
+<p><!-- /wp:paragraph --></p>

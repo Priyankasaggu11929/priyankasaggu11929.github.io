@@ -1,0 +1,164 @@
+---
+layout: post
+title: '"Warning" to SSH users!'
+date: 2019-08-14 04:54:04.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Linux SysAdmin, Projects, DevOps, Security, SSH, Ansible]
+meta:
+  timeline_notification: '1565738648'
+  _publicize_job_id: '34050300298'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/08/14/warning-to-ssh-users/"
+---
+<p><!-- wp:paragraph --></p>
+<p>August 13, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Okay, not to worry. There is no such actual warning. :D</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I am just trying to extend my previous post on <a href="https://priyankasaggu119.wordpress.com/2019/08/12/a-guide-to-a-safer-ssh/">securing SSH</a> by adding another <s>one-liner </s>(actually it was one liner before I decided to implement it with ansible again) solution to it.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>And the solution is:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p><em>You can add <strong>"warning banners"</strong> for the incoming nodes which are trying to establish a SSH connection to your concerned nodes. These banners will give a proper insight of the guidelines and the measures, the authorities are imposing on users to ensure their server's safety and security.</em></p>
+<p><cite>me :P</cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Expanding the same ansible playbook we built in the <a href="https://priyankasaggu119.wordpress.com/2019/08/12/a-guide-to-a-safer-ssh/">last post</a>, edit the file "<em>/playbook/ssh/tasks/main.yml</em>" to add the following lines in there.
+<ul>
+<li>The new tasks will do the following:
+<ul>
+<li>Find the line "#Banner none" in <em>sshd_config</em> file and replacing it with "Banner /etc/issue".</li>
+<li>Copy the contents of "ssh/templates/issue" file to remote node's "/etc/issue" file.</li>
+<li>And finally restart the <em>ssh service daemon</em> again to reflect the changes.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>- regexp: "^#?Banner none"
+  line: "Banner /etc/issue"
+
+- name: Copy the banner issue file in remote node
+  copy:
+    src: /etc/ansible/playbooks/ssh/templates/issue
+    dest: /etc/issue
+    owner: root
+    group: root
+    mode: 0644</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>After adding the above lines, the actual "<strong>ssh</strong>" ansible role will now look like this:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>---
+# tasks file for ssh
+- name: Add local public key for key-based SSH authentication
+  authorized_key:
+          user: "{{username}}"
+          state: present
+          key: "{{ lookup('file', item) }}"
+  with_fileglob: public_keys/*.pub
+- name: Harden sshd configuration
+  lineinfile:
+          dest: /etc/ssh/sshd_config
+          regexp: "{{item.regexp}}"
+          line: "{{item.line}}"
+          state: present
+  with_items:
+    - regexp: "^#?PermitRootLogin"
+      line: "PermitRootLogin no"
+    - regexp: "^^#?PasswordAuthentication"
+      line: "PasswordAuthentication no"
+    - regexp: "^#?AllowAgentForwarding"
+      line: "AllowAgentForwarding no"
+    - regexp: "^#?AllowTcpForwarding"
+      line: "AllowTcpForwarding no"
+    - regexp: "^#?MaxAuthTries"
+      line: "MaxAuthTries 2"
+    - regexp: "^#?MaxSessions"
+      line: "MaxSessions 2"
+    - regexp: "^#?TCPKeepAlive"
+      line: "TCPKeepAlive no"
+    - regexp: "^#?UseDNS"
+      line: "UseDNS no"
+    - regexp: "^#?AllowAgentForwarding"
+      line: "AllowAgentForwarding no"
+    - regexp: "^#?Banner none"
+      line: "Banner /etc/issue"
+
+- name: Copy the banner issue file in remote node
+  copy:
+    src: /etc/issue
+    dest: /etc/issue
+    owner: root
+    group: root
+    mode: 0644
+
+- name: Restart sshd
+  systemd:
+          state: restarted    
+          daemon_reload: yes
+          name: sshd
+...</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The contents of "<strong>/etc/ansible/playbooks/ssh/templates/issue</strong>" can be written like the  following example template (This example template is taken from <a href="https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html">here</a>.)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>----------------------------------------------------------------------------------------------
+You are accessing a XYZ Government (XYZG) Information System (IS) that is provided for authorized use only.
+By using this IS (which includes any device attached to this IS), you consent to the following conditions:
+
++ The XYZG routinely intercepts and monitors communications on this IS for purposes including, but not limited to,
+penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM),
+law enforcement (LE), and counterintelligence (CI) investigations.
+
++ At any time, the XYZG may inspect and seize data stored on this IS.
+
++ Communications using, or data stored on, this IS are not private, are subject to routine monitoring,
+interception, and search, and may be disclosed or used for any XYZG authorized purpose.
+
++ This IS includes security measures (e.g., authentication and access controls) to protect XYZG interests--not
+for your personal benefit or privacy.
+
++ Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching
+or monitoring of the content of privileged communications, or work product, related to personal representation
+or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work
+product are private and confidential. See User Agreement for details.
+----------------------------------------------------------------------------------------------</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, now, after implementing the new modified ansible playbook again, if someone tries to establish a SSH connection to our concerned nodes, they will be welcomed with a <strong><em>warning banner</em></strong> like this.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":775,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-08-14-04-39-20-1.png" alt="warning banner" class="wp-image-775" /><br />
+<figcaption>Warning_Banner</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>I found this small approach towards SSH security, very interesting, thus, writing it down here.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for this short post. Hope it helps!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Till next time, o/</p>
+<p><!-- /wp:paragraph --></p>

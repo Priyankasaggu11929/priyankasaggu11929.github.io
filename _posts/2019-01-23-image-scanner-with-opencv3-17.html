@@ -1,0 +1,76 @@
+---
+layout: post
+title: Image/Document Scanner with OpenCV(3/17)
+date: 2019-01-23 01:46:48.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Projects]
+meta:
+  timeline_notification: '1548188211'
+  _publicize_job_id: '26817014067'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/01/23/image-scanner-with-opencv3-17/"
+---
+<p><!-- wp:paragraph --></p>
+<p>January 22, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The #3 Project in the series of 17 is an "Image/Document Scanner". A mini project in OpenCV, requiring only three simple steps to be accomplished.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Step 1: Detecting the Edges in the image/document.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:image {"id":143} --></p>
+<figure class="wp-block-image"><img src="{{ site.baseurl }}/assets/1.gif" alt="" class="wp-image-143" /><br />
+<figcaption>Credit for input-image: <a href="http://carwirringdiagram.herokuapp.com/post/free-papers-online">carwirringdiagram.herokuapp.com</a><br /></figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Check the code snippet for the above step <a href="https://github.com/Priyankasaggu11929/OpenCV/blob/master/document-scanner/scan1.py#L9-L27">here</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Step 2: Using those edges in the image to find the contour(outline) representing the piece of the paper to be scanned.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:image {"id":144} --></p>
+<figure class="wp-block-image"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-01-23-01-06-20-e1548186469724.png" alt="" class="wp-image-144" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Check the code snippet for the above step <a href="https://github.com/Priyankasaggu11929/OpenCV/blob/master/document-scanner/scan1.py#L35-L81">here</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Step 3: Finally, applying a perspective transform to obtain a top-down view of the document.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:image {"id":146} --></p>
+<figure class="wp-block-image"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-01-23-01-06-35-1-e1548186575956.png" alt="" class="wp-image-146" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Check the code snippet for the above step <a href="https://github.com/Priyankasaggu11929/OpenCV/blob/master/document-scanner/scan1.py#L35-L81">here</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for this simple project. You can find the entire source-code and other required dependencies(libraries like transform.py) in this <a href="https://github.com/Priyankasaggu11929/OpenCV/tree/master/document-scanner">GitHub repo</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Till next time! o/</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Resources:</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a href="https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/">https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/</a></li>
+</ul>
+<p><!-- /wp:list --></p>

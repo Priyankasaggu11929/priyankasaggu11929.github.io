@@ -1,0 +1,73 @@
+---
+layout: post
+title: Face detection with OpenCV and deep learning (1/17)
+date: 2019-01-21 14:49:27.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Projects]
+meta:
+  timeline_notification: '1548062370'
+  _publicize_job_id: '26762422089'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/01/21/face-detection-with-opencv-and-deep-learning-1-17/"
+---
+<p><!-- wp:paragraph --></p>
+<p>January 21, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is the first project out of 17 which I  am planning to develop in a series with the help of a course. And I promise to try my level best to complete each one of them on my pace.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Heading on,</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Recently I tried to build a Face Detection system. That was a frontal-face detection and was built using the <strong>haarcascade_frontalface_default</strong>.<strong>xml</strong> classifier already available in the OpenCV library. That was a 1O1 approach to face detection using OpenCV. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Expanding to the same use-case. This time, I tried to achieve fast and accurate face detection using a pre-trained deep learning based face detector model coming with the library. This is available in <strong>dnn</strong> module which was added to OpenCV in its August 2017 release(OpenCV 3.3). </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It requires two sets of files while using OpenCV "dnn" module with Caffe models. These are :</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>The <strong>.prototxt </strong>file(s) which define the <em>model architecture</em> (i.e., the layers themselves)</li>
+<li>The <strong>.caffemodel</strong> file which contains the <em>weights</em> for the actual layers</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, this time, the face detection is not limited to frontal faced images and videos. It covers all orientations of the face with a degree of probability of detection indicated alongside.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Let's have a look at the results:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":124} --></p>
+<figure class="wp-block-image"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-01-21-14-24-00.png" alt="" class="wp-image-124" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:image {"id":125} --></p>
+<figure class="wp-block-image"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-01-21-14-30-58-e1548061364351.png?w=501" alt="" class="wp-image-125" /><br />
+<figcaption>Credits for the input image: @di-lewis-378624</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Face detection in videos can also be done using the same dnn module with little modifications in the above approach. You can check the code for reference <a href="https://github.com/Priyankasaggu11929/OpenCV/tree/master/fd_using_neural_networks">here</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for now. :)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Resources:</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a href="https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/">Face detection with OpenCV and deep learning</a></li>
+</ul>
+<p><!-- /wp:list --></p>

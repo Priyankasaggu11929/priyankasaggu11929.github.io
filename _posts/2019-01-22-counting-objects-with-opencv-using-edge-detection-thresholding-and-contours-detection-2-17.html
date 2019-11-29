@@ -1,0 +1,90 @@
+---
+layout: post
+title: Counting objects with OpenCV using Edge detection, Thresholding, and Contours
+  detection (2/17)
+date: 2019-01-22 13:55:41.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Projects]
+meta:
+  timeline_notification: '1548145545'
+  _publicize_job_id: '26797028832'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/01/22/counting-objects-with-opencv-using-edge-detection-thresholding-and-contours-detection-2-17/"
+---
+<p><!-- wp:paragraph --></p>
+<p>January 22, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is Project #2 in series of 17. Started with a quick refresher in OpenCV basics, I have covered:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Loading and displaying an image.</li>
+<li>Accessing individual pixels.</li>
+<li>Array slicing and cropping for extracting ROIs(Region of Interest).</li>
+<li>Resizing images.</li>
+<li>Rotating an image.</li>
+<li>Smoothing an image.</li>
+<li>Drawing on an image.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>You can find the source code to all the above-mentioned processes <a href="https://github.com/Priyankasaggu11929/OpenCV/blob/master/Object_counting/image_processing.py">here</a>. And see the image below to check how the output of each one of them looks like.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":139} --></p>
+<figure class="wp-block-image"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-01-22-13-11-19-1.png?w=1024" class="wp-image-139" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, the next part of the project is "<strong>Counting the no. of objects in an image</strong>". For now, it is limited to images with white background. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, to prepare an image for the above use-case, we are required to undergo the following steps:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Learning how to convert images to grayscale</li>
+<li>Performing edge detection</li>
+<li>Thresholding a grayscale image</li>
+<li>Finding, counting, and drawing contours</li>
+<li>Conducting erosion and dilation</li>
+<li>Masking an image</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>And after each of the above step, respectively, the image would look something like (considering an "example-input image", for instance):</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":136} --></p>
+<figure class="wp-block-image"><img src="{{ site.baseurl }}/assets/giff-1.gif" alt="" class="wp-image-136" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>And the final output, be like:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":137} --></p>
+<figure class="wp-block-image"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-01-22-13-38-05.png" alt="" class="wp-image-137" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Have a glance at the source-code for the above use-case <a href="https://github.com/Priyankasaggu11929/OpenCV/blob/master/Object_counting/object_counting.py">here</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for this project. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Till next time! o/</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Resources:</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a href="https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/">OpenCV Tutorial: A Guide to Learn OpenCV</a></li>
+</ul>
+<p><!-- /wp:list --></p>

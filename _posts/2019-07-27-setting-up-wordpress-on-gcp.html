@@ -1,0 +1,422 @@
+---
+layout: post
+title: Setting Up Wordpress On GCP!
+date: 2019-07-27 16:23:46.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Projects, Cloud, GCP, DevOps]
+meta:
+  timeline_notification: '1564224830'
+  _publicize_job_id: '33327906860'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/07/27/setting-up-wordpress-on-gcp/"
+---
+<p><!-- wp:paragraph --></p>
+<p>July 27, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I assume if someone has landed upon this post, they already know what <a href="https://wordpress.com/">Wordpress</a> is. Still, in-case if you don't, see I have linked it above. :)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, let's quickly start with <em>Our Use-Case of the Post </em>i.e. "Setting up Wordpress on GCP". What I mean here is-</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Self-hosting a WordPress blog/website on <a href="https://cloud.google.com/">Google Cloud Platform(GCP)</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I will divide this post majorly into three parts. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Installing Wordpress on GCP.</li>
+<li>Redirecting the Wordpress instance to a custom domain name.</li>
+<li>Installing SSL certificates to put the blog on it's HTTPS alias.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Note</strong>:- If somebody feels like leaving here, thinking that this will cost them thousands of bucks. The Good News is, IT'S TOTALLY FREE. 🎉🎉</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, stay tuned with me, if you want a blog of your own.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2><strong>INSTALLING WORDPRESS ON GCP</strong></h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Requirements</strong>:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>You need a <a href="https://console.cloud.google.com/freetrial/intro?_ga=2.26881277.-1929525363.1564176727">GCP account</a> (a bit obvious, still most important :P).</li>
+<li>Your GCP account should be an active-billing account (Get this done or there is no use of reading onwards).</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:group --></p>
+<div class="wp-block-group">
+<div class="wp-block-group__inner-container"><!-- wp:paragraph --></p>
+<p>Let's start with the installation of Wordpress on GCP now.</p>
+<p><!-- /wp:paragraph --></div>
+</div>
+<p><!-- /wp:group --></p>
+<p><!-- wp:jetpack/slideshow {"ids":[365,361,364,362,363]} --></p>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
+<div class="wp-block-jetpack-slideshow_container swiper-container">
+<ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-365" data-id="365" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-03-15-55-2-e1564244223852.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-361" data-id="361" src="{{ site.baseurl }}/assets/gcp2-e1564211203584-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-364" data-id="364" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-12-40-59-e1564211608587-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-362" data-id="362" src="{{ site.baseurl }}/assets/gcp3-e1564211641359-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-363" data-id="363" src="{{ site.baseurl }}/assets/gcp4-e1564211663795-1.png" /></figure>
+</li>
+</ul>
+<p><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
+<div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div>
+</div>
+</div>
+<p><!-- /wp:jetpack/slideshow --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Go to your <a href="https://console.cloud.google.com/">Google Cloud Console</a>. Click on "<strong>Select a project</strong>" dropdown(next to the <em>'Google Cloud Platform</em>' in the header)&gt;"<strong>New Project</strong>". </li>
+<li>Give a unique Project name, leave the rest as default and click on "<strong>CREATE</strong>" button. You will land onto the Project dashboard where you will get the Project name, ID, number along with several other essential information.</li>
+<li>Now, Click on the "<strong>Navigation Menu</strong>"(icon with three horizontal lines)&gt;"<strong>Deployment Manager</strong>"&gt;"<strong>Deployments</strong>".</li>
+<li>You will be presented with your default <em>Deployments </em>page with zero deployments. Now click on "<strong>Go to Marketplace</strong>".</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:jetpack/slideshow {"ids":[367,368,369,370,371,372,373,374]} --></p>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
+<div class="wp-block-jetpack-slideshow_container swiper-container">
+<ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-367" data-id="367" src="{{ site.baseurl }}/assets/1-1-e1564213135171-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-368" data-id="368" src="{{ site.baseurl }}/assets/2-1-e1564213148368-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-369" data-id="369" src="{{ site.baseurl }}/assets/3-1-e1564213339514-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-370" data-id="370" src="{{ site.baseurl }}/assets/3a-1-e1564213196616-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-371" data-id="371" src="{{ site.baseurl }}/assets/4-1-e1564213366415-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-372" data-id="372" src="{{ site.baseurl }}/assets/5-1-e1564213393314-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-373" data-id="373" src="{{ site.baseurl }}/assets/6-e1564214616598-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-374" data-id="374" src="{{ site.baseurl }}/assets/7-e1564214643640-1.png" /></figure>
+</li>
+</ul>
+<p><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
+<div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div>
+</div>
+</div>
+<p><!-- /wp:jetpack/slideshow --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Scroll down the page and look for "<strong>Blog &amp; CMS</strong>" block. Select "<strong>Wordpress Certified by Bitnami</strong>" and Click on "<strong>LAUNCH ON COMPUTE ENGINE</strong>" button.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>(Note:- You can choose to create other available Wordpress VM as well. I wanted the simplest and minimal one for me, that's why I have chosen the above. The process will effectively be same for every other VM.)</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Write a 'Deployment name' for your WordPress VM instance. You can configure your 'Machine type', 'Boot Disk &amp; size', et. al. as per your requirement. I am leaving everything default in my case.</li>
+<li>Click on "<strong>Deploy</strong>" button and wait for some 2-3 minutes for the VM to properly set up.</li>
+<li>Finally, you will see a message with a green tick "&lt;Deployment_Name&gt; has been deployed" where Deployment_Name is the name of your WordPress VM.</li>
+<li>Now, you can access your brand new WordPress blog/website with the <em>Site URL</em>. To customize your blog/website, access the WordPress admin page using the <em>Admin URL.</em> The Admin username and password(generated during the initial boot of VM) is available in the same place.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:jetpack/slideshow {"ids":[375,376,377,378]} --></p>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
+<div class="wp-block-jetpack-slideshow_container swiper-container">
+<ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-375" data-id="375" src="{{ site.baseurl }}/assets/5-2-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-376" data-id="376" src="{{ site.baseurl }}/assets/8-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-377" data-id="377" src="{{ site.baseurl }}/assets/9-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-378" data-id="378" src="{{ site.baseurl }}/assets/10-1.png" /></figure>
+</li>
+</ul>
+<p><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
+<div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div>
+</div>
+</div>
+<p><!-- /wp:jetpack/slideshow --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>You can login into the admin panel via SSH as well. To directly SSH into your admin panel, click on the "<strong>SSH</strong>" button available at your WordPress VM deployments page.</li>
+<li>A GCP terminal will be launched into a new tab. It's a Linux VM(in our case, Debian 9), so you can perform all the operations using native Linux commands.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2>REDIRECTING TO A CUSTOM DOMAIN NAME</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Requirements</strong>:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>A <a href="https://www.freenom.com/en/index.html?lang=en">freenom </a>account to register for a custom domain name.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:jetpack/slideshow {"ids":[379,380,381,383]} --></p>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
+<div class="wp-block-jetpack-slideshow_container swiper-container">
+<ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-379" data-id="379" src="{{ site.baseurl }}/assets/11-e1564217626755-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-380" data-id="380" src="{{ site.baseurl }}/assets/12-e1564217505988-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-381" data-id="381" src="{{ site.baseurl }}/assets/13-e1564217581829-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-383" data-id="383" src="{{ site.baseurl }}/assets/20-e1564218370288-1.png" /></figure>
+</li>
+</ul>
+<p><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
+<div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div>
+</div>
+</div>
+<p><!-- /wp:jetpack/slideshow --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Go to <a href="https://www.freenom.com/en/index.html?lang=en">Freenom</a> homepage. Type your required domain name in the space provided(like I am looking for 'priyankasaggu119') and click on "<strong>Check Availability</strong>".</li>
+<li>You will get a few options of freely available domains. Choose any one of these for the time-being (.tk is un-available because that is what I am using already for this blog).</li>
+<li>Click on the "<strong>Checkout</strong>" button and choose "<strong>12 Months@FREE</strong>" option before pressing "<strong>Continue</strong>".</li>
+<li>Now, Checkout the cart with your email id or any other social account. </li>
+<li>Voila, you have your own domain name now. :)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:jetpack/slideshow {"ids":[384,385,386,388,389,390,391,392]} --></p>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
+<div class="wp-block-jetpack-slideshow_container swiper-container">
+<ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-384" data-id="384" src="{{ site.baseurl }}/assets/14-e1564218765758-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-385" data-id="385" src="{{ site.baseurl }}/assets/15-e1564218776153-2.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-386" data-id="386" src="{{ site.baseurl }}/assets/16-e1564218805283-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-388" data-id="388" src="{{ site.baseurl }}/assets/18-e1564219370679-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-389" data-id="389" src="{{ site.baseurl }}/assets/19-e1564219568165-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-390" data-id="390" src="{{ site.baseurl }}/assets/20-e1564218370288-2.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-391" data-id="391" src="{{ site.baseurl }}/assets/21-e1564219581891-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-392" data-id="392" src="{{ site.baseurl }}/assets/22-e1564219593877-1.png" /></figure>
+</li>
+</ul>
+<p><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
+<div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div>
+</div>
+</div>
+<p><!-- /wp:jetpack/slideshow --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Go back to <strong>GCP Console</strong>. Click on "<strong>Navigation Menu</strong>"&gt;"<strong>Network Services</strong>"&gt;"<strong>Cloud DNS</strong>".</li>
+<li>Click on "<strong>Create zone</strong>". Write a <em>"zone name"</em> (like wordpress) and write your domain name registered on freenom in <em>"DNS name"</em>(priyankasaggu119.ml in my case). Leave the rest as default and click on the "<strong>Create</strong>" button.</li>
+<li>Copy the Nameservers(NS) from the newly created Name-Zone and go back to the freenom admin-panel.</li>
+<li>In the top Navigation Bar, click on "<strong>Services</strong>"&gt;"<strong>My Domains</strong>"&gt;"<strong>Manage Domains</strong>"(for the domain name in consideration).</li>
+<li>Click on "<strong>Management Tools</strong>"&gt;"<strong>Nameservers</strong>" and select"<strong>Use custom nameservers</strong>".</li>
+<li>Paste the copied nameservers in the space provided below and click "<strong>Change Nameservers</strong>".</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:jetpack/slideshow {"ids":[387,396,393,394]} --></p>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
+<div class="wp-block-jetpack-slideshow_container swiper-container">
+<ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-387" data-id="387" src="{{ site.baseurl }}/assets/17-e1564218831308-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-396" data-id="396" src="{{ site.baseurl }}/assets/5-3-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-393" data-id="393" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-00-14-38-e1564220401889-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-394" data-id="394" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-00-15-13-e1564220428585-1.png" /></figure>
+</li>
+</ul>
+<p><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
+<div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div>
+</div>
+</div>
+<p><!-- /wp:jetpack/slideshow --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now, Come back to GCP on our previously generated <em>DNS-Zone</em>(wordpress) and click on "<strong>Add record set</strong>" button.</li>
+<li>Type the <em>IP</em>(available in <em>Site address</em> on our Wordpress-deployments page) in place of IPv4 Address and click on "<strong>Create</strong>" button.</li>
+<li>Similarly, add another record set with everything same but pre-fixing "www" to .priyankasaggu119.ml. in <em>DNS Name</em>.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now that we have:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Custom Domain Name.</li>
+<li>Custom Nameservers.</li>
+<li>Required record sets for our domain name.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Our final task for this block is to just redirect our WordPress blog/website to our registred domain name. Let's finish this final step then.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:jetpack/slideshow {"ids":[397,401,399,400]} --></p>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
+<div class="wp-block-jetpack-slideshow_container swiper-container">
+<ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-397" data-id="397" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-00-26-33-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-401" data-id="401" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-00-25-10-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-399" data-id="399" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-00-28-24-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-400" data-id="400" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-00-31-00-1.png" /></figure>
+</li>
+</ul>
+<p><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
+<div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div>
+</div>
+</div>
+<p><!-- /wp:jetpack/slideshow --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>SSH into your WordPress VM instance either on GCP Console or on your local machine. Type the following commands to open and edit your <em>wp-config.php</em> file.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>sudo -i
+vim /opt/bitnami/apps/wordpress/htdocs/wp-config.php
+
+#OR
+
+sudo vim /opt/bitnami/apps/wordpress/htdocs/wp-config.php</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now, look for the <em>"SiteURL and HomeURL</em>" definitions in wp-config.php file and replace them with the following lines.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>REPLACE THIS: 
+
+define('WP_SITEURL', 'http://' . $_SERVER['HTTP_HOST'] . '/');
+define('WP_HOME', 'http://' . $_SERVER['HTTP_HOST'] . '/');
+
+
+WITH: 
+
+define('WP_HOME','http://priyankasaggu119.ml'); 
+define('WP_SITEURL','http://priyankasaggu119.ml');
+</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Note that you have to type your own domain name in place of "http://priyankasaggu119.ml" in your config file.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Tada! Now, our wordpress blog/website will be redirected to http://example.com (in my case, <a href="http://priyankasaggu119.ml">http://priyankasaggu119.ml</a>)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2>INSTALLING SSL CERTIFICATES</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>We are almost done with setting up our blog/website on wordpress. The only thing left is to redirect our blog/website to a secure webpage i.e. our blog/website should be redirected to <em>https://example.com</em> (or here, https://priyankasaggu119.ml).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Requirements</strong>:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>An HTTP website that is already online with an open port 80.</li>
+<li>The website should be hosted on a server which one can access with SSH and have the ability of <em>Sudo</em>.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:jetpack/slideshow {"ids":[402,403,404]} --></p>
+<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide">
+<div class="wp-block-jetpack-slideshow_container swiper-container">
+<ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper">
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-402" data-id="402" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-00-04-40-e1564224422465-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-403" data-id="403" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-00-05-03-e1564224439933-1.png" /></figure>
+</li>
+<li class="wp-block-jetpack-slideshow_slide swiper-slide">
+<figure><img class="wp-block-jetpack-slideshow_image wp-image-404" data-id="404" src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-00-05-17-e1564224465925-1.png" /></figure>
+</li>
+</ul>
+<p><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a>
+<div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div>
+</div>
+</div>
+<p><!-- /wp:jetpack/slideshow --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, if you want to use SSL on your website, you are required to search for <a href="https://letsencrypt.org/">Let's Encrypt.</a> There, click on "<strong>Get Started</strong>" and read for the "<strong>With Shell Access</strong>" part and follow along to get a free SSL certificate using <a href="https://certbot.eff.org/">CertBot</a> for your website.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Or you can simply follow this very well-explained blog on <strong><a href="https://www.onepagezen.com/free-ssl-certificate-wordpress-google-cloud-bitnami/">Free SSL Certificate Setup for WordPress on Google Cloud (Bitnami)</a></strong>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":405,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-07-27-15-34-33-1.png" alt="" class="wp-image-405" /><br />
+<figcaption><em>The final version: </em><a href="https://priyankasaggu119.ml/">https://priyankasaggu119.ml</a></figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>And if you are done with all the steps above, in the right way. I am sure that you have a working HTTPS URL now.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all for this article. You can read about other Wordpress hostings on GCP <a href="https://cloud.google.com/wordpress/">here</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Till next time, o/.</p>
+<p><!-- /wp:paragraph --></p>

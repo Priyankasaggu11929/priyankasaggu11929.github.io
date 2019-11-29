@@ -1,0 +1,151 @@
+---
+layout: post
+title: A guide to OpenVpn!
+date: 
+type: post
+parent_id: '0'
+published: false
+password: ''
+status: draft
+categories:
+- Daily Logs
+- Linux SysAdmin
+- Projects
+tags: []
+meta: {}
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/"
+---
+<p><!-- wp:paragraph --></p>
+<p>August 16, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is a long-standing blogpost (and a very long blogpost in itself too). I wish I would finally finish it today (although you will never know what my current today is :P ).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Ok, let's start it quickly before I really run away again. 😅</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>What is VPN?</strong></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p>A&nbsp;<strong>VPN (Virtual Private Network) is a service that lets you access the web safely and privately&nbsp;</strong>by routing your connection through a&nbsp; server and hiding your online actions.</p>
+<p><cite><a href="https://thebestvpn.com/what-is-vpn-beginners-guide/">Rob Mardisalu</a></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p>When combined with&nbsp;<a href="https://en.wikipedia.org/wiki/HTTP_Secure">HTTPS connections</a>, this setup allows you to secure your wireless logins and transactions. You can circumvent geographical restrictions and censorship, and shield your location and any unencrypted HTTP traffic from the untrusted network.</p>
+<p><cite><em><a href="https://www.digitalocean.com/community/users/jellingwood">Justin Ellingwood</a></em></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3><strong>What is OpenVPN?</strong></h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p><strong>OpenVPN</strong>&nbsp;is an&nbsp;open-source&nbsp;commercial software that implements&nbsp;<a href="https://en.wikipedia.org/wiki/Virtual_private_network">virtual private network</a>(VPN) techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It uses a custom security protocol that utilizes&nbsp;SSL/TLS&nbsp;for key exchange. It is capable of traversing&nbsp;network address translators(NATs) and&nbsp;firewalls. </p>
+<p><strong>It allows&nbsp;peers to&nbsp;authenticate&nbsp;each other using&nbsp;pre-shared secret keys,&nbsp;certificates&nbsp;or&nbsp;username/password.</strong> When used in a multiclient-server configuration, it allows the server to release an&nbsp;authentication certificate&nbsp;for every client, using&nbsp;signatures&nbsp;and&nbsp;certificate authority.</p>
+<p><cite><a href="https://en.wikipedia.org/wiki/OpenVPN">wikipedia</a></cite></p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:paragraph --></p>
+<p>I think the above definitions are simple enough to impart their meanings nicely (and serve my purpose of giving a good precise introduction :) ). </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, yeah, we can finally move onto our lovely hands-on section ie. "<strong>How to setup an OpenVPN server</strong>"</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>PREREQUISITES</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>We require two servers/VMs having a <a href="https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04">basic firewall setup</a> and a non-root "sudo" priviliged user (<em>both are Ubuntu 18.04 LTS VM instances in my case</em>). These two will be used for the following, respectively.
+<ol>
+<li>To host the OpenVPN service. (<em>I will call it <strong>"OpenVPN server</strong>" in this whole blogpost.</em>)</li>
+<li>To serve as a "<a href="https://en.wikipedia.org/wiki/Certificate_authority">Certificate Authority</a> (CA)". (<em>Similarly, I will call it <strong>"CA server"</strong>.</em>)</li>
+</ol>
+</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>LET'S GET STARTED...</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Login into both the two servers/VMs and keep them handy.</li>
+<li>In <strong>OpenVPN server</strong>, install the <em>openvpn</em> package.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo apt update
+$ sudo apt install openvpn</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>As we have discussed above in the introduction, OpenVPN is a TLS/SSL based VPN that utilizes certificates to encrypt traffic betwen the server and client(s). So, the next step is to setup a simple "Certificate Authority (CA)" in order to issue these trusted certificates. We will be using "EasyRSA" for setting up our CA <em><strong>Public Key Infrastructure (PKI)</strong></em>.</li>
+<li>Therefore, on both the machines (<strong>OpenVPN server</strong> and <strong>CA server</strong>), download "<em>EasyRSA</em>". </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>[<strong><em>NOTE</em></strong>: <em>Make sure you download the right EasyRSA version. Because a wrong set of keys and certificates will ruin the whole infrastructure.</em> <em>I faced certain issues with the current latest version i.e. EasyRSA v3.0.6. So, I will be working with v3.0.4 in this guide. You can always check for the latest version <a href="https://github.com/OpenVPN/easy-rsa/releases">here</a>.</em>]</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># Run the following set of commands on both the servers.
+
+$ wget -P ~/ https://github.com/OpenVPN/easy-rsa/releases/download/v3.0.4/EasyRSA-3.0.4.tgz
+$ cd ~
+$ tar xvf EasyRSA-3.0.4.tgz</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>We have our basic required packages in place on both the VMs, let's start building the <strong>CA</strong> now. On your <strong>CA server</strong>, do the following.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># On CA server
+$ cd ~/EasyRSA-3.0.4/
+$ cp vars.example vars
+$ vim vars</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>When the editor opens up, search for the following set of lines, uncomment them and replace them with any suitable values. Save the changes and close it after. (<strong>Caution</strong>: <em>Don't leave any column/value blank)</em></li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>#set_var EASYRSA_REQ_COUNTRY    "US"
+#set_var EASYRSA_REQ_PROVINCE   "California"
+#set_var EASYRSA_REQ_CITY       "San Francisco"
+#set_var EASYRSA_REQ_ORG        "Copyleft Certificate Co"
+#set_var EASYRSA_REQ_EMAIL      "me@example.net"
+#set_var EASYRSA_REQ_OU         "My Organizational Unit"</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now, on the same "<strong>CA server</strong>", run the following commands to initiate the <em>Public Key Infrastructure (PKI)</em>. The initialization will be followed by the building of Certificate Authority (CA) giving us 2 important files in return, <strong><em>ca.crt</em></strong> and <strong><em>ca.key</em></strong> (<em>the public and private sides of the SSL certificate respectively)</em>. You will be asked to write the "<em>Common Name</em>" during the process. (<em>I am keeping the default name "Easy-RSA CA" for simplicity but you can give any other name. Just make sure that you make equivalent changes in the further steps.</em>) The successful execution of the following 2 commands will set up the CA in place, therefore, letting it start signing certificate requests.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># On CA server
+$ ./easyrsa init-pki
+$ ./easyrsa build-ca nopass</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now coming back on the "<strong>OpenVPN server</strong>", the next step is to generate <em>a private key and a certificate request</em> and transfer the "<em>request</em>" to CA to get it signed, thus, creating the required certificate.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># On OpenVPN server
+$ ./easyrsa init-pki
+
+# Syntax for generating request.
+# ./easyrsa gen-req &lt;common_name&gt; 
+$ ./easyrsa gen-req server </code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>

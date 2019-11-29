@@ -1,0 +1,189 @@
+---
+layout: post
+title: A Quick go through AWS
+date: 2019-01-25 20:54:59.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Projects]
+meta:
+  _publicize_job_id: '26920895641'
+  timeline_notification: '1548429981'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/01/25/a-quick-go-through-aws/"
+---
+<p><!-- wp:paragraph --></p>
+<p>January 24, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Having no idea about how instances are created and how servers are leased. How certain applications are hosted on these servers having different computing powers, storages, databases, environments(prod/dev/test etc), and management tools. I thought of digging up into the matter via learning AWS.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, following are the topics that I have covered while learning:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>What is Cloud Computing?</li>
+<li>What is AWS?</li>
+<li>What are the different domains in AWS?</li>
+<li>What are the services provided by AWS under these different domains?</li>
+<li>What are AWS pricing options?</li>
+<li>How to migrate your applications to AWS Infrastructure?</li>
+<li>And finally, learned it via practically architecting a use case.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>I will be stating only the broader concepts. For detailed information and a practical use case, refer to this <a href="https://www.youtube.com/watch?v=IT1X42D1KeA">AWS Tutorial</a>. I found this to be extremely informative.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, let's start.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>What is Cloud Computing?</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Cloud Computing is the use of remote servers on the internet to store, manage and process data and information rather than local servers on your personal machines. The Word "Cloud" in this perspective is just a metaphor for these "remote servers" that can be accessed through the Internet.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>(Note: AWS alone has a Global Computing Market Share of 31 % which is far more than all the other Cloud providers collectively having a share of 69 %. AWS has a server capacity 6 times larger than the server capacity of all the other cloud providers included.)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>What is AWS?</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Amazon Web Services(or AWS ) is a secure cloud services platform, offering compute power, database storage, content delivery, and other functionalities to help Businesses and Organizations to scale and grow in their concerns.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>What are the different domains in AWS?</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>AWS provides its various level of service under the realm of following domains:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Compute</li>
+<li>Storage</li>
+<li>Database</li>
+<li>Migration</li>
+<li>Networking and Content Delivery</li>
+<li>Management Tools</li>
+<li>Security &amp; Identify, Compliance</li>
+<li>Messaging</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>What are the services provided by AWS under these different domains?</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Let's try to understand the various services provided by AWS under the hood of different domains, one by one.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li><strong>AWS COMPUTE SERVICES</strong></li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><em><u>EC2</u>:</em> EC2 is like a raw server. You can configure this raw server to be anything like a web server, or working environment etc. These servers can be resized according to your needs. You can launch many instances of EC2 with different configurations or you can increase the configuration as well.</li>
+<li><em style="text-decoration-line:underline;">Lambda</em>: AWS Lambda is an advanced version of EC2. It is based on EC2 but the difference is that Lambda can't be used to host your application. It can be only used to execute your background tasks. These background tasks, for instance, could be compressing, manipulating and applying the filter on some images after they are uploaded on a file server. These tasks are executed as a response to the triggers generated whenever an event occurs.</li>
+<li><em><u>Elastic Beanstalk</u></em>: This is again an advanced version of EC2. The difference between Elastic Beanstalk and Lambda is that Elastic Beanstalk is used to host an application. And the difference between Elastic Beanstalk and EC2 is that Elastic Beanstalk is an automated form of EC2. In Elastic Beanstalk, there is no requirement for any kind of configuration related to the environment. You just have to pick the environment on which you want to host your application or upload the code, and Elastic Beanstalk will automatically set up all the environment-specific dependencies for you. For eg, if you want to host a Java application on your server, choose a Java Environment in Elastic Beanstalk and it will automatically configure the environment for you by installing all the dependencies and your application would be deployed on that.</li>
+<li><u><em>Elastic Load Balancer:</em></u> It is used to basically distribute your workload among a number of instances. The traffic which is coming on these 3 or 4 or more instances has to be evenly distributed. This is important as this protocol maintains the consistency of work by evenly dividing it and also checks that not any server is staying idle in comparison to other and vice versa. This is done to improve the response time to the requests generated by the incoming traffic and lowers the latency.</li>
+<li><u><em>AutoScaling:</em></u> AutoScaling is a service which is used to scale up and down automatically without manual intervention. This is done by setting up matrices. For example, you have a website running on 5 servers. You will configure a matrix that whenever the Combined CPU usage goes beyond 70%, launch a new server. And then the traffic would be distributed among these 6 servers, which is done by Elastic Load Balancer. So, AutoScaling and Elastic Load Balancer work hand in hand. The Matrix can also be configured to scale down and decommission a server, say if the combined CPU usage goes below 45%.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>2. <strong>AWS STORAGE SERVICES</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><em><u>S3:</u></em> S3 or Simple Storage Service is an object-oriented file system. Which means that all the files that you upload on S3 are treated(or called) as objects. And these objects have to be stored in a bucket. You can consider a bucket to be the root folder. One can't upload files directly into S3. First, you have to create a root folder i.e bucket, and then you can upload your files into it. All the subdirectories in this bucket are called as folders as in normal way.</li>
+<li><em><u>Cloudfront:</u></em> Cloudfront is a content delivery network. This is a caging service. If a user wants to connect to a website which is very far away from his/her location, that website can be caged to a nearby location. The server(web server) which is used to cage the website on a nearby location is known as Edge location. And from that location, the user can access the website. This is done to lower the response time.  </li>
+<li><em><u>Elastic Block Storage(EBS):</u></em> It is basically the hard drive to EC2. When you are using EC2 instance, obviously, the operating system or the software is stored somewhere. So, EC2 is backed by EBS for this matter. EBS can't be used independently. It has to be used with EC2 only. One EC2 instance can be connected to multiple EBS volumes but the vice versa is not true. It can be understood as one hard drive at one time, can't be connected to more than one computer.</li>
+<li><em><u>Glacier:</u></em> Amazon Glacier is a data archiving service. So, when you have to backup data from, say, S3 or EC2 instance, you can back it up on Amazon Glacier. Why use Amazon Glacier, because they use magnetic tapes and these magnetic tapes are cheap and hence, your data storage becomes cheaper. You would be storing that kind of data on Glacier, which is not frequently accessed. For eg, 6 months old test- reports of all your patients in a hospital. Since it is cheaper, the retrieval time would be more.</li>
+<li><em><u>Snowball:</u></em> Snowball is a physical device which is used for transferring your data to or back from AWS Infrastructure. It is done in a way, that you have your data on your local infrastructure/data center, and you have decided to move it onto a cloud i.e. AWS Infrastructure. You can do this transfer either via the internet or using a physical device. This physical device is known as Snowball. You will be using this physical device when you have data at the scale of petabytes. How this process happens? So, you have to request Amazon for a Snowball device which will come to your local premises. You will transfer the data onto it and it will be shipped back to the AWS Infrastructure. The experts there will load your data onto their servers. This will cut your internet costs, save your bandwidth and your migration happens in less time(within 10 days).</li>
+<li><em><u>Storage Gateway:</u></em> It is a service which is used between your data-center and your cloud or between your data-center resources as well. Say, you have database servers and application servers. This storage gateway will sit between these and will keep on taking snapshots of your database and storing them in S3. Now, if you have 3 or 4 database servers and a Storage Gateway installed. Think of the case, when the 4th database server gets corrupted. Storage Gateway will recognize that a failure has happened and will take the related snapshot of that respective failure and will restore your server to the time before when that snapshot was taken.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p> <strong>3. AWS DATABASE SERVICES</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><u><em>RDS:</em></u><em> </em>Relational Database Management Service is a management service which manages a relational database like MySQL, MariaDB, Oracle, Amazon Aurora, or PostgreSQL. The management tasks involve- It updates the DB engines automatically, it consoles the security patches automatically. Everything that has to be done manually while hosting a database server will be done automatically by RDS.</li>
+<li><u><em>Aurora</em>:</u><em> </em>Amazon Aurora is a relational database which is developed by Amazon itself and included in RDS. It is actually based on MySQL(which means the code and syntax which you use for MySQL will work for Aurora itself) but Amazon believes that it is 5 times faster than MySQL.</li>
+<li><em><u>DynamoDB:</u></em> It is also a management service but it manages Non-relational or NoSQL databases. So, if you have unstructured data that has to be stored in a non-relational database. Similar to RDS, all the updates and security patches happens automatically. Nothing is required to be done manually. Also, you don't have to specify storage also. It scales automatically as more data comes into it.</li>
+<li><em><u>ElasticCache:</u></em> It is a caching service which is used to set up, manage and scale a distributed cache-in environment in the cloud. This basically means if you have an application which demands to query a database for certain resultset again and again. It will increase the overhead on the database in getting the same result over and again. So, with ElasticCache, the database recognizes that certain query is frequently asked and it will store the respective resultset into ElasticCache. So, now the user will interact with ElasticCache and thus the overhead on the database will be lowered.</li>
+<li><em><u>RedShift:</u></em> It is a petabyte-scale data warehouse service. It gets data fed from RDS and DynamoDB and it does analysis on it. It is basically an analytics tool.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>4. AWS NETWORKING SERVICES</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><em><u>VPC:</u></em> Virtual Private Cloud(VPC) is a virtual network. If you include all the AWS instances that you have launched, inside one VPC. Then all your resources become visible to each other or can interact with each other.</li>
+<li><em><u>Direct Connect:</u></em> It is a replacement for an internet connection. Direct Connect is a leased line using which you can directly connect to the AWS Infrastructure. So, if you feel the bandwidth of the Internet connection is not enough for your AWS environment, you can take a leased line to the AWS infrastructure using Direct Connect service.</li>
+<li><u><em>Route 53:</em></u><em> </em>This is a DNS(Domain Name System). Whatever URL you enter has to be directed to a DNS which will convert into its respective IP Address on which the website/application is hosted. It provides you with Name Servers which you have to enter in the settings of the Domain Name which you have brought to host your application. So, whenever users point to a Domain name, he will be pointed to Route 53. The work in Domain name settings is done. You have to configure the Route 53 now. On Route 53, you have to enter the IP address or the alias of the instance of which you want your traffic to be directed to. The loop is now complete. The URL will point to Route 53. Route 53, in turn, will point to the instance on which the website/application is hosted.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>5. AWS MANAGEMENT SERVICES</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><em><u>CloudWatch:</u></em> It is a monitoring tool which is used to monitor all AWS resources in your AWS infrastructure. Say, suppose you want to monitor your EC2 instance. You want to be notified whenever your EC2 instance CPU usage goes beyond 90%. So, you can create an alarm on CloudWatch and whenever your usage will cross the mark, it will trigger an alarm and that alarm, in turn, will send you a notification, either by an email or maybe whatever parameter you have set. </li>
+<li><em><u>CloudFormation:</u></em> It is used to templatize your AWS infrastructure. This is done in the case when you have different environments and you want to launch the same infrastructure in these environments. So, in this case, you can take a snapshot of the infrastructure you want to launch in different environments, using CloudFormation. And then you can templatize this infrastructure and use it in other test environments.</li>
+<li><em><u>CloudTrail:</u></em> It is a logging service from AWS. You can log all your API requests and responses in CloudTrail. This is done to troubleshoot a problem. Say, suppose you get an error while using your application. There can be numerous cases when you won't get an error but a specific one always generates an error. So, you have to track down the problem and that will be done using the logging service. Since every request is logged using the CloudTrail, you can go to that particular log /service where the error had occurred and hence troubleshoot it. The logs are stored in S3 by CloudTrail.</li>
+<li><em><u>CLI:</u></em> Command line interface(CLI) is a replacement for the GUI interface we have for AWS Dashboard.</li>
+<li><em><u>OpsWorks:</u></em> AWS OpsWork is a configuration management tool. It consists of 2 parts i.e. Stacks and layers. Layers are basically the different AWS Services that you have combined together and when you combine them together, the whole system is known as Stack. It is used in the scenario when you want some basic changes in an application which is running on a host of AWS services. One way to do it is by going to each and every service particularly and changing that setting. The other way is using OpsWorks. If you have deployed your application using OpsWorks, one basic setting that you have to change at all the layers can be basically done at the stack level.</li>
+<li><em><u> Trusted Advisor:</u></em> It's just like a personal assistant to you in the AWS Infrastructure. It advises you on your monthly expenditure, or on using IAM policies. Hence, this will enable you to create your AWS account better.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>6. AWS SECURITY SERVICES</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><em><u>IAM:</u></em> It is the Identification and Authentication Management tool. This is used in the case of an enterprise where the users are using your AWS account to control the AWS Infrastructure. You can provide them with granular permissions like you want 1 user to just review all the instances in AWS, you can provide him/her with that access. Or you want the 2nd user to launch but not delete any instance, you can give him with that access. So, these are the access that you can grant them using IAM. It basically authenticates you to your AWS account. </li>
+<li><em><u>KMS:</u></em> Any instance that you have launched in AWS, is based on the infrastructure that there will be a public key and you guys will be provided with the private key. The public key will be held with the AWS. Whenever you want to connect to the instance, you have to upload your private key. AWS will match that private key to your public key and if it matches, it will authenticate you to your AWS instances. You have to be very careful with your private key, once you lose it, there is no way to access your instance.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>7. AWS APPLICATION SERVICES</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><em><u>SES:</u></em> SES or simple email service is a bulk emailing service. Like if you want to send email to a large user base, you can do that with just one click of a button using SES. The replies to emails can also be automated using SES.</li>
+<li><em><u>SQS:</u></em> Simple Queue Service(SQS) acts as a buffer. It's working can be understood as, if you have an image processing application.  Whenever you upload an image, you have to do 5 tasks. These 5 tasks will be listed in your SQS, and a server will keep a reference with this queue and see what all tasks are left to be done on the image. It helps in the case when you have multiple servers running for your processing. Say suppose, your first 2 operations are done by the 1st server and next 3 are done by another server. So, the next server should know what all operations are done by the 1st server. So, this knowing is actually referenced through SQS.</li>
+<li><em><u>SNS:</u></em> SNS or Simple Notification service sends the notification to other AWS services. So, let's consider the above image processing application case. The SNS can send a notification to SQS and SES that an image has been uploaded. The notification may include information about how many no. of tasks are to be performed on that image(which it will send to SQS). And it can also send the notification to SES telling that it has to send an email to the respective person stating that an image has been uploaded.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>What are AWS pricing options?</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>AWS has three pricing models. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li><u><em>Pay as You Go</em></u> - AWS offers that you have to pay only for what you use. So, in case you have opted for 10GB of storage in the S3 file system but you just have used 5GB, then you have to pay for only 5GB. This is the pay-as-you-go model.</li>
+<li><em><u>Pay less by Using More</u></em> - This model states that the more AWS resources you use, the less the hourly rates become. So, its like if you are using S3 storage up to 50TB/month, the hourly charges are $0.023 GB/month. If you are using 100TB S3 storage then the hourly charges are $0.022GB/month. </li>
+<li> <em><u>Save when you reserve</u></em> - In services like AWS EC2 and RDS, you have an option of reserving your instances for a specific time frame. You will be charged less significantly up to 75% less.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's all from my side.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Do make a free AWS Trail account, and learn by actually implementing the stuff.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Till next time o/.</p>
+<p><!-- /wp:paragraph --></p>

@@ -1,0 +1,173 @@
+---
+layout: post
+title: Upgraded to Ubuntu 19.04!
+date: 2019-08-07 03:13:16.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Linux SysAdmin, Projects, Ubuntu]
+meta:
+  _publicize_job_id: '33738577555'
+  timeline_notification: '1565127799'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/08/07/upgraded-to-ubuntu-19-04/"
+---
+<p><!-- wp:paragraph --></p>
+<p>August 6, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Last night, I upgraded my host machine's operating system from <strong>Ubuntu 18.04.1 LTS </strong>to<strong> Ubuntu 19.04</strong>. In the first go, it felt nice having a new clean interface right in front, but very soon, I realised that the upgrade was a bit off, on my machine. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3>The problems I observed after the upgrade, and the solutions I used.</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The dashtodock (or simply the *dock* that we usually see on the left side of the screen) was not scrollable/slidable. After a little search on internet regarding this, I realised that it is a <a href="https://bugs.launchpad.net/ubuntu/+source/gnome-shell-extension-dashtodock/+bug/1819086/comments/10">bug that was spotted while updating to gnome-shell 3.31/3.32</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>Further, I had lots of packages installed from non-ppa sources in the earlier version and most of them were held broken in this new upgrade (even python3.7 was also installed using some foreign sources in the earlier version. That ultimately resulted into breaking all the major python libraries like libpython3.7 as well, which literally created major problems).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>I was not able to install any new packages that required "<em>python system libraries</em>" as it's dependencies. It all came into my sight when I was trying to install <em>Vim and Tor browser</em>. And it threw errors for "<strong>broken held packages</strong>" &amp; <strong>"unmet dependencies that couldn't be installed"</strong>. I spent many hours trying various solutions written on web for checking this, but nothing seemed to solve the issue.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph {"align":"left"} --></p>
+<p style="text-align:left;">So, the last option was to seek help in #ubuntu (on Freenode). Over there, <a href="https://github.com/tomreyn">tomreyn</a>, so nicely volunteered me with my issues (for many hours) and pointed me towards some genuine solutions. <strong><em>I thank him profusely for his time and advises.</em></strong> :)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The <em>solution</em> was to look for all the foreign packages running on my machine using <a href="https://github.com/tomreyn/scripts#foreign_packages">this</a> script. What I will get in return is 2 categories of packages, <strong>[ No available version in archive ]</strong> and <strong>[ Newer than version in archive ]</strong>.  </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>For the first category, I was asked to filter for what among them are still useful and what could be removed. In case of the useful ones, I was advised to look for their <a href="https://launchpad.net/ubuntu/+ppas">PPA</a>, or a third party APT repository, or a <a href="https://snapcraft.io/">snap</a> which provides these packages, to set them up again.</li>
+<li>In the second section, I had packages which were also available from the repositories that I had already configured. But these packages were installed in newer versions than the APT repositories I had configured them for. So, the idea was to either downgrade these packages to the versions available in ubuntu, or uninstall them (if not needed), or configure a PPA or third party APT repository or a snap which provides these packages in these or newer versions, and set those up. </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Afterwards, the only thing was to run the script again to ensure that these packages no longer appear in the search.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Thanks to the <strong>Open Source Communities</strong>, that people there tries to help us out of everything. :) </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>Similar thing happened with <em>ansible</em> as well. In that case, I had to manually clean up all the <em>ansible directories</em> in order to ensure that there is nothing left from the previous installs. After that, a fresh ansible installation from officially supported sources solved the issue.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>The next thing was that now <a href="https://wiki.gnome.org/action/show/Apps/Files?action=show&amp;redirect=Apps%2FNautilus">Nautilus</a> no longer detects the Android phone mount in Ubuntu 19.04. So, I had to find out a way to access my phone's data on my laptop. The solution was setting up <strong>Android-File-Transfer</strong>. And the following set of commands served me well with the purpose. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># To check if 'universe' distribution component is enabled for all sources.
+$ sudo add-apt-repository universe
+
+$ sudo apt-get update
+$ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 0BB4A1B2FA1A38EB
+$ sudo add-apt-repository "deb http://ppa.launchpad.net/samoilov-lex/aftl-stable/ubuntu artful main"
+$ sudo apt-get update
+$ sudo apt install android-file-transfer</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>After running the above commands, eject your phone from the USB port and remount it. Set it to <a href="https://wiki.archlinux.org/index.php/Media_Transfer_Protocol">Media Transfer Protocol (MPT)</a> options, and after that, you can access all your mobile data using this command.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># And finally launch android-file-transfer with this.
+$ android-file-transfer</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, <strong>The Major Mess</strong>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I was really curious to anyhow resolve the <strong><em>"unmet python-packages dependecies"</em></strong> issue myself. And so, I very confidently (sorry, it was my peak stupidity 😂) ran the command: </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code> ⚠️ ⚠️ ❌
+sudo apt-get remove libpython3.7
+ ⚠️ ⚠️ ❌</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>And I literally saw, everything vanishing from my dock in less than a minute. Everything included both the web-browsers (chrome &amp; firefox), Ubuntu Software, Amazon store, hexchat died as well. It cleaned almost everything that ubuntu provides as it's default desktop suite. And the <strong>*major loss* was I lost the terminal as well.</strong> :(</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>But actually, I was really calm at the back of my mind. The reason being,</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":4} --></p>
+<h4>I HAD BACKUPS :D</h4>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, in worst case, I could have wiped up this whole mess and boot it again with a new live ISO USB.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Having this thought in my mind, I very peacefuly went onto trying troubleshooting this problem. Within a 15 minutes read, I got an alternative way to get access to another shell using "<strong>Ctrl+Alt+f1</strong>" (Though, it was not the intended one, so, I tried another key groups and "<strong>Ctrl+Alt+f3</strong>" worked for me). I logged into my system through tty3 virtual console and yeah, finally, I got access to a brand new terminal. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It took me some further 4 to 5 hours to figure out what were the required set of commands for me. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>*<strong>Revealing another big mistake</strong>*</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Actually, I was panicked. For that very moment, seeing everything going away, I, as a stimuli reaction, pressed <strong>Ctrl+C</strong>. That stopped the process though, but in the middle of a big mess. So, now, it created another mess in a heap of mess. I had another big pile of broken packages now. 😅 </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Literally, no solution (for the same/similar case) on web was working for me. Because nobody had so foolishly pressed <strong>Ctrl+C</strong> in the middle of such a mess. But, still, I had false hope that I might could get a solution. The only thing I wanted back was "<strong>ubuntu-desktop</strong>". Neither "<strong>apt install</strong>" or "<strong>apt-get install</strong>" will work for me in this case, because those were pointing to a big list of broken packages now. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So, finally, after burning the whole night in searching for the solution. I came across "<strong>aptitude</strong>", the high-level interface to the package manager. Firstly, I tried my hard luck by checking if I can install the *aptitude* interface. And fortunately, It got installed.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo apt-get update
+$ sudo apt-get install aptitude</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p> I modified the prevailing solutions with *<strong>aptitude</strong>* command and it, so very prettily worked for me.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo aptitude install python3.7
+$ sudo aptitude install gnome-terminal
+
+$ sudo aptitude install ubuntu-desktop</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>It installed *<strong>every*</strong> required packages all by itself, therefore, by-passing all the prolonged "unmet dependencies" and "broken-packages" errors. (I was happy that I had enough data left with me for all the recovery, because it literally required lots of it, to get back (install) everything required in it's way.) And as the process was done, it ultimately redirected to my normal GUI login screen. After successfully login, I had my<strong> terminal</strong>, all the <strong>default ubuntu softwares</strong> and <strong>firefox</strong> back as usual. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Meawhile, it solved my other problem (I have mentioned above) of "<strong>not able to install packages due to python-dependencies</strong>" as well without manually filtering for the needed ones. It repaired it all by itself. *The Goal achieved* :D</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>[<em> Like we have "cherry on the cake",  I had the "worst on the worst". My primary keyboard layout is Dvorak, but I actually don't use it much. So, I always switched back to qwerty. But for the whole night, in the tty virtual consoles, I was forced to type in Dvorak</em> <em>because there was no switching happening. And just for the information, my dvorak typing is just 3-4 wpm</em></strong>😅. <strong><em>I thank myself here, for atleast being nicely familier with the key positions.</em></strong> <strong>]</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is how my newly upgraded machine looks like. 🥳 🎊</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":598,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-08-06-06-06-48.png" alt="" class="wp-image-598" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>That is all about this article.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Till next time. o/</p>
+<p><!-- /wp:paragraph --></p>

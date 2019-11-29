@@ -1,12 +1,12 @@
-name: Michael Lanyon's Blog
-url: 'https://blog.lanyonm.org'
-description: 'Notes and thoughts from LanyonM'
+name: Priyanka Saggu
+url: 'https://priyankasaggu11929.github.io/blog'
+description: 'I speak here {^_^}'
 
 exclude: [Gemfile, Gemfile.lock, README.md]
 markdown: kramdown
 
-author: 'Michael Lanyon'
-disqus_shortname: lanyonm
+author: 'Priyanka Saggu'
+disqus_shortname: priyankasaggu119
 google_analytics: UA-42209870-1
 
 gems:

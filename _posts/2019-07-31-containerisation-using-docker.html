@@ -1,0 +1,158 @@
+---
+layout: post
+title: Containerisation using Docker !
+date: 2019-07-31 04:38:16.000000000 +05:30
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+tags: [Daily Logs, Linux SysAdmin, Projects, DevOps, Docker, Containerization]
+meta:
+  _publicize_job_id: '33458068295'
+  timeline_notification: '1564528100'
+author:
+  login: priyankasaggu119
+  email: saggpriyanka7@gmail.com
+  display_name: priyankasaggu119
+  first_name: ''
+  last_name: ''
+permalink: "/2019/07/31/containerisation-using-docker/"
+---
+<p><!-- wp:paragraph --></p>
+<p>July 30, 2019</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Before actually moving onto the actual topic of the blog, I will summarize first,<em> </em><strong>what all other things I did today</strong>, along with learning "<strong>Docker Containerisation</strong>".</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>I started learning <strong><a href="https://www.ansible.com/">Ansible</a></strong> (though a terrible start).</li>
+<li>Learnt "What is <strong><a href="https://www.docker.com/">Docker</a></strong>" and how to build custom docker images. Meanwhile created multiple docker containers based on these (test) images.</li>
+<li>Also started using <a href="https://github.com/tmux/tmux"><strong>tmux</strong></a>, a terminal-multiplexer.</li>
+<li>I started with "<strong>File Systems</strong>" in the <strong>Unix fundamentals 101</strong> section of <a href="http://www.opsschool.org/filesystems_101.html">Ops School Curriculum</a>.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>I am listing below some of the articles which I read while prepping for these. I wish if you could please read these articles (or any other similar ones) before following up with me. :)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><a href="https://itnext.io/getting-started-with-docker-1-b4dc83e64389">Anatomy of Docker</a>. (a must read)</li>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04">How To Install and Use Docker on Ubuntu 18.04</a>.</li>
+<li><a href="https://medium.com/faun/how-to-build-a-docker-container-from-scratch-docker-basics-a-must-know-395cba82897b">How to build a docker container from scratch (Docker basics — a must know)</a>.</li>
+<li><a href="https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/">How To Remove Docker Containers, Images, Volumes, and Networks</a>. (I needed it most frequently, so maybe it is here for me 😛)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:separator {"className":"is-style-wide"} --></p>
+<hr class="wp-block-separator is-style-wide" />
+<!-- /wp:separator --></p>
+<p><!-- wp:paragraph --></p>
+<p>And yes, now we can confidently start with our<strong> use-case of the day</strong> i.e. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I wanted to run 4 separate virtual machines for starting working on <a href="https://linuxhint.com/ansible-tutorial-beginners/">this Ansible project</a>. These 4 virtual machines (VMs), were respectively meant to be configured as the following components.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Control Node (control)</li>
+<li>Load Balancer (lb01)</li>
+<li>Web Server 1 and Server 2 (app01 &amp; app02)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>There could be 2 solutions to get these components up.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>Create 4 solo VM instances like I usually do on Google Cloud Platform (GCP). (or you can do on any other cloud service provider like AWS, Azure etc or inside a virtual box.)</li>
+<li>Create 4 VM (containers) using a containerisation tool like Docker or Vagrant.</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>And I chose option 2.</strong> The reason being the 4 VM containers built in Docker, are very light in every aspect when compared to solo VMs running anywhere else (as I mentioned above). Actually the latter one is highly resource intensive and imagine what if you have to create 10 or 100 or 1000s of VMs. Atleast, I can't afford running even 10 VMs at the same time (And I am sure, you also can't afford running 100 VMs at the same time with equal amount of resources allocated to each one of them). So, in that case, unanimously Docker is the winner. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong><em>By Docker, I want to refer to *any* containerisation tool here.</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now, as you all how know why I chose Docker for today. It's time to walk you through the steps required to create the setup. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>[<strong>Note</strong>:- I wanted my all 4 VMs to be Ubuntu 18.04 containers. Therefore the following commands are my requirements specific.]</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>First install Docker using the <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04">above linked article</a> (I don't feel I can make the installation process any better than theirs).</li>
+<li>Make a directory as sudo user (let's call it testApp here) and touch a file named "Dockerfile" inside the newly created directory. This "Dockerfile" will be used for building the Docker containers.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ sudo mkdir testApp
+$ cd testApp/
+$ sudo vim Dockerfile</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Paste the following content in the "Dockerfile" file. </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>FROM ubuntu:18.04
+
+MAINTAINER Priyanka &lt;work@priyankasggu119.tk&gt;
+
+RUN apt-get update &amp;&amp; apt dist-upgrade
+RUN apt-get update &amp;&amp; \
+     apt-get install -y net-tools</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>QUICK NOTES:</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<li>"FROM" is the most important part of Dockerfiles. It defines which base image will be used to initiate the build process.</li>
+<li>"MAINTAINER" command declares the author of the image.</li>
+<li>"RUN" are the actual commands that builds the application (the required docker image).</li>
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Now run the following command to build an image using the "Dockerfile" at current location.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>// Synatx:- docker build -t [image_name] .
+// [image_name] should be strictly in lowercase letters.
+
+$ docker build -t testimage .</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>After your "testimage" build is successfully done. The final step is to <strong>create 4 VMs via running the following docker run command 4 consecutive times in 4 different terminal sessions</strong>. (This is the reason why I learnt tmux today. I wanted to run all my VMs in a single window of a tmux session, so that I can detach and attach the session as and when required. But the VM's will keep on running in the tmux session itself.)</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>$ docker run -ti testimage bash</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>This <em>docker run </em>command will create four Ubuntu 18.04 containers when executed four times. <strong>Each of these containers will have their unique reference IDs  and each of these will be running in their own separate namespace with their own file system changes</strong>.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>If you try running "<strong>ifconfig</strong>" in all these 4 containers, you will find that all of these 4 containers have different <strong>eth0 inet address.</strong></li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:image {"id":488,"sizeSlug":"large"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/screenshot-from-2019-07-30-23-27-13.png" alt="" class="wp-image-488" /><br />
+<figcaption>The <strong>Ovals shows the four different eth0 inet addresses</strong> and the <strong>arrow shows the Unique-ID's of  individual 4 containers</strong>.</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>And, here I finish with my final goal of the day i.e</em><strong><em>. having multiple light virtual machines running at the same time.</em></strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p> Yay! :D</p>
+<p><!-- /wp:paragraph --></p>
