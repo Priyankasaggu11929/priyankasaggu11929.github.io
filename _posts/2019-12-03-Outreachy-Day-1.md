@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Outreachy - Day 1!"
+title: "Outreachy - Week 1, Day 1!"
 description: "The Progress report of Day 1 of work for Outreachy Program."
 category: Outreachy
 tags: [Outreachy, GNOME, GTranslator, Internship, Daily-Progress]
