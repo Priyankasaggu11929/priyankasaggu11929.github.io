@@ -9,10 +9,11 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 
 count =0
 for root, dirs, files in os.walk(dir_path):
-    for file in files:
-        if file.startswith(yesterday):
-            file=str(file.strip(".md"))
-            count = int(file[-1])
+    for fi in files:
+        if fi.startswith(yesterday) and fi.endswith(".md"):
+            fi = str(fi.strip(".md"))
+            print(fi)
+            count = int(fi[-1])
 
 count+=1
 today = date.today()
@@ -22,7 +23,7 @@ title = str(today)+"-Outreachy-Day-"+str(count)+".md"
 print(title)
 
 if not path.exists(title):
-    file = open(title,"w")
+    fi = open(title,"w")
     date = today.strftime("%B %d, %Y")
     data ="""---
 layout: post
@@ -42,11 +43,11 @@ comments: false
 
 -
 
-Till next time. o/
+Till tomorrow. o/
 
 """
-    file.write(data)
-    file.close()
+    fi.write(data)
+    fi.close()
 
 subprocess.call(['vim', title])
 
