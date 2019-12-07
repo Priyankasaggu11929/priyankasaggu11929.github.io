@@ -3,7 +3,7 @@ layout: post
 title: "Outreachy - Week 01, Day 01!"
 description: "The Progress report of Day 1 of work for Outreachy Program."
 category: Outreachy
-tags: [Outreachy, GNOME, GTranslator, Internship, Daily-Progress]
+tags: [Outreachy, GNOME, GTranslator, Internship, Weekly-Progress]
 comments: false
 ---
 
