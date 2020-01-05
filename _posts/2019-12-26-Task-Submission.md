@@ -368,7 +368,7 @@ This scaling basically creates 2 new pods and try to remove the 1 old post (so, 
 
 2. The **Velero** backup should be stored inside an external storage volume but having lack of cloud storage resources, I was not able to achieve it.
 
-## Some tools that I tried.
+## Some other tools that I tried.
 
 - Minikube
 - Kubdeadm
