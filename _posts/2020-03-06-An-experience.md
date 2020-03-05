@@ -54,4 +54,4 @@ So, I am pasting here one of my replies from the [Outreachy](https://outreachy.o
 > 
 > But this is not the end. Though I'm joining one of the company soon after Outreachy, my long-term goal is to work as a remote full-time employee in an open-source project.
 
-Thanks for this suggestion, [jasonbraganza](https://janusworx.com/)!
+Thank you, [jasonbraganza](https://janusworx.com/) for telling me to do this!
