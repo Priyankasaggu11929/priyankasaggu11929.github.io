@@ -54,4 +54,10 @@ So, I am pasting here one of my replies from the [Outreachy](https://outreachy.o
 > 
 > But this is not the end. Though I'm joining one of the company soon after Outreachy, my long-term goal is to work as a remote full-time employee in an open-source project.
 
-Thank you, [jasonbraganza](https://janusworx.com/) for telling me to do this!
+Thank you [jasonbraganza](https://janusworx.com/), for being the best mentor.
+
+Want to read more of his own words? It's [here](https://janusworx.com/). 
+
+As he says
+
+> [They are free, but definitely not cheap :)](https://janusworx.com/free-not-cheap/)
