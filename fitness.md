@@ -39,4 +39,4 @@ Okay, let's start:
 
 ***
 
-*A big thanks to **[jasonbraganza](https://janusworx.com/)** because I copied this idea (and even the pattern) from his [super inspiring journey](https://ele.janusworx.com/tags/mjbgettingfit).*
+*A big thanks to **[jasonbraganza](https://janusworx.com/)** because I copied this idea (and even the pattern) from his [super inspiring journey](https://ele.janusworx.com/@jason/103395142013327506).*
