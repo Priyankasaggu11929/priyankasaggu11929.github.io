@@ -24,6 +24,22 @@ Okay, let's start:
 
 ---
 
+*April 18, 2019*
+
+    - cw: 83.3 kgs (2020/04/18)
+
+    - gw1: 81 kgs
+    - gw2: 78 kgs
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Some fat loss, some muscle gain and I'm half a kilo down too. That's exactly how I want it to happen. </sub>
+<sub>And the best part, I didn't miss my 15-20 min exercise at all. \o/</sub>
+
+---
+
 *April 11, 2019*
 
     - cw: 83.8 kgs (2020/04/11)
