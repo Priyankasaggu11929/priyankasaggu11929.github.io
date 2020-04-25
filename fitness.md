@@ -24,6 +24,21 @@ Okay, let's start:
 
 ---
 
+*April 25, 2020*
+
+    - cw: 82.3 kgs (2020/04/25)
+
+    - gw1: 81 kgs
+    - gw2: 78 kgs
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>It was a *total* frustrating week. I'm trying to be more patient with the process though. </sub>
+<sub>Lost a kilo weight, accompanied by muscle loss & just a little fat loss. And I missed 2 days of exercise, so that counts for 5/7. Really need to work more towards being consistent.</sub>
+---
+
 *April 18, 2020*
 
     - cw: 83.3 kgs (2020/04/18)
