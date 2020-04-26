@@ -29,31 +29,31 @@ I was able to deploy a private dataproc cluster, but was not able to achieve the
 
 The jinja template I wrote for the above use-case, looked like this:
 
-```
+```yaml
 resources:
 - name: Dataproc-cluster
   type: gcp-types/dataproc-v1:projects.regions.clusters
   properties:
-    region: {{ properties["region"] }}
-    projectId: {{ env["project"] }}
-    clusterName: {{ clusterName }}
+    region: { { properties["region"] }}
+    projectId: { { env["project"]|safe }}
+    clusterName: { { clusterName|safe }}
     config:
       configBucket: example-bucket
       gceClusterConfig:
-        zoneUri: https://www.googleapis.com/compute/v1/projects/{{ env["project"] }}/zones/{{ properties["zone"] }}
+        zoneUri: https://www.googleapis.com/compute/v1/projects/{ { env["project"]|safe }}/zones/{ { properties["zone"]|safe }}
         tags: 
         - example-firewall-rule
-        subnetworkUri: https://www.googleapis.com/compute/v1/projects/{{ env["project"] }}/regions//{{ properties["zone"] }}/subnetworks/example-subnet-1
+        subnetworkUri: https://www.googleapis.com/compute/v1/projects/{ { env["project"]|safe }}/regions/{ { properties["zone"]|safe }}/subnetworks/example-subnet-1
         internalIpOnly: true
       masterConfig:
         numInstances: 1
-        machineTypeUri: https://www.googleapis.com/compute/v1/projects/{{ env["project"] }}/zones/{{ properties["zone"] }}/machineTypes/n1-standard-2
+        machineTypeUri: https://www.googleapis.com/compute/v1/projects/{ { env["project"]|safe }}/zones/{ { properties["zone"]|safe }}/machineTypes/n1-standard-2
         diskConfig:
           bootDiskSizeGb: 200
           bootDiskType: pd-ssd
       workerConfig:
         numInstances: 2
-        machineTypeUri: https://www.googleapis.com/compute/v1/projects/{{ env["project"] }}/zones/{{ properties["zone"] }}/machineTypes/n1-standard-2
+        machineTypeUri: https://www.googleapis.com/compute/v1/projects/{ { env["project"]|safe }}/zones/{ { properties["zone"]|safe }}/machineTypes/n1-standard-2
         diskConfig: 
           bootDiskSizeGb: 200
           bootDiskType: pd-ssd
@@ -93,7 +93,7 @@ And that is where our above template doesn't work the intended way. Ideally, it 
 
 After doing endless research on it, I had no option left but to finally raise it as an issue on the [deploymentmanager-samples Github repository](https://github.com/GoogleCloudPlatform/deploymentmanager-samples/issues/546).
 
-And there, [Adam Ocsvari(https://github.com/ocsig)](https://github.com/ocsig) nicely explained and pointed it out:
+And there, [Adam Ocsvari(ocsig)](https://github.com/ocsig) nicely explained and pointed it out:
 
 > The Google Analytics(GA) API does NOT support PRESTO, but only the BETA API does. But unfortunately, there is no any official GCP type provider released for `dataproc-v1beta`.
 > So, the final solution comes out to be writing a custom GCP type provider to achieve the same.
@@ -170,26 +170,26 @@ resources:
 - name: Dataproc-cluster
   type: my-project-name/dataproc-v1beta:projects.regions.clusters
   properties:
-    region: {{ properties["region"] }}
-    projectId: {{ env["project"] }}
-    clusterName: {{ clusterName }}
+    region: { { properties["region"]|safe }}
+    projectId: { { env["project"]|safe }}
+    clusterName: { { clusterName|safe }}
     config:
       configBucket: example-bucket
       gceClusterConfig:
-        zoneUri: https://www.googleapis.com/compute/v1/projects/{{ env["project"] }}/zones/{{ properties["zone"] }}
+        zoneUri: https://www.googleapis.com/compute/v1/projects/{ { env["project"]|safe }}/zones/{ { properties["zone"]|safe }}
         tags: 
         - example-firewall-02
-        subnetworkUri: https://www.googleapis.com/compute/v1/projects/{{ env["project"] }}/regions//{{ properties["zone"] }}/subnetworks/example-subnet-1
+        subnetworkUri: https://www.googleapis.com/compute/v1/projects/{ { env["project"]|safe }}/regions//{ { properties["zone"]|safe }}/subnetworks/example-subnet-1
         internalIpOnly: true
       masterConfig:
         numInstances: 1
-        machineTypeUri: https://www.googleapis.com/compute/v1/projects/{{ env["project"] }}/zones/{{ properties["zone"] }}/machineTypes/n1-standard-2
+        machineTypeUri: https://www.googleapis.com/compute/v1/projects/{ { env["project"]|safe }}/zones/{ { properties["zone"]|safe }}/machineTypes/n1-standard-2
         diskConfig:
           bootDiskSizeGb: 200
           bootDiskType: pd-ssd
       workerConfig:
         numInstances: 2
-        machineTypeUri: https://www.googleapis.com/compute/v1/projects/{{ env["project"] }}/zones/{{ properties["zone"] }}/machineTypes/n1-standard-2
+        machineTypeUri: https://www.googleapis.com/compute/v1/projects/{ { env["project"]|safe }}/zones/{ { properties["zone"]|safe }}/machineTypes/n1-standard-2
         diskConfig: 
           bootDiskSizeGb: 200
           bootDiskType: pd-ssd
