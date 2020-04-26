@@ -5,9 +5,9 @@ title: About
 
 ***Hello, I'm Priyanka Saggu.***
 
-I'm in my process of learning everyday. 
+<sub>I'm in my process of learning everyday.</sub>
 
-But to give a little excerpt from the learnings so far, here is who I'm:
+<sub>But to give a little excerpt from the learnings so far, here is who I'm:</sub>
 
 - <sub> A rsesourceful DevOps enthusiast, having experience working with highly distributed infrastructure on hybrid cloud platforms.</sub> 
 - <sub> While my internship at [Atlan](https://atlan.com), I’ve been working on writing fully automated product releases, with zero interference on the client enterprise end. 
