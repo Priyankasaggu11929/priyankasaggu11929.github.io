@@ -5,7 +5,7 @@ title: About
 
 ***Hello, I'm Priyanka Saggu.***
 
-<sub>I'm in my process of learning everyday.</sub>
+<sub> And I'm in my process of learning everyday.</sub>
 
 <sub>But to give a little excerpt from the learnings so far, here is who I'm:</sub>
 
