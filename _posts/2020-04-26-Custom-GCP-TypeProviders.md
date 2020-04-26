@@ -109,7 +109,7 @@ The steps goes like the following:
 - **Step1**: Create an `options` file, say `dataproc-v1beta.type.yaml` and paste the following contents in there.
 
 
-```
+```yaml
 options:
     inputMappings:
         - fieldName: Authorization
@@ -165,7 +165,7 @@ Created type_provider [dataproc-v1beta]
 
 - **Step 4**: Then create a jinja template file, say `dataproc.jinja` and paste the following (replace `my-project-name` with the correct project id):
 
-```
+```yaml
 resources:
 - name: Dataproc-cluster
   type: my-project-name/dataproc-v1beta:projects.regions.clusters
@@ -200,7 +200,7 @@ resources:
 ```
 - **Step 5**: Write a `config.yaml` (to test the above jinja template) as following:
 
-```
+```yaml
 imports:
 - path: dataproc.jinja
 
