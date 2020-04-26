@@ -3,7 +3,7 @@ layout: post
 title: "Automating private dataproc cluster deployment having Presto Installation (on GCP)!"
 description: "Writing custom type-providers for PRESTO installation on DataProc Cluster."
 category: Writing
-tags: [GCP, GCP-TypeProviders, PRESTO, DataProc, Cloud, Deployment-manager]
+tags: [GCP, GCP-Type-Providers, PRESTO, DataProc, Cloud, Deployment-manager]
 comments: false
 ---
 
