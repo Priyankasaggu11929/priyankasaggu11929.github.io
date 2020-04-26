@@ -234,10 +234,8 @@ And that's all about it. If everything goes well, you will have a successful dat
 ### REFERENCES:
 
 - [1] Github Issue: [Presto not getting deployed with `type: gcp-types/dataproc-v1:projects.regions.clusters` #546](https://github.com/GoogleCloudPlatform/deploymentmanager-samples/issues/546)
-- [2] Discovery Document: (https://dataproc.googleapis.com/$discovery/rest?version=v1beta2)[https://dataproc.googleapis.com/$discovery/rest?version=v1beta2]
+- [2] Discovery Document: https://dataproc.googleapis.com/$discovery/rest?version=v1beta2
 - [3] [Cloud Dataproc API](https://cloud.google.com/dataproc/docs/reference/rest)
 - [4] [Adding an API as a Type Provider](https://cloud.google.com/deployment-manager/docs/configuration/type-providers/creating-type-provider)
 - [5] [dataproc-v1](https://cloud.google.com/dataproc/docs/reference/rest/v1/ClusterConfig#Component)
 - [6] [dataproc-v1beta2](https://cloud.google.com/dataproc/docs/reference/rest/v1beta2/ClusterConfig#Component)
-
-
