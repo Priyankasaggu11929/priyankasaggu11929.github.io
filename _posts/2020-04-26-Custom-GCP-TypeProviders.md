@@ -63,7 +63,9 @@ resources:
         - PRESTO
 ```
 
-If you see the third line above, I have used a `type: gcp-types/dataproc-v1:projects.regions.clusters` field under the `resources:` section. The value of this `type:` field is generally what is known as a ***GCP type provider***. 
+If you see the third line above, I have used a `type: gcp-types/dataproc-v1:projects.regions.clusters` field under the `resources:` section. 
+
+The value of this `type:` field is generally what is known as a ***GCP type provider***. 
 
 > A type provider exposes all resources of a third-party API to Deployment Manager as base types that you can use in your configurations. These types must be directly served by a RESTful API that supports Create, Read, Update, and Delete (CRUD)
 >
