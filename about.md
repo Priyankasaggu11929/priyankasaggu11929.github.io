@@ -3,13 +3,23 @@ layout: page
 title: About
 ---
 
-Hi, I'm Priyanka Saggu.
+***Hello, I'm Priyanka Saggu.***
 
-Resourceful DevOps enthusiast, having experience working with highly distributed infrastructure on hybrid cloud platforms. During the internship at Atlan, I’ve been working on writing fully automated product releases, with zero interference on the client enterprise end. As a summer trainee at Dgplug, I have set up and managed multiple Linux-based servers. Wrote Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers. Have experience with On-Prem deployment environments using Rancher. And I’m an Outreachy’19 alum at GNOME Foundation too.
+I'm in the process of learning everyday. 
 
-You can check my resume [here](https://priyankasaggu11929.github.io/resume/).
+But to give a little excerpt from the learnings so far, here is who I'm:
 
-The internet has accumulated plenty of my fingerprints, some of which you can find in these places:
+1. <sub>A rsesourceful DevOps enthusiast, having experience working with highly distributed infrastructure on hybrid cloud platforms.</sub> 
+2. <sub>While my internship at [Atlan](https://atlan.com), I’ve been working on writing fully automated product releases, with zero interference on the client enterprise end. 
+3. <sub>As a summer trainee at Dgplug, I've learnt
+    - <sub>how to set up and manage multiple Linux-based servers. (Actually, dgplug is from where all my DevOps learning started :))</sub>
+    - <sub>how to write Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers.</sub>
+    - <sub>how to manage multi-cluster (micro-services) applications in an On-Premise Deployment setup. Further expanding to Cluster (and other included resources) monitoring, health-checks, alerts, managing updates/upgrades and finally Disaster Recovery (basically backup and restore mechanism).</sub>
+4. <sub>And I’m an [Outreachy’19 alum at GNOME Foundation](https://www.outreachy.org/alums/) too.</sub>
+
+<sub>And the resume is [here](https://priyankasaggu11929.github.io/resume/).</sub>
+
+<sub>The internet has accumulated plenty of my other fingerprints too, some of which you can find in these places:</sub>
 
 <p class="social-icons">
   <a href="https://twitter.com/PriyankaSaggu4"><i class="fab fa-twitter fa-2x"></i></a>
@@ -20,4 +30,4 @@ The internet has accumulated plenty of my fingerprints, some of which you can fi
 </p>
 
 
-Thanks for reading!
+<sub>Thanks for reading!</sub>
