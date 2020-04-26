@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automating private dataproc cluster having Presto Installation on GCP!"
+title: "Automating private dataproc cluster deployment having Presto Installation (on GCP)!"
 description: "Writing custom type-providers for PRESTO installation on DataProc Cluster."
 category: Writing
 tags: [GCP, GCP-TypeProviders, PRESTO, DataProc, Cloud, Deployment-manager]
@@ -18,6 +18,7 @@ Although Python is definitely one amongst the most readable languages, but in th
 Okay, I think this was a quick good intro to what I was trying to achieve that time. But this post actually focus more to provide a solution to one of the problems I faced during the time.
 
 #### Problem Statement:
+
 During the process, it required me to deploy a private dataproc cluster having a Presto installation on it. Doing it from the GCP UI, was pretty straight forward. But, (as per my use-case) I was to write a Jinja template to achieve this *private dataproc cluster with Presto installation* deployment using deployment-manager. And this was not happening for me, the intended way.
 
 I was able to deploy a private dataproc cluster, but was not able to achieve the Presto installation part on it.
@@ -26,11 +27,10 @@ I was able to deploy a private dataproc cluster, but was not able to achieve the
 
 The jinja template I wrote for the above use-case looked like this:
 
-```
-{% set clusterName = (env["deployment"] + "-dataproc-cluster") %}
 
+```
 resources:
-- name: {{ clusterName }}
+- name: Dataproc-cluster
   type: gcp-types/dataproc-v1:projects.regions.clusters
   properties:
     region: {{ properties["region"] }}
@@ -156,10 +156,8 @@ Created type_provider [dataproc-v1beta]
 - **Step 4**: Then create a jinja template file, say `dataproc.jinja` and paste the following (replace `my-project-name` with the correct project id):
 
 ```
-{% set clusterName = (env["deployment"] + "-dataproc-cluster") %}
-
 resources:
-- name: {{ clusterName }}
+- name: Dataproc-cluster
   type: my-project-name/dataproc-v1beta:projects.regions.clusters
   properties:
     region: {{ properties["region"] }}
