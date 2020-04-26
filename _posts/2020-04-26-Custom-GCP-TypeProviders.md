@@ -217,6 +217,7 @@ resources:
 ```
 cloud deployment-manager deployments create test-dataproc --config=config.yaml
 ```
+---
 
 Ok, it is still highly probable that you might end up getting an error which looks like this
 
@@ -227,9 +228,15 @@ message: Required 'deploymentmanager.typeProviders.get' permission for '{{servic
 
 This is because, your project doesn't have `deploymentmanager.typeProviders.get` role/permission assigned to your deployment manager service account.
 
-So, you need to set-up/assign this role or any similar superior role to the deployment manager service account & it should definitely start working for you.
+So, you need to set-up/assign this role or any [similar superior role](https://cloud.google.com/iam/docs/understanding-roles#deployment-manager-roles) to the deployment manager service account & it should definitely start working for you.
 
-And that's all about it. If everything goes well, you will have a successful dataproc cluster deployment having a PRESTO installation on it.
+And that's all about it. If everything goes well, you will have a successful dataproc cluster deployment having a PRESTO installation on it, in the end.
+
+*If you still find hard debugging the issues during the process, this issue[1] covers a really detailed troubleshooting discussion around the use-case.*
+
+That's all for now. 
+
+Till next time o/
 
 ### REFERENCES:
 
