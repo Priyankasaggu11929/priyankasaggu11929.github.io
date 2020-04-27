@@ -159,7 +159,7 @@ Waiting for insert [operation-1584697838999-5a14637c5191b-9deb0532-b1336e26]...d
 Created type_provider [dataproc-v1beta]
 ```
 
-    - Once this custom GCP type provider `dataproc-v1beta` is created successfully, It will be available for use (just like any other official type provider) in the scope of the GCP project.
+- Once this custom GCP type provider `dataproc-v1beta` is created successfully, It will be available for use (just like any other official type provider) in the scope of the GCP project.
 
 - **Step 3**: Now use the custom type provider as `type: {my-project-id}/dataproc-v1beta:projects.regions.clusters` where `{my-project-id}` is the id of your currently active GCP project (where you want to deploy the private dataproc cluster with Presto installation).
 
