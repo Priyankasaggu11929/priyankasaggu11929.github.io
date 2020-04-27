@@ -7,7 +7,7 @@ tags: [GCP, GCP-Type-Providers, Postgres, Cloud-SQL, Cloud, Deployment-manager, 
 comments: false
 ---
 
-April 26, 2020
+April 27, 2020
 
 Yesterday, I wrote a post around [writing custom GCP type providers](https://priyankasaggu11929.github.io/writing/2020/04/26/Custom-GCP-TypeProviders.html). 
 
