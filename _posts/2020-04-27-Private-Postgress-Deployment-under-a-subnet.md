@@ -13,7 +13,7 @@ Yesterday, I wrote a post around [writing custom GCP type providers](https://pri
 
 That post basically provided a solution to one of the problems I faced while deploying a resource (*a private dataproc cluster with a Presto installation on it*) on GCP for which there was no official GCP type provider available.
 
-Today's post is just an extension with a similar use-case where again, I needed to write a custom GCP type provider, to solve the issue.
+Today's post is just an extension with a similar use-case, where again, I needed to write a custom GCP type provider, to solve the issue.
 
 ---
 
