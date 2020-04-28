@@ -52,12 +52,12 @@ This time, I will go on the solution part directly.
 
 ## Solution:
 
-***Note: The solution below includes the entire process of creating:
-1. A VPC Network
-2. Network Subnets
-3. VPC Network Peering (achieved by custom type-provider)
-4. Google Managed Services
-5. Postgres Cloud-SQL instance with a database & root user***
+***Note: The solution below includes the entire process of creating:***
+1. ***A VPC Network***
+2. ***Network Subnets***
+3. ***VPC Network Peering (achieved by custom type-provider)***
+4. ***Google Managed Services***
+5. ***Postgres Cloud-SQL instance with a database & root user***
 
 - **Step1:** Create an `options.yaml` file with the following contents:
 
@@ -235,7 +235,7 @@ That's all for this time. \o/
 
 ### REFERENCES:
 
-- [1] Github thread: (Private VPC Peering for Cloud SQL is not supported by deployment manager #549)[https://github.com/GoogleCloudPlatform/deploymentmanager-samples/issues/549]
+- [1] Github thread: [Private VPC Peering for Cloud SQL is not supported by deployment manager#549](https://github.com/GoogleCloudPlatform/deploymentmanager-samples/issues/549)
 - [2] Discovery Document: [https://servicenetworking.googleapis.com/$discovery/rest?version=v1](https://servicenetworking.googleapis.com/$discovery/rest?version=v1)
 - [3] [Service Network API](https://cloud.google.com/service-infrastructure/docs/service-networking/reference/rest)
 
