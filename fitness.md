@@ -24,6 +24,62 @@ Okay, let's start:
 
 ---
 
+*May 2, 2020*
+
+    - cw: 81.0 kgs (2020/05/02)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Here I go! 🎉️</sub>
+
+<sub>Yesterday, (even after a gradual weight loss throughout the week) I gained a good odd 600gms of weight, which eventually made me lose all my hope for achieving the first gw today.</sub>
+
+<sub>But it happened *today* and I'm very happy about it. :)</sub>
+
+*<sub>TIL, how good it is to divide the journey into multiple small milestones. If it wasn't the first milestone, I wouldn't have acknowledged my own efforts. </sub>*
+
+<sub>Anyways, a very bad record of exercise this week (2/7 if I do it today). I was super lethargic all throughout the week due to poor sleeping hours or I don't know what.</sub>
+ 
+***<sub>Ok, no more excuses now. I will do better this week. :)</sub>***
+
+---
+
+*April 25, 2020*
+
+    - cw: 82.3 kgs (2020/04/25)
+
+    - gw1: 81 kgs
+    - gw2: 78 kgs
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>It was a *total* frustrating week. I'm trying to be more patient with the process though. </sub>
+<sub>Lost a kilo weight, accompanied by muscle loss & just a little fat loss. And I missed 2 days of exercise, so that counts for 5/7. Really need to work more towards being consistent.</sub>
+---
+*April 25, 2020*
+
+    - cw: 82.3 kgs (2020/04/25)
+
+    - gw1: 81 kgs
+    - gw2: 78 kgs
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>It was a *total* frustrating week. I'm trying to be more patient with the process though. </sub>
+<sub>Lost a kilo weight, accompanied by muscle loss & just a little fat loss. And I missed 2 days of exercise, so that counts for 5/7. Really need to work more towards being consistent.</sub>
+---
+<sub>Ok, it's an excuse. I'll do better this week.</sub>
+---
+
 *April 25, 2020*
 
     - cw: 82.3 kgs (2020/04/25)
