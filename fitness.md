@@ -35,7 +35,7 @@ Okay, let's start:
     - gw5: 70 kgs
     - gw6: 67 kgs
 
-<sub>Here I go! 🎉️</sub>
+<sub>Here I go! (lost 1.3 kgs) 🎉️</sub>
 
 <sub>Yesterday, (even after a gradual weight loss throughout the week) I gained a good odd 600gms of weight, which eventually made me lose all my hope for achieving the first gw today.</sub>
 
