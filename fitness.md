@@ -61,6 +61,7 @@ Okay, let's start:
     - gw6: 67 kgs
 
 <sub>It was a *total* frustrating week. I'm trying to be more patient with the process though. </sub>
+
 <sub>Lost a kilo weight, accompanied by muscle loss & just a little fat loss. And I missed 2 days of exercise, so that counts for 5/7. Really need to work more towards being consistent.</sub>
 
 ---
@@ -77,6 +78,7 @@ Okay, let's start:
     - gw6: 67 kgs
 
 <sub>Some fat loss, some muscle gain and I'm half a kilo down too. That's exactly how I want it to happen. </sub>
+
 <sub>And the best part, I didn't miss my 15-20 min exercise at all. \o/</sub>
 
 ---
