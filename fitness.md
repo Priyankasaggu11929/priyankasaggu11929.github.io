@@ -24,6 +24,28 @@ Okay, let's start:
 
 ---
 
+*May 9, 2020*
+
+    - cw: 80.4 kgs (2020/05/09)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Ok'ish week.</sub>
+
+<sub>600gms down from last week although. But it was a *veeeeery slow process* this time. </sub>
+
+<sub>Although, a good thing happened. I slid down to *Overweight* range from *too high*. I mean I'm still overweight but that is much much much better than falling above that.</sub>
+
+<sub>That's all. No good progress in the exercise. I think my body needs more rest & energy than I'm getting these days.</sub>
+
+*<sub>I have to be really patient on this journey.</sub>*
+---
+
 *May 2, 2020*
 
     - cw: 81.0 kgs (2020/05/02)
