@@ -37,7 +37,7 @@ Okay, let's start:
 
 <sub>Ok'ish week.</sub>
 
-<sub>600gms down from last week although. But it was a *veeeeery slow process* this time. </sub>
+<sub>600gms down from last week. But it was a *veeeeery slow process* this time. </sub>
 
 <sub>Although, a good thing happened. I slid down to *Overweight* range from *too high*. I mean I'm still overweight but that is much much much better than falling above that.</sub>
 
