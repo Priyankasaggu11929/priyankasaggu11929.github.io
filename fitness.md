@@ -43,7 +43,8 @@ Okay, let's start:
 
 <sub>That's all. No good progress in the exercise. I think my body needs more rest & energy than I'm getting these days.</sub>
 
-*<sub>I have to be really patient on this journey.</sub>*
+*<sub>I'm realising everyday that I need to be really patient on this journey.</sub>*
+
 ---
 
 *May 2, 2020*
