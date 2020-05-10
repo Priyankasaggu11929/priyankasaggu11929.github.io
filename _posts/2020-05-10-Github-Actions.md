@@ -15,7 +15,7 @@ Too tired to write a detailed technical blogpost today. So, will try to keep it 
 
 I gave my first ever talk yesterday. It finally happened! (*this is a note for myself* :P). 
 
-I procastinated for how long I don't even remember now. Even I don't know if it was just procastination or was accompanied by my some more lame thoughts & nervoursness. ***But, it happened finally and I am really happy about it.*** :)
+I procastinated for how long I don't even remember now. Even I don't know if it was just procastination or was accompanied by my some more lame thoughts & nervousness. ***But, it happened finally and I am really happy about it.*** :)
 
 A big *thanks* to *Mridu Bhatnagar*, who very kindly offered me her slot & that's how I just got this very impromptu chance of presenting a talk at *Pyladies Delhi online meetup*. Thank you soooo much. 🙏️
 
