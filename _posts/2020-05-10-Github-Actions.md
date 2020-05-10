@@ -46,4 +46,24 @@ Overall, it's a nice & sleek user experience!
 
 That's all for this time. 
 
-(*I didn't want to break my writing streak. So, this is to make sure that something goes onto my blog once every 2 weeks. 🙂️*) 
+(*I didn't want to break my writing streak. So, this is to make sure that something goes onto my blog once every 2 weeks. 🙂️*)
+
+---
+
+Actually, I came back here to write this part. :D
+
+I just felt like adding a lil bit more about the day. 
+
+Today is **Mother's day**! (*and I'm **glad** it is sunday*) 
+
+I cooked a hell lot of food for my mother & family today. 
+
+All three meals & some more extras. A looot of food, yes. XD. (But, I didn't eat anything out of that 😅️)
+
+I realised I simply *love* cooking for my family. We're five & this lockdown is the only reason we're getting to spend some time together. 
+
+Otherwise, every single of us stays alone, either because of work or study, and now my sister is married, so that is another reason.
+
+But definitely, this lockdown condition (because of Coronavirus), is hard for everyone. 
+
+I wish & I pray things get better soon!
