@@ -52,17 +52,15 @@ That's all for this time.
 
 Actually, I came back here to write this part. :D
 
-I just felt like adding a lil bit more about the day. 
+I just felt like adding a lil bit more about my day. 
 
 Today is **Mother's day**! (*and I'm **glad** it is sunday*) 
 
 I cooked a hell lot of food for my mother & family today. 
 
-All three meals & some more extras. A looot of food, yes. XD. (But, I didn't eat anything out of that 😅️)
+All three meals & some more extras. A looot of food, yes. XD. (Although, I didn't eat anything out of that 😅️. Cause, I'm on my journey to [improving myself](https://priyankasaggu11929.github.io/fitness.html).)
 
-I realised I simply *love* cooking for my family. We're five & this lockdown is the only reason we're getting to spend some time together. 
-
-Otherwise, every single of us stays alone, either because of work or study, and now my sister is married, so that is another reason.
+I realised I simply *love* cooking for my family. We're five & this lockdown is the only reason we're getting to spend some time together. Otherwise, every single of us stays alone, either because of work or study, and now my sister is married, so that is another reason.
 
 But definitely, this lockdown condition (because of Coronavirus), is hard for everyone. 
 
