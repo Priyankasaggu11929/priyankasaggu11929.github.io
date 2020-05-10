@@ -26,9 +26,11 @@ Ok, so actually the talk was about ***Introduction to Github Actions***, followe
 
 I just haven't got enough time to prepare nicely for the talk. So, whatever I delivered was more of a last minute thing.
 
-But this one time (talk) only, gave me a good enough confidence to apply, share & present more in the coming times.
+But this one time (talk) only, gave me a good enough experience & confidence to apply, share & present more in the coming times.
 
 I hope to speak more now!
+
+(*The talk was recorded. So, I might put a public link to the recorded talk here, later.*)
 
 ---
 
