@@ -11,9 +11,11 @@ April 26, 2020
 
 A few weeks back, I was working on writing automation templates, for achieving a *one click deployment* of the entire [Atlan](https://atlan.com) stack, on Google Cloud Platform(GCP).
 
+And writing automation templates here, basically, meant writing Infrastructure as Code (Iac).
+
 Here, the good part is that GCP has its own internal tool/software, called [deployment-manager](https://cloud.google.com/deployment-manager), for writing Infrastructure-as-Code(IaC). It supports automation using Jinja & Python templates.
 
-I chose to write all my templates using Jinja. Because Jinja templates are far more readable in this case (in comparision to Python templates). These are (almost) similar to JSON configuration description of the resource (to be deployed).
+I chose to write all my templates using Jinja. Because Jinja templates are far more readable in this case (also, in comparision to Python templates). These templates are (almost) similar to JSON configuration description of the resource (to be deployed).
 
 Okay, I think this was a quick good intro to what I was trying to achieve that time. But this post actually focuses more on providing a solution to one of the problems, I faced during the time.
 
