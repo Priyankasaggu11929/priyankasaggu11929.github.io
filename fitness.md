@@ -26,6 +26,8 @@ Okay, let's start:
 
 *May 15, 2020*
 
+**<sub>Early update!</sub>**
+
     - cw: 78.6 kgs (2020/05/15)
 
     - gw1: 81 kgs ✔️
@@ -34,8 +36,6 @@ Okay, let's start:
     - gw4: 73 kgs
     - gw5: 70 kgs
     - gw6: 67 kgs
-
-**<sub>Early update!</sub>**
 
 ![progress](assets/progress.jpeg)
 
