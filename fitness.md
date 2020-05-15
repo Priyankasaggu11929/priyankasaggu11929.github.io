@@ -24,6 +24,31 @@ Okay, let's start:
 
 ---
 
+*May 15, 2020*
+
+    - cw: 78.6 kgs (2020/05/15)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+**<sub>Early update!</sub>**
+
+![progress](assets/progress.jpeg)
+
+<sub>I've lost 10kgs from the day I came back home in March(due to the lockdown), which means, I'm 14.5 kgs down from the starting weight & 17.1 kgs down from the highest weight (from nov,2019).</sub>
+
+<sub>These number makes me super proud of myself today.</sub>
+
+*<sub> This is much much mucccch more than the highest weight I have ever lost in one go.</sub>*
+
+<sub>In additon, my metabolic age on scale slid down by 1. So, 29 from 30. It took me almost 7 months to get this 1 unit down. :)</sub>
+
+---
+
 *May 9, 2020*
 
     - cw: 80.4 kgs (2020/05/09)

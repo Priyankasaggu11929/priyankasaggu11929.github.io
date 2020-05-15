@@ -11,7 +11,7 @@ April 26, 2020
 
 A few weeks back, I was working on writing automation templates, for achieving a *one click deployment* of the entire [Atlan](https://atlan.com) stack, on Google Cloud Platform(GCP).
 
-And writing automation templates here, basically, meant writing Infrastructure as Code (Iac).
+And writing automation templates here, basically, meant writing Infrastructure as Code (IaC).
 
 Here, the good part is that GCP has its own internal tool/software, called [deployment-manager](https://cloud.google.com/deployment-manager), for writing Infrastructure-as-Code(IaC). It supports automation using Jinja & Python templates.
 
