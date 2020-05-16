@@ -37,9 +37,10 @@ Okay, let's start:
 
 <sub>This week marked the best progress so far. I lost 2 kilos of weight. And also came much close to my second goal weight.</sub>
 
-<sub>I am happy!:)</sub>
+<sub>I am happy! :)</sub>
 
 <sub>And I'm even more motivated to keep doing my work! \o/</sub>
+
 ---
 
 *May 15, 2020*
@@ -59,7 +60,7 @@ Okay, let's start:
 
 *<sub>(The weight loss is uncertain. Who knows if the number goes up again. So, I decided to celebrate today's victory today itself.)</sub>*
 
-<sub>I've lost 10kgs from the day I came back home in March(due to the lockdown), which means, I'm 14.5 kgs down from the starting weight & 17.1 kgs down from the highest weight (from nov,2019).</sub>
+<sub>I've lost 10kgs from the day I came back home in March(due to the lockdown). Which also means, I'm 14.5 kgs down from the starting weight & 17.1 kgs down from the highest weight (from nov,2019).</sub>
 
 <sub>These number makes me super proud of myself today.🙂️</sub>
 
