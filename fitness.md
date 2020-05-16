@@ -24,6 +24,24 @@ Okay, let's start:
 
 ---
 
+*May 16, 2020*
+
+    - cw: 78.4 kgs (2020/05/16)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>This week marked the best progress so far. I lost 2 kilos of weight. And also came much close to my second goal weight.</sub>
+
+<sub>I am happy!:)</sub>
+
+<sub>And I'm even more motivated to keep doing my work! \o/</sub>
+---
+
 *May 15, 2020*
 
 **<sub>Early update!</sub>**
