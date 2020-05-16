@@ -39,7 +39,7 @@ Okay, let's start:
 
 <sub>I am happy! :)</sub>
 
-<sub>And I'm even more motivated to keep doing my work! \o/</sub>
+<sub>And now, I'm even more motivated to keep doing my work! \o/</sub>
 
 ---
 
