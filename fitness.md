@@ -24,6 +24,12 @@ Okay, let's start:
 
 ---
 
+*May 17, 2020*
+
+The *Subcutaneous Fat(%)* turned to *Normal* today. And that becomes my first *red to green* slide. 🎉️
+
+---
+
 *May 16, 2020*
 
     - cw: 78.4 kgs (2020/05/16)
