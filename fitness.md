@@ -41,7 +41,7 @@ The *Subcutaneous Fat(%)* turned to *Normal* today. And that becomes my first *r
     - gw5: 70 kgs
     - gw6: 67 kgs
 
-<sub>This week marked the best progress so far. I lost 2 kilos of weight. And also came much close to my second goal weight.</sub>
+<sub>This week marked the best progress so far. I lost 2 kilos of weight in a week. And also came much close to my second goal weight.</sub>
 
 <sub>I am happy! :)</sub>
 
