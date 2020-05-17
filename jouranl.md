@@ -16,9 +16,6 @@ heading: ""
 
 <sub>After seeing the [fitness](https://priyankasaggu11929.github.io/fitness.html) page getting slowly filled with something to read from my own life, now, I feel I should have a space for writing my all other bitter-sweet moments (from my life) too.</sub>
 
-<sub>I'm feeling really positive about it. It's because somehow I've ***finally*** build-up this feeling that I *should* write ***just for myself*** too.</sub>
+<sub>I'm feeling really positive about it. It's because somehow I've ***finally*** build-up this feeling that I *should* write ***just for myself*** too (*Just to keep myself motivated & my future-self aware of the things happening right now.*)</sub>
 
-<sub>*Just to keep myself motivated & my future-self aware of the things happening right now.* :)</sub>
-
-<sub>Besides, Today I started my day with [this podcast](https://overcast.fm/+Kebtj4G94) from *Tim Ferris with Elizabeth Gilbert*. And my biggest takeaway was this extremely useful phrase/reply, **Thank you and no!**. (* This simple phrase is meant to save from giving explanations/reasons to extra-smart-manipulating people*)</sub>
-- 
+<sub>Besides, Today I started my day with [this podcast](https://overcast.fm/+Kebtj4G94) from *Tim Ferris with Elizabeth Gilbert*. And my biggest takeaway was this extremely useful phrase/reply, **Thank you and no!**. (* This simple phrase is meant to save from giving explanations/reasons to extra-smart-manipulating people*)</sub> 
