@@ -15,11 +15,11 @@ title: About
     - <sub>how to set up and manage multiple Linux-based servers. (Actually, dgplug is from where all my DevOps learning started :))</sub>
     - <sub>how to write Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers.</sub>
     - <sub>how to manage multi-cluster (micro-services) applications in an On-Premise Deployment setup. Further expanding to Cluster (and other included resources) monitoring, health-checks, alerts, managing updates/upgrades and finally Disaster Recovery (basically backup and restore mechanism).</sub>
-- <sub>And I’m an [Outreachy’19 alum at GNOME Foundation](https://www.outreachy.org/alums/) too.</sub>
+- <sub>And I’m an [Outreachy’19 alumna at GNOME Foundation](https://www.outreachy.org/alums/) too.</sub>
 
-<sub>And the resume is [here](https://priyankasaggu11929.github.io/resume/).</sub>
+<sub>Checkout my resume [here](https://priyankasaggu11929.github.io/resume/).</sub>
 
-<sub>The internet has accumulated plenty of my other fingerprints too, some of which you can find in these places:</sub>
+<sub>Find me at other places:</sub>
 
 <p class="social-icons">
   <a href="https://twitter.com/PriyankaSaggu4"><i class="fab fa-twitter fa-2x"></i></a>
