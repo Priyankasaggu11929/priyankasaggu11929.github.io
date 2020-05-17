@@ -26,7 +26,7 @@ Okay, let's start:
 
 *May 17, 2020*
 
-The *Subcutaneous Fat(%)* turned to *Normal* today. And that becomes my first *red to green* slide. 🎉️
+<sub>The *Subcutaneous Fat(%)* turned to *Normal* today. And that becomes my first *red to green* slide. 🎉️</sub>
 
 ---
 
