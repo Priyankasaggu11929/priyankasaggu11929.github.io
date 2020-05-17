@@ -4,7 +4,7 @@ title: Personal Journal
 heading: ""
 ---
 
-***A space for me, to free myself from the silent struggle of writing a whole blogpost, even if I just want to write down a single line of thought.***
+***A space for me, to free myself from the silent struggle of writing a whole blogpost, when I just want to write down a single line of thought.***
 
 ***This is my personal journal where I wish (and want) to lay down something everyday!***
 
