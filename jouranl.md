@@ -19,3 +19,6 @@ heading: ""
 <sub>I'm feeling really positive about it. It's because somehow I've ***finally*** build-up this feeling that I *should* write ***just for myself*** too.</sub>
 
 <sub>*Just to keep myself motivated & my future-self aware of the things happening right now.* :)</sub>
+
+<sub>Besides, Today I started my day with [this podcast](https://overcast.fm/+Kebtj4G94) from *Tim Ferris with Elizabeth Gilbert*. And my biggest takeaway was this extremely useful phrase/reply, **Thank you and no!**. (* This simple phrase is meant to save from giving explanations/reasons to extra-smart-manipulating people*)</sub>
+- 
