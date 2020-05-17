@@ -66,7 +66,7 @@ Okay, let's start:
 
 *<sub>(The weight loss is uncertain. Who knows if the number goes up again. So, I decided to celebrate today's victory today itself.)</sub>*
 
-<sub>I've lost 10kgs from the day I came back home in March(due to the lockdown). Which also means, I'm 14.5 kgs down from the starting weight & 17.1 kgs down from the highest weight (from nov,2019).</sub>
+<sub>I've lost 10kgs from the day I came back home in March (due to the lockdown). Which also means, I'm 14.5 kgs down from the starting weight & 17.1 kgs down from the highest weight (from nov, 2019).</sub>
 
 <sub>These number makes me super proud of myself today.🙂️</sub>
 
