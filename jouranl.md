@@ -20,7 +20,7 @@ heading: ""
 
 <sub>Today was a busy day. Hopefully, will slowly start implementing this from tomorrow.</sub>
 
-<sub>Just came across [this tweet](https://twitter.com/IanColdwater/status/1262237918309109760). It reminds me again, I've to be really thoughful about my own decisions too.</sub>
+<sub>Just came across [this tweet](https://twitter.com/IanColdwater/status/1262237918309109760). Reminded me once again that I've to be really thoughful about my own decisions too.</sub>
 
 ---
 
