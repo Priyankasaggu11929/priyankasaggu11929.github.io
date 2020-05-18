@@ -20,6 +20,8 @@ heading: ""
 
 <sub>Today was a busy day. Hopefully, will slowly start implementing this from tomorrow.</sub>
 
+<sub>Just came across [this tweet](https://twitter.com/IanColdwater/status/1262237918309109760). It reminds me again, I've to be really thoughful about my own decisions too.</sub>
+
 ---
 
 *May 17, 2020*
