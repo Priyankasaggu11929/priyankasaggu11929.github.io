@@ -12,7 +12,7 @@ heading: ""
 
 *May 18, 2020*
 
-<sub>Started the day with the audio-book ***[The Subtle Art of Not Giving a F*ck](https://www.youtube.com/watch?v=uFZjtyJ10x8)*** by Mark manson.</sub>
+<sub>Started the day with the audio-book ***[The Subtle Art of Not Giving a F*ck](https://www.youtube.com/watch?v=uFZjtyJ10x8)*** by *Mark Manson*.</sub>
 
 <sub>I wanted to write down my own book notes for the sake of my memory, but couldn't figure out how to do that while listening to an audio book. So, for now will be using my mentor's notes from [here](https://mjbraganza.com/the-subtle-art-of-not-giving-a-f-ck/#fnref:1).</sub> 
 
