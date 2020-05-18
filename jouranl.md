@@ -16,9 +16,9 @@ heading: ""
 
 <sub>I wanted to write down my own book notes for the sake of my memory, but couldn't figure out how to do that while listening to an audio book. So, for now will be using my mentor's notes from [here](https://mjbraganza.com/the-subtle-art-of-not-giving-a-f-ck/#fnref:1).</sub> 
 
-<sub>The office working hours were peaceful today. I finished most of my tasks. Also came across this repository [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) for expanding my little kubernetes knowledge onto deeper sides (a senior colleague pointed this out).</sub>
+<sub>The office working hours were peaceful today. I finished most of my tasks. Also came across this repository [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) for expanding my little kubernetes knowledge onto really deeper architecture's side (a senior colleague pointed this out).</sub>
 
-<sub>Today was a busy day. Will slowly start implementing this from tomorrow.</sub>
+<sub>Today was a busy day. Hopefully, will slowly start implementing this from tomorrow.</sub>
 
 ---
 
