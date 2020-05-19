@@ -24,6 +24,16 @@ heading: ""
 
 <sub>I'm still thinking what parts I can include here itself but *morning pages* is what I'm definitely looking to move forward with.</sub>
 
+<sub>***[00:39 am] Finishing the day now...***</sub>
+
+<sub>Fortunately, Office hours were peaceful today. Although leaving very late, but have finished all my tasks for the day.</sub>
+
+<sub>Happy that finally my concepts are getting nicely cleared.</sub>
+
+<sub>The best thing from the day is that I've finally gained some muscles today with equivalent fat loss.</sub>
+
+<sub>I still missed my personal work commitments. Need to really prioritise them in life.</sub>
+
 ---
 
 ## *May 18, 2020*
