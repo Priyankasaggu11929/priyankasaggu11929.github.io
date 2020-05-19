@@ -10,6 +10,22 @@ heading: ""
 
 ---
 
+*May 19, 2020*
+
+<sub>Trying to build this habit of feeding my brain with something good (and something that I can start applying to improve me) every morning now.</sub>
+
+<sub>Today's good feed: [How I Journal and Take Notes | Brainstorming + Focusing + Reducing Anxiety | Tim Ferriss](https://www.youtube.com/watch?v=UFdR8w_R1HA)</sub>
+
+<sub>And the takeaways:</sub>
+- <sub>Do crazy quick brainstorming with yourself, to lay down all the crazy quick thoughts on some specific usecase.</sub>
+- <sub>Writing ***morning Pages*** (for reducing anxiety at the very start of day itself).</sub>
+- <sub>Discrete bullet points for, `what went well during the day?`, `what I'm grateful to?` and `How could I've made today better?`.</sub>
+- <sub>And last, doing all 3 of them at one time is not required. But just one at a time will definitely help in future.</sub>
+
+<sub>I'm still thinking what parts I can include here itself but *morning pages* is what I'm definitely looking to move forward with.</sub>
+
+---
+
 *May 18, 2020*
 
 <sub>Started the day with the audio-book ***[The Subtle Art of Not Giving a F*ck](https://www.youtube.com/watch?v=uFZjtyJ10x8)*** by *Mark Manson*.</sub>
