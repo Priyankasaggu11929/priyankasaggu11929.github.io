@@ -10,7 +10,7 @@ heading: ""
 
 ---
 
-# *May 19, 2020*
+## *May 19, 2020*
 
 <sub>Trying to build this habit of feeding my brain with something good (and something that I can start applying to improve me) every morning now.</sub>
 
@@ -26,7 +26,7 @@ heading: ""
 
 ---
 
-*May 18, 2020*
+## *May 18, 2020*
 
 <sub>Started the day with the audio-book ***[The Subtle Art of Not Giving a F*ck](https://www.youtube.com/watch?v=uFZjtyJ10x8)*** by *Mark Manson*.</sub>
 
@@ -40,7 +40,7 @@ heading: ""
 
 ---
 
-*May 17, 2020*
+## *May 17, 2020*
 
 <sub>Finally, I have my personal journal space.</sub>
 
