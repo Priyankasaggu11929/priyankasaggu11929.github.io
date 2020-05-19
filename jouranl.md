@@ -10,7 +10,7 @@ heading: ""
 
 ---
 
-*May 19, 2020*
+# *May 19, 2020*
 
 <sub>Trying to build this habit of feeding my brain with something good (and something that I can start applying to improve me) every morning now.</sub>
 
