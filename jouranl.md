@@ -14,7 +14,7 @@ heading: ""
 
 <sub>***[09:48 am] A good start of the day...***</sub>
 
-<sub>Watched a video about [evening routine of Tim Ferris](https://www.youtube.com/watch?v=eLYqhezACpc). I really have no idea if I could follow it any time soon in my life, but maybe someday I can come up with my own version of it. (Sadly, I'm missing the idea around that video and getting highly deviated towards working hard to get that much of luxury life someday. Yes, that's my plan :D )</sub>
+<sub>Watched a video about [evening routine of Tim Ferris](https://www.youtube.com/watch?v=eLYqhezACpc). I really have no idea if I could follow it any time soon in my life, but maybe someday I can come up with my own version of it. (Sadly, I'm missing the idea around that video and getting highly deviated towards *working hard* to get that much of luxury life someday. Actually yes, that *is* my plan :D )</sub>
 
 <sub>Today's good feed happened just out of nowhere. I was reading one of the tweets around #100daysofJobSearch, and I found this *Ramit Sethi's* video on [How to write a Winning Resume](https://www.youtube.com/watch?v=_0fjkKCsM1w) in one of the threads. Although, I didn't see myself writing a new resume anytime before watching this video. Now, I think I'll definitely go back and check where I can improve (While I'm actually a little happy with the way my current resume is, because I see that also includes a little narrative. Certainly, I don't think that is the best one, but definitely the best one I've come up with, so far & feel quite confident while sharing. I'm actually looking forward to improving it with the learnings from *Ramit Sethi's* (dated) resume. Yes, his dated resume also speaks a *looot*.)</sub>
 
