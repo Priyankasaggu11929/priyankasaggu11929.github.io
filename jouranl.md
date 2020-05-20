@@ -24,7 +24,7 @@ heading: ""
 
 <sub>(*Okay, honestly speaking, the intent for reading the book was not to learn Python, but just to start reading some book. I know a little bit of Python to get my work done somehow, definitely after tinkering for almost everything on internet. But now, I think It's interesting to know the fundamentals, to get to know about things that I never knew before. For instance,  Python is named after the British Comedy group, Monty Python. Yes, I look forward to learning more about the technical fundamentals as I read it through (hopefully).*)</sub>
 
-
+<sub>And thanks, jasonbraganza for the book (and books). I finally started reading it today.</sub>
 ---
 
 ## *May 19, 2020*
