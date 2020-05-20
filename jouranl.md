@@ -26,6 +26,16 @@ heading: ""
 
 <sub>And thanks, jasonbraganza for the book (and books). I finally started reading it today.</sub>
 
+<sub>***[11:06 pm] Finally logged off from work...***</sub>
+
+<sub>Very sleepy now. Not a productive working day. Kept struggling all day to focus & finally when I managed to focus, my body just started feeling super sleepy.</sub>
+
+<sub>Wrote my first ever cover letter today. I'm happy the way it turned out. But I admit, writing resume or a cover letter or an essay type application is still really very hard for me. I loose all my vocabulary (whatsoever I have at other times) when I've to write about my own experiences, skills & stuff. But I think a work commitment helps here. It just bound me to do the work.</sub>
+
+<sub>Apart from that, today I finally went back to a couple of folks, expressing my long pending gratitude for the help, guidance & pointers I'd received from them in past months. I realise a simple vote of thanks makes both the ends really happy & acknowledged. :)</sub>
+
+<sub>It would have been much better today, if I had proper focus during the working hours. Just lacked some self-motivation to work. But actually it's ok. Today was one such odd lazy day. Hopefully, I will do better tomorrow!</sub>
+
 ---
 
 ## *May 19, 2020*
