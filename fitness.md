@@ -41,6 +41,8 @@ Okay, let's start:
 
 <sub>Knocked down my second goal weight today. And my metabolic age on scale also turned down to 28. I am double happy. :D</sub>
 
+<sub>Although, I have a long journey yet to cover, I've come a long way since november last year. :)</sub>
+
 ---
 
 *May 17, 2020*
