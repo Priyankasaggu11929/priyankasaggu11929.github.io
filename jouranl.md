@@ -28,13 +28,13 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 <sub>I'm super proud (yes, ofcourse of myself :p)! I finished reading another chapter "How Python Runs Program" from *"Learning Python by Mark Lutz"* (oh, I still remeber the author's name XD).</sub>
 
 <sub>Today I learnt about *Python's view* of program execution, thus, learnt about *Byte Code Compilation* & *Python Virtual Machine (PVM)*. Then had a brief intro to some of the *Python Implementation Alternative* like:</sub>
-- <sub>CPython (the standard implementation of Python that we mostly encounter as the pre-installed python in our (linux/mac OS) systems)</sub>
+- <sub>CPython (the standard implementation of Python that we mostly encounter as the pre-installed Python in our (linux/mac OS) systems)</sub>
 - <sub>JPython (Python for Java)</sub>
 - <sub>IronPython (Python for .NET)</sub>
 - <sub>Stackless (Python for concurrency)</sub>
 - <sub>PyPy (Python for speed)</sub>
 
-<sub>Then a little bit about *Execution Optimization Tools* like Cython (a Python C hybrid), Shed Skin (a Python-to-C++ translator) and Pysco (the original just-in-time compiler) which is no longer maintained & mostly logistically incorporated into the more complete PyPy system. And finally ended knowing about *Frozen Binaries* that bundle together the byte code of the program files, along with the PVM(interpreter) & any Python support files the program needs, into a single binary executable program/package.</sub>
+<sub>Then a little bit about *Execution Optimization Tools* like Cython (a Python C hybrid), Shed Skin (a Python-to-C++ translator) and Pysco (the original just-in-time compiler) which is no longer maintained & mostly logistically incorporated into the more complete PyPy system. And finally ended knowing about *Frozen Binaries* that bundle together the byte code of the program files, along with the PVM (interpreter) & any Python support files the program needs, into a single binary executable program/package.</sub>
 
 <sub>I'm definitely learning a lot, even from my small reading time. Totally enjoying it!</sub>
 
