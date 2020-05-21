@@ -10,6 +10,36 @@ heading: ""
 
 ---
 
+## *May 21, 2020*
+
+<sub>***[10:58 am] Not so late (but late) start of the day...***</sub>
+
+<sub>I'm done with writing my morning pages. I'm happy atleast I kept it for the second day now. I hope I'll continue!</sub>
+
+<sub>Today's good feed comes all the way from *Richard Feynman*. I spent about an hour reading lots of tweets from his twitter account [here](https://twitter.com/ProfFeynman?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). I realised even few words of great wisdom in a sentence teaches enormously.</sub>
+
+<sub>This one stuck my attention for the most (I even shared in the working slack & few folks thanked me for sharing it there)</sub>
+
+<sub>***The more you know, the more you know what you don’t know! 
+What you know is inside a circle, what you don't know is outside of it. The circumference is what you know you don't know. As your knowledge grows, the circle grows and the circumference expands.***<sub>
+
+![What-you-know-you-don't-know](https://pbs.twimg.com/media/ETcHRYaUMAANaEH.jpg)
+
+<sub>I'm super proud (yes, ofcourse of myself :p)! I finished reading another chapter "How Python Runs Program" from *"Learning Python by Mark Lutz"* (oh, I still remeber the author's name XD). Today I learnt </sub>
+
+<sub>Today I learnt about *Python's view* of program execution, thus, learnt about *Byte Code Compilation* & *Python Virtual Machine (PVM)*. Then had a brief intro to some of the *Python Implementation Alternative* like:</sub>
+- <sub>CPython (the standard implementation of Python that we mostly encounter as the pre-installed python in our (linux/mac OS) systems)</sub>
+- <sub>JPython (Python for Java)</sub>
+- <sub>IronPython (Python for .NET)</sub>
+- <sub>Stackless (Python for concurrency)</sub>
+- <sub>PyPy (Python for speed)</sub>
+
+<sub>Then a little bit about *Execution Optimization Tools* like Cython (a Python C hybrid), Shed Skin (a Python-to-C++ translator) and Pysco (the original just-in-time compiler) which is no longer maintained & mostly logistically incorporated into the more complete PyPy system. And finally ended knowing about *Frozen Binaries* that bundle together the byte code of the program files, along with the PVM(interpreter) & any Python support files the program needs, into a single binary executable program/package.</sub>
+
+<sub>I'm definitely learning a lot, even from my small reading time. Totally enjoying it!</sub>
+
+---
+
 ## *May 20, 2020*
 
 <sub>***[09:48 am] A good start of the day...***</sub>
