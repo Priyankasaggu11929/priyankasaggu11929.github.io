@@ -25,7 +25,7 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 
 ![What-you-know-you-don't-know](https://pbs.twimg.com/media/ETcHRYaUMAANaEH.jpg)
 
-<sub>I'm super proud (yes, ofcourse of myself :p)! I finished reading another chapter "How Python Runs Program" from *"Learning Python by Mark Lutz"* (oh, I still remeber the author's name XD). Today I learnt </sub>
+<sub>I'm super proud (yes, ofcourse of myself :p)! I finished reading another chapter "How Python Runs Program" from *"Learning Python by Mark Lutz"* (oh, I still remeber the author's name XD).</sub>
 
 <sub>Today I learnt about *Python's view* of program execution, thus, learnt about *Byte Code Compilation* & *Python Virtual Machine (PVM)*. Then had a brief intro to some of the *Python Implementation Alternative* like:</sub>
 - <sub>CPython (the standard implementation of Python that we mostly encounter as the pre-installed python in our (linux/mac OS) systems)</sub>
