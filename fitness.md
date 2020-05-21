@@ -24,6 +24,25 @@ Okay, let's start:
 
 ---
 
+*May 21, 2020*
+
+**<sub>Mid-week update!</sub>**
+
+    - cw: 77.8 kgs (2020/05/21)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Yipeee! \o/</sub>
+
+<sub>Knocked down my second goal weight today. And my metabolic age on scale also turned down to 28. I am double happy. :D</sub>
+
+---
+
 *May 17, 2020*
 
 <sub>The *Subcutaneous Fat(%)* turned to *Normal* today. And that becomes my first *red to green* slide. 🎉️</sub>
