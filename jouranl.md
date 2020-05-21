@@ -38,6 +38,23 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 
 <sub>I'm definitely learning a lot, even from my small reading time. Totally enjoying it!</sub>
 
+<sub>***[00:02 am] Wrapping up work now...***</sub>
+
+<sub>Ok, I was able to work properly (I mean I had my focus in place). Although couldn't finish my stuffs, but I learnt a lot. Today, it was all about setting up the observability part of the stack, thus, more of making grafana dashboards for loki as data-source for metrics, querying logs for certain field specific data.</sub>
+
+<sub>The entire day went into learning, then re-learning, exploring more & finally just relasing that it was not enough. So, will give another good try tomorrow.</sub>
+
+<sub>Apart from work, today, a couple of good things happened.</sub>
+
+- <sub>I got an appreciating message from a friend on twitter, for the fitness logging I do around my weight loss journey. It was a really satisfying feeling for the reason that something like my (fitness) journey could be impressive to others. Truly, it was a happy moment for me. :)</sub>
+- <sub>And then the best thing of the day. I got to have a quick, short & a really extremely wonderful coversation with ***Mark Rushing*** (*Public Cloud IaaS Service Owner, Citi*). I consider reaching out to him as one of the best things I've done so far for myself (this was the first time I actually reached out to someone without knowing them at all). And I think, it was *totally* worth it.</sub>
+
+<sub>This impromptu meeting happened during the networking hours of the [cloud native virtual festival, "Software Circus: Down the Rabbit Hole"](https://www.softwarecircus.io/)). I got to gather a looot in a very short time. All from the intro to the DevOps, the work we do, the culture, tools, platforms, practices we follow, and then some really great resources for learning, pointers to explore, a quick nice bit about jobs & corresponding requirements, fundamentals around the domain & I think a lot more too. He was very nice with his time, words & guidance, and with sharing his life & work experience around many things. It couldn't have been any better in that short period of time.</sub>
+
+<sub>Lastly, I was happy today because I touched my second goal weight & turned an year younger on my scale. :)</sub>
+
+<sub>It was a good day overall!</sub>
+
 ---
 
 ## *May 20, 2020*
