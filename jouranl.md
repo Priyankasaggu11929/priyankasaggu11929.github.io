@@ -51,7 +51,7 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 
 <sub>This impromptu meeting happened during the networking hours of the [cloud native virtual festival, "Software Circus: Down the Rabbit Hole"](https://www.softwarecircus.io/)). I got to gather a looot in a very short time. All from the intro to the DevOps, the work we do, the culture, tools, platforms, practices we follow, and then some really great resources for learning & pointers to explore, a quick nice bit about jobs & corresponding requirements, fundamentals around the domain & I think a lot more too. The biggest takeway was his teachings around the importance of collaboration & communication (especially in DevOps). He was incredibly nice with his time, words & guidance, and with sharing his life & work experience around many things. It couldn't have been any better in that short period of time.</sub>
 
-<sub>Lastly, I was happy today because I touched my second goal weight & turned an year younger in my metabolic age on scale (although that way I'm 6 years older than my actual age). But there are improvements & I take them as my small & steady wins. :)</sub>
+<sub>Lastly, I was happy today because I touched my second goal weight & turned an year younger in my metabolic age, on the scale. Although that way I'm still 6 years older than my actual age, but there are improvements & I take them as my small & steady wins. :)</sub>
 
 <sub>It was a good day overall!</sub>
 
@@ -71,7 +71,7 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 
 <sub>(*Okay, honestly speaking, the intent for reading the book was not to learn Python, but just to start reading some book. I know a little bit of Python to get my work done somehow, definitely after tinkering for almost everything on internet. But now, I think It's interesting to know the fundamentals, to get to know about things that I never knew before. For instance,  Python is named after the British Comedy group, Monty Python. So, now, I look forward to learning more about the technical fundamentals as I read it through (hopefully).*)</sub>
 
-<sub>And thanks, jasonbraganza for the book (and books). I finally started reading it today.</sub>
+<sub>And thanks jasonbraganza, for the book (and books). I finally started reading it today.</sub>
 
 <sub>***[11:06 pm] Finally logged off from work...***</sub>
 
@@ -133,6 +133,6 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 
 <sub>I'm feeling really positive about it. It's because somehow I've ***finally*** build-up this feeling that I *should* write ***just for myself*** too (*Just to keep myself motivated & my future-self aware of the things happening right now.*)</sub>
 
-<sub>Besides, Today I started my day with [this podcast](https://overcast.fm/+Kebtj4G94) from *Tim Ferris with Elizabeth Gilbert*. And my biggest takeaway was this extremely useful phrase/reply, **Thank you and no!**</sub>
+<sub>Besides, today I started my day with [this podcast](https://overcast.fm/+Kebtj4G94) from *Tim Ferris with Elizabeth Gilbert*. And my biggest takeaway was this extremely useful phrase/reply, **Thank you and no!**</sub>
 
 <sub>(*A simple phrase meant to save me from giving any explanations/reasons to the extra-smart-manipulative people while answering them, a straightaway gentle no!*)</sub> 
