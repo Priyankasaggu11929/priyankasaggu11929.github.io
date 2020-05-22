@@ -26,7 +26,7 @@ heading: ""
 
 <sub>So far, it's going good. :)</sub>
 
-<sub>***[21:29 am] Wrapping up early today...***</sub>
+<sub>***[21:29 pm] Wrapping up early today...***</sub>
 
 <sub>No good progress today. More research & some more learning. I think this weekend is not gonna be an actual weekend. There is a lot of work. And on top of that, I have a lot to learn first. Sometimes, I feel I don't know anything only, so, how the heck I will ever be a good addition to the team. Everything seems so overwhelmingly complex to me.</sub> 
 
@@ -56,6 +56,10 @@ heading: ""
 - <sub>Or JUST GO BACK TO THE DESK & *WORK*!</sub>
 
 <sub>Ok, I think that's more than enough (for me) for today. 😅️ 😂️</sub>
+
+<sub>***[23:08 pm] Came back to write this...***</sub>
+
+<sub>Now, I'm sad. Just because of my bs procastination, I missed uploading a simple cover letter & I lost a really awesome opportunity. A big lesson learnt today, never take your opportunities forgranted. Never ever!</sub>
 
 ---
 
