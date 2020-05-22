@@ -38,7 +38,7 @@ heading: ""
 
 <sub>One very critically important thing that I'm slowly realising now, is that I've to keep my *hobbyist learnings* strictly away from my *working hours*. Being happy achieving something in that hobby work doesn't mean that I keep celebrating the happiness for the entire day & not doing my work only.</sub> 
 
-<sub>***With no *damn excuses*, I have to make sure that these distractions are stricly eliminated now.***</sub>
+<sub>***With no damn excuses now, I have to make sure that these distractions are stricly eliminated!***</sub>
 
 <sub>What else from today?</sub>
 
