@@ -59,7 +59,7 @@ heading: ""
 
 <sub>***[23:08 pm] Came back to write this...***</sub>
 
-<sub>Now, I'm sad. Just because of my bs procastination, I missed uploading a simple cover letter & I lost a really awesome opportunity. A big lesson learnt today, never take your opportunities forgranted. Never ever!</sub>
+<sub>Now, I'm sad. Just because of my bs procastination, I missed uploading a simple cover letter & I lost a really awesome opportunity. A big lesson learnt today, never take your opportunities forgranted, and above that, never procastinate when it comes to stuff like these. Never ever!</sub>
 
 ---
 
