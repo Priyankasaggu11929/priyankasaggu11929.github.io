@@ -10,6 +10,24 @@ heading: ""
 
 ---
 
+## *May 22, 2020*
+
+<sub>***[15:21 pm] Finally writing the first half here...***</sub>
+
+<sub>I woke up early, first at 6, then at 8, did something (maybe scrolled through twitter, or through youtube), started listening to this podcast from [Tim Ferris with Kevin Hart](https://tim.blog/2020/05/20/kevin-hart/), but slept back again in midway and finally then woke up at 10:10 am.</sub>
+
+<sub>As usual (or actually my 3 days old usual), I started reading chapter 3, "*How you run programs*" from **Learning Python** by Mark Lutz. Finished some 10 pages (5 leaves) and left. Wrote my morning pages (today they actually became late morning pages, but anyways I kept the streak).</sub>
+
+<sub>Finally after so long, got to talk to my mentor a bit (and that ultimately became my good feed (and the best thing) for the day). :)</sub>
+
+<sub>Started working late today, around 1:45 pm. I had to prepare, cook & then eat, apart from the time to all the good habits I am trying to build now-a-days.</sub>
+
+<sub>Mom's got injured yesterday. And so, when I had to do a couple more things with my new usuals, I realised it's hard, it's *real* hard to handle everything at once (even my *everything* was nothing of a big deal, but just to cook some food and that's all). Also, it's not that I don't cook, I actually cook every single day but then at these times mom is well, and so everything looks super cool.</sub>
+
+<sub>So far, it's going good. :)</sub>
+
+---
+
 ## *May 21, 2020*
 
 <sub>***[10:58 am] Not so late (but late) start of the day...***</sub>
@@ -49,7 +67,7 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 - <sub>I got an appreciating message from a friend on twitter, for the [fitness logging](https://priyankasaggu11929.github.io/fitness.html) I do around my weight loss journey. It was a really satisfying feeling for the reason that something like my (fitness) journey could be impressive to others. Truly, it was a happy moment for me. :)</sub>
 - <sub>And then the best thing of the day. I got to have a quick, short & a really extremely wonderful coversation with ***Mark Rushing*** (*Public Cloud IaaS Service Owner, Citi*). I consider reaching out to him as one of the best things I've done so far for myself (this was the first time I actually reached out to someone without knowing them at all). And I think, it was *totally* worth it.</sub>
 
-<sub>This impromptu meeting happened during the networking hours of the [cloud native virtual festival, "Software Circus: Down the Rabbit Hole"](https://www.softwarecircus.io/)). I got to gather a looot in a very short time. All from the intro to the DevOps, the work we do, the culture, tools, platforms, practices we follow, and then some really great resources for learning & pointers to explore, a quick nice bit about jobs & corresponding requirements, fundamentals around the domain & I think a lot more too. The biggest takeway was his teachings around the importance of collaboration & communication (especially in DevOps). He was incredibly nice with his time, words & guidance, and with sharing his life & work experience around many things. It couldn't have been any better in that short period of time.</sub>
+<sub>This impromptu meeting happened during the networking hours of the [cloud native virtual festival, "Software Circus: Down the Rabbit Hole"](https://www.softwarecircus.io/). I got to gather a looot in a very short time. All from the intro to the DevOps, the work we do, the culture, tools, platforms, practices we follow, and then some really great resources for learning & pointers to explore, a quick nice bit about jobs & corresponding requirements, fundamentals around the domain & I think a lot more too. The biggest takeway was his teachings around the importance of collaboration & communication (especially in DevOps). He was incredibly nice with his time, words & guidance, and with sharing his life & work experience around many things. It couldn't have been any better in that short period of time.</sub>
 
 <sub>Lastly, I was happy today because I touched my second goal weight & turned an year younger in my metabolic age, on the scale. Although that way I'm still 6 years older than my actual age, but there are improvements & I take them as my small & steady wins. :)</sub>
 
