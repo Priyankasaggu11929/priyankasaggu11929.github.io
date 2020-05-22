@@ -48,6 +48,15 @@ heading: ""
 
 <sub>And there is nothing negative about it. It's just that this is the high time for me in my career, and the more sooner I actually start considering these facts, the more better the results would be (for me), later. :)</sub>
 
+<sub>And the last thing (absolutely just for me)!</sub>
+
+<sub>The day you move your working setup to your bed, with not a single second thought, do either of the 2 things:</sub>
+
+- <sub>Take a leave & rest!</sub>
+- <sub>Or JUST GO BACK TO THE DESK & *WORK*!</sub>
+
+<sub>Ok, I think that's more than enough (for me) for today. 😅️ 😂️</sub>
+
 ---
 
 ## *May 21, 2020*
