@@ -26,6 +26,26 @@ heading: ""
 
 <sub>So far, it's going good. :)</sub>
 
+<sub>***[21:29 am] Wrapping up early today...***</sub>
+
+<sub>No good progress today. More research & some more learning. I think this weekend is not gonna be an actual weekend. There is a lot of work. And on top of that, I have a lot to learn first. Sometimes, I feel I don't know anything only, so, how the heck I will ever be a good addition to the team. Everything seems so overwhelmingly complex to me.</sub> 
+
+<sub>But I still believe everything demands it's proper time & lots of patience & practice, to actually start making some sense. And I'm in the process.</sub>
+
+<sub>Sometimes it's really important to understand that not everything is *easy*, and not everything can be learnt & applied in the same way as other things. And in these cases, it requires *time*, it requires *focus* & it requires some *deep work* to actually achieve them.</sub>
+
+<sub>I'm getting more serious about my learnings now. I really need to work hard. I've to keep learning or there is nothing otherwise.</sub>
+
+<sub>One very critically important thing that i'm slowly realising now, is that I've to keep my *hobbyist learnings* strictly away from my *working hours*. Being happy achieving something in that hobby work doesn't mean that I keep celebrating the happiness for the entire day & not doing my work only. With no *damn excuses*, I have to make sure that these distractions are stricly eliminated now.</sub>
+
+<sub>What else from today?</sub>
+
+<sub>I think social media (although I'm using it for gathering productive resources & healthy networking only), but still it is becoming a *real* distraction now. I can't afford to spend my time there when I'm supposed to work. So, I'll be more intentional about my time now.</sub>
+
+<sub>I think I've already laid down a lot of things, to take some immediate *intentional* actions on. So, that is what I'm going to work on now, to make the following days better & more productive. :)</sub>
+
+<sub>And there is nothing negative about it. It's just that this is the high time for me in my career, and the more sooner I actually start considering these facts, the more better the results would be (for me), later. :)</sub>
+
 ---
 
 ## *May 21, 2020*
