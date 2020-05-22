@@ -22,7 +22,7 @@ heading: ""
 
 <sub>Started working late today, around 1:45 pm. I had to prepare, cook & then eat, apart from the time to all the good habits I am trying to build now-a-days.</sub>
 
-<sub>Mom's got injured yesterday. And so, when I had to do a couple more things with my new usuals, I realised it's hard, it's *real* hard to handle everything at once (even my *everything* was nothing of a big deal, but just to cook some food and that's all). Also, it's not that I don't cook, I actually cook every single day but then at these times mom is well, and so everything looks super cool.</sub>
+<sub>Mom's got injured yesterday. And so, when I had to do a couple more things with my new usuals, I realised it's hard, it's *real* hard to handle everything at once (although my *everything* was nothing of a big deal, but just to cook some food and that's all). Also, it's not that I don't cook, I actually cook every single day but then at these times mom is well, and so everything looks super cool.</sub>
 
 <sub>So far, it's going good. :)</sub>
 
