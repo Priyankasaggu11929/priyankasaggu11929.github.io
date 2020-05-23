@@ -65,7 +65,7 @@ But *trust me*. I got a lot more than that.
 
 I got really awesome mentors, got a really awesome community, and got to work on a really awesome project. I built up this whole lot of self confidence in me. I inculcated this habit of asking wherever & whenever I'm stuck. I just got everything from there, everything which once seem *simply* impossible to me.
 
-And yes, later I got a full time job too. (Although don't get mistaken here, the job had directly nothing to do with the Outreachy program. But the idea was that those soft skills which I developed during the outreachy period, seamlessly helped me thoroughout.) :)
+And yes, later I got a full time job too. (Although don't get mistaken here, the job had directly nothing to do with the Outreachy program. But the idea was that those soft skills which I developed during the Outreachy period, seamlessly helped me throughout.) :)
 
 ---
 
