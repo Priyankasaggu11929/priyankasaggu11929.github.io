@@ -7,10 +7,10 @@ title: About
 
 <sub> And I'm in my process of learning everyday.</sub>
 
-<sub>But to give a little excerpt from the learnings so far, here is who I'm:</sub>
+<sub>To give a little excerpt from the learnings so far, here is who I'm:</sub>
 
-- <sub> A rsesourceful DevOps enthusiast, having experience working with highly distributed infrastructure on hybrid cloud platforms.</sub> 
-- <sub> While my internship at [Atlan](https://atlan.com), I’ve been working on writing fully automated product releases, with zero interference on the client enterprise end. 
+- <sub>A rsesourceful DevOps enthusiast, having experience working with highly distributed infrastructure on hybrid cloud platforms.</sub> 
+- <sub> Having an years long experience as a DevOps Engineer, I’ve been writing fully automated product releases, with minimal interference on the client enterprise end.</sub>
 - <sub>  As a summer trainee at Dgplug, I've learnt</sub>
     - <sub>how to set up and manage multiple Linux-based servers. (Actually, dgplug is from where all my DevOps learning started :))</sub>
     - <sub>how to write Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers.</sub>
