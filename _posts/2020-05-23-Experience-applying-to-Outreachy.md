@@ -43,13 +43,13 @@ Now having stated that, let's move to what I am actually supposed to share here.
 
 <sub>Thanks *[jasonbraganza](www.mjbraganza.com)*. You helped me throughout. :)</sub>
 
-***What made you passionate about the project you applied to?***
+***What made me passionate about the project I applied to?***
 
 <sub> GNOME Foundation is one among the most reputed open-source projects. The time when I was looking at the list of the projects available for the internship, I was quite overwhelmed by the names of the huge organisations listed there. So, the only filter I kept for myself was to look for a project that invited total beginners, a project that had a technical stack that might help me in long term, and definitely one thing that I still remember, that I was looking for a project that will help me learn something what I always was scared of even trying. So, the project *gtranslator* just gave me all my checkpoints. It invited beginners who could learn during the internship, then the technical stack was mostly *GTK in Pure C* and finally *C language* was the one that haunted me all throughout my whole life (I mean ok, 5 years out of 22).</sub>
 
 <sub>And later I realised, I chose the best project for me. :)</sub>
 
-***How did you find information?***
+***How did I find information?***
 
 <sub>Internet!</sub>
 
@@ -62,18 +62,18 @@ Now having stated that, let's move to what I am actually supposed to share here.
 <sub>And yes, later I got a full time job too. (Don't get mistaken, the job had nothing to do with outreachy, but I just meant to say, that the soft skills I built during the outreachy period, seamelessly helped me thoroughout.) :)</sub>
 
 
-***Who did you ask questions of when you were stuck?***
+***Who did I ask questions of when I was stuck?***
 
 <sub>I asked my mentors for all my questions. For other non-project related stuff, I approached the Outreachy organisers for help. I remember I reached out to a couple of alums when I had questions regarding a couple of forms that we need to fill during the first 2 weeks of the internship. Everyone was super nice & everyone helped to their level best.</sub>
 
 
-***How did you mentor help you during the application process?***
+***How did my mentor help me during the application process?***
 
 <sub>My mentor *Daniel Garcia Moreno (danigm)* helped me thouroughly. From giving me pointers to getting started with the codebase on the very first day of the initial contribution period, to later giving me simple issues to actually getting started with it, then giving really nice thorough reviews even on all my small contributions, he provided the best possible help that a mentor could do. I thank him profusely for his time that he selflessly gave me through out the Outreachy internship period. I just can't thank him enough, in my words. :)</sub>
 
 <sub>*Daniel Mustieles García (dmustieles)* being the most kind person, he had always been a source of inspiration & motivation even after I finished my internship.</sub>
 
-***What would you tell someone who is worried about applying to Outreachy?***
+***What would I tell someone who is worried about applying to Outreachy?***
 
 <sub>It's not that hard as it looks from outside. If you really want to learn and are motivated enough to devote a good span of your time towards learning more, then don't give it a single second thought. Just apply!</sub>
 
