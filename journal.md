@@ -18,7 +18,7 @@ heading: ""
 
 <sub>I read book notes of **Permanent Record** by *Edward Snowden*, from [here](https://www.ravinderdeol.com/notes/permanent-record-edward-snowden) & then [here](https://goodbooksummary.com/permanent-record-by-edward-snowden-book-summary/). </sub>
 
-<sub>Continued Chapter 3, "How you run Python" of **Learning Python** by Mark Lutz. It's a fairly long chapter. I'll take time to finish, might skip a couple of parts too which I'm fairly aware of now.</sub>
+<sub>Continued Chapter 3, "How you run Python" of **Learning Python** *by Mark Lutz*. It's a fairly long chapter. I'll take time to finish, might skip a couple of parts too which I'm fairly aware of now.</sub>
 
 <sub>Followed by this lovely article, [No You’re Not Bragging And Other Tips for Creating Your Resume](https://levelup.gitconnected.com/no-youre-not-bragging-and-other-tips-for-creating-your-resume-23809d8c8d30) by *Dasani Madipalli*. I felt most connected with these words from her (it's exactly something [what I wrote about myself 3 days back](https://priyankasaggu11929.github.io/journal.html#may-20-2020))</sub>, 
 
@@ -28,7 +28,7 @@ heading: ""
 
 <sub>Today, I finally finished and posted a 5 months old, pending post about my [Outreachy experience](https://priyankasaggu11929.github.io/outreachy/2020/05/23/Experience-applying-to-Outreachy.html). Which means, now, I have my own set of documented answers to the FAQs, folks usually have before applying to Outreachy Program.</sub>
 
-<sub>Later, I also watched this FOSDEM'19 talk, [Designing Command-Line Tools People Love](https://www.youtube.com/watch?v=l89Z0RYseFs) by Carolyn Van Slyck. It was a nice introductory session about how *to build command-line tools that are not only easy to learn, but something that other developers are willing to maintain.*</sub>
+<sub>Later, I also watched this FOSDEM'19 talk, [Designing Command-Line Tools People Love](https://www.youtube.com/watch?v=l89Z0RYseFs) by *Carolyn Van Slyck*. It was a nice introductory session about how *to build command-line tools that are not only easy to learn, but something that other developers are willing to maintain.*</sub>
 
 <sub>And then finally, I had a quick crash session (from work) around the entire kubernetes cluster architecture.</sub>
 
