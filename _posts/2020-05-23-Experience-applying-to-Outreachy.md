@@ -64,7 +64,7 @@ I got really awesome mentors, got a really awesome community, and got to work on
 And yes, later I got a full time job too. (Although don't get mistaken, the job had directily nothing to do with outreachy. But the idea was that those soft skills I built during the outreachy period, seamlessly helped me thoroughout.) :)
 
 
-***Who did I ask questions of when I was stuck?***
+***Who did I ask questions from when I was stuck?***
 
 I asked my mentors for all my questions. For other non-project related stuff, I approached the Outreachy organisers for help. I remember I reached out to a couple of alums too, when I had questions regarding some forms that we needed to fill during the first 2 weeks of the internship (payment & tax related stuff). Everyone was super nice & kind, and everyone helped me to their level best.
 
