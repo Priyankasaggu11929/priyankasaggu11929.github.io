@@ -24,7 +24,7 @@ Okay, let's start:
 
 ---
 
-*May 23, 2020*
+### *May 23, 2020*
 
     - cw: 77.3 kgs (2020/05/23)
 
@@ -41,7 +41,7 @@ Okay, let's start:
 
 ---
 
-*May 21, 2020*
+### *May 21, 2020*
 
 **<sub>Mid-week update!</sub>**
 
