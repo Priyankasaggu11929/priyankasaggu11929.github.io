@@ -45,7 +45,7 @@ Now having stated that, let's move to what I am actually supposed to share here.
 
 ***What made you passionate about the project you applied to?***
 
-<sub> GNOME Foundation is one among the most reputed open-source projects. The time when I was looking at the list of the projects available for the internship, I was quite overwhelmed by the names of the huge organisations listed there. So, the only filter I kept for myself was to look for a project that invited total beginners, a project that had a technical stack that might help me in long term, and definitely one thing that I still remember, that I was looking for a project that will help me learn something I always scared of even trying. So, the project *gtranslator* just gave me all my checkpoints. It invited beginners who could learn during the internship, then the technical stack was mostly *GTK in Pure C* and finally *C language* was the one that haunted me all throughout my whole life (I mean ok, 5 years out of 22).</sub>
+<sub> GNOME Foundation is one among the most reputed open-source projects. The time when I was looking at the list of the projects available for the internship, I was quite overwhelmed by the names of the huge organisations listed there. So, the only filter I kept for myself was to look for a project that invited total beginners, a project that had a technical stack that might help me in long term, and definitely one thing that I still remember, that I was looking for a project that will help me learn something what I always was scared of even trying. So, the project *gtranslator* just gave me all my checkpoints. It invited beginners who could learn during the internship, then the technical stack was mostly *GTK in Pure C* and finally *C language* was the one that haunted me all throughout my whole life (I mean ok, 5 years out of 22).</sub>
 
 <sub>And later I realised, I chose the best project for me. :)</sub>
 
@@ -69,7 +69,7 @@ Now having stated that, let's move to what I am actually supposed to share here.
 
 ***How did you mentor help you during the application process?***
 
-<sub>My mentor *Daniel Garcia Moreno (danigm)* helped me thouroughly. From giving me pointers to getting started with the codebase on the very first day of the initial contribution period, to later giving me simple issues to actually getting started with it, then giving really nice thorough reviews even on all my contributions, he provided the best possible help that a mentor could get. I thank him profusely for his time that he selflessly gave me through out the Outreachy internship period. I just can't thank him enough, in my words. :)</sub>
+<sub>My mentor *Daniel Garcia Moreno (danigm)* helped me thouroughly. From giving me pointers to getting started with the codebase on the very first day of the initial contribution period, to later giving me simple issues to actually getting started with it, then giving really nice thorough reviews even on all my small contributions, he provided the best possible help that a mentor could do. I thank him profusely for his time that he selflessly gave me through out the Outreachy internship period. I just can't thank him enough, in my words. :)</sub>
 
 <sub>*Daniel Mustieles García (dmustieles)* being the most kind person, he had always been a source of inspiration & motivation even after I finished my internship.</sub>
 
