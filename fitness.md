@@ -24,6 +24,23 @@ Okay, let's start:
 
 ---
 
+*May 23, 2020*
+
+    - cw: 77.3 kgs (2020/05/23)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Lost 1.1 kgs since last week. The slope is mostly downwards and that *is* what I'm working for.</sub>
+
+<sub>I'll keep doing my work & I'll keep showing up here. Now, my own logs are turning to be *my* source of inspiration. :)</sub>
+
+---
+
 *May 21, 2020*
 
 **<sub>Mid-week update!</sub>**
