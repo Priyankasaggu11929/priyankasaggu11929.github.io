@@ -43,11 +43,15 @@ I remember the day when [kushal](https://kushaldas.in) gifted me the Raspberry p
 
 Thanks *[jasonbraganza](www.mjbraganza.com)*. You helped me throughout. :)
 
+---
+
 ***What made me passionate about the project I applied to?***
 
  GNOME Foundation is one among the most reputed open-source projects. The time when I was looking at the list of the projects available for the internship, I was quite overwhelmed by the names of the huge organisations listed there. So, the only filter I kept for myself was to look for a project that invited total beginners, a project that had a technical stack that might help me in long term, and definitely one thing that I still remember, that I was looking for a project that will help me learn something what I always was scared of even trying. So, the project *gtranslator* just gave me all my checkpoints. It invited beginners who could learn during the internship, then the technical stack was mostly *GTK in Pure C* and finally *C language* was the one that haunted me all throughout my whole life (I mean ok, 5 years out of 22).
 
 And very soon I realised, I chose the best project for me. :)
+
+---
 
 ***How did I find information?***
 
@@ -63,11 +67,13 @@ I got really awesome mentors, got a really awesome community, and got to work on
 
 And yes, later I got a full time job too. (Although don't get mistaken, the job had directily nothing to do with outreachy. But the idea was that those soft skills I built during the outreachy period, seamlessly helped me thoroughout.) :)
 
+---
 
 ***Who did I ask questions from when I was stuck?***
 
 I asked my mentors for all my questions. For other non-project related stuff, I approached the Outreachy organisers for help. I remember I reached out to a couple of alums too, when I had questions regarding some forms that we needed to fill during the first 2 weeks of the internship (payment & tax related stuff). Everyone was super nice & kind, and everyone helped me to their level best.
 
+---
 
 ***How did my mentor help me during the application process?***
 
@@ -76,6 +82,8 @@ My mentor *Daniel Garcia Moreno (danigm)* helped me thouroughly. From giving me 
 *Daniel Mustieles García (dmustieles)* being the most kind person, he had always been a source of inspiration & motivation even after I finished my internship.
 
 I just can't thank them enough, in my little set of words. :)
+
+---
 
 ***What would I tell someone who is worried about applying to Outreachy?***
 
