@@ -57,19 +57,19 @@ Now having stated that, let's move to what I am actually supposed to share here.
 
 <sub>And that time, the idea was to just learn & gather as much as I can so that later I can put all that learning into finding a full time position.</sub>
 
-<sub>But *trust me*. I got a lot more than that. I got really awesome mentors. I got really awesome community. I got to work on a really awesome project. I build up a whole lot of self confidence. I inculcated this habit of asking whenever I'm stuck. I just got everything from there which seem once impossible to even think for myself.</sub>
+<sub>But *trust me*. I got a lot more than that. I got really awesome mentors. I got a really awesome community. I got to work on a really awesome project. I built up a whole lot of self confidence. I inculcated this habit of asking whenever I'm stuck. I just got everything from there, everything which once seem impossible to me.</sub>
 
-<sub>And yes, later I got a full time job too. (Don't get mistaken, the job had nothing to do with outreachy, but I just meant to say, that the soft skills I built during the outreachy period, seamelessly helped me thoroughout.) :)</sub>
+<sub>And yes, later I got a full time job too. ( Although don't get mistaken, the job had directily nothing to do with outreachy. But I just meant to say that the soft skills I built during the outreachy period, seamelessly helped me thoroughout.) :)</sub>
 
 
 ***Who did I ask questions of when I was stuck?***
 
-<sub>I asked my mentors for all my questions. For other non-project related stuff, I approached the Outreachy organisers for help. I remember I reached out to a couple of alums when I had questions regarding a couple of forms that we need to fill during the first 2 weeks of the internship. Everyone was super nice & everyone helped to their level best.</sub>
+<sub>I asked my mentors for all my questions. For other non-project related stuff, I approached the Outreachy organisers for help. I remember I reached out to a couple of alums when I had questions regarding some forms that we need to fill during the first 2 weeks of the internship (payment & tax related stuff). Everyone was super nice & kind, and everyone helped me to their level best.</sub>
 
 
 ***How did my mentor help me during the application process?***
 
-<sub>My mentor *Daniel Garcia Moreno (danigm)* helped me thouroughly. From giving me pointers to getting started with the codebase on the very first day of the initial contribution period, to later giving me simple issues to actually getting started with it, then giving really nice thorough reviews even on all my small contributions, he provided the best possible help that a mentor could do. I thank him profusely for his time that he selflessly gave me through out the Outreachy internship period. I just can't thank him enough, in my words. :)</sub>
+<sub>My mentor *Daniel Garcia Moreno (danigm)* helped me thouroughly. From giving me pointers to getting started with the codebase, on the very first day of the initial contribution period, to later giving me simple issues to solve in order to *actually* getting started with it, then giving really nice thorough reviews even on all my small contributions. He literally provided me the best possible help that a mentor could do. I thank him profusely for his time that he selflessly gave me through out the Outreachy internship period. I just can't thank him enough, in my little set of words. :)</sub>
 
 <sub>*Daniel Mustieles García (dmustieles)* being the most kind person, he had always been a source of inspiration & motivation even after I finished my internship.</sub>
 
@@ -77,4 +77,4 @@ Now having stated that, let's move to what I am actually supposed to share here.
 
 <sub>It's not that hard as it looks from outside. If you really want to learn and are motivated enough to devote a good span of your time towards learning more, then don't give it a single second thought. Just apply!</sub>
 
-<sub>Write exactly what you want to achieve out of the program in the application, be honest with your time and work commitments and always remember there are really kind people sitting on the other side, who are, by all means, willing to give you a chance to change your lives to a better side.</sub>
+<sub>Write exactly what you want to achieve out of the program in the application, be honest with your time and work commitments and always remember there are really kind people sitting on the other side, who are, by all means, willing to give you a chance to change your lives into a better one.</sub>
