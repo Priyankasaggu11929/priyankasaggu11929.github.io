@@ -62,13 +62,13 @@ Okay, let's start:
 
 ---
 
-*May 17, 2020*
+## *May 17, 2020*
 
 <sub>The *Subcutaneous Fat(%)* turned to *Normal* today. And that becomes my first *red to green* slide. 🎉️</sub>
 
 ---
 
-*May 16, 2020*
+## *May 16, 2020*
 
     - cw: 78.4 kgs (2020/05/16)
 
@@ -87,7 +87,7 @@ Okay, let's start:
 
 ---
 
-*May 15, 2020*
+## *May 15, 2020*
 
 **<sub>Early update!</sub>**
 
@@ -114,7 +114,7 @@ Okay, let's start:
 
 ---
 
-*May 9, 2020*
+## *May 9, 2020*
 
     - cw: 80.4 kgs (2020/05/09)
 
@@ -137,7 +137,7 @@ Okay, let's start:
 
 ---
 
-*May 2, 2020*
+## *May 2, 2020*
 
     - cw: 81.0 kgs (2020/05/02)
 
@@ -162,7 +162,7 @@ Okay, let's start:
 
 ---
 
-*April 25, 2020*
+## *April 25, 2020*
 
     - cw: 82.3 kgs (2020/04/25)
 
@@ -179,7 +179,7 @@ Okay, let's start:
 
 ---
 
-*April 18, 2020*
+## *April 18, 2020*
 
     - cw: 83.3 kgs (2020/04/18)
 
@@ -196,7 +196,7 @@ Okay, let's start:
 
 ---
 
-*April 11, 2019*
+## *April 11, 2019*
 
     - cw: 83.8 kgs (2020/04/11)
 
