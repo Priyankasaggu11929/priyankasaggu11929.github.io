@@ -20,7 +20,7 @@ heading: ""
 
 <sub>Followed by this lovely article, [No You’re Not Bragging And Other Tips for Creating Your Resume](https://levelup.gitconnected.com/no-youre-not-bragging-and-other-tips-for-creating-your-resume-23809d8c8d30) by *Dasani Madipalli*. I felt most connected with these words from her (it's exactly something [what I wrote about myself 3 days back](https://priyankasaggu11929.github.io/journal.html#may-20-2020))</sub>, 
 
->Writing personal essays and talking about myself was definitely not my forte (though I guess that is what I am doing right now haha)
+><sub>Writing personal essays and talking about myself was definitely not my forte (though I guess that is what I am doing right now haha)</sub>
 
 <sub>And I think this article is going to be my goto recommendation for anyone who is struggling to write their first resume.</sub>
 
