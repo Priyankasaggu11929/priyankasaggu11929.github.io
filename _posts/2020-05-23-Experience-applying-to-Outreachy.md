@@ -9,7 +9,7 @@ comments: false
 
 May 23, 2020
 
-***I always saw this incomplete, half written draft about my experience applying to Outreachy internship, lying in corner of my folder. At first I thought I should just delete it because I'm already done with the internship & I've already written my [wrap-up post](https://priyankasaggu11929.github.io/outreachy/2020/03/03/Outreachy-final-post.html) describing a little about my experience. But then I just couldn't do it only.***
+***I always saw this incomplete, half written draft about my experience applying to Outreachy internship, lying in one corner of my folder. At first I thought I should just delete it because I'm already done with the internship & I've already written my [wrap-up post](https://priyankasaggu11929.github.io/outreachy/2020/03/03/Outreachy-final-post.html) describing a little about my experience. But then I just couldn't do it only.***
 
 ***So, today, I gave it an another reading, finally added the left overs, and decided to post it (more for my-own-self). Because now I know Outreachy was once-in-a-lifetime experience for me. And I'm never going to feel the same way again like how I felt during the first week of my outreachy internship.***
 
