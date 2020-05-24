@@ -61,17 +61,19 @@ heading: ""
 
 <sub>Putting it here, because I went through a nostalgia after watching this.</sub> 
 
-<sub>My father is the one who taught, ***how to tie a perfect tie-knot*** to all the men on the paternal side of my family (as I heard from the stories). I also learnt it from him when finally I got my first ever actual tie, after the ready-made one (I had as a kid which basically has two strings to tie around neck).
+<sub>My father is the one who taught, ***how to tie a perfect tie-knot*** to all the men on the paternal side of my family (as I heard from the stories). I also learnt it from him when finally I got my first ever actual (school) tie, after the ready-made one (the one I had as a kid which basically has two strings to tie around neck).
 
 <sub>***[My Top Travel Tips | Tim Ferriss](https://www.youtube.com/watch?v=dY1OYkOJ0XI&t=2s)***</sub>
 
-<sub>I have so much in my bucket list now. I wish I could travel the same way (or even better. Dreams XD) someday in my life. :)</sub>
+<sub>I have so much in my bucket list now. I wish I could travel the same way (or better) someday in my life. Dreams I want to live! :)</sub>
 
 <sub>***[How to Network | Tim Ferriss](https://www.youtube.com/watch?v=kMcgWK6LYyc)***</sub>
 
-<sub>A really insightful video, describing how *Tim Ferriss* did the networking before the launch of his first ever book. How he approached meetup moderators (mostly neglected & underrated folks) for *eliminating the drect asking part* (to the intended folks) & eventually earning the *first introduction* through a mutual person. And more, it's something to watch again over time.</sub>
+<sub>A really insightful video, describing how *Tim Ferriss* did his networking before the launch of his first ever book. He talks about how he approached meetup moderators (mostly neglected & underrated folks) rather than the intended folks directly, for *eliminating the direct asking part* & eventually earning the *first introduction* through a mutual person. And more, it's something to watch again over time.</sub>
 
-<sub>And finally the last thing, I started this audiobook ***The Obstacle Is The Way audiobook*** by *Ryan Holiday*. I'll definitely write book notes for this one. Maybe in parts because it has so good instances of great people.</sub>
+<sub>And finally the last thing, I started this audiobook ***The Obstacle Is The Way*** by *Ryan Holiday*. 
+
+I'll definitely write book notes for this one. Maybe in parts because it has many good instances of great people.</sub>
 
 ---
 
