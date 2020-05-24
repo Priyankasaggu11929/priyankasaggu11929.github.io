@@ -73,7 +73,7 @@ heading: ""
 
 <sub>And finally the last thing, I started this audiobook ***The Obstacle Is The Way*** by *Ryan Holiday*.</sub> 
 
-<sub>I'll definitely write book notes for this one. Maybe in parts because it has many good instances of great people.</sub>
+<sub>I'll definitely write book notes for this one. Maybe in parts because it has so many amazing instances from great people.</sub>
 
 ---
 
