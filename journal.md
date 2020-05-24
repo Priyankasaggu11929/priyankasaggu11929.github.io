@@ -10,6 +10,72 @@ heading: ""
 
 ---
 
+## *May 24, 2020*
+
+<sub>***[19:58] A relaxing holiday for my brain...***</sub>
+
+<sub>Today, I did absolutely no work (afterall it *is* sunday & my brain needs break to start with all the weekly hassle again). I so badly waited for this weekend this time. And damn, finally I got it today. \o/</sub>
+
+<sub>I finished my pending sleep today (truly that makes me sooooo happy for me).</sub>
+
+<sub>Ok, there is a lot what I read, watched & listened to, from today.</sub>
+
+<sub>***[The NoFap Legend Sarvesh Shashi | The Ranveer Show 27 | BeerBiceps](https://www.youtube.com/watch?v=x0NTMSFBmv0)***</sub>
+
+<sub>Although this had nothing to do with me directly (apart from the meditation part which I *should* start), the last 10 minutes gave me some really good points to think over.</sub>
+
+<sub>*(The male folks might find it interesting.)*</sub>
+
+- <sub>Be true & authentic to youself. It'll make *living the life* much easier.</sub>
+- <sub>Do self-care (both mentally & physically).</sub>
+- <sub>And the last (& the one I liked the most), be *people's person* (i.e. be someone who is liked, loved, admired & looked after by everyone around).</sub>
+
+<sub>And also, this very beautiful quote</sub>
+
+><sub>Love like there is no tomorrow. And if tomorrow comes, love again!</sub>
+
+- <sub>[Fear Setting: The Most Important Exercise I Still Do Today | Tim Ferriss](https://www.youtube.com/watch?v=o7EVMjgsSME)</sub>
+
+<sub>Here *Tim Ferriss* talks about the most important exercise, *writing down costs of inaction* to easen up a dilemmatic situation.</sub>
+
+<sub>For example, Suppose I've issues with my job & I'm thinking of leaving the job right today.</sub>
+
+<sub>So, I would right about the costs (or results/outputs) of the possible inactions. First, what will be costs if I leave the job right today & second, what if I stay in the job & leave it after 6 months, etc.</sub>
+
+<sub>(Quoting a comment from the video)</sub>
+
+><sub>Writing down the costs of inaction is genius! It forces your mind to look at things from a different perspective. This is a great thing to do if you are stuck or don't know how to solve a challenge.</sub>
+
+<sub>[Should You Specialize or Be a Generalist? | Tim Ferriss](https://www.youtube.com/watch?v=wCPbPMRNnvk)</sub>
+
+<sub>(Again, quoting a comment from the video. It basically is the synopsis.)</sub>
+
+><sub>Long story short: being a specialist makes sense only if you're extremely good at what you do. If you're not, it's better to be a "**specialized generalist**", which means that you should combine several valuable skills, but not too many. The more rare the combination, the more successful you can be. Tim suggests three easy add-ons to whatever you do: public speaking, writing, and negotiating.</sub>
+><sub>Another tip from Tim: win, even if you lose. Use the skills you learned and the relationships you built during the launch of a relatively "failed" product to be more productive in the future. Projects come and go, but skills and relationships with good people stay with you.</sub>
+
+<sub>Oh, and this one is a very good example of the same practice in action.</sub>
+
+><sub>I had so many interests growing up and I couldn't decide which one to pursue: psychology, electronic music, photography, computer science... so, I decided to pursue all of them. I did my degree in psychology and my masters in research methods, worked as a photographer on the side and made music and websites for fun. I ended up working as a Data Engineer for an audio focused machine learning company, capitalising on 3/4 of my interests. It doesn't even feel like a job.</sub>
+
+- <sub>[How To Tie A Perfect Tie... Every Time.](https://www.youtube.com/watch?v=-3IDkvsZ6I0)</sub>
+
+<sub>Putting it here, because I went through a nostalgia after watching this.</sub> 
+
+<sub>My father is the one who taught, ***how to tie a perfect tie-knot*** to all the men on the paternal side of my family (as I heard from the stories). I also learnt it from him when finally I got my first ever actual tie, after the ready-made one (I had as a kid which basically has two strings to tie around neck).
+
+- <sub>[My Top Travel Tips | Tim Ferriss](https://www.youtube.com/watch?v=dY1OYkOJ0XI&t=2s)</sub>
+
+<sub>I have so much in my bucket list now. I wish I could travel the same way (or even better. Dreams XD) someday in my life. :)</sub>
+
+- <sub>[How to Network | Tim Ferriss](https://www.youtube.com/watch?v=kMcgWK6LYyc)</sub>
+
+<sub>A really insightful video, describing how *Tim Ferriss* did the networking before the launch of his first ever book. How he approached meetup moderators (mostly neglected & underrated folks) for *eliminating the drect asking part* (to the intended folks) & eventually earning the *first introduction* through a mutual person. And more, it's something to watch again over time.</sub>
+
+<sub>And finally the last thing, I started this audiobook ***The Obstacle Is The Way audiobook*** by *Ryan Holiday*. I'll definitely write book notes for this one. Maybe in parts because it has so good instances of great people.</sub>
+
+
+---
+
 ## *May 23, 2020*
 
 <sub>***[16:13] A peaceful day...***</sub>
@@ -36,7 +102,7 @@ heading: ""
 
 ## *May 22, 2020*
 
-<sub>***[15:21 pm] Finally writing the first half here...***</sub>
+<sub>***[15:21] Finally writing the first half here...***</sub>
 
 <sub>I woke up early, first at 6, then at 8, did something (maybe scrolled through twitter, or through youtube), started listening to this podcast from [Tim Ferris with Kevin Hart](https://tim.blog/2020/05/20/kevin-hart/), but slept back again in midway and finally then woke up at 10:10 am.</sub>
 
@@ -50,7 +116,7 @@ heading: ""
 
 <sub>So far, it's going good. :)</sub>
 
-<sub>***[21:29 pm] Wrapping up early today...***</sub>
+<sub>***[21:29] Wrapping up early today...***</sub>
 
 <sub>No good progress today. More research & some more learning. I think this weekend is not gonna be an actual weekend. There is a lot of work. And on top of that, I have a lot to learn first. Sometimes, I feel I don't know anything only, so, how the heck I will ever be a good addition to the team. Everything seems so overwhelmingly complex to me.</sub> 
 
@@ -81,7 +147,7 @@ heading: ""
 
 <sub>Ok, I think that's more than enough (for me) for today. 😅️ 😂️</sub>
 
-<sub>***[23:08 pm] Came back to write this...***</sub>
+<sub>***[23:08] Came back to write this...***</sub>
 
 <sub>Now, I'm sad. Just because of my bs procastination, I missed uploading a simple cover letter & I lost a really awesome opportunity. A big lesson learnt today, never take your opportunities forgranted, and above that, never procastinate when it comes to stuff like these. Never ever!</sub>
 
@@ -89,7 +155,7 @@ heading: ""
 
 ## *May 21, 2020*
 
-<sub>***[10:58 am] Not so late (but late) start of the day...***</sub>
+<sub>***[10:58] Not so late (but late) start of the day...***</sub>
 
 <sub>I'm done with writing my morning pages. I'm happy atleast I kept it for the second day now. I hope I'll continue!</sub>
 
@@ -115,7 +181,7 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 
 <sub>I'm definitely learning a lot, even from my small reading time. Totally enjoying it!</sub>
 
-<sub>***[00:02 am] Wrapping up work now...***</sub>
+<sub>***[00:02] Wrapping up work now...***</sub>
 
 <sub>Ok, I was able to work properly (I mean I had my focus in place). Although couldn't finish my stuffs, but I learnt a lot. Today, it was all about setting up the observability part of the stack, thus, more of making grafana dashboards for loki as data-source for metrics, querying logs for certain field specific data.</sub>
 
@@ -136,7 +202,7 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 
 ## *May 20, 2020*
 
-<sub>***[09:48 am] A good start of the day...***</sub>
+<sub>***[09:48] A good start of the day...***</sub>
 
 <sub>Watched a video about [evening routine of Tim Ferris](https://www.youtube.com/watch?v=eLYqhezACpc). I really have no idea if I could follow it any time soon in my life, but maybe someday I can come up with my own version of it. (Sadly, I'm missing the idea around that video and getting highly deviated towards *working hard* to get that much of luxury life someday. Actually yes, that *is* my plan :D )</sub>
 
@@ -150,7 +216,7 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 
 <sub>And thanks jasonbraganza, for the book (and books). I finally started reading it today.</sub>
 
-<sub>***[11:06 pm] Finally logged off from work...***</sub>
+<sub>***[11:06] Finally logged off from work...***</sub>
 
 <sub>Very sleepy now. Not a productive working day. Kept struggling all day to focus & finally when I managed to focus, my body just started feeling super sleepy.</sub>
 
@@ -176,7 +242,7 @@ What you know is inside a circle, what you don't know is outside of it. The circ
 
 <sub>I'm still thinking what parts I can include here itself but *morning pages* is what I'm definitely looking to move forward with.</sub>
 
-<sub>***[00:39 am] Finishing the day now...***</sub>
+<sub>***[00:39] Finishing the day now...***</sub>
 
 <sub>Fortunately, Office hours were peaceful today. Although leaving very late, but have finished all my tasks for the day.</sub>
 
