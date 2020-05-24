@@ -71,9 +71,9 @@ heading: ""
 
 <sub>A really insightful video, describing how *Tim Ferriss* did his networking before the launch of his first ever book. He talks about how he approached meetup moderators (mostly neglected & underrated folks) rather than the intended folks directly, for *eliminating the direct asking part* & eventually earning the *first introduction* through a mutual person. And more, it's something to watch again over time.</sub>
 
-<sub>And finally the last thing, I started this audiobook ***The Obstacle Is The Way*** by *Ryan Holiday*. 
+<sub>And finally the last thing, I started this audiobook ***The Obstacle Is The Way*** by *Ryan Holiday*.</sub> 
 
-I'll definitely write book notes for this one. Maybe in parts because it has many good instances of great people.</sub>
+<sub>I'll definitely write book notes for this one. Maybe in parts because it has many good instances of great people.</sub>
 
 ---
 
