@@ -36,7 +36,7 @@ heading: ""
 
 <sub>***[Fear Setting: The Most Important Exercise I Still Do Today | Tim Ferriss](https://www.youtube.com/watch?v=o7EVMjgsSME)***</sub>
 
-<sub>Here *Tim Ferriss* talks about the most important exercise, *writing down costs of inaction* to easen up a dilemmatic situation.</sub>
+<sub>Here *Tim Ferriss* talks about the most important exercise (as he says & I too found) i.e. **writing down costs of inaction** to easen up a dilemmatic situation.</sub>
 
 <sub>For example, Suppose I've issues with my job & I'm thinking of leaving the job right today.</sub>
 
