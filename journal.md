@@ -34,7 +34,7 @@ heading: ""
 
 ><sub>Love like there is no tomorrow. And if tomorrow comes, love again!</sub>
 
-<sub>[Fear Setting: The Most Important Exercise I Still Do Today | Tim Ferriss](https://www.youtube.com/watch?v=o7EVMjgsSME)</sub>
+<sub>***[Fear Setting: The Most Important Exercise I Still Do Today | Tim Ferriss](https://www.youtube.com/watch?v=o7EVMjgsSME)***</sub>
 
 <sub>Here *Tim Ferriss* talks about the most important exercise, *writing down costs of inaction* to easen up a dilemmatic situation.</sub>
 
@@ -46,7 +46,7 @@ heading: ""
 
 ><sub>Writing down the costs of inaction is genius! It forces your mind to look at things from a different perspective. This is a great thing to do if you are stuck or don't know how to solve a challenge.</sub>
 
-<sub>[Should You Specialize or Be a Generalist? | Tim Ferriss](https://www.youtube.com/watch?v=wCPbPMRNnvk)</sub>
+<sub>***[Should You Specialize or Be a Generalist? | Tim Ferriss](https://www.youtube.com/watch?v=wCPbPMRNnvk)***</sub>
 
 <sub>(Again, quoting a comment from the video. It basically is the synopsis.)</sub>
 
@@ -57,22 +57,21 @@ heading: ""
 
 ><sub>I had so many interests growing up and I couldn't decide which one to pursue: psychology, electronic music, photography, computer science... so, I decided to pursue all of them. I did my degree in psychology and my masters in research methods, worked as a photographer on the side and made music and websites for fun. I ended up working as a Data Engineer for an audio focused machine learning company, capitalising on 3/4 of my interests. It doesn't even feel like a job.</sub>
 
-<sub>[How To Tie A Perfect Tie... Every Time.](https://www.youtube.com/watch?v=-3IDkvsZ6I0)</sub>
+<sub>***[How To Tie A Perfect Tie... Every Time.](https://www.youtube.com/watch?v=-3IDkvsZ6I0)***</sub>
 
 <sub>Putting it here, because I went through a nostalgia after watching this.</sub> 
 
 <sub>My father is the one who taught, ***how to tie a perfect tie-knot*** to all the men on the paternal side of my family (as I heard from the stories). I also learnt it from him when finally I got my first ever actual tie, after the ready-made one (I had as a kid which basically has two strings to tie around neck).
 
-<sub>[My Top Travel Tips | Tim Ferriss](https://www.youtube.com/watch?v=dY1OYkOJ0XI&t=2s)</sub>
+<sub>***[My Top Travel Tips | Tim Ferriss](https://www.youtube.com/watch?v=dY1OYkOJ0XI&t=2s)***</sub>
 
 <sub>I have so much in my bucket list now. I wish I could travel the same way (or even better. Dreams XD) someday in my life. :)</sub>
 
-<sub>[How to Network | Tim Ferriss](https://www.youtube.com/watch?v=kMcgWK6LYyc)</sub>
+<sub>***[How to Network | Tim Ferriss](https://www.youtube.com/watch?v=kMcgWK6LYyc)***</sub>
 
 <sub>A really insightful video, describing how *Tim Ferriss* did the networking before the launch of his first ever book. How he approached meetup moderators (mostly neglected & underrated folks) for *eliminating the drect asking part* (to the intended folks) & eventually earning the *first introduction* through a mutual person. And more, it's something to watch again over time.</sub>
 
 <sub>And finally the last thing, I started this audiobook ***The Obstacle Is The Way audiobook*** by *Ryan Holiday*. I'll definitely write book notes for this one. Maybe in parts because it has so good instances of great people.</sub>
-
 
 ---
 
