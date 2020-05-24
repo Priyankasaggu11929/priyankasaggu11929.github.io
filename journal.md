@@ -38,9 +38,9 @@ heading: ""
 
 <sub>Here *Tim Ferriss* talks about the most important exercise (as he says & I too found) i.e. **writing down costs of inaction** to easen up a dilemmatic situation.</sub>
 
-<sub>For example, Suppose I've issues with my job & I'm thinking of leaving the job right today.</sub>
+<sub>For example, suppose I've issues with my job & I'm thinking of leaving the job right today.</sub>
 
-<sub>So, I would right about the costs (or results/outputs) of the possible inactions. First, what will be costs if I leave the job right today & second, what if I stay in the job & leave it after 6 months, etc.</sub>
+<sub>So, I would right about the costs (or results/outputs) of the possible inactions. First, what will be costs if I leave the job right today, second, what if I stay in the job & leave it after 6 months, etc.</sub>
 
 <sub>(Quoting a comment from the video)</sub>
 
