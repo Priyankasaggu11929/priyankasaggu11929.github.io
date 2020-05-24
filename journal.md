@@ -30,7 +30,7 @@ heading: ""
 - <sub>Do self-care (both mentally & physically).</sub>
 - <sub>And the last (& the one I liked the most), be *people's person* (i.e. be someone who is liked, loved, admired & looked after by everyone around).</sub>
 
-<sub>And also, this very beautiful quote</sub>
+<sub>And also, this one beautiful quote</sub>
 
 ><sub>Love like there is no tomorrow. And if tomorrow comes, love again!</sub>
 
