@@ -10,6 +10,51 @@ heading: ""
 
 ---
 
+## *May 25, 2020*
+
+<sub>***[21:52] A holiday more for my brain...***</sub>
+
+<sub>Another good day. I slept for some more good time, filling up more from my pending sleeps. I feel better & more energetic now. :)</sub>
+
+<sub>Today, everything was more of actions followed by learnings (which means, I watched/read something, then learned things out of that & then learned something more as an action to it.)</sub>
+
+<sub>Started the day with this recent *Ramit Sethi*'s ***[Personal finance session with school kids](https://www.youtube.com/watch?v=ZjT2_8CsGXE&feature=youtu.be)***, linked inside *Shane Parrish's Farnam Street Newsletter*.</sub>
+
+<sub>Apart from all the learnings about money, compound interests, and investments, and this really useful (all about money related) [calculator](https://www.bankrate.com/calculators/savings/compound-savings-calculator-tool.aspx), I got a couple of key points to start applying in my day-to-day life.</sub>
+
+- <sub>Be a **CEO**!</sub>
+    - <sub>**C:** cut costs.</sub>
+    - <sub>**E:** earn more.</sub>
+    - <sub>**O:** optimize the spendings.</sub>
+- <sub>And then the three simple, yet really powerful life rules to remember.</sub>
+    - <sub>Make your own ***money rules*** (i.e. choose where to spend money without thinking at all. For eg, for buying a book!).</sub>
+    - <sub>Time is your friend (Start saving early, and time will help you grow with it).</sub>
+    - <sub>You decide what your ***rich life*** is (& it is very personal to an individual).</sub>
+
+<sub>Later then, I jumped to binge read ***[jasonbraganza's](https://toots.dgplug.org/web/accounts/651)*** mastodon feeds (*oh, it certianly is a treasure of all awesome diverse stuff*). Putting down, couple of things from what all I read there.</sub>
+
+<sub>I started with *Ryan Holiday's* ***[Can You Be Still?](https://ryanholiday.net/can-you-be-still/)***. It basically taught about our (us, we human's) problem with not being able to *"be still"*. So, with *Odysseus (the greatest hero in all of literature)* example, he basically reflect the quoted in nutshell</sub>
+
+><sub>Of course, Odysseus isn’t unique. He is us. He’s the human condition in a nutshell. As Blaise Pascal put it, “all of humanity’s problems stem from our inability to sit quietly in a room.” Because we cannot be happy, because we can’t just be, we waste years of our life.</sub>
+>
+><sub>We go begging for trouble. We invent problems. We busy ourselves. We neglect our families. We flee, as Seneca once put it, from ourselves. Then we justify it, pride ourselves on it, point to our restlessness and call it ambition or responsibility.</sub>
+
+<sub>And then I found this lovely quote from one of [his (jasonbraganza's) toots here](https://toots.dgplug.org/web/statuses/104193723825461247).</sub>
+
+><sub>“Burn your wish list. I want to see your commitment list. I want to know what you are committed to doing with your 24 hours a day to close the gap between where you are and where you want to be. What are you willing to sacrifice inside your 86,400 seconds every day to become the person you want to be?!”</sub>
+>
+><sub>Burn Your Goals, Joshua Medcalf</sub>
+
+<sub>Today, I *literally* meditated for about 25 minutes (not really meditated for 25 minutes, it's just that I did the whole practice for that long) with one of [Tara Barach's meditation stream](http://www.tarabrach.com/audio/2010-07-07-Smile-Meditation-TaraBrach.mp3), again pointed by *[jasonbraganza](https://mjbraganza.com/)* in his recent [Time Management session](https://dgplug.org/irclogs/2020/Logs-2020-05-03-09-30.txt) on #learnandteach.</sub>
+
+<sub>Also, now, I've decided to log my daily meditation as well, [here](https://priyankasaggu11929.github.io/meditation.html). I really wish it goes well.</sub>
+
+<sub>Last, I bought & started reading this book ***You Can Be Rich Too*** by *PV Subramanian and M Pattabiraman*.</sub>
+
+<sub>I thouroughly enjoyed my day! :)</sub>
+
+---
+
 ## *May 24, 2020*
 
 <sub>***[19:58] A relaxing holiday for my brain...***</sub>
