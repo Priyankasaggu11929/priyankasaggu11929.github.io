@@ -53,6 +53,8 @@ heading: ""
 
 <sub>I thouroughly enjoyed my day! :)</sub>
 
+<sub>PS: I'm regularly writing my morning pages.</sub>
+
 ---
 
 ## *May 24, 2020*
