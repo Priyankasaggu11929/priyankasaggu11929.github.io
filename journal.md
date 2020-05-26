@@ -45,6 +45,7 @@ heading: ""
 ><sub>But giving someone a compliment is “you focused.” It’s focused on someone else, and that’s why it’s fundamentally different. That happiness lasts for them and for you. </sub>
 
 ***V***
+
 <sub>*(this one reminds me of [jasonbraganza](https://mjbraganza.com). I learnt this skill observing him.)*</sub> 
 
 ><sub>Once I saw how powerful this was, I actually started trying to give people more compliments. It didn’t come naturally to me, but I’ve been around a number of very successful people and I’ve observed them. And they are just so good. It seems like they are naturals at just making other people around them feel good.</sub>
@@ -53,10 +54,10 @@ heading: ""
 
 ><sub>So here are two little tricks I discovered for giving great compliments that other people love, and they will make you feel great too.</sub>
 >
-><sub>First, focus on the little things.</sub>
-><sub>Second, tell people the kind of person that they are.</sub>
+>- <sub>First, focus on the little things.</sub>
+>- <sub>Second, tell people the kind of person that they are.</sub>
 
-That's all for the day. I'll jump into bed now (*right as I pack up the work*).
+<sub>That's all for the day. I'll jump into bed now (*right as I pack up the work*).</sub>
 
 ---
 
