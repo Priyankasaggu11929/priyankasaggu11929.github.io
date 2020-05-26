@@ -46,7 +46,7 @@ heading: ""
 
 ***V***
 
-<sub>*(this one reminds me of [jasonbraganza](https://mjbraganza.com). I learnt this skill observing him.)*</sub> 
+<sub>*(this one reminds me of [jasonbraganza](https://mjbraganza.com). I learnt this skill just by observing him.)*</sub> 
 
 ><sub>Once I saw how powerful this was, I actually started trying to give people more compliments. It didn’t come naturally to me, but I’ve been around a number of very successful people and I’ve observed them. And they are just so good. It seems like they are naturals at just making other people around them feel good.</sub>
 
