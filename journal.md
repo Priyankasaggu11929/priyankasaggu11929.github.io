@@ -10,6 +10,56 @@ heading: ""
 
 ---
 
+## *May 26, 2020*
+
+<sub>***[23:59] A productive day...***</sub>
+
+<sub>Today, I worked a lot & saw tangible results too. I'm a few steps closer to the outcome of the task (something on which I've been juggling for almost a week now.)</sub>
+- <sub>Meditation, paid off. I was *literally* focused for just doing the office work.</sub>
+- <sub>The sleeps on the weekends, paid off. I was really energetic all throughout the day.<sub>
+- <sub>And the habit of reading goos, also paid off. I was determined to learn, understand & actually reach the solution.</sub>
+
+<sub>Extremely sleepy right now!</sub>
+
+<sub>I think today, apart from work related stuff, I haven't watched/read much.</sub>
+
+<sub>Today's good feed comes from *Ramit Sethi's* morning newsletter, ***1 way to be happier every day***.</sub>
+
+<sub>*(Couldn't figure out the link, as it's an email newsletter. But putting here some of the snippets.)*</sub>
+
+***I***
+><sub>I think we could all use a little more positivity in our lives — and giving out good compliments is a great way to do it.</sub>
+>
+><sub>Not only can you make someone’s day, but it can make you feel better too.</sub>
+
+***II***
+
+><sub>In fact, one of the most powerful ways you can make yourself happier is to give a compliment to another person. Not just a nice, throwaway compliment. I'm talking about a meaningful, authentic compliment.</sub>
+
+***III***
+
+><sub>(Notice how crappy compliments typically start with “I” whereas good ones focus on the person receiving the compliment.)</sub>
+
+***IV***
+
+><sub>But giving someone a compliment is “you focused.” It’s focused on someone else, and that’s why it’s fundamentally different. That happiness lasts for them and for you. </sub>
+
+***V***
+<sub>*(this one reminds me of [jasonbraganza](https://mjbraganza.com). I learnt this skill observing him.)*</sub> 
+
+><sub>Once I saw how powerful this was, I actually started trying to give people more compliments. It didn’t come naturally to me, but I’ve been around a number of very successful people and I’ve observed them. And they are just so good. It seems like they are naturals at just making other people around them feel good.</sub>
+
+***VI***
+
+><sub>So here are two little tricks I discovered for giving great compliments that other people love, and they will make you feel great too.</sub>
+>
+><sub>First, focus on the little things.</sub>
+><sub>Second, tell people the kind of person that they are.</sub>
+
+That's all for the day. I'll jump into bed now (*right as I pack up the work*).
+
+---
+
 ## *May 25, 2020*
 
 <sub>***[21:52] A holiday more for my brain...***</sub>
