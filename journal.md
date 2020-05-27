@@ -18,7 +18,7 @@ heading: ""
 
 <sub>The morning started with this nice, hour long recorded live-stream, [The Benefits of Doodling and Sketching](https://www.youtube.com/watch?v=RZsSe9UDEy4&feature=youtu.be) by *[David Neal (ReverentGeek)](https://reverentgeek.com/)*.</sub>
 
-<sub>After watching this, I was super pumped to draw something, atleast some rough doodles. But, very soon I realised, now everyone seems to have gone far.</sub> 
+<sub>After watching this, I was super pumped to draw something, atleast some rough doodles. But, very soon I realised, I've lost all that creativity skills.</sub> 
 
 <sub>(*I loved painting, sketching, drawing, doodling as a child. Now everything seems soo hard. Sigh!*)</sub>
 
