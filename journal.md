@@ -16,7 +16,7 @@ heading: ""
 
 <sub>Work is going good. There is more progress. I'll be taking up some new tasks tomorrow.</sub>
 
-<sub>The morning started with this nice, hour long recorded live-stream by *[David Neal (ReverentGeek)](https://reverentgeek.com/)* on the [The Benefits of Doodling and Sketching](https://www.youtube.com/watch?v=RZsSe9UDEy4&feature=youtu.be)</sub>
+<sub>The morning started with this nice, hour long recorded live-stream, [The Benefits of Doodling and Sketching](https://www.youtube.com/watch?v=RZsSe9UDEy4&feature=youtu.be) by *[David Neal (ReverentGeek)](https://reverentgeek.com/)*.</sub>
 
 <sub>After watching this, I was super pumped to draw something, atleast some rough doodles. But, very soon I realised, now I've lost all that skill of art.</sub> 
 
@@ -24,7 +24,7 @@ heading: ""
 
 <sub>But I still tried, although failed miserably. So, this was the final thing for my peace of mind. XD</sub>
 
-![doodle](assets/doodle.jpeg)
+![doodle](/assets/doodle.jpeg)
 
 <sub>I'll try watching some more of these kind of videos, so that hopefully I can start that random drawing thing again. It's a really awesome way to bring back that creativity and joyfulness back.</sub>
 
