@@ -14,20 +14,21 @@ heading: ""
 
 <sub>***[23:59] A productive day...***</sub>
 
-<sub>Today, I worked a lot & saw tangible results too. I'm a few steps closer to the outcome of the task (something on which I've been juggling for almost a week now.)</sub>
+<sub>Today, I worked (hard) a lot & saw some tangible results as well. I'm a few steps closer to the outcome of the tasks (something on which I've been juggling for almost a week now.)</sub>
 - <sub>Meditation, paid off. I was *literally* focused for just doing the office work.</sub>
 - <sub>The sleeps on the weekends, paid off. I was really energetic all throughout the day.<sub>
-- <sub>And the habit of reading goos, also paid off. I was determined to learn, understand & actually reach the solution.</sub>
+- <sub>And the habit of reading good, also paid off. I was determined to learn, understand & actually reach the solution.</sub>
 
 <sub>Extremely sleepy right now!</sub>
 
-<sub>I think today, apart from work related stuff, I haven't watched/read much.</sub>
+<sub>I think today, apart from the work related stuff, I haven't watched/read much.</sub>
 
 <sub>Today's good feed comes from *Ramit Sethi's* morning newsletter, ***1 way to be happier every day***.</sub>
 
-<sub>*(Couldn't figure out the link, as it's an email newsletter. But putting here some of the snippets.)*</sub>
+<sub>*(Couldn't figure out the link, as it's an email newsletter. So, putting here some of the snippets for reference.)*</sub>
 
 ***I***
+
 ><sub>I think we could all use a little more positivity in our lives — and giving out good compliments is a great way to do it.</sub>
 >
 ><sub>Not only can you make someone’s day, but it can make you feel better too.</sub>
