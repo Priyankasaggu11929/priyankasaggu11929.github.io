@@ -10,6 +10,40 @@ heading: ""
 
 ---
 
+## *May 27, 2020*
+
+<sub>***[23:16] A nice day as whole...***</sub>
+
+<sub>Work is going good. There is more progress. I'll be taking up some new tasks tomorrow.</sub>
+
+<sub>The morning started with this nice, hour long recorded live-stream by *[David Neal (ReverentGeek)](https://reverentgeek.com/)* on the [The Benefits of Doodling and Sketching](https://www.youtube.com/watch?v=RZsSe9UDEy4&feature=youtu.be)</sub>
+
+<sub>After watching this, I was super pumped to draw something, atleast some rough doodles. But, very soon I realised, now I've lost all that skill of art.</sub> 
+
+<sub>(*I loved painting, sketching, drawing, doodling as a child. Now everything seems soo hard. Sigh!*)</sub>
+
+<sub>But I still tried, although failed miserably. So, this was the final thing for my peace of mind. XD</sub>
+
+![doodle](assets/doodle.jpeg)
+
+<sub>I'll try watching some more of these kind of videos, so that hopefully I can start that random drawing thing again. It's a really awesome way to bring back that creativity and joyfulness back.</sub>
+
+<sub>Next, I watched this super awesome light refreshing talk, *[The Faker You Are, the More Successful You Can Be](https://www.youtube.com/watch?v=bEg5ySTUGxE&feature=youtu.be)* by *Pablo stanely*.</sub>
+
+<sub>***(This is undoubtedly a must watch. I've already marked it as one of my favorites now.)***</sub>
+
+<sub>There is more! :D</sub>
+
+<sub>The day was filled with cool artsy stuffs, coming from all sides today. I'm sure, I was definitely not looking for these, but somehow it just came to me.</sub>
+
+<sub>If you want to see some *artsy doodly* butt illustrations, this page [https://buttsss.com/](https://buttsss.com/) is entirely filled with them. And they have a [video compilation](https://www.youtube.com/watch?v=jrZD6ECwcqo) too. It's *100%* super duper hilarious. Go have a look! :P</sub>
+
+<sub>I was just about to call the day off, now. But reliased there is a little 20 mins stuff left. Will quickly finish it & directly jump to bed then.</sub> 
+
+<sub>Good night o/</sub>
+
+---
+
 ## *May 26, 2020*
 
 <sub>***[23:59] A productive day...***</sub>
