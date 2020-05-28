@@ -22,6 +22,8 @@ Okay, let's start:
     - hw: 95.7 kgs (2019/11/21)
     - sw: 93.1 kgs (2020/01/13)
 
+*(for someone who wants to read from the beginning, start [here](https://priyankasaggu11929.github.io/fitness.html#april-11-2019).)*
+
 ---
 
 ## *May 23, 2020*
