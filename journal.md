@@ -18,7 +18,7 @@ heading: ""
 
 <sub>There is a lot to write today. I'll slowly write down everything. And by the way, there is *a lot* because I read a lot today & worked a lot too & there are other special things to lay down too. </sub>
 
-<sub>***Let's start with what is special about today!<***sub/>
+<sub>***Let's start with what is special about today!***<sub/>
 
 <sub>Finally after juggling between almost near to 50 (all sorts of different technical) interviews, or getting rejected from or intentionally leaving a lot of job offers/opportunities, and then even leaving a really nice (as per my definitions) high-paying full-time job over an internship (with no surity of coversion but just with the hope to learn first), today
 
