@@ -8,6 +8,121 @@ heading: ""
 
 ***This is my personal journal where I wish (and want) to lay down something everyday!***
 
+*(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
+
+---
+
+## *May 28, 2020*
+
+<sub>***[01:15] A happy, peaceful day...***</sub>
+
+<sub>There is a lot to write today. I'll slowly write down everything. And by the way, there is *a lot* because I read a lot today & worked a lot too & there are other special things to lay down too. </sub>
+
+<sub><***Let's start with what is special about today!***sub/>
+
+<sub>Finally after juggling between almost near to 50 (all sorts of different technical) interviews, or getting rejected from or intentionally leaving a lot of job offers/opportunities, and then even leaving a really nice (as per my definitions) high-paying full-time job over an internship (with no surity of coversion but just with the hope to learn first),
+
+<sub>today, **I have finally joined as a full-time employee to a company, and that too on a work profile, that I actually want to learn & pursure in long-term.**</sub>
+
+<sub>I'm happy & proud of myself that I somehow managed to take really courageous, wise & right career decisions at those high deciding moments (that too multiple times). I still remember, leaving a job was never a small ans easy thing for me. But I never regretted and with lots of help, just kept doing the work.</sub> 
+
+<sub>I'm feeling **extremely blessed to have really awesome mentors**. I just can't thank them enough, in my words. My whole life has changed into a better one, just because they were there at the right times in my life, to show me the right things. God bless them all with all the happiness, health & all the good things they wish for!</sub>
+
+- <sub>***Fri, Feb 1, 2019, 10:57 AM***: When I got my first ever job offer letter for Infosys.</sub>
+- <sub>***Fri, Jun 28, 2019, 8:57 PM***: Then the second one at TCS.</sub>
+- <sub>***Fri, Jun 21, 2019, 12:08 PM***: Then the third one at Cognizant.</sub>
+- <sub>***Fri, Aug 9, 2019, 2:31 PM***: Then fourth one at Yoozoo GAMES.</sub>
+- <sub>***Tue, Nov 26, 2019, 9:29 PM***: The day I got into Outreachy internship.</sub>
+- <sub>***Wed, Jan 15, 2:57 PM***: The internship offer from Atlan.</sub>
+- <sub>***Fri, Jan 24, 6:59 PM***: Then the offer at scroll.in.</sub>
+- <sub>***Tue, Apr 28, 11:29 PM***: And finally the job offer at Atlan as full-time.</sub>
+
+<sub>The first job offer literally made me cry. I worked so hard & waited so damn long for that first job offer. And to me, all these job offers were equally special & made me equally happy at their own times.</sub>
+
+<sub>There were more job offers, that I never got the offer letters because I somehow rejected the offers myself. And I'm happy that there are some really good names in that list (don't doubt, I had other better offers, opportunities or better priorities at the time, so I left). But at last, I'm finally doing what I wanted. :)</sub>
+
+<sub>***Ok, now a brief about work!***<sub/>
+
+<sub>Nothing really special (even though it was my first day as full-time. It would've been although if I was in office. Maybe... I'm trying to console my heart XD). I worked, took some new tasks, learnt a lot around them, and did well with the results. It was a good peaceful productive working day.</sub>
+
+<sub>There is something really nice to mention here.</sub> 
+
+<sub>Today, I was late at starting with the work, so, I skipped the meditation in the morning & thought I'll do it later during the day. But very soon, as I actually started with the work, I realised I was totally restless & out of my focus. I required that meditation, so I literally left all the work aside for 30 min, meditated, came back & saw the results. I was able to work properly right after that. Now, I know, meditation helps and why I should keep at it!</sub>
+
+<sub>***And now, let's move to what all I read/watched. There is a lot today.***<sub/>
+
+- <sub>[Why people believe they can’t draw - and how to prove they can | Graham Shaw | TEDxHull](https://www.youtube.com/watch?v=7TXEZ4tP06c)</sub>
+- <sub>[How to draw to remember more | Graham Shaw | TEDxVienna](https://www.youtube.com/watch?v=gj3ZnKlHqxI)</sub>
+
+<sub>The above two talks by *Graham Shaw* are among the old ones that I re-watched today. The first time I watched them, I wasn't sure if I would ever need them for motivating myself. But yes, now, I needed them the most. Yesterday, as I was struggling with drawing anything at all, I decided to take some help today.</sub> 
+
+<sub>These are some things I drew following the talks.. I know they are some really bad drawings, but *it's ok*. Remember, I was late because I was struggling with this in the morning. So, I appreciate whatever I did.</sub>
+
+![doodle](/assets/doodle-1.jpeg)
+
+![doodle](/assets/doodle-2.jpeg)
+
+- <sub>Then I watched this ted talk, [The first 20 hours -- how to learn anything | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) by *Josh Kaufman*. And I did some (artsy) note-taking here too. It sums up my learnings.</sub>
+
+<sub>*(really bad handwriting alerts!!!)*</sub>
+
+![doodle](/assets/doodle-3.jpeg)
+
+- <sub>Followed by it, was this [How to Negotiate (or, "The Art of Dealmaking") | Tim Ferriss](https://www.youtube.com/watch?v=z3U0FRb9yr4).</sub>
+
+<sub>I just can't summarise this because it has really lots, but lots more to discover too. So, **IT'S A NOTE FOR MYSELF, TO WATCH IT AGAIN & AGAIN**, because it has hell lot of useful advice & books & just everything I ever needed at times of negotiations.</sub>
+
+<sub>Although putting down the suggested book names here, so that I can pick up one later.</sub>
+
+     - <sub>Influence the psychology of persuasion, by Robert Cialdini<sub>
+     - <sub>Secrets of power negotiating, by Roger Dawson (he refers to the audio version of this)<sub>
+     - <sub>Getting Past No, by William Ury</sub>
+     - <sub>Getting To Yes, by William Ury</sub>
+     - <sub>Selling to the affluent, by Thomas Stanley</sub>
+
+- <sub>This is one of the favorites & goto posts on [jasonbraganza's](https://janusworx.com) blog, [On Starting Summer Training at #dgplug](https://janusworx.com/blog/on-starting-with-summer-training-at-dgplug/). I have read this thousand times, but there is this one line *"I’m like a poor man’s, still failing James Altucher."* that never made real sense to me. So, today, I actually jumped onto reading that linked, really long article on & by *James Altucher*.</sub>
+
+<sub>[How (and Why) James Altucher Writes 3,000 Words Every Single Day](https://www.writingroutines.com/james-altucher/), this is a really nice post. I absolutely loved it. It's a narrative and in no way, I can do justice summarising it here in short. Just take it as, the title itself speaks the core idea.</sub>
+
+<sub>And yes, now I all how understand the point behind that line. :)</sub>
+
+- <sub>Now, one quote from *[James Clear's](https://jamesclear.com/3-2-1/may-28-2020)* thursday newsletter.</sub>
+
+><sub>How to see opportunities others miss:</sub>
+>
+><sub>1) Study a totally different field, then return to the original problem. Apply insights from other domains.</sub>
+>
+><sub>2) Invert the problem. Try to achieve the opposite.</sub>
+>
+><sub>3) Talk to hyper-creative people. Their thinking will rub off.</sub>
+
+<sub>And the answer to this question *"If someone could only see my actions and not hear my words, what would they say are my priorities?"*. See, I really have no idea what this question actually means. But here is what I've to say:</sub>
+
+<sub>*Because I'm writing a lot now-a-days. Absolutely everything is written somewhere, here or the morning pages or other notes. So, even If they can't hear my words, but could see my actions, they will see my priorities are very clear.*</sub> 
+
+     - <sub>*My priorites are to bring my life into a proper peaceful condition.*</sub> 
+     - <sub>*My priorities are my physical & mental health care.*</sub>
+     - <sub>*My priorities are to work hard & learn from the things I do at work.*</sub>
+     - <sub>*My priorities are to save money & understand investment so that I can do all the things that I have always desired for my parents, loved ones & me.*</sub>
+
+- <sub>And now the last thing, **How to get out of your own head** by *Ramit Sethi* (it's from his today's evening newsletter).</sub>
+
+<sub>*(Here is a [video](https://www.youtube.com/watch?v=z9TpYHaG1sQ&feature=youtu.be&mkt_tok=eyJpIjoiWVRsbE5tSmtNMlExWVRjeCIsInQiOiIwcWswQmRVbnEwTDEzeWxJcEd0RzhlZmY5RmNZckhzbnl4U2JWNVY5MUFhSzd0Y1wvcG1uaEpEa3dLRVJjS3c2dkdIWldjVkY1bG50b3pwYlpXd2hsYUs0cTl5V1F2NFwvK0ExcWRcL1orMzdPQndMUXR3c0FhZXZmYXkzZHRMcGJEWiJ9) for the same and, I'm watching this right now)*</sub>
+
+><sub>I’d like to share a philosophy that’s helped change my perspective on tough challenges:</sub>
+>
+><sub>Instead of focusing on reducing the bad, I like to increase the good.</sub>
+>
+><sub>It’s like someone who wants to lose weight. The usual advice says “Don’t eat that, or that, or that.” (Notice how negative it is. Plus people hate to be told to stop doing something.)</sub>
+>
+></sub>My approach? “Forget about what not to eat. Start by eating THIS, and THIS, and THIS.”</sub>
+>
+><sub>Don’t reduce the bad. Increase the good.</sub>
+
+<sub>Ok, that's all from today. I finally wrote all of it. \o/</sub> 
+
+<sub>And I'm done for the day too. (But I just realised, I missed writing the time when I started writing this, in the very beginning. So, going all the way above & writing the current time now. XD)</sub>
+
 ---
 
 ## *May 27, 2020*
