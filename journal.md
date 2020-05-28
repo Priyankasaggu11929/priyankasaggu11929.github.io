@@ -18,11 +18,11 @@ heading: ""
 
 <sub>There is a lot to write today. I'll slowly write down everything. And by the way, there is *a lot* because I read a lot today & worked a lot too & there are other special things to lay down too. </sub>
 
-<sub><***Let's start with what is special about today!***sub/>
+<sub>***Let's start with what is special about today!<***sub/>
 
-<sub>Finally after juggling between almost near to 50 (all sorts of different technical) interviews, or getting rejected from or intentionally leaving a lot of job offers/opportunities, and then even leaving a really nice (as per my definitions) high-paying full-time job over an internship (with no surity of coversion but just with the hope to learn first),
+<sub>Finally after juggling between almost near to 50 (all sorts of different technical) interviews, or getting rejected from or intentionally leaving a lot of job offers/opportunities, and then even leaving a really nice (as per my definitions) high-paying full-time job over an internship (with no surity of coversion but just with the hope to learn first), today
 
-<sub>today, **I have finally joined as a full-time employee to a company, and that too on a work profile, that I actually want to learn & pursure in long-term.**</sub>
+<sub>***I have finally joined a company, as a full-time employee. And that too on a work profile, that I actually want to learn & pursure in long-term.***</sub>
 
 <sub>I'm happy & proud of myself that I somehow managed to take really courageous, wise & right career decisions at those high deciding moments (that too multiple times). I still remember, leaving a job was never a small ans easy thing for me. But I never regretted and with lots of help, just kept doing the work.</sub> 
 
@@ -36,6 +36,8 @@ heading: ""
 - <sub>***Wed, Jan 15, 2:57 PM***: The internship offer from Atlan.</sub>
 - <sub>***Fri, Jan 24, 6:59 PM***: Then the offer at scroll.in.</sub>
 - <sub>***Tue, Apr 28, 11:29 PM***: And finally the job offer at Atlan as full-time.</sub>
+
+<sub>*(You saw this funny thing, that all the job offers apart from the Atlan that I joined (& the internship), I have recieved their confirmations on fridays. Nothing, I was just taking the attention away. XD)*</sub>
 
 <sub>The first job offer literally made me cry. I worked so hard & waited so damn long for that first job offer. And to me, all these job offers were equally special & made me equally happy at their own times.</sub>
 
@@ -74,17 +76,17 @@ heading: ""
 
 <sub>Although putting down the suggested book names here, so that I can pick up one later.</sub>
 
-     - <sub>Influence the psychology of persuasion, by Robert Cialdini<sub>
-     - <sub>Secrets of power negotiating, by Roger Dawson (he refers to the audio version of this)<sub>
-     - <sub>Getting Past No, by William Ury</sub>
-     - <sub>Getting To Yes, by William Ury</sub>
-     - <sub>Selling to the affluent, by Thomas Stanley</sub>
+1. <sub>Influence the psychology of persuasion, by Robert Cialdini<sub>
+2. <sub>Secrets of power negotiating, by Roger Dawson (he refers to the audio version of this)<sub>
+3. <sub>Getting Past No, by William Ury</sub>
+4. <sub>Getting To Yes, by William Ury</sub>
+5. <sub>Selling to the affluent, by Thomas Stanley</sub>
 
 - <sub>This is one of the favorites & goto posts on [jasonbraganza's](https://janusworx.com) blog, [On Starting Summer Training at #dgplug](https://janusworx.com/blog/on-starting-with-summer-training-at-dgplug/). I have read this thousand times, but there is this one line *"I’m like a poor man’s, still failing James Altucher."* that never made real sense to me. So, today, I actually jumped onto reading that linked, really long article on & by *James Altucher*.</sub>
 
-<sub>[How (and Why) James Altucher Writes 3,000 Words Every Single Day](https://www.writingroutines.com/james-altucher/), this is a really nice post. I absolutely loved it. It's a narrative and in no way, I can do justice summarising it here in short. Just take it as, the title itself speaks the core idea.</sub>
+<sub>[How (and Why) James Altucher Writes 3,000 Words Every Single Day](https://www.writingroutines.com/james-altucher/), this is a really nice post. I absolutely loved it. It's a narrative and in no way, I can do justice summarising it here in short. For now, the title itself speaks the core idea.</sub>
 
-<sub>And yes, now I all how understand the point behind that line. :)</sub>
+<sub>And yes, now I all how understood the point behind that line. :)</sub>
 
 - <sub>Now, one quote from *[James Clear's](https://jamesclear.com/3-2-1/may-28-2020)* thursday newsletter.</sub>
 
@@ -96,14 +98,14 @@ heading: ""
 >
 ><sub>3) Talk to hyper-creative people. Their thinking will rub off.</sub>
 
-<sub>And the answer to this question *"If someone could only see my actions and not hear my words, what would they say are my priorities?"*. See, I really have no idea what this question actually means. But here is what I've to say:</sub>
+<sub>And the answer to this question ***"If someone could only see my actions and not hear my words, what would they say are my priorities?"*** See, I really have no idea what this question actually means. But here is what I've to say:</sub>
 
 <sub>*Because I'm writing a lot now-a-days. Absolutely everything is written somewhere, here or the morning pages or other notes. So, even If they can't hear my words, but could see my actions, they will see my priorities are very clear.*</sub> 
 
-     - <sub>*My priorites are to bring my life into a proper peaceful condition.*</sub> 
-     - <sub>*My priorities are my physical & mental health care.*</sub>
-     - <sub>*My priorities are to work hard & learn from the things I do at work.*</sub>
-     - <sub>*My priorities are to save money & understand investment so that I can do all the things that I have always desired for my parents, loved ones & me.*</sub>
+1. <sub>*My priorites are to bring my life into a proper peaceful condition.*</sub> 
+2. <sub>*My priorities are my physical & mental health care.*</sub>
+3. <sub>*My priorities are to work hard & learn from the things I do at work.*</sub>
+4. <sub>*My priorities are to save money & understand investment so that I can do all the things that I have always desired for my parents, loved ones & me.*</sub>
 
 - <sub>And now the last thing, **How to get out of your own head** by *Ramit Sethi* (it's from his today's evening newsletter).</sub>
 
@@ -115,7 +117,7 @@ heading: ""
 >
 ><sub>It’s like someone who wants to lose weight. The usual advice says “Don’t eat that, or that, or that.” (Notice how negative it is. Plus people hate to be told to stop doing something.)</sub>
 >
-></sub>My approach? “Forget about what not to eat. Start by eating THIS, and THIS, and THIS.”</sub>
+><sub>My approach? “Forget about what not to eat. Start by eating THIS, and THIS, and THIS.”</sub>
 >
 ><sub>Don’t reduce the bad. Increase the good.</sub>
 
