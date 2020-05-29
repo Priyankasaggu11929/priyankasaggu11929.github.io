@@ -29,15 +29,15 @@ heading: ""
 <sub>I'm feeling **extremely blessed to have really awesome mentors**. I just can't thank them enough, in my words. My whole life has changed into a better one, just because they were there at the right times in my life, to show me the right things. God bless them all with all the happiness, health & all the good things they wish for!</sub>
 
 - <sub>***Fri, Feb 1, 2019, 10:57 AM***: When I got my first ever job offer letter for Infosys.</sub>
-- <sub>***Fri, Jun 28, 2019, 8:57 PM***: Then the second one at TCS.</sub>
-- <sub>***Fri, Jun 21, 2019, 12:08 PM***: Then the third one at Cognizant.</sub>
+- <sub>***Fri, Jun 21, 2019, 12:08 PM***: Then the second one at Cognizant.</sub>
+- <sub>***Fri, Jun 28, 2019, 8:57 PM***: Then the third one at TCS.</sub>
 - <sub>***Fri, Aug 9, 2019, 2:31 PM***: Then fourth one at Yoozoo GAMES.</sub>
 - <sub>***Tue, Nov 26, 2019, 9:29 PM***: The day I got into Outreachy internship.</sub>
 - <sub>***Wed, Jan 15, 2:57 PM***: The internship offer from Atlan.</sub>
 - <sub>***Fri, Jan 24, 6:59 PM***: Then the offer at scroll.in.</sub>
 - <sub>***Tue, Apr 28, 11:29 PM***: And finally the job offer at Atlan as full-time.</sub>
 
-<sub>*(You saw this funny thing, that all the job offers apart from the Atlan that I joined (& the internship), I have recieved their confirmations on fridays. Nothing, I was just taking the attention away. XD)*</sub>
+<sub>*(You saw this funny thing, that all the job offers that I never joined, I had recieved their confirmations on fridays. So, maybe there is something with friday. Nothing, I was just taking the reader's attention away. That was a pun! XD)*</sub>
 
 <sub>The first job offer literally made me cry. I worked so hard & waited so damn long for that first job offer. And to me, all these job offers were equally special & made me equally happy at their own times.</sub>
 
