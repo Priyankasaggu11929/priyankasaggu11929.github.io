@@ -24,7 +24,7 @@ heading: ""
 
 <sub>***I have finally joined a company, as a full-time employee. And that too on a work profile, that I actually want to learn & pursure in long-term.***</sub>
 
-<sub>I'm happy & proud of myself that I somehow managed to take really courageous, wise & right career decisions at those high deciding moments (that too multiple times). I still remember, leaving a job was never a small ans easy thing for me. But I never regretted and with lots of help, just kept doing the work.</sub> 
+<sub>I'm happy & proud of myself that I somehow managed to take really courageous, wise & right career decisions at those high deciding moments (that too multiple times). I still remember, leaving a job was never a small and easy thing for me. But I never regretted and with lots of help, just kept doing the work.</sub> 
 
 <sub>I'm feeling **extremely blessed to have really awesome mentors**. I just can't thank them enough, in my words. My whole life has changed into a better one, just because they were there at the right times in my life, to show me the right things. God bless them all with all the happiness, health & all the good things they wish for!</sub>
 
