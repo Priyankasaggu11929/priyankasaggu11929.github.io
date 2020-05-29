@@ -16,13 +16,13 @@ heading: ""
 
 <sub>***[20:35] Finally last working day for the week...***</sub>
 
-<sub>Today is one of the days, why this separate journal was made. I want to write but there is nothing much to write about today.</sub>
+<sub>Today is one of the days for what, this separate journal was made, for. I want to write but there is nothing much to write about today.</sub>
 
 <sub>So, I'm happy I got this one fine day to actually say, I justified the reason behind keeping it separate XD.</sub>
 
 <sub>Ok, puns apart.</sub>
 
-<sub>Also, the other good reason (like actually a reason) is that I don't have to think about titles here. So, it easens the process.</sub>
+<sub>Also, the other good reason (like actually a reason) is that I don't have to think about titles here. So, it easens up the process.</sub>
 
 <sub>***About the day!***</sub>
 
@@ -30,19 +30,21 @@ heading: ""
 
 <sub>In the morning, I finished this book **Getting Past No! (Negotiation in Difficut Situations)** by *William Ury*. It took me more than 3 hours to finish it, not because the book was long but because I was very very slow with my note taking. But the result is worth to be happy about now. If time allows, I would love to do more of these.</sub>
 
-<sub>And I posted the hand-written (digital) notes in a blog post [here](https://priyankasaggu11929.github.io/writing/2020/05/29/Book-Notes.html). It looks like a small blog post, but mark it has the whole worth of teachings in it. Read if you want to learn about negotiations.</sub>
+<sub>And I posted the hand-written (digital) notes in a blog post [here](https://priyankasaggu11929.github.io/writing/2020/05/29/Book-Notes.html). It looks like a small blog post, but mark that, it has the whole worth of teachings in it. Read if you want to learn about negotiations.</sub>
 
-<sub>I saw there are typos in the notes, but it's ok. It's really ok, like now I don't have the power to go and edit it and transfer them to my laptop & re-upload them. Maybe if it will bother me a lot, I might do it later someday (which is less probable though. I'll do it today or won't do it at all XD)</sub>
+<sub>I saw there are some typos in the notes, but it's ok.</sub> 
+
+<sub>It's really ok, like now I don't have the power to go and edit it and transfer them to my laptop & re-upload them. Maybe if it will bother me a lot, I might do it later someday (which is less probable though. I'll do it today or won't do it at all XD)</sub>
 
 <sub>I did something else?</sub>
 
 <sub>Yes, I missed my meditation, but I'll make sure I'll do it now. (Whatever be the case I'll update in the [track](https://priyankasaggu11929.github.io/meditation.html)).</sub>
 
-<sub>I attended [kushal's](kushaldas.in) live-coding session in the evening. I got to hear other folks. It's always nice to hear them. It feels like just another family. :)</sub>
+<sub>I attended [kushal's](kushaldas.in) live-coding session in the evening. I got to hear other folks. It's always nice to hear them (*I mean I really just heard them. I was juggling between the work meetings so couldn't get a chance to talk only*). It feels like just another family. :)</sub>
 
-<sub>I also attended a ***Hardware focused talk, basically a handson for programming different boards using CircuitPython***. I really wish If somehow I could get the Raspberry Pi board back again here. I really want to learn doing some cool things with that. Now, that I have the resources, now I don't have the board only. Sigh!</sub>
+<sub>I also attended a ***Hardware focused talk, basically a handson for programming different micro-controller boards using CircuitPython***. I really wish If somehow I could get the Raspberry Pi board back again here. I really want to learn doing some cool things with that. Now, that I have the resources, I don't have the board only. Sigh!</sub>
 
-<sub>Now I think, there is nothing more left. I might call it off for the day now.</sub>
+<sub>I think, there is nothing more left now. I might call it off for the day!</sub>
 
 <sub>Happy weekend (to whosever who reads it on the same day. I really doubt although XD).</sub>
 
