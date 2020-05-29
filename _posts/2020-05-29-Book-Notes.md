@@ -2,8 +2,8 @@
 layout: post
 title: "Book Notes: Getting Past No! (Negotiating in Difficult Situations)"
 description: "Book notes: Getting Past No, by Willian Ury."
-category: Outreachy
-tags: [Outreachy, Book Notes]
+category: Writing
+tags: [Book Notes]
 comments: false
 ---
 
