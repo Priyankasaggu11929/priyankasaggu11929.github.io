@@ -26,6 +26,32 @@ heading: ""
 
 <sub>brb!</sub>
 
+<sub>***[21:39] Cool, It was a reaaallly nice day.***</sub>
+
+<sub>(Update) I didn't sleep, rather I wrote another quick book notes (I didn't read the book, it was another summarised audio book) for the book **Tribe Of Mentors** by *Tim Ferris*.</sub>
+
+<sub>Very excitedly, I made this new page for just posting *book-notes*. Let's see how far it goes. Today's notes are [here](https://priyankasaggu11929.github.io/notes.html#may-30-2020).</sub>
+
+<sub>And now the best part of the day!
+
+<sub>I had a very long, absolutely amazing, informative, helpful & empowering catch-up with ***[Nikhita Raghunath](https://www.nikhita.dev/)*** (I'm unable to find out a single word to conclude it, so what all came into my head, I just wrote all of them here :D). Honestly, I went to her, asking for help (with a huge set of all sorts of common problems), but I think I managed to gather *a looooot* more from her.</sub> 
+
+<sub>She is an absolutely amazing person (both as a listener & in the work she does). It was a first time conversation but we definitely talked *a lot*. Besides, getting a really good set of solutions from her, I now see her as an another really good person to look after, and on top of that, as an absolutely amazing friend.</sub>
+
+<sub>*Thank you Nikhita for your time & words. You made my day! :)*</sub>
+
+<sub>*And thank you Mridu, for leading me to her. :)*</sub>
+
+<sub>Do I have something more now?</sub>
+
+<sub>I think I'll watch some videos or just read some random articles, might scroll a bit through twitter (for no reason at all XD).</sub>
+
+<sub>Before that, yes, I will meditate. I'll definitely meditate or I'll just put [this page](https://priyankasaggu11929.github.io/meditation.html) down otherwise.</sub>
+
+<sub>*(for just me) so damn careless of you. It's absolutely of no good to you, but you're losing only if you're skipping meditation. GO AND DO IT RIGHT NOW. Yes, if you think you have to empower your own self-esteem (as you so nicely wrote in your book notes), go prove it.*</sub>
+
+<sub>Ok, with that, I'll run now & do my things. o/</sub>
+
 ---
 
 ## *May 29, 2020*
