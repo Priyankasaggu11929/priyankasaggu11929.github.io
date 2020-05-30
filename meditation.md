@@ -12,6 +12,10 @@ heading: ""
 
 ---
 
+*(For someone who might want to start, I use this [tara barach's meditation stream](http://www.tarabrach.com/audio/2010-07-07-Smile-Meditation-TaraBrach.mp3).)*
+
+---
+
 | Date         | 🧘 (✔️ /❌)  |
 |:------------:|:-----------:|
 | May 25, 2020 | ✔️           |
