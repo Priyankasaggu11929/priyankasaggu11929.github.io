@@ -52,6 +52,14 @@ heading: ""
 
 <sub>Ok, with that, I'll run now & do my things. o/</sub>
 
+<sub>***[23:47] Came back...***</sub>
+
+<sub>I just kept my self-esteem intact. Yes, I finally meditated today for 25 min (*where for most part I was distracted with thousand other thoughts, but it's ok, I did my part. It will become better with time*).</sub>
+
+<sub>Now, it's finally a call off for today's journal</sub>
+
+<sub>Good night! o/</sub>
+
 ---
 
 ## *May 29, 2020*
