@@ -14,6 +14,22 @@ heading: ""
 
 ## *May 29, 2020*
 
+<sub>***[14:01] Saturday, yipeeee...***</sub>
+
+<sub>A part of my brain wants to work, learn & do cool things, & then another part of brain just wants to rest, probably sleep.</sub>
+
+<sub>A big hustle is going on in the head XD.</sub>
+
+<sub>(*will come back later, what happened in the end.*)</sub>
+
+<sub>Btw, I didn't do my meditation yesterday, and sadly I have my first cross there. But but, I corrected all the typos from the book notes, realised there were more than what I expected. XD</sub>
+
+<sub>brb!</sub>
+
+---
+
+## *May 29, 2020*
+
 <sub>***[20:35] Finally last working day for the week...***</sub>
 
 <sub>Today is one of the days for what, this separate journal was made, for. I want to write but there is nothing much to write about today.</sub>
