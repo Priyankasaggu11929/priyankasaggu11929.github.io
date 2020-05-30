@@ -11,8 +11,8 @@ May 29, 2020
 
 **My first ever book notes!**
 
-     - Book:  *Getting Past No! (Negotiating in Difficult Situations)*
-     - Author: *Willian Ury*
+       Book: Getting Past No! (Negotiating in Difficult Situations)
+       Author: Willian Ury
 
 (*I'm happy they are useful and they look equally beautiful.*)
 
