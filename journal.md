@@ -20,9 +20,9 @@ heading: ""
 
 <sub>A big hustle is going on in the head XD.</sub>
 
-<sub>(*will come back later, what happened in the end.*)</sub>
+<sub>(*will come back later to write, what happened in the end.*)</sub>
 
-<sub>Btw, I didn't do my meditation yesterday, and sadly I have my first cross there. But but, I corrected all the typos from the book notes, realised there were more than what I expected. XD</sub>
+<sub>Btw, I didn't do my meditation yesterday, and so, sadly I have my first cross [here](https://priyankasaggu11929.github.io/meditation.html). But but, I corrected all the typos from the book notes, realised there were more than what I expected. XD</sub>
 
 <sub>brb!</sub>
 
