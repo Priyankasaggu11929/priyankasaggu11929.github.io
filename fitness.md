@@ -26,6 +26,25 @@ Okay, let's start:
 
 ---
 
+## *May 30, 2020*
+
+    - cw: 76.0 kgs (2020/05/30)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>A good steady weight loss, I'm 1.3 kgs down from last week.</sub>
+
+<sub>Although, I'm realising, I might have to work beyond the goals later. My muscle loss is something that is bothering me right now. Have to check with dietician about this, but later. Right now the focus is to reduce fat.</sub>
+
+<sub>Btw, metabolic age turns down to 27 today. Now, 5 more years to go. XD</sub>
+
+---
+
 ## *May 23, 2020*
 
     - cw: 77.3 kgs (2020/05/23)
