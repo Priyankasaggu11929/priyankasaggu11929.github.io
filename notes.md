@@ -14,7 +14,7 @@ heading: ""
 
 ## *May 30, 2020*
 
-![doodle](/assets/doodle-4.jpeg)
+![doodle](/assets/doodle-6.jpeg)
 
 ---
 
