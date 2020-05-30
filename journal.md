@@ -62,7 +62,7 @@ heading: ""
 
 <sub>***I have finally joined a company, as a full-time employee. And that too on a work profile, that I actually want to learn & pursure in long-term.***</sub>
 
-<sub>I'm happy & proud of myself that I somehow managed to take really courageous, wise & right career decisions at those high deciding moments (that too multiple times). I still remember, leaving a job was never a small and easy thing for me. But I never regretted and with lots of help, just kept doing the work.</sub> 
+<sub>I'm happy & proud of myself that I somehow managed to take really courageous, wise & right career decisions at those high deciding moments (that too multiple times). I still remember, leaving a job was never a small or easy thing for me. But somehow I didn't regret my decisions (at all, even I'm much happier that I chose to do the right thing) and with lots of help (from many sides), I just kept doing the work.</sub> 
 
 <sub>I'm feeling **extremely blessed to have really awesome mentors**. I just can't thank them enough, in my words. My whole life has changed into a better one, just because they were there at the right times in my life, to show me the right things. God bless them all with all the happiness, health & all the good things they wish for!</sub>
 
@@ -75,15 +75,15 @@ heading: ""
 - <sub>***Fri, Jan 24, 6:59 PM***: Then the offer at scroll.in.</sub>
 - <sub>***Tue, Apr 28, 11:29 PM***: And finally the job offer at Atlan as full-time.</sub>
 
-<sub>*(You saw this funny thing, that all the job offers that I never joined, I had recieved their confirmations on fridays. So, maybe there is something with friday. Nothing, I was just taking the reader's attention away. That was a pun! XD)*</sub>
+<sub>*(You saw this funny thing, that all the job offers that I never joined, I had recieved their confirmations on fridays. So, maybe there is something with friday. Nothing, I was just trying to be little spooky. Ok, ignore, that was *just* a pun! XD)*</sub>
 
 <sub>The first job offer literally made me cry. I worked so hard & waited so damn long for that first job offer. And to me, all these job offers were equally special & made me equally happy at their own times.</sub>
 
-<sub>There were more job offers, that I never got the offer letters because I somehow rejected the offers myself. And I'm happy that there are some really good names in that list (don't doubt, I had other better offers, opportunities or better priorities at the time, so I left). But at last, I'm finally doing what I wanted. :)</sub>
+<sub>There were some more job offers, that I never got the offer letters for, because I somehow rejected the offers myself. And I'm happy that there are some really good names in that list (don't doubt, I had other better offers, opportunities or better priorities at the time, so I left). But at last, I'm finally doing what I wanted. :)</sub>
 
 <sub>***Ok, now a brief about work!***<sub/>
 
-<sub>Nothing really special (even though it was my first day as full-time. It would've been although if I was in office. Maybe... I'm trying to console my heart XD). I worked, took some new tasks, learnt a lot around them, and did well with the results. It was a good peaceful productive working day.</sub>
+<sub>Nothing really special (even though it was my first day as full-time. It would've been special although if I was in office. Or, maybe... I'm *just* trying to console my heart XD). I worked, took some new tasks, learnt a lot around them, and did well as whole. It was a good peaceful, productive working day.</sub>
 
 <sub>There is something really nice to mention here.</sub> 
 
@@ -94,15 +94,17 @@ heading: ""
 - <sub>[Why people believe they can’t draw - and how to prove they can | Graham Shaw | TEDxHull](https://www.youtube.com/watch?v=7TXEZ4tP06c)</sub>
 - <sub>[How to draw to remember more | Graham Shaw | TEDxVienna](https://www.youtube.com/watch?v=gj3ZnKlHqxI)</sub>
 
-<sub>The above two talks by *Graham Shaw* are among the old ones that I re-watched today. The first time I watched them, I wasn't sure if I would ever need them for motivating myself. But yes, now, I needed them the most. Yesterday, as I was struggling with drawing anything at all, I decided to take some help today.</sub> 
+<sub>The above two talks by *Graham Shaw* are among the old ones that I re-watched today. The first time I watched them, I wasn't sure if I would ever need them for motivating myself. But yes, now, I needed them the most.</sub>
 
-<sub>These are some things I drew following the talks.. I know they are some really bad drawings, but *it's ok*. Remember, I was late because I was struggling with this in the morning. So, I appreciate whatever I did.</sub>
+<sub>Yesterday, I was not able to draw anything at all, so, I decided to take some help today (yes, those videos above).</sub> 
+
+<sub>These are some things I drew following those talks. I know they are some really bad drawings, but *it's ok*. Remember, I was late in the morning. Yes, because I was struggling with these in the morning. So, I appreciate whatever I got now.</sub>
 
 ![doodle](/assets/doodle-1.jpeg)
 
 ![doodle](/assets/doodle-2.jpeg)
 
-- <sub>Then I watched this ted talk, [The first 20 hours -- how to learn anything | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) by *Josh Kaufman*. And I did some (artsy) note-taking here too. It sums up my learnings.</sub>
+- <sub>Then I watched this ted talk, [The first 20 hours -- how to learn anything | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) by *Josh Kaufman*. And I tried doing some (artsy) note-taking here too. Althought it turned out real bad, but it sums up my learnings.</sub>
 
 <sub>*(really bad handwriting alerts!!!)*</sub>
 
