@@ -39,7 +39,7 @@ Okay, let's start:
 
 <sub>Lost 1.1 kgs since last week. The slope is mostly downwards and that *is* how I'm hoping it to be.</sub>
 
-<sub>I'll keep doing my work & I'll keep showing up here. Now that, my own logs are turning to be *my* source of inspiration, I feel even more obliged. :)</sub>
+<sub>I'll keep doing my work & I'll keep showing up here. Now that, my own logs are turning to be *my* source of inspiration, I feel even more obliged to keep doing my work. :)</sub>
 
 ---
 
