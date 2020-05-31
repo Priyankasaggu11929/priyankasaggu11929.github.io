@@ -17,7 +17,9 @@ title: About
     - <sub>how to manage multi-cluster (micro-services) applications in an On-Premise Deployment setup. Further expanding to Cluster (and other included resources) monitoring, health-checks, alerts, managing updates/upgrades and finally Disaster Recovery (basically backup and restore mechanism).</sub>
 - <sub>And I’m an [Outreachy’19 alumna at GNOME Foundation](https://www.outreachy.org/alums/) too.</sub>
 
-<sub>Checkout my resume [here](https://priyankasaggu11929.github.io/resume/).</sub>
+<sub>You could checkout my resume [here](https://github.com/Priyankasaggu11929/priyankasaggu11929.github.io/raw/master/assets/priyankasaggu_resume.pdf).</sub>
+
+---
 
 <sub>Find me at other places:</sub>
 
