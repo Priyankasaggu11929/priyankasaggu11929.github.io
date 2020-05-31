@@ -34,6 +34,10 @@ heading: ""
 
 <sub>Ok, who knows what's the reason. I will go and meditate now & maybe do something more. o/</sub>
 
+<sub>***[22:30] Finished meditating...***</sub>
+
+<sub>Feel sooo much better now. Also, I switched to headspace today, for a change. I thing change is good here. :)</sub>
+
 ---
 
 ## *May 30, 2020*
