@@ -12,6 +12,30 @@ heading: ""
 
 ---
 
+## *May 31, 2020*
+
+<sub>***[21:51] Sunday spent well...***</sub>
+
+<sub>Today was a sort of a free but still entirely occupied day. So, I did a lot of stuff, but those were many small things actually.</sub>
+
+<sub>*People* say a resume should be a single page thing, so I really killed (ok, I spent) the time actually making my 3 page resume into one (*I really don't know why, but I did that*).</sub>
+
+<sub>Hey, btw, it was not hard at all this time. I happened to finish this within an hour & 95% of everything from the last resume is still there. Bingo, I did a good work. Have a look, it's *[here](https://github.com/Priyankasaggu11929/priyankasaggu11929.github.io/raw/master/assets/priyankasaggu_resume.pdf)*.</sub>
+
+<sub>In the morning although, I talked to a friend (who is about to be a CA) and learnt the basic jargons around money savings & investments. Actually, I'm reading this book ***YOU CAN BE RICH TOO*** by *PV Subramanyam*. It's a really awesome book for someone who's looking to getting started with understanding money investments, but my brain needed some more help to digest the mathematics behind, so that's why the help. :)</sub>
+
+<sub>The evening was nicely spent learning about ***basics of nutritions*** by *[jasonbraganza](https://mjbraganza.com)* in #learnandteach.</sub>
+
+<sub>Evening I was a little bit disturbed for absolutely no reason at all. But I was (actually, still I'm, but trying hard to get rid of it, because definitely there is absolutely nothing about it). I think it's ok to feel like these sometimes. It's a part of life.</sub>
+
+<sub>Listening to [this song](https://www.youtube.com/watch?v=MDXFi3avqo0) on loop from last night. It will stay for some more time now. :)</sub>
+
+<sub>I think I'm sad because sunday is getting over. XD</sub>
+
+<sub>Ok, who knows what's the reason. I will go and meditate now & maybe do something more. o/</sub>
+
+---
+
 ## *May 30, 2020*
 
 <sub>***[14:01] Saturday, yipeeee...***</sub>
