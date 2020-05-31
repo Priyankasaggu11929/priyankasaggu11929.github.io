@@ -26,6 +26,27 @@ Okay, let's start:
 
 ---
 
+## *May 31, 2020*
+
+**<sub>Very early update!</sub>**
+
+    - cw: 75.6 kgs (2020/05/31)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Yipeeeee 🎉️ 🎉️ 🎉️</sub>
+
+<sub>I'm 20.1 kgs down from the highest weight today. 🤩️</sub>
+
+<sub>It was just an impossible, unreal dream, an year back. I am sooooo happy right now. 😁️ </sub>
+
+---
+
 ## *May 30, 2020*
 
     - cw: 76.0 kgs (2020/05/30)
