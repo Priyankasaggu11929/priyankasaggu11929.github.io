@@ -12,7 +12,7 @@ heading: ""
 
 ---
 
-*(For someone who might want to start, I use this [tara barach's meditation stream](http://www.tarabrach.com/audio/2010-07-07-Smile-Meditation-TaraBrach.mp3) and headspace.)*
+*(For someone who might want to start, I use this [tara barach's meditation stream](http://www.tarabrach.com/audio/2010-07-07-Smile-Meditation-TaraBrach.mp3) and [headspace](https://www.youtube.com/channel/UC3JhfsgFPLSLNEROQCdj-GQ).)*
 
 ---
 
@@ -25,3 +25,4 @@ heading: ""
 | May 29, 2020 | ❌          |
 | May 30, 2020 | ✔️           |
 | May 31, 2020 | ✔️           |
+| Jun 01, 2020 | ✔️           |
