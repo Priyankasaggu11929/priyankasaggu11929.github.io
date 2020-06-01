@@ -27,7 +27,7 @@ heading: ""
 
 <sub>I wasn't feeling well, so took a leave today.</sub>
 
-<sub>Although there was no actual work, but I think I did a lot of other constructive work today. Hope, I will soon get some nice results around that soon.</sub>
+<sub>Although there was no actual work, but I think I did a lot of other constructive work today. Hope, I will soon get some nice results around that.</sub>
 
 <sub>I wish tomorrow be a better day for me. I will try to work properly. :)</sub>
 
