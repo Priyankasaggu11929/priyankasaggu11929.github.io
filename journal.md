@@ -22,6 +22,17 @@ heading: ""
 
 <sub>Yea, those were some random thoughts that I thought I should put here. It will keep reminding me that how good it is when I meditate & start my day nicely, rather grumpily with all that ill thoughts. And how much cool & fresh air adds to the meditation experience.</sub>
 
+
+<sub>***[23:47] No work today...***</sub>
+
+<sub>I wasn't feeling well, so took a leave today.</sub>
+
+<sub>Although there was no actual work, but I think I did a lot of other constructive work today. Hope, I will soon get some nice results around that soon.</sub>
+
+<sub>I wish tomorrow be a better day for me. I will try to work properly. :)</sub>
+
+<sub>PS: I did started listening to ***Deep Work*** by *Cal Newport*. Was able to just finish the first quarter of the first chapter!</sub>
+
 ---
 
 ## *May 31, 2020*
