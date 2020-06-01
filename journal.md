@@ -12,6 +12,18 @@ heading: ""
 
 ---
 
+## *June 1, 2020*
+
+<sub>***[08:16] A good start...***</sub>
+
+<sub>Talked to some loved ones as first thing in the morning & then meditated in the fresh & cool breeze. I don't think there could be any better start of the day. :)</sub>
+
+<sub>Now, that I'm writing these journals on a daily basis for a while (not really big while, so far 14 days), I feel like the machine where I type these, also matters now. It's easier to write something from my own laptop than from the work laptop. The work laptop just doesn't feel like mine (and that actually isn't mine XD).</sub>
+
+<sub>Yea, those were some random thoughts that I thought I should put here. It will keep reminding me that how good it is when I meditate & start my day nicely, rather grumpily with all that ill thoughts. And how much cool & fresh air adds to the meditation experience.</sub>
+
+---
+
 ## *May 31, 2020*
 
 <sub>***[21:51] Sunday spent well...***</sub>
