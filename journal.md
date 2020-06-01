@@ -38,7 +38,7 @@ heading: ""
 
 <sub>The evening was nicely spent learning about ***basics of nutritions*** by *[jasonbraganza](https://mjbraganza.com)* in #learnandteach.</sub>
 
-<sub>Evening I was a little bit disturbed for absolutely no reason at all. But I was (actually, still I'm, but trying hard to get rid of it, because definitely there is absolutely nothing about it). I think it's ok to feel like these sometimes. It's a part of life.</sub>
+<sub>Although late evening, I was a little bit disturbed for absolutely no reason at all. But I was! (actually, still I'm, but trying hard to get rid of it, because definitely there is absolutely nothing about it). I think it's ok to feel like this sometimes. It's a part of life.</sub>
 
 <sub>Listening to [this song](https://www.youtube.com/watch?v=MDXFi3avqo0) on loop from last night. It will stay for some more time now. :)</sub>
 
@@ -48,7 +48,7 @@ heading: ""
 
 <sub>***[22:30] Finished meditating...***</sub>
 
-<sub>Feel sooo much better now. Also, I switched to headspace today, for a change. I thing change is good here. :)</sub>
+<sub>It feels sooo much better now. Also, I switched to headspace today, for a change. I thing a change was much required here. :)</sub>
 
 ---
 
