@@ -18,9 +18,9 @@ heading: ""
 
 <sub>*Dear Priyanka,*</sub>
 
-<sub>*The few habits that you've built over past couple of months & weeks, please abide by them. These are some of the things that you've learned and earned after failing for a looot of time. So, don't let them go in vain. Work hard, first make sure **you're happy**, before you try to make others happy. Thrive for your dreams, and keep working in their direction & actually go and learn one more thing.*</sub>
+<sub>*The few habits that you've built over past couple of months & weeks, please abide by them. These are some of the things that you've learned and earned after failing for a looot of time. So, don't let them go in vain. Work hard, first make sure **you're happy**, before you try to make others happy. Thrive for your dreams, and keep working in their direction. And actually, go and learn one more thing too.*</sub>
 
-<sub>*Go and learn, how to enjoy the life to the fullest.*</sub>
+<sub>*Learn, how to enjoy the life to the fullest.*</sub>
 
 <sub>*Now, dear future Priyanka,*</sub>
 
