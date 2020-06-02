@@ -22,9 +22,19 @@ heading: ""
 
 <sub>*Learn, how to enjoy the life to the fullest.*</sub>
 
-<sub>*Now, dear future Priyanka,*</sub>
+<sub>*Now, Dear future Priyanka,*</sub>
 
 <sub>*Meditation is the best thing that the **current you** have started doing. This is the only thing that will keep you sane even in the worst. So, for your own good sake, don't leave this habit at least.*</sub>
+
+<sub>***[23:14] Winding up the day...***</sub>
+
+<sub>I was supposed to do a lot of things today. Sadly, couldn't do anything at all.</sub>
+
+<sub>So, I rested for a while. And then rested for another good while I guess, that's all I did.</sub>
+
+<sub>And later in the day, the only good thing I did was started reading the book ***Container Security*** by *Liz Rice*. I procastinated for a long time thinking that it is not meant for someone who have just started with containerised system, but realised she has very kindly framed the content that I'm so nicely covered in the intended audience now. There is everything, absolutely everything that I had issues understanding so far. I feel like this is the exact content I wanted from so long. I'll try to finish it slowly.</sub>
+
+<sub>*good night now* :)</sub>
 
 ---
 
