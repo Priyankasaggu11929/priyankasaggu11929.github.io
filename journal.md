@@ -12,6 +12,22 @@ heading: ""
 
 ---
 
+## *June 2, 2020*
+
+<sub>***[13:17] Realisation...***</sub>
+
+<sub>*Dear Priyanka,*</sub>
+
+<sub>*These some habits that you've built over past couple of months & weeks, please abide by them. These are some of the things that you've learned and earned after failing for a looot of time. So, don't let them go in vain. Work hard, first make sure **you're happy**, before you try to make others happy. Thrive for your dreams, and keep working in their direction & actually go and learn one more thing.*</sub>
+
+<sub>*Go and learn, how to enjoy the life to the fullest.*</sub>
+
+<sub>*Now, dear future Priyanka,*</sub>
+
+<sub>*Meditation is the best thing that the **current you** have started doing. This is the only thing that will keep you sane even in the worst. So, for your own good sake, don't leave this habit at least.*</sub>
+
+---
+
 ## *June 1, 2020*
 
 <sub>***[08:16] A good start...***</sub>
