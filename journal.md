@@ -20,6 +20,22 @@ heading: ""
 
 <sub>After 2 full days of rest, now I'm back to work today. Hoping the day goes well :)</sub>
 
+<sub>***[22:24] Very productive day...***</sub>
+
+<sub>Finally finished all my work tasks for today & I'm quite happy that I did well. So, for context, today's tasks were ***setting up HorizontalPodAutoscaling*** in the kubernetes cluster for all the micro-services & ***ensuring if cluster-autoscaling (Node autoscaling)*** works properly or not.</sub>
+
+<sub>Also, in the morning, I finished another chapter ***Linux System Calls, Permissions & Capabilities*** from the **Container Security** book by *Liz Rice*. I'll repeat, this book is really awesome. I'm learning a lot about *container & linux system security* related things that once was damn hard for me to even understand a bit.</sub>
+
+<sub>Later in the evening, I got to have a conversation with some new people today. And I'm happy that people are kind & generous everywhere (although nowadays, we're seeing some major exceptions sadly).</sub>
+
+<sub>*What else I did?*</sub>
+
+<sub>I think nothing much. I just concentrated on my work & fortunately managed to finish it as well. :)</sub>
+
+<sub>Waiting for a PR review, then will wrap up work for the day. I've a couple of things to look after as I actually finish work now!</sub>
+
+<sub>(PS: Putting a link to *[jasonbraganza's](mjbraganza.com)* collection of really insightful quotes, here. So, that I can refer them whenever I want. :))</sub>
+
 ---
 
 ## *June 2, 2020*
