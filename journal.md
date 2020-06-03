@@ -16,9 +16,9 @@ heading: ""
 
 <sub>***[12:33] Back to work...***</sub>
 
-<sub>I love it when I actually do my morning meditation (*and the best part, now I do it in open, sitting in fresh air. It's literally the best thing.*).</sub>
+<sub>I love it when I actually *do* my morning meditation (*and the best part is, now I sit in an open place, inhaling just the fresh air. It's literally the best thing.*).</sub>
 
-<sub>After 2 full day rest, now I'm back to work today. Hoping the day hoes well :)</sub>
+<sub>After 2 full days of rest, now I'm back to work today. Hoping the day goes well :)</sub>
 
 ---
 
