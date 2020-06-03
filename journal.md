@@ -12,6 +12,16 @@ heading: ""
 
 ---
 
+## *June 3, 2020*
+
+<sub>***[12:33] Back to work...***</sub>
+
+<sub>I love it when I actually do my morning meditation (*and the best part, now I do it in open, sitting in fresh air. It's literally the best thing.*).</sub>
+
+<sub>After 2 full day rest, now I'm back to work today. Hoping the day hoes well :)</sub>
+
+---
+
 ## *June 2, 2020*
 
 <sub>***[13:17] A letter to me...***</sub>
