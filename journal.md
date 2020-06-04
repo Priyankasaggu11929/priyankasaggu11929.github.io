@@ -12,6 +12,26 @@ heading: ""
 
 ---
 
+## *June 4, 2020*
+
+<sub>***[16:08] A very peaceful day...***</sub>
+
+<sub>I woke up early around 5:30am in the morning and read this book ***Inside the Machine*** by *Jon Stokes*, finishing till first chapter. And then I slept again around 7:15am. XD </sub>
+
+<sub>Then I woke up again around 8:45am, and started reading the second chapter, more precisely **The Programming model & ISA** and it actually felt like I've revised all the course of my *microprocessor* subject (from the 3rd year of my graduation). I'm really enjoying learning about the computer architecture once again, but this time I'm truly impressed by the way it is explained in the book. It is made easier to the level it is possible. :) </sub>
+
+<sub>Although I left the second chapter, for tomorrow.</sub>
+
+<sub>After that, I continued the *Container Security* book from the third chapter ***Control Groups*** and learnt a little about **Control Groups (or cgroups)**. But I left it early, because I was already late to start my day with work. :)</sub>
+
+<sub>I cooked my breakfast & then finished a couple of office tasks, had some productive chats with people and, overall, so far, it is going very good.</sub>
+
+<sub>Now, the best part. I really love my meditation time. Today, I was late, so I did it like just 30 min back. But because it's drizlling outside and it's nice, cool & breezy, I sat near the window and meditated for a good long 25 minutes. I'm super positive & fresh now (in the middle of the day, see that's the power of meditation).</sub>
+
+<sub>Going back to work now. Tata o/</sub>
+
+---
+
 ## *June 3, 2020*
 
 <sub>***[12:33] Back to work...***</sub>
