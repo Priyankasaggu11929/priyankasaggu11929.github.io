@@ -18,17 +18,62 @@ heading: ""
 
 <sub>I woke up early around 5:30am in the morning and read this book ***Inside the Machine*** by *Jon Stokes*, finishing till first chapter. And then I slept again around 7:15am. XD </sub>
 
-<sub>Then I woke up again around 8:45am, and started reading the second chapter, more precisely **The Programming model & ISA** and it actually felt like I've revised all the course of my *microprocessor* subject (from the 3rd year of my graduation). I'm really enjoying learning about the computer architecture once again, but this time I'm truly impressed by the way it is explained in the book. It is made easier to the level it is possible. :) </sub>
+<sub>Then I woke up again around 8:45am, and started reading the second chapter, more precisely this part, **The Programming model & ISA** and it actually felt like I've revised all the course of my *microprocessor* subject (from the 3rd year of my graduation). I'm really enjoying learning about the computer architecture once again, but this time I'm truly impressed by the way it is explained in the book. It is made easier to the level it is possible. :) </sub>
 
 <sub>Although I left the second chapter, for tomorrow.</sub>
 
 <sub>After that, I continued the *Container Security* book from the third chapter ***Control Groups*** and learnt a little about **Control Groups (or cgroups)**. But I left it early, because I was already late to start my day with work. :)</sub>
 
-<sub>I cooked my breakfast & then finished a couple of office tasks, had some productive chats with people and, overall, so far, it is going very good.</sub>
+<sub>I cooked my breakfast & then finished a couple of office tasks, had some more productive chats with people and, overall, so far, it is going very good.</sub>
 
 <sub>Now, the best part. I really love my meditation time. Today, I was late, so I did it like just 30 min back. But because it's drizlling outside and it's nice, cool & breezy, I sat near the window and meditated for a good long 25 minutes. I'm super positive & fresh now (in the middle of the day, see that's the power of meditation).</sub>
 
 <sub>Going back to work now. Tata o/</sub>
+
+<sub>***[23:24] Wrapping up the work now...***</sub>
+
+<sub>A good long working day today!</sub>
+
+<sub>I'm so happy with my recent work tasks that so far I've finished and some more that I'm still working on. I'm learning deeply about the **observability** part of DevOps, that is (in my case) learning about how to read **grafana dashboard metrics** and then optimizing the cluster resources taking into consideration the current level of utilization (of *cpu, memory, et al*).</sub> 
+
+<sub>(*I remember during the call with [Mark](https://priyankasaggu11929.github.io/journal.html#may-21-2020), he pointed out that Observability is a key fundamental DevOps skill & is much appreciated, if you understand that. So, that is why the happiness, because I'm getting to touch this.*)</sub>
+
+<sub>Reading metrics was really hard sometime before. I wasn't aware only how these metrics are generated & collected and what are the units & all that jargons. Now, with time & the tasks, I think it has (*I won't say crystal clear, but*) become very clear</sub>
+
+<sub>I'm a very confused sort of sleepy right now. I'm sleepy but not sleepy. Let's see how long I'll take to actually sleep now. But I think it's good time to log off the working hours now.</sub>
+
+<sub>*I did something else?*</sub>
+
+<sub>Because it was breezy, nice & cool outside, I shifted my laptop & other stuff near the window & for the maximum part of the day, worked from there. I'll say it was much much much better than working from bed, but working from desk is still the best choice (*if I ignore the cool nice breeze with drizzles* 😍)</sub>
+
+<sub>I just read this newsletter, **the only 2 ways to restore margin** from *Shawn Blanc*. And loved the diagram he made to easily explain the concept. Putting it down here (for me):</sub>
+
+![margin](/assets/margin.png)
+
+<sub>And because even the newsletter itself, was soooo *to the point* for me, I want to put a part of it here too.</sub>
+
+><sub>**Let your life have breathing room (instead of cramming in more and more stuff)**</sub>
+>
+><sub>Over the decades, we have gotten ever more productive at doing work. What used to take 40 hours, now can be done in just 20 hours. And so we piled on more work to fill up those 40 hours. And then we were able to compress that into less time. And so we added more...</sub>
+>
+><sub>These days it feels as if we are cramming 80 hours worth of work into a 50-hour week. Why? What’s the rush?</sub>
+>
+>
+><sub>Your best version of productivity is when you are focused on meaning.</sub>
+>
+><sub>Productivity over the years has gone from a focus on efficiency, to a focus on intentionality, to, now, a focus on meaning.</sub>
+>
+><sub>It’s not until you get to meaningful productivity that you start to see all the benefits. This is where you’re able to be efficient with your time, intentional with what you are focusing on, and then clear about what your values are.</sub>
+>
+><sub>But you will never get there without margin.</sub>
+>
+><sub>Without any margin, you’ll be stuck fighting for efficiency. Just trying to keep your head above water and avoiding burnout. (Sound familiar?)</sub>
+>
+><sub>That’s why...</sub>
+>
+><sub>Without margin, you are unable to focus on what truly matters.</sub>
+>
+><sub>And this is the sad irony.</sub>
 
 ---
 
