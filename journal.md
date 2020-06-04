@@ -75,6 +75,8 @@ heading: ""
 >
 ><sub>And this is the sad irony.</sub>
 
+<sub>Ok, now finally, it's time to sleep. Good night o/</sub>
+
 ---
 
 ## *June 3, 2020*
