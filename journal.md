@@ -46,7 +46,7 @@ heading: ""
 
 <sub>Because it was breezy, nice & cool outside, I shifted my laptop & other stuff near the window & for the maximum part of the day, worked from there. I'll say it was much much much better than working from bed, but working from desk is still the best choice (*if I ignore the cool nice breeze with drizzles* 😍)</sub>
 
-<sub>I just read this newsletter, **the only 2 ways to restore margin** from *Shawn Blanc*. And loved the diagram he made to easily explain the concept. Putting it down here (for me):</sub>
+<sub>I just read this newsletter, **the only 2 ways to restore margin** from *[Shawn Blanc](https://shawnblanc.net/)*. And loved the diagram he made to easily explain the concept. Putting it down here (for me):</sub>
 
 ![margin](/assets/margin.png)
 
