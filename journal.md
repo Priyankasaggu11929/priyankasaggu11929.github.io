@@ -16,17 +16,17 @@ heading: ""
 
 <sub>***[21:08] A good day...***</sub>
 
-<sub>Usually nowadays I read books as first thing in the morning. But today, there were guests in the home & because I was working till late night, so I spent the morning time sitting with them.</sub>
+<sub>Usually nowadays, I tend to read books as first thing in the morning. But today, there were some guests in the home (and because I was working till late night yesterday, and I didn't get a chance to talk to them), so I spent the morning hours sitting with them.</sub>
 
-<sub>And that actually helped me learn something new today!</sub> 
+<sub>But that actually ended up into me learning something new & exciting today!</sub> 
 
-<sub>I learnt *how to use a DSLR camera*. And, so, I literally spent some 2-3 hours (in the morning), just clicking looots of pictures. And after a good long try, I got a few nice ones (*I mean I consider them nice :P*) that I posted [here as a post](https://priyankasaggu11929.github.io/photography/2020/06/05/first-time-photographs.html).</sub> 
+<sub>I learnt *how to use (and click pictures with) a DSLR camera*. And, so, I literally spent some early 2-3 hours (in the morning), just clicking looots of pictures. After a good long try, I got a few nice ones (*I mean I consider them nice :P*) that I've posted [here as a post](https://priyankasaggu11929.github.io/photography/2020/06/05/first-time-photographs.html).</sub> 
 
 <sub>(*I've uploaded the pictures with their actual size, so it might take some time to load the page 😉️*).</sub>
 
-<sub>The office hours were productive today. I was able to finish all the tasks, whatever I was assigned. I'm so happy, I'm learning something new every single day. :)</sub>
+<sub>The office hours were productive today. I was able to finish all the tasks, whatever I was assigned. I'm so happy, I'm learning something new, or improving my exisitng knowledge around things, every single day. :)</sub>
 
-<sub>There were a few moments here & there when I was a little dissapointed because I wasn't able to do things that I very keenly wanted. But anyways, past some years have *literally* taught me to be patient with things. I won't say I'm really good at being patient, but sometimes there are no choices only, and that's what I've learnt the hard way all these past years.</sub>
+<sub>There were a few moments here & there in the day, when I was a little dissapointed because I wasn't able to do things that I very keenly wanted. But anyways, past some years have *literally* taught me to be patient with things. I won't say I'm really good at being patient, but sometimes there are no choices only, and that's what I've learnt the hard way all these past years.</sub>
 
 <sub>Ah, and today I wasn't able to meditate properly. I actually sat for meditation a couple of times, but it didn't last for long (not because I wasn't able to concentrate, but more because there was some maintainance work going on, so I needed to shift my place couple of times.). So, hardly 5 minutes continuously at each time (which is not bad again). But I might meditate again before I actually end my day. This is more to just keep the streak going on.</sub>
 
@@ -40,9 +40,9 @@ heading: ""
 
 <sub>***[22:25] Done meditating for a while...***</sub>
 
-<sub>Meditating after a long working day, is in itself a big rewarding thing. This is the *best way* to release all those funny stress & tensions.</sub>
+<sub>Meditating for even a small while, after a long working day, is in itself a huge rewarding thing. This is the *best way* to release all those funny stress & tensions.</sub>
 
-<sub>*Now, I'm finally off to sleep :)*</sub>
+<sub>*Ok, now, I'm finally off to sleep :)*</sub>
 
 ---
 
