@@ -23,10 +23,9 @@ But finally today (*with some help from a family member*), I actually managed to
 
 I'm happy with them (after all they are my first ever clicks). ☺️
 
-(*And now, I'm also aware of the basic jargons -- exposure, shutter-speed, aperture, ISO. 
+(*And now, I'm also aware of the basic jargons -- exposure, shutter-speed, aperture, ISO.*)
 
-
-OH YES, THIS WAS A BIG DEAL FOR ME ALL THIS WHILE 😅️*)
+OH YES, THIS WAS A BIG DEAL FOR ME ALL THIS WHILE! 😅️
 
 ---
 
