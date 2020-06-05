@@ -20,9 +20,9 @@ heading: ""
 
 <sub>And that actually helped me learn something new today!</sub> 
 
-<sub>I learnt *how to use a DSLR camera*. And, so, I literally spent some 2-3 hours (in the morning), just clicking looots of pictures. And after a good long try, I got a few nice ones (*I mean I consider them nice :P*) that I posted [here as a post](https://priyankasaggu11929.github.io/photography/2020/06/05/first-time-photographs.html). 
+<sub>I learnt *how to use a DSLR camera*. And, so, I literally spent some 2-3 hours (in the morning), just clicking looots of pictures. And after a good long try, I got a few nice ones (*I mean I consider them nice :P*) that I posted [here as a post](https://priyankasaggu11929.github.io/photography/2020/06/05/first-time-photographs.html).</sub> 
 
-(*I've uploaded the pictures with their actual size, so it might take some time to load the page 😉️*).</sub>
+<sub>(*I've uploaded the pictures with their actual size, so it might take some time to load the page 😉️*).</sub>
 
 <sub>The office were productive today. I was able to finish all the tasks, whatever I was assigned. I'm so happy, I'm learning something new every single day. :)</sub>
 
