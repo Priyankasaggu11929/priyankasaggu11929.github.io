@@ -3,7 +3,7 @@ layout: post
 title: "The first some Photographs!"
 description: "My first ever clicks with a DSLR camera."
 category: Photography
-tags: [Photogragh]
+tags: [Photographs]
 comments: false
 ---
 
