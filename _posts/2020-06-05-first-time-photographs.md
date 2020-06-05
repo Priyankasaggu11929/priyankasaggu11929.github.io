@@ -13,7 +13,7 @@ Apart from the office work, nowadays, I'm mostly working on building some good h
 
 *(Reading good books, writing morning pages and [daily journals](https://priyankasaggu11929.github.io/journal.html), taking occassional [hand-written notes](https://priyankasaggu11929.github.io/notes.html) and doing my [meditation](https://priyankasaggu11929.github.io/meditation.html), are some of the few that I'm very very happy about.)*
 
-And now, I'm also getting my hands dirty with few other fun activities too. 
+And now, I'm getting my hands dirty with few other fun activities too. 
 
 ***Today, it's Photography!*** 
 
@@ -23,7 +23,7 @@ But finally today (*with some help from a family member*), I actually managed to
 
 I'm happy with them (after all they are my first ever clicks). ☺️
 
-(*And now, I'm also aware of the basic jargons -- exposure, shutter-speed, aperture, ISO.*)
+(*And now, I'm also aware of these basic jargons -- exposure, shutter-speed, aperture, ISO. Btw, I still find it really hard to configure them most times.*)
 
 OH YES, THIS WAS A BIG DEAL FOR ME ALL THIS WHILE! 😅️
 
