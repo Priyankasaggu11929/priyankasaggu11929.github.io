@@ -12,6 +12,34 @@ heading: ""
 
 ---
 
+## *June 5, 2020*
+
+<sub>***[21:08] A good day...***</sub>
+
+<sub>Usually nowadays I read books as first thing in the morning. But today, there were guests in the home & because I was working till late night, so I spent the morning time sitting with them.</sub>
+
+<sub>And that actually helped me learn something new today!</sub> 
+
+<sub>I learnt *how to use a DSLR camera*. And, so, I literally spent some 2-3 hours (in the morning), just clicking looots of pictures. And after a good long try, I got a few nice ones (*I mean I consider them nice :P*) that I posted [here as a post](https://priyankasaggu11929.github.io/photography/2020/06/05/first-time-photographs.html). 
+
+(*I've uploaded the pictures with their actual size, so it might take some time to load the page 😉️*).</sub>
+
+<sub>The office were productive today. I was able to finish all the tasks, whatever I was assigned. I'm so happy, I'm learning something new every single day. :)</sub>
+
+<sub>There were a few moments here & there when I was a little dissapointed because I wasn't able to do things that I very keenly wanted. But anyways, past some years have *literally* taught me to be patient with things. I won't say I'm really good at being patient, but sometimes there are no choices only, and that's what I've learnt the hard way all these past years.</sub>
+
+<sub>Ah, and today I wasn't able to meditate properly. I actually sat for meditation a couple of times, but it didn't last for long (not because I wasn't able to concentrate, but more because there was some maintainance work going on, so I needed to shift my place couple of times.). So, hardly 5 minutes continuously at each time (which is not bad again). But I might meditate again before I actually end my day. This is more to just keep the streak going on.</sub>
+
+<sub>Right now, I'm waiting for 20-30 minutes more to check if there are some last final nitpicks required on the work, before I actually call it off for the weekend.</sub>
+
+<sub>Ok, the wait is over. I'm done for the day now. \o/</sub>
+
+<sub>I'll go and peacefully meditate for some time now. :)</sub>
+
+<sub>Good night y'all. Happy weekend!</sub>
+
+---
+
 ## *June 4, 2020*
 
 <sub>***[16:08] A very peaceful day...***</sub>
