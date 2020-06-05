@@ -36,7 +36,13 @@ heading: ""
 
 <sub>I'll go and peacefully meditate for some time now. :)</sub>
 
-<sub>Good night y'all. Happy weekend!</sub>
+<sub>Good night y'all, and a happy weekend!</sub>
+
+<sub>***[22:25] Done meditating for a while...***</sub>
+
+<sub>Meditating after a long working day, is in itself a big rewarding thing. This is the *best way* to release all those funny stress & tensions.</sub>
+
+<sub>*Now, I'm finally off to sleep :)*</sub>
 
 ---
 
