@@ -24,7 +24,7 @@ heading: ""
 
 <sub>(*I've uploaded the pictures with their actual size, so it might take some time to load the page 😉️*).</sub>
 
-<sub>The office were productive today. I was able to finish all the tasks, whatever I was assigned. I'm so happy, I'm learning something new every single day. :)</sub>
+<sub>The office hours were productive today. I was able to finish all the tasks, whatever I was assigned. I'm so happy, I'm learning something new every single day. :)</sub>
 
 <sub>There were a few moments here & there when I was a little dissapointed because I wasn't able to do things that I very keenly wanted. But anyways, past some years have *literally* taught me to be patient with things. I won't say I'm really good at being patient, but sometimes there are no choices only, and that's what I've learnt the hard way all these past years.</sub>
 
