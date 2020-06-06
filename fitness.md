@@ -26,6 +26,27 @@ Okay, let's start:
 
 ---
 
+## *June 06, 2020*
+
+    - cw: 76.1 kgs (2020/06/06)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Ok, this time I gained some weight! I mean although just 100gms from last saturday. But I gained a lot over the *very early update* I very fondly left here in the very beginning of this week. XD</sub>
+
+<sub>Reason?</sub>
+
+<sub>So, the dietician asked me to *add a little* to my diet because all this while, I was eating much less than required. And that is why, I'm okay with this little weight gain.</sub>
+
+<sub>But there is something good about this weight gain. I actually gained muscles this time. So, it's an almost win for me. :)</sub>
+
+---
+
 ## *May 31, 2020*
 
 **<sub>Very early update!</sub>**
