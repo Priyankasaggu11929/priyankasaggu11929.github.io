@@ -45,7 +45,7 @@ Okay, let's start:
 
 <sub>But there is something good about this. I actually gained muscles this time. So, it's an almost win for me. :)</sub>
 
-<sub>*(ok, honestly, I feel bad when the number increases on the scale. But I've learnt now, taking shortcuts are not good for long term (atlest in this weight loss journey). Only the steady & slow weight loss will thrive. So, HAVE SOME PATIENCE PRIYANKA! )*</sub>
+<sub>*(ok, honestly, I feel bad when the number increases on the scale. But I've learnt now, taking shortcuts are not good for long term (atleast in this weight loss journey). Only the steady & slow weight loss will thrive. So, HAVE SOME PATIENCE PRIYANKA! )*</sub>
 
 ---
 
