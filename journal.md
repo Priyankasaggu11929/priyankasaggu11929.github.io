@@ -42,6 +42,10 @@ heading: ""
 
 <sub>Now, I'll go & just meditate for a while. That's the only thing left for the day! (and I think I so badly need it now)</sub>
 
+<sub>***[23:57] Meditation...***</sub>
+
+<sub>I love how I'm feeling right now. It's the best thing. I'm sleepy now. Good night! :)</sub>
+
 ---
 
 ## *June 5, 2020*
