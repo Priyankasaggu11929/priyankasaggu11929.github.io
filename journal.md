@@ -24,7 +24,7 @@ heading: ""
 
 <sub>So today, I continued with my photography thing again for sometime in the morning & then in the evening. I bothered my family a lot, because I needed some subject. :P</sub>
 
-<sub>*** [21:50] I f^$king hate some specific messages on weekends.***</sub>
+<sub>***[21:50] I f^$king hate some specific messages on weekends.***</sub>
 
 <sub>I'm so so sooooo thankful to God, my laptop just survived a massive fall from the bed, because I ran to look for some issue (yes, due to the messages). This is the second time (not counting several other accidents), I'm in a big shock! 😭️😭️😭️</sub>
 
