@@ -41,9 +41,11 @@ Okay, let's start:
 
 <sub>Reason?</sub>
 
-<sub>So, the dietician asked me to *add a little* to my diet because all this while, I was eating much less than required. And that is why, I'm okay with this little weight gain.</sub>
+<sub>The dietician asked me to *add a little* to my current diet because all this while, I was eating much less than required. And that is why, I'm okay with this little weight gain.</sub>
 
-<sub>But there is something good about this weight gain. I actually gained muscles this time. So, it's an almost win for me. :)</sub>
+<sub>But there is something good about this. I actually gained muscles this time. So, it's an almost win for me. :)</sub>
+
+<sub>*(ok, honestly, I feel bad when the number increases on the scale. But I've learnt now, taking shortcuts are not good for long term (atlest in this weight loss journey). Only the steady & slow weight loss will thrive. So, HAVE SOME PATIENCE PRIYANKA! )*</sub>
 
 ---
 
