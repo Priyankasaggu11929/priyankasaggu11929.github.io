@@ -26,7 +26,9 @@ heading: ""
 
 <sub>***[21:50] I f^$king hate some specific messages on weekends.***</sub>
 
-<sub>I'm so so sooooo thankful to God, my laptop just survived a massive fall from the bed, because I ran to look for some issue (yes, due to the messages). This is the second time (not counting several other accidents), I'm in a big shock! 😭️😭️😭️</sub>
+<sub>I'm so so sooooo thankful to God!</sub>
+
+<sub>My laptop just survived a massive fall from the bed, because I ran to look for some issue (yes, due to the messages). This is the second time (not counting several other accidents), I'm in a big shock! 😭️😭️😭️</sub>
 
 <sub>I'm sooo grateful to my laptop itself. I really can't afford to handle so many things at once. It could've easily ruined my weekend & soooo many of the coming days. I'm taking a 2 minutes break! 😪️</sub>
 
