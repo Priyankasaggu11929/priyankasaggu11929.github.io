@@ -12,6 +12,36 @@ heading: ""
 
 ---
 
+## *June 6, 2020*
+
+<sub>***[21:33] Weekend Day 1...***</sub>
+
+<sub>I did nothing. XD</sub>
+
+<sub>Although doing nothing bothers me, because I usually plan a looot for weekends (which again is mostly side work). But It just doesn't feel like doing anything at all. And I really want to (and I'm trying hard to) be ok with it.</sub>
+
+<sub>*(My brain need rest when I'm doing something that I've second thoughts on, all throughout the weekdays!)*</sub>
+
+<sub>So today, I continued with my photography thing again for sometime in the morning & then in the evening. I bothered my family a lot, because I needed some subject. :P</sub>
+
+<sub>*** [21:50] I f^$king hate some specific messages on weekends.***</sub>
+
+<sub>I'm so so sooooo thankful to God, my laptop just survived a massive fall from the bed, because I ran to look for some issue (yes, due to the messages). This is the second time (not counting several other accidents), I'm in a big shock! 😭️😭️😭️</sub>
+
+<sub>I'm sooo grateful to my laptop itself. I really can't afford to handle so many things at once. It could've easily ruined my weekend & soooo many of the coming days. I'm taking a 2 minutes break! 😪️</sub>
+
+<sub>(*Ok, this was a super extremly, incredibly nice fluke that just happened to me. I'm considering myself really lucky this time. I won't grumble for sometime now.*)</sub>
+
+<sub>I think all my thoughts are gone now. There is nothing more coming (that I might wanted to write before).</sub>
+
+<sub>Although, I wanted to put this message here for me (*I really don't remember what was the source, but a big thanks to them.*)</sub>
+
+![what_I_should_do_to_myself](/assets/message.jpeg)
+
+<sub>Now, I'll go & just meditate for a while. That's the only thing left for the day! (and I think I so badly need it now)</sub>
+
+---
+
 ## *June 5, 2020*
 
 <sub>***[21:08] A good day...***</sub>
