@@ -12,13 +12,130 @@ heading: ""
 
 ---
 
+## *June 5, 2020*
+
+<sub>***[21:08] A good day...***</sub>
+
+<sub>Usually nowadays, I tend to read books as first thing in the morning. But today, there were some guests in the home (and because I was working till late night yesterday, and I didn't get a chance to talk to them), so I spent the morning hours sitting with them.</sub>
+
+<sub>But that actually ended up into me learning something new & exciting today!</sub> 
+
+<sub>I learnt *how to use (and click pictures with) a DSLR camera*. And, so, I literally spent some early 2-3 hours (in the morning), just clicking looots of pictures. After a good long try, I got a few nice ones (*I mean I consider them nice :P*) that I've posted [here as a post](https://priyankasaggu11929.github.io/photography/2020/06/05/first-time-photographs.html).</sub> 
+
+<sub>(*I've uploaded the pictures with their actual size, so it might take some time to load the page 😉️*).</sub>
+
+<sub>The office hours were productive today. I was able to finish all the tasks, whatever I was assigned. I'm so happy, I'm learning something new, or improving my exisitng knowledge around things, every single day. :)</sub>
+
+<sub>There were a few moments here & there in the day, when I was a little dissapointed because I wasn't able to do things that I very keenly wanted. But anyways, past some years have *literally* taught me to be patient with things. I won't say I'm really good at being patient, but sometimes there are no choices only, and that's what I've learnt the hard way all these past years.</sub>
+
+<sub>Ah, and today I wasn't able to meditate properly. I actually sat for meditation a couple of times, but it didn't last for long (not because I wasn't able to concentrate, but more because there was some maintainance work going on, so I needed to shift my place couple of times.). So, hardly 5 minutes continuously at each time (which is not bad again). But I might meditate again before I actually end my day. This is more to just keep the streak going on.</sub>
+
+<sub>Right now, I'm waiting for 20-30 minutes more to check if there are some last final nitpicks required on the work, before I actually call it off for the weekend.</sub>
+
+<sub>Ok, the wait is over. I'm done for the day now. \o/</sub>
+
+<sub>I'll go and peacefully meditate for some time now. :)</sub>
+
+<sub>Good night y'all, and a happy weekend!</sub>
+
+<sub>***[22:25] Done meditating for a while...***</sub>
+
+<sub>Meditating for even a small while, after a long working day, is in itself a huge rewarding thing. This is the *best way* to release all those funny stress & tensions.</sub>
+
+<sub>*Ok, now, I'm finally off to sleep :)*</sub>
+
+---
+
+## *June 4, 2020*
+
+<sub>***[16:08] A very peaceful day...***</sub>
+
+<sub>I woke up early around 5:30am in the morning and read this book ***Inside the Machine*** by *Jon Stokes*, finishing till first chapter. And then I slept again around 7:15am. XD </sub>
+
+<sub>Then I woke up again around 8:45am, and started reading the second chapter, more precisely this part, **The Programming model & ISA** and it actually felt like I've revised all the course of my *microprocessor* subject (from the 3rd year of my graduation). I'm really enjoying learning about the computer architecture once again, but this time I'm truly impressed by the way it is explained in the book. It is made easier to the level it is possible. :) </sub>
+
+<sub>Although I left the second chapter, for tomorrow.</sub>
+
+<sub>After that, I continued the *Container Security* book from the third chapter ***Control Groups*** and learnt a little about **Control Groups (or cgroups)**. But I left it early, because I was already late to start my day with work. :)</sub>
+
+<sub>I cooked my breakfast & then finished a couple of office tasks, had some more productive chats with people and, overall, so far, it is going very good.</sub>
+
+<sub>Now, the best part. I really love my meditation time. Today, I was late, so I did it like just 30 min back. But because it's drizlling outside and it's nice, cool & breezy, I sat near the window and meditated for a good long 25 minutes. I'm super positive & fresh now (in the middle of the day, see that's the power of meditation).</sub>
+
+<sub>Going back to work now. Tata o/</sub>
+
+<sub>***[23:24] Wrapping up the work now...***</sub>
+
+<sub>A good long working day today!</sub>
+
+<sub>I'm so happy with my recent work tasks that so far I've finished and some more that I'm still working on. I'm learning deeply about the **observability** part of DevOps, that is (in my case) learning about how to read **grafana dashboard metrics** and then optimizing the cluster resources taking into consideration the current level of utilization (of *cpu, memory, et al*).</sub> 
+
+<sub>(*I remember during the call with [Mark](https://priyankasaggu11929.github.io/journal.html#may-21-2020), he pointed out that Observability is a key fundamental DevOps skill & is much appreciated, if you understand that. So, that is why the happiness, because I'm getting to touch this.*)</sub>
+
+<sub>Reading metrics was really hard sometime before. I wasn't aware only how these metrics are generated & collected and what are the units & all that jargons. Now, with time & the tasks, I think it has (*I won't say crystal clear, but*) become very clear</sub>
+
+<sub>I'm a very confused sort of sleepy right now. I'm sleepy but not sleepy. Let's see how long I'll take to actually sleep now. But I think it's good time to log off the working hours now.</sub>
+
+<sub>*I did something else?*</sub>
+
+<sub>Because it was breezy, nice & cool outside, I shifted my laptop & other stuff near the window & for the maximum part of the day, worked from there. I'll say it was much much much better than working from bed, but working from desk is still the best choice (*if I ignore the cool nice breeze with drizzles* 😍)</sub>
+
+<sub>I just read this newsletter, **the only 2 ways to restore margin** from *[Shawn Blanc](https://shawnblanc.net/)*. And loved the diagram he made to easily explain the concept. Putting it down here (for me):</sub>
+
+![margin](/assets/margin.png)
+
+<sub>And because even the newsletter itself, was soooo *to the point* for me, I want to put a part of it here too.</sub>
+
+><sub>**Let your life have breathing room (instead of cramming in more and more stuff)**</sub>
+>
+><sub>Over the decades, we have gotten ever more productive at doing work. What used to take 40 hours, now can be done in just 20 hours. And so we piled on more work to fill up those 40 hours. And then we were able to compress that into less time. And so we added more...</sub>
+>
+><sub>These days it feels as if we are cramming 80 hours worth of work into a 50-hour week. Why? What’s the rush?</sub>
+>
+>
+><sub>Your best version of productivity is when you are focused on meaning.</sub>
+>
+><sub>Productivity over the years has gone from a focus on efficiency, to a focus on intentionality, to, now, a focus on meaning.</sub>
+>
+><sub>It’s not until you get to meaningful productivity that you start to see all the benefits. This is where you’re able to be efficient with your time, intentional with what you are focusing on, and then clear about what your values are.</sub>
+>
+><sub>But you will never get there without margin.</sub>
+>
+><sub>Without any margin, you’ll be stuck fighting for efficiency. Just trying to keep your head above water and avoiding burnout. (Sound familiar?)</sub>
+>
+><sub>That’s why...</sub>
+>
+><sub>Without margin, you are unable to focus on what truly matters.</sub>
+>
+><sub>And this is the sad irony.</sub>
+
+<sub>Ok, now finally, it's time to sleep. Good night o/</sub>
+
+---
+
 ## *June 3, 2020*
 
 <sub>***[12:33] Back to work...***</sub>
 
-<sub>I love it when I actually do my morning meditation (*and the best part, now I do it in open, sitting in fresh air. It's literally the best thing.*).</sub>
+<sub>I love it when I actually *do* my morning meditation (*and the best part is, now I sit in an open place, inhaling just the fresh air. It's literally the best thing.*).</sub>
 
-<sub>After 2 full day rest, now I'm back to work today. Hoping the day hoes well :)</sub>
+<sub>After 2 full days of rest, now I'm back to work today. Hoping the day goes well :)</sub>
+
+<sub>***[22:24] Very productive day...***</sub>
+
+<sub>Finally finished all my work tasks for today & I'm quite happy that I did well. So, for context, today's tasks were ***setting up HorizontalPodAutoscaling*** in the kubernetes cluster for all the micro-services & ***ensuring if cluster-autoscaling (Node autoscaling)*** works properly or not.</sub>
+
+<sub>Also, in the morning, I finished another chapter ***Linux System Calls, Permissions & Capabilities*** from the **Container Security** book by *Liz Rice*. I'll repeat, this book is really awesome. I'm learning a lot about *container & linux system security* related things that once was damn hard for me to even understand a bit.</sub>
+
+<sub>Later in the evening, I got to have a conversation with some new people today. And I'm happy that people are kind & generous everywhere (although nowadays, we're seeing some major exceptions sadly).</sub>
+
+<sub>*What else I did?*</sub>
+
+<sub>I think nothing much. I just concentrated on my work & fortunately managed to finish it as well. :)</sub>
+
+<sub>Waiting for a PR review, then will wrap up work for the day. I've a couple of things to look after as I actually finish work now!</sub>
+
+<sub>(PS: Putting a link to *[jasonbraganza's](mjbraganza.com)* collection of really insightful quotes, here. So, that I can refer them whenever I want. :))</sub>
 
 ---
 
