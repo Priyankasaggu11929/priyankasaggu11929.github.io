@@ -12,6 +12,34 @@ heading: ""
 
 ---
 
+## *June 7, 2020*
+
+<sub>***[23:02] Sunday...***</sub>
+
+<sub>I kept it easy for me, intentionally kept myself away from the *techy* stuff because that eventually feels like I'm working on weekends. And for a while until I *actually and finally* sort out things to one side (*hopefully very soon now*), I don't want to pile up more tensions, more funny feelings in my head. I just want to be happy, sane and really be considerate to my mental health. Everything sucks, otherwise!</sub> 
+
+<sub>So, I started my day, continuing with the book, ***The Obstacle is the way*** by *Ryan Holiday*. I really love the kind of books I've picked (after my mentor's recommendations). These books are something that are so true to life and just something that I want to read now.</sub>
+
+<sub>I'm really grateful that I have so many good people in my life. My parents, my mentors and a few other new friends that I've made over past some months (*that actually means, I have started talking to people :)* ). And I'm even more happy that I finally have some few female friends. It's good talking to them, it is much easier actually.</sub> 
+
+<sub>And I actually embrace every single person I've met with (and I recall) so far. Whether good or bad, they all have taught me something. I'm a better person now (much better than what I was a month or a couple of months before, or an year or a few couple past years before. I'm changed to a better side of me and that makes me happy & pushes me to keep doing the work & keep loving my ownself).</sub>
+
+<sub>I remember when I was in 11th standard in school, my chemistry teacher (*Kapil Dhiman*) told us something. He said, *"not everyone will point out your bad to you, and if someone would do it, they won't do it all the time. So, if somebody is stopping you from doing something wrong right now, just stop there atleast for that moment, think once again over your actions and be grateful to them. Consider yourself lucky that you've such people in your life. Not everyone teaches you life, most of us have to learn it by living it. So, if someone is giving their time to you, just embrace it and use their words to improve your decisions."*</sub>
+
+<sub>(*His actual words were: Har koi zindagi mein tumhe tumhare galat krne p thokar nhi marega, or rokega nahi. Ye mauka bar bar nhi milega. Koi maar raha hai to abhi sambhal jao ya fir jo man mein aaye kro.*)</sub>
+
+<sub>I think I'm really lucky. I've the best mentors in my life. I just can't thank them enough. Whatever I'm today, is just because they were there at right times to lead me to the right thing. :)</sub>
+
+<sub>While meditating in the morning, I came across this video from headspace, ***[How to Live without Regret and Guilt?](https://www.youtube.com/watch?v=woio0Fayza4)***. It was a peaceful watch and something more of a message to me!</sub>
+
+<sub>I clicked moooore pictures today. I'm much comfortable with the manual mode now. 😃️</sub>
+
+<sub>I really wish the coming week be a better one and more productive (in the way I want) foe me. Now, I'm wrapping it up because I want to spend my alone time. :)</sub>
+
+<sub>I wish good for everyone there. Stay blessed. 😇️</sub>
+
+---
+
 ## *June 6, 2020*
 
 <sub>***[21:33] Weekend Day 1...***</sub>
