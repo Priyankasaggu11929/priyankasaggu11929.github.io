@@ -46,6 +46,8 @@ heading: ""
 
 <sub>I love how I'm feeling right now. It's the best thing. I'm sleepy now. Good night! :)</sub>
 
+<sub>(PS: Today, I got my first writing pad all entirely filled with morning pages. I'm happy I've a good small collection of my good & bad days written there.)</sub>
+
 ---
 
 ## *June 5, 2020*
