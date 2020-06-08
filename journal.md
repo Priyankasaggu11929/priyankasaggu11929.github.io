@@ -20,17 +20,27 @@ heading: ""
 
 <sub>I did my work during the office hours. I'm actually done with all the assigned tasks & have kind of already wrapped up all the stuffs for the day.</sub>
 
-<sub>I also spent some time in the morning, learning the basics of ***Go Programming language.*** Yeah, that's me taking my first some steps towards getting started with contrbuting to *Kubernetes* project & community.</sub>
+<sub>I also spent some time in the morning, learning the basics of ***Go Programming language.*** Yeah, that's me taking my first some steps towards getting started with contrbuting to *Kubernetes project & community*.</sub>
 
 <sub>And I meditated too. I think I'll meditate once again before I sleep. It makes me fall asleep in no time.</sub>
 
-<sub>Evening, I spent some time with my mum, watching some mythological serials on youtube. I like them. And I like sitting with my mother more. :)</sub>
+<sub>Evening, I spent some time with my mum (while having dinner), watching some mythological serials on youtube. I like them. And I like sitting with my mother more. :)</sub>
 
-<sub>I'm happy I'm taking some serious steps in order to bringing my life to a good sorted side. Let's see how long it will actually take!</sub
+<sub>I'm happy I'm taking some serious steps in order to bringing my life to a good sorted side. Let's see how long it will actually take!</sub>
 
 <sub>I'm trying the best possible for now.</sub>
 
 <sub>I think that's sort of covers everything from the day. It was just another usual day.</sub>
+
+<sub>Or actually before I go, there are 2 quotes that stuck me from the book. The first one is a one-line from *Abraham Lincoln*</sub>
+
+><sub>This shall too pass!</sub>
+
+<sub>And the second one, I'm assuming, it is staright from *Ryan Holiday* himself (if not, then too it's someone from the book :)).</sub>
+
+><sub>We can't really choose what would happen to us, but we can choose how we'll feel about it.</sub>
+>
+><sub>And so, why in the world, we would choose to feel anything but good.</sub>
 
 <sub>That's all. Bye! o/</sub>
 
