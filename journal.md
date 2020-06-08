@@ -32,7 +32,7 @@ heading: ""
 
 <sub>I think that's sort of covers everything from the day. It was just another usual day.</sub>
 
-<sub>Or actually before I go, there are 2 quotes that stuck me from the book. The first one is a one-line from *Abraham Lincoln*</sub>
+<sub>Or actually before I go, there are 2 quotes that stuck me from the book. The first one is a one-liner from *Abraham Lincoln*</sub>
 
 ><sub>This shall too pass!</sub>
 
