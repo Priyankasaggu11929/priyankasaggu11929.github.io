@@ -38,7 +38,7 @@ heading: ""
 
 <sub>And the second one, I'm assuming, it is staright from *Ryan Holiday* himself (if not, then too it's someone from the book :)).</sub>
 
-><sub>We can't really choose what would happen to us, but we can choose how we'll feel about it.</sub>
+><sub>We don’t get to choose what happens to us, but we always get to choose how we react to or feel about it.</sub>
 >
 ><sub>And so, why in the world, we would choose to feel anything but good.</sub>
 
