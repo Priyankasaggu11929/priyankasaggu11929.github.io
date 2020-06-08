@@ -12,6 +12,30 @@ heading: ""
 
 ---
 
+## *June 8, 2020*
+
+<sub>***[22:42] Back to work...***</sub>
+
+<sub>The morning was kind of okish. I continued with the book ***The Obstacle is the way*** by *Ryan Holiday*. Finally I've crossed the half way mark. I'm excited for the other half too, it's a huge compilation of stories, from the lives of super motivating, & inspiring people or leaders. I'm happy I'm going slow with the book. Actually that is how my brain processes all the information. It just takes its own time to digest everything. :)</sub>
+
+<sub>I did my work during the office hours. I'm actually done with all the assigned tasks & have kind of already wrapped up all the stuffs for the day.</sub>
+
+<sub>I also spent some time in the morning, learning the basics of ***Go Programming language.*** Yeah, that's me taking my first some steps towards getting started with contrbuting to *Kubernetes* project & community.</sub>
+
+<sub>And I meditated too. I think I'll meditate once again before I sleep. It makes me fall asleep in no time.</sub>
+
+<sub>Evening, I spent some time with my mum, watching some mythological serials on youtube. I like them. And I like sitting with my mother more. :)</sub>
+
+<sub>I'm happy I'm taking some serious steps in order to bringing my life to a good sorted side. Let's see how long it will actually take!</sub
+
+<sub>I'm trying the best possible for now.</sub>
+
+<sub>I think that's sort of covers everything from the day. It was just another usual day.</sub>
+
+<sub>That's all. Bye! o/</sub>
+
+---
+
 ## *June 7, 2020*
 
 <sub>***[23:02] Sunday...***</sub>
