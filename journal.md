@@ -20,7 +20,7 @@ heading: ""
 
 <sub>Yea, I spent a looot of time doing that!</sub>
 
-<sub>And the worst is I still haven't meditated for even once (which I should have done as first thing in the morning atleast for today. Sigh!)</sub>
+<sub>And the worst is I still haven't meditated for even once (which I should have done as first thing in the morning atleast for today). Sigh!</sub>
 
 <sub>So, apart from the office work, I absolutely didn't do anything today. Glad that what I was working on for the whole day after (the morning hours), is actually done now & finished properly. I just submitted the PR.</sub>
 
