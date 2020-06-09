@@ -32,6 +32,12 @@ heading: ""
 
 <sub>PS: I just read this article ***[Most tech content is bullshit](https://www.aleksandra.codes/tech-content-consumer)***. I think it's awefully true and I'm also one amongst the targeted crowd. But I'm happy, as I try to understand things too.</sub>
 
+<sub>***[01:01] Meditation done!***</sub>
+
+<sub>And guess what, I'm super sleepy now. But I'll just take another minute to change the cross to check mark. :)</sub>
+
+<sub>Good night everyone!</sub>
+
 ---
 
 ## *June 8, 2020*
