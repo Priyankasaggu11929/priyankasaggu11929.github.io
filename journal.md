@@ -12,6 +12,26 @@ heading: ""
 
 ---
 
+## *June 9, 2020*
+
+<sub>***[23:51] A long day...***</sub>
+
+<sub>A very unexpected start of the day. Instead of me doing something worth spending time on, I was just thinking all bs.</sub> 
+
+<sub>Yea, I spent a looot of time doing that!</sub>
+
+<sub>And the worst is I still haven't meditated for even once (which I should have done as first thing in the morning atleast for today. Sigh!)</sub>
+
+<sub>So, apart from the office work, I absolutely didn't do anything today. Glad that what I was working on for the whole day after (the morning hours), is actually done now & finished properly. I just submitted the PR.</sub>
+
+<sub>Surprisingly, I'm not sleepy today by this time, which is not the usual case from last couple of weeks. So, I'll better meditate for sometime now and then let's see how it goes.</sub>
+
+<sub>That's all for the day.</sub>
+
+<sub>*(I wish I get to [change the cross here into check mark for today](https://priyankasaggu11929.github.io/meditation.html).)*</sub>
+
+---
+
 ## *June 8, 2020*
 
 <sub>***[22:42] Back to work...***</sub>
