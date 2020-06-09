@@ -30,6 +30,8 @@ heading: ""
 
 <sub>*(I wish I get to [change the cross here into check mark for today](https://priyankasaggu11929.github.io/meditation.html).)*</sub>
 
+<sub>PS: I just read this article ***[Most tech content is bullshit](https://www.aleksandra.codes/tech-content-consumer)***. I think it's awefully true and I'm also one amongst the targeted crowd. But I'm happy, as I try to understand things too.</sub>
+
 ---
 
 ## *June 8, 2020*
