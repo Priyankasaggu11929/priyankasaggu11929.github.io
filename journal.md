@@ -12,6 +12,34 @@ heading: ""
 
 ---
 
+## *June 10, 2020*
+
+<sub>***[01:21] Another extremely long day...***</sub>
+
+<sub>I just wrapped up the work & I'm super sleepy right now!</sub>
+
+<sub>But writing here is a part of the routine now, so I'm obliged to mark my presence here.</sub>
+
+<sub>The entire day was office work. Tomorrow there is a client POC scheduled for the new product stack (office stuff), so, lots & late hours of work (*this is my way to console my heart XD*).</sub>
+
+<sub>I don't have much to write because it was work, work and work today. But I read this one twitter thread in the morning and I once again got to know that women have contributed huge to mankind, in all diverse sectors.</sub>
+
+<sub>I'm looking for the link...</sub>
+
+<sub>Ok, [here](https://twitter.com/a_vansi/status/1270406823158468614) it is. This thread put light on the 1970's research findings of ***Nobel Prize-winning economist, Elinor Ostrom***, on policing. As quoted:</sub>
+
+><sub>It can inform the reform vs. defunding debate, with some clear empirical findings.</sub>
+
+<sub>Ah, that's it, I think!</sub>
+
+<sub>I'm yet to do my meditation as well and so I'll go and do the night routine first. It feels bad & uneasy, if I break the streak.</sub>
+
+<sub>Ok, I'm off to meditation & then bed. Good night! o/</sub>
+
+<sub>(PS: I've to work harder now. Some of the things didn't go even close to what was planned. I need to keep looking & keep working hard!)</sub>
+
+---
+
 ## *June 9, 2020*
 
 <sub>***[23:51] A long day...***</sub>
