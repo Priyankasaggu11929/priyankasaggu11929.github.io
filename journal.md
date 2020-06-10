@@ -32,11 +32,11 @@ heading: ""
 
 <sub>Ah, that's it, I think!</sub>
 
-<sub>I'm yet to do my meditation as well and so I'll go and do the night routine first. It feels bad & uneasy, if I break the streak.</sub>
+<sub>I'm yet to do my meditation as well and so I'll go and do the night routines first. It actually feels bad & uneasy, if I break the streak. So, doing it is a peaceful requirement!</sub>
 
 <sub>Ok, I'm off to meditation & then bed. Good night! o/</sub>
 
-<sub>(PS: I've to work harder now. Some of the things didn't go even close to what was planned. I need to keep looking & keep working hard!)</sub>
+<sub>*(PS: I've to work harder now. Some of the things didn't go even close to what was planned. I need to keep looking & keep working hard!)*</sub>
 
 ---
 
