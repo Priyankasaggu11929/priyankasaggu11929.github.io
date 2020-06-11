@@ -45,6 +45,20 @@ heading: ""
 
 <sub>Good night all the lovely people (*as in I really think, anyone reads it. But I assume so. So, it's ok. XD*)</sub>
 
+<sub>***[00:41] PS: This was really something that should be here for later re-reading.***</sub>
+
+<sub>Just read *James Clear's* thurday 3-2-1 newsletter. And here are two things that I want to put here for myself (& my future self). One is a quote and other is an answer to the question.</sub>
+
+><sub>The two skills of modern business: Storytelling and spreadsheets.</sub>
+>
+><sub>Know the numbers. Craft the narrative.</sub>
+
+<sub>and my answer to his question, ***Which of my current habits serves me most? Which serves me least?***</sub>
+
+<sub>Current habbit that serves me the most: meditation & writing daily journals!</sub>
+
+<sub>Current habbit that serves me the least: Over thinking (turning negative thinking), self-pity!</sub>
+
 ---
 
 ## *June 10, 2020*
