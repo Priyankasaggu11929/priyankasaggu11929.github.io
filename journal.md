@@ -47,18 +47,18 @@ heading: ""
 
 <sub>***[00:41] PS: This was really something that should be here for later re-reading.***</sub>
 
-<sub>Just read *James Clear's* thurday 3-2-1 newsletter. And here are two things that I want to put here for myself (& my future self). One is a quote and other is an answer to the question.</sub>
+<sub>Just read *James Clear's* thursday 3-2-1 newsletter. And here are two things that I want to put here for myself (& my future self). One is a quote and other is an answer to the question.</sub>
 
 ><sub>The two skills of modern business: Storytelling and spreadsheets.</sub>
 >
 ><sub>Know the numbers. Craft the narrative.</sub>
 
-<sub>and my answer to his question, ***Which of my current habits serves me most? Which serves me least?***</sub>
+<sub>And now, my answer to the question, ***Which of my current habits serves me most? Which serves me least?***</sub>
 
-- <sub>Current habbit that serves me the most: *meditation & writing daily journals!*</sub>
-- <sub>Current habbit that serves me the least: *Over thinking (turning negative thinking), self-pity!*</sub>
+- <sub>Current habits that serves me the most: *meditation & writing daily journals!*</sub>
+- <sub>Current habitw that serves me the least: *Over thinking (turning negative thinking), self-pity!*</sub>
 
-<sub>(PS: Today, I read all my journals from the very beginning. And now, with no doubts, I can say my writing have really really improved. And this journal has turned out to be a really wonderful & really insightful one for me. I loved reading all of it. It took me some time, but I see the consistency yielded something beautiful & memorable for me. A pat on my back :) )</sub>
+<sub>(PS: Today, I read all my journals from the very beginning. And now, with no doubts, I can say my writing has really really improved. And this journal has turned out to be a really wonderful & really insightful place for me. I absolutely loved re-reading all of it, once again. It took me some time, but I see the consistency have finally yielded something beautiful & something memorable for me. A pat on my back :) )</sub>
 
 ---
 
