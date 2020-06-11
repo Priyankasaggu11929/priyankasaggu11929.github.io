@@ -35,7 +35,7 @@ heading: ""
 
 <sub>I crunched down [my third goal weight](https://priyankasaggu11929.github.io/fitness.html#june-11-2020) today, so I'm down to 74.9 kgs of weight. I'm happy with the progress & the steady downward slope. :) </sub>
 
-<sub>As decided that once I knock down the third goal weight, I will try wearing my old clothes from 2 years back, that I got stitched then, but I had this (strong but really stupid) anticipation that they won't fit even now. Mark that I'm almost 15-17 kgs down since I last tried them (and at that time, there was no hope for me to getting into them), so obviously there is a huuuge difference. I should have been positive for my ownself, because I gracefully fit into them now. I've made *real* progress and I'm so proud!</sub>
+<sub>As decided that once I knock down the third goal weight, I will try wearing my old clothes from 2 years back, that I got stitched then. But I had this (strong but really stupid) anticipation that they won't fit even now. Mark that I'm almost 15-17 kgs down since I last tried them (and at that time, there was no hope for me to getting into them), so obviously now there is a huge huge difference. I should've been really positive for my ownself, because they so gracefully & easily fit me now. I've made some *real* progress and I'm so proud!</sub>
 
 <sub>Today, I had a couple of small loud conversations with family for absolutely nonsense reasons. And at these times, I feel like I need to work on my short-temperedness. Or otherwise just f^$k the meditation, because I'm making no real use of it in my life. I should be careful how to react, that's it!</sub>
 
