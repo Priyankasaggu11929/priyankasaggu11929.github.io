@@ -55,9 +55,10 @@ heading: ""
 
 <sub>and my answer to his question, ***Which of my current habits serves me most? Which serves me least?***</sub>
 
-<sub>Current habbit that serves me the most: meditation & writing daily journals!</sub>
+- <sub>Current habbit that serves me the most: *meditation & writing daily journals!*</sub>
+- <sub>Current habbit that serves me the least: *Over thinking (turning negative thinking), self-pity!*</sub>
 
-<sub>Current habbit that serves me the least: Over thinking (turning negative thinking), self-pity!</sub>
+<sub>(PS: Today, I read all my journals from the very beginning. And now, with no doubts, I can say my writing have really really improved. And this journal has turned out to be a really wonderful & really insightful one for me. I loved reading all of it. It took me some time, but I see the consistency yielded something beautiful & memorable for me. A pat on my back :) )</sub>
 
 ---
 
