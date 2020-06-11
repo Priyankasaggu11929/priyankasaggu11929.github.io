@@ -16,7 +16,7 @@ heading: ""
 
 <sub>***[23:45] A good but bad day...***</sub>
 
-<sub>Wrapped up the work a while back. Now, just left with writing things from the day here. Somewhere in the middle, I'll to the good-bad part too, or maybe I don't (currently have no idea).</sub>
+<sub>Wrapped up the work a while back. Now, just left with writing things from the day here. Somewhere in the middle, I might come to the good-bad part too, or maybe I don't (currently have no idea).</sub>
 
 <sub>I read a couple of randomly picked articles in the morning. To my fortune, some of them were really good or even more, just worth every single word written there. Now, I don't remember all of them (though today I mentioned about them in my morning pages :D) but the one that really stuck my brain & the heart is this one below.</sub>
 
