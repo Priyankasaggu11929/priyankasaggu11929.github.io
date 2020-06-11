@@ -26,6 +26,27 @@ Okay, let's start:
 
 ---
 
+## *June 11, 2020*
+
+**<sub>Early update!</sub>**
+
+    - cw: 74.9 kgs (2020/06/11)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Hurraaaaah!🎉️🎉️🎉️</sub>
+
+<sub>Another goal weight down today. Yippeeeeee! 🤩️</sub>
+
+<sub>This *is* certainly the best thing for the day!🎊️</sub>
+
+---
+
 ## *June 06, 2020*
 
     - cw: 76.1 kgs (2020/06/06)
