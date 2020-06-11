@@ -29,8 +29,21 @@ Here is a quote from the very beginning of the article (and actually better a ve
 >
 ><sub>— Earl Nightingale</sub>
 
+<sub>Ok, Now I think I should be very quick laying down the rest of the things here. I'm really very sleepy right now.</sub>
 
+<sub>First things first, I wrote very loooong *morning pages* today. Now, finally & actually I have a lot to read from my own life.</sub>
 
+<sub>I crunched down [my third goal weight](https://priyankasaggu11929.github.io/fitness.html#june-11-2020) today, so I'm down to 74.9 kgs of weight. I'm happy with the progress & the steady downward slope. :) </sub>
+
+<sub>As decided that once I knock down the third goal weight, I will try wearing my old clothes from 2 years back, that I got stitched then, but I had this (strong but really stupid) anticipation that they won't fit even now. Mark that I'm almost 15-17 kgs down since I last tried them (and at that time, there was no hope for me to getting into them), so obviously there is a huuuge difference. I should have been positive for my ownself, because I gracefully fit into them now. I've made *real* progress and I'm so proud!</sub>
+
+<sub>Today, I had a couple of small loud conversations with family for absolutely nonsense reasons. And at these times, I feel like I need to work on my short-temperedness. Or otherwise just f^$k the meditation, because I'm making no real use of it in my life. I should be careful how to react, that's it!</sub>
+
+<sub>It was a productive working day. Did lots of work, wrote lots of documentation. I'm happy, I'm learning & doing the work. So far, everything is good & peaceful.</sub>
+
+<sub>I think that's all about today. I'm done with everything for the day. So, now I can peacefully crash into bed.</sub>
+
+<sub>Good night all the lovely people (*as in I really think, anyone reads it. But I assume so, so, it's ok. XD*)</sub>
 
 ---
 
