@@ -24,7 +24,7 @@ heading: ""
 
 <sub>I simply loved & got inspired by every single word written there in the article. It guides, in a step by step manner, on how to shape the subconcious mind, how to get rid of the old stinky thoughts, and simply how to reprogram the way we think, how we react about certain old & new things in life. It's totally worth giving a read! (*It certainly can change the way you think about everything in life*)</sub>
 
-Here is a quote from the very beginning of the article (and actually better a very quick synopsis for this very long piece of writing):
+<sub>Here is a quote from the very beginning of the article (and actually better a very quick synopsis for this very long piece of writing),</sub>
 ><sub>“Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become a reality”</sub>
 >
 ><sub>— Earl Nightingale</sub>
