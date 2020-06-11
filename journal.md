@@ -12,6 +12,28 @@ heading: ""
 
 ---
 
+## *June 11, 2020*
+
+<sub>***[23:45] A good but bad day...***</sub>
+
+<sub>Wrapped up the work a while back. Now, just left with writing things from the day here. Somewhere in the middle, I'll to the good-bad part too, or maybe I don't (currently have no idea).</sub>
+
+<sub>I read a couple of randomly picked articles in the morning. To my fortune, some of them were really good or even more, just worth every single word written there. Now, I don't remember all of them (though today I mentioned about them in my morning pages :D) but the one that really stuck my brain & the heart is this one below.</sub>
+
+<sub>***[How To Reprogram Your Subconscious Mind](https://medium.com/change-your-mind/reprogramming-your-subconscious-mind-ecaae9640aad)*** by *[George J. Ziogas](https://medium.com/@georgejziogas)*.</sub> 
+
+<sub>I simply loved & got inspired by every single word written in this article. This article guides, in a step by step manner, on how to shape the subconcious mind, how to get rid of the old stinky thoughts, and simply how to reprogram the way we think, how we react about certain old & new things in life. It's totally worth giving a read! (*It certainly can change the way you think about everything in life*)</sub>
+
+Here is a quote from the very beginning of the article (and actually better a very quick synopsis for this very long piece of writing):
+><sub>“Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become a reality”</sub>
+>
+><sub>— Earl Nightingale</sub>
+
+
+
+
+---
+
 ## *June 10, 2020*
 
 <sub>***[01:21] Another extremely long day...***</sub>
@@ -92,7 +114,7 @@ heading: ""
 
 ><sub>This shall too pass!</sub>
 
-<sub>And the second one, I'm assuming, it is staright from *Ryan Holiday* himself (if not, then too it's someone from the book :)).</sub>
+<sub>And the second one, I'm assuming, it is straight from *Ryan Holiday* himself (if not, then too it's someone from the book :)).</sub>
 
 ><sub>We don’t get to choose what happens to us, but we always get to choose how we react to or feel about it.</sub>
 >
@@ -124,7 +146,7 @@ heading: ""
 
 <sub>I clicked moooore pictures today. I'm much comfortable with the manual mode now. 😃️</sub>
 
-<sub>I really wish the coming week be a better one and more productive (in the way I want) foe me. Now, I'm wrapping it up because I want to spend my alone time. :)</sub>
+<sub>I really wish the coming week be a better one and more productive (in the way I want) for me. Now, I'm wrapping it up because I want to spend my alone time. :)</sub>
 
 <sub>I wish good for everyone there. Stay blessed. 😇️</sub>
 
