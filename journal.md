@@ -41,9 +41,9 @@ heading: ""
 
 <sub>It was a productive working day. Did lots of work, wrote lots of documentation. I'm happy, I'm learning & doing the work. So far, everything is good & peaceful.</sub>
 
-<sub>I think that's all about today. I'm done with everything for the day. So, now I can peacefully crash into bed.</sub>
+<sub>I think that's all about today. I'm done with everything for the day. And that means now, I can peacefully crash into bed.</sub>
 
-<sub>Good night all the lovely people (*as in I really think, anyone reads it. But I assume so, so, it's ok. XD*)</sub>
+<sub>Good night all the lovely people (*as in I really think, anyone reads it. But I assume so. So, it's ok. XD*)</sub>
 
 ---
 
