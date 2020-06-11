@@ -18,11 +18,11 @@ heading: ""
 
 <sub>Wrapped up the work a while back. Now, just left with writing things from the day here. Somewhere in the middle, I might come to the good-bad part too, or maybe I don't (currently have no idea).</sub>
 
-<sub>I read a couple of randomly picked articles in the morning. To my fortune, some of them were really good or even more, just worth every single word written there. Now, I don't remember all of them (though today I mentioned about them in my morning pages :D) but the one that really stuck my brain & the heart is this one below.</sub>
+<sub>I read a couple of randomly picked articles in the morning. To my fortune, some of them were really good or even more, just worth every single word written there. Now, I don't remember all of them (though today I mentioned about them in my morning pages :D) but the one that really stuck the brain & the heart is the one below.</sub>
 
 <sub>***[How To Reprogram Your Subconscious Mind](https://medium.com/change-your-mind/reprogramming-your-subconscious-mind-ecaae9640aad)*** by *[George J. Ziogas](https://medium.com/@georgejziogas)*.</sub> 
 
-<sub>I simply loved & got inspired by every single word written in this article. This article guides, in a step by step manner, on how to shape the subconcious mind, how to get rid of the old stinky thoughts, and simply how to reprogram the way we think, how we react about certain old & new things in life. It's totally worth giving a read! (*It certainly can change the way you think about everything in life*)</sub>
+<sub>I simply loved & got inspired by every single word written there in the article. It guides, in a step by step manner, on how to shape the subconcious mind, how to get rid of the old stinky thoughts, and simply how to reprogram the way we think, how we react about certain old & new things in life. It's totally worth giving a read! (*It certainly can change the way you think about everything in life*)</sub>
 
 Here is a quote from the very beginning of the article (and actually better a very quick synopsis for this very long piece of writing):
 ><sub>“Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become a reality”</sub>
