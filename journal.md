@@ -50,9 +50,9 @@ heading: ""
 
 ![They-literally-replied](/assets/reply.png)
 
-<sub>Let's see if there would be some outcomes too.</sub>
+<sub>Let's see if there would be some outcomes too!</sub>
 
-<sub>This twitter thread [here](https://twitter.com/heidistephens/status/1271024307569901568) here filled my heart with all positivity. I wish things get better & someday soon we could atleast meet people normally!</sub>
+<sub>This twitter thread [here](https://twitter.com/heidistephens/status/1271024307569901568) filled my heart with all positivity. I wish things get better & someday soon we could atleast meet people normally!</sub>
 
 <sub>(My brave & kind) Daddy brought all my things back home from Delhi PG. So, now mommy have some more groceries & tubs (*that for the first time ever I bought with my own money*). And then my clothes, they're back home too (*I tried some of them. I'm happy they are loose XD*). And the hard disk, finally I've something to backup all my stuff again & be relieved. That's something as priority for tomorrow.</sub>
 
