@@ -24,9 +24,9 @@ heading: ""
 
 ><sub>In order that people may be happy in their work, these three things are needed:</sub>
 >
-><sub>They must be fit for it.</sub>
-><sub>They must not do too much of it.</sub>
-><sub>And they must have a sense of success in it.</sub>
+>- <sub>They must be fit for it.</sub>
+>- <sub>They must not do too much of it.</sub>
+>- <sub>And they must have a sense of success in it.</sub>
 >
 ><sub>— John Ruskin on dignified labor, 1886.</sub>
 
