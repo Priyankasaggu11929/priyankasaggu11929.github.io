@@ -12,6 +12,32 @@ heading: ""
 
 ---
 
+## *June 12, 2020*
+
+<sub>***[23:23] Finally saturday tommorow \o/***</sub>
+
+<sub>An easy, not so busy working day (*hahaha that was a fluke rhyme :P*)</sub>
+
+<sub>I meditated in the morning, so that's early good thing done for the day. And later I read a looot. :)</sub>
+
+<sub>I was a little sad, but certainly more empowered after reading [this toot](https://toots.dgplug.org/web/statuses/104329119064552231) (I'm quoting it below).</sub>
+
+><sub>In order that people may be happy in their work, these three things are needed:</sub>
+>
+><sub>They must be fit for it.</sub>
+><sub>They must not do too much of it.</sub>
+><sub>And they must have a sense of success in it.</sub>
+>
+><sub>— John Ruskin on dignified labor, 1886.</sub>
+
+<sub>I am really pushing to make it a reality. But it's still not enough. So, now with no other option, I'll just keep pushing myself more harder.</sub>
+
+<sub>(*And one thing I'm sure now, I don't want to settle down in the minimum, I want to achieve the best thing for me. I really want to shine over because I think I'm still not able to prove that I'm capable enough, which is not true. I AM CAPABLE OF ACHIEVEING THE BEST THING. It might take time, but I'll reach there forsure.*)</sub>
+
+<sub>And that's my positive affirmation for the day!☝️ </sub>
+
+---
+
 ## *June 11, 2020*
 
 <sub>***[23:45] A good but bad day...***</sub>
