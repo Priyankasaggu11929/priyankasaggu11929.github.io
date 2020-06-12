@@ -18,7 +18,7 @@ heading: ""
 
 <sub>An easy, not so busy working day (*hahaha that was a fluke rhyme :P*)</sub>
 
-<sub>I meditated in the morning, so that's early good thing done for the day. And later I read a looot. :)</sub>
+<sub>I meditated in the morning, so that's early good thing done for the day. And later I read a looot. (random all, mostly tweets & stuffs linked there) :)</sub>
 
 <sub>I was a little sad, but certainly more empowered after reading [this toot](https://toots.dgplug.org/web/statuses/104329119064552231) (I'm quoting it below).</sub>
 
@@ -44,13 +44,17 @@ heading: ""
 
 <sub>**I literally got a reply just right after 3 minutes (when I was writing the above para here in the blog).**</sub> 
 
-<sub>Literally, they're taking it as a feedback. And now, I've seriously understood the power of speaking and then not just speaking out, but speaking out with solutions. It matters!</sub>
+<sub>Literally, they're taking it as a feedback! (atleast they cared to read)</sub>
+
+<sub> And now, I've seriously understood the power of speaking and then not just speaking out, but speaking out with solutions. It matters!</sub>
 
 ![They-literally-replied](/assets/reply.png)
 
 <sub>Let's see if there would be some outcomes too.</sub>
 
-<sub></sub>
+<sub>This twitter thread [here](https://twitter.com/heidistephens/status/1271024307569901568) here filled my heart with all positivity. I wish things get better & someday soon we could atleast meet people normally!</sub>
+
+<sub>(My brave & kind) Daddy brought all my things back home from Delhi PG. So, now mommy have some more groceries & tubs (*that for the first time ever I bought with my own money*). And then my clothes, they're back home too (*I tried some of them. I'm happy they are loose XD*). And the hard disk, finally I've something to backup all my stuff again & be relieved. That's something as priority for tomorrow.</sub>
 
 ---
 
