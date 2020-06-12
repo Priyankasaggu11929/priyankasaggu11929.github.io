@@ -56,6 +56,22 @@ heading: ""
 
 <sub>(My brave & kind) Daddy brought all my things back home from Delhi PG. So, now mommy have some more groceries & tubs (*that for the first time ever I bought with my own money*). And then my clothes, they're back home too (*I tried some of them. I'm happy they are loose XD*). And the hard disk, finally I've something to backup all my stuff again & be relieved. That's something as priority for tomorrow.</sub>
 
+<sub>I sometimes feel I should have more people in life, to call them my friends, or to talk to them as and when I want. But then very soon my heart says, you like your own alone time more! That's what you're, embrace it! ❤️  </sub>
+
+<sub>I think that's enough talking to myself. I'll go and watch some chinese village cooking videos. I just love binge watching them!</sub>
+
+<sub>And a piece of serious advice!</sub> 
+
+<sub>Not everytime, We've to take help of guided meditation (or just meditation) to come out of the sick, depressing thoughts. The easiest option is to go & watch *doraemon*. 😀️ 
+
+<sub>Cartoons are the best thing! 😍️😍️😍️</sub>
+
+<sub>I miss my childhood time. I was some 10 yrs old when mom used to cook a single 10 Rs packet of maggi for both me & my younger brother, & we used to eat that while watching cartoons, siting right below the TV trolley.)</sub>
+
+<sub>Mom Dad are the bestest! God bless them with health & happiness. I really love them the most. ❤️  </sub>
+
+<sub>Now, I'm finally done. Happy happy weekends! \o/</sub>
+
 ---
 
 ## *June 11, 2020*
