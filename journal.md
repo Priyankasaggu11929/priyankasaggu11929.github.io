@@ -36,15 +36,21 @@ heading: ""
 
 <sub>That's my positive affirmation for the day!☝️ </sub>
 
-<sub>And then, I came across many disturbing things (*sadly these were related to women & work culture, and which is something I'm a little more prone to being hurt*), so I wrote this tweet thinking that **Linkedin** would actually see this (*or maybe God knows, consider giving it a try or finding better solutions*). Eh, nobody gave a blah to it, which is just ok.🙄️ </sub>
+<sub>And then, I came across many disturbing things (*sadly these were related to women & work culture, and which is something I'm a little more prone to being hurt nowadays*), so I wrote this tweet (and the thread have solution too) thinking that **Linkedin** would actually see this (*or maybe God knows, consider giving it a try or finding better solutions*). Eh, nobody gave a blah to it, which is just ok.🙄️ </sub>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sick! <br><br>I really request <a href="https://twitter.com/LinkedIn?ref_src=twsrc%5Etfw">@LinkedIn</a> to check if they could add a feature for the user, so that the user could add something like a “custom-guidelines/things-to-Consider-first“ section for the person reaching out to them. <br><br>(1/n) <a href="https://t.co/Cjt1VeYN6S">https://t.co/Cjt1VeYN6S</a></p>&mdash; Priyanka Saggu (@PriyankaSaggu4) <a href="https://twitter.com/PriyankaSaggu4/status/1271295943850123265?ref_src=twsrc%5Etfw">June 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<sub>FUCKING HELL (Don't trust me but this is true.)</sub>
+<sub>***F$%KING HELL (Don't trust me but this is true.)***</sub>
 
-<sub>***I literally got a reply just right after 3 minutes (when I wrote the above thing). Literally they're taking it as a feedback. Now, I seriously understand the power of speaking and then not just speaking out, but speaking out with solutions.***</sub>
+<sub>**I literally got a reply just right after 3 minutes (when I was writing the above para here in the blog).**</sub> 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi there - Thanks for reaching out. I&#39;d be happy to pass this feedback along to our team for future enhancements -JD</p>&mdash; LinkedIn Help (@LinkedInHelp) <a href="https://twitter.com/LinkedInHelp/status/1271509128335241217?ref_src=twsrc%5Etfw">June 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<sub>Literally, they're taking it as a feedback. And now, I've seriously understood the power of speaking and then not just speaking out, but speaking out with solutions. It matters!</sub>
+
+![They-literally-replied](/assets/reply.png)
+
+<sub>Let's see if there would be some outcomes too.</sub>
+
+<sub></sub>
 
 ---
 
