@@ -34,7 +34,11 @@ heading: ""
 
 <sub>(*And one thing I'm sure now, I don't want to settle down in the minimum, I want to achieve the best thing for me. I really want to shine over because I think I'm still not able to prove that I'm capable enough, which is not true. I AM CAPABLE OF ACHIEVEING THE BEST THING. It might take time, but I'll reach there forsure.*)</sub>
 
-<sub>And that's my positive affirmation for the day!☝️ </sub>
+<sub>That's my positive affirmation for the day!☝️ </sub>
+
+<sub>And then, I came across many disturbing things (*sadly these were related to women & work culture, and which is something I'm a little more prone to being hurt*), so I wrote this tweet thinking that **Linkedin** would actually see this (*or maybe God knows, consider giving it a try or finding better solutions*). Eh, nobody gave a blah to it, which is just ok.🙄️ </sub>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sick! <br><br>I really request <a href="https://twitter.com/LinkedIn?ref_src=twsrc%5Etfw">@LinkedIn</a> to check if they could add a feature for the user, so that the user could add something like a “custom-guidelines/things-to-Consider-first“ section for the person reaching out to them. <br><br>(1/n) <a href="https://t.co/Cjt1VeYN6S">https://t.co/Cjt1VeYN6S</a></p>&mdash; Priyanka Saggu (@PriyankaSaggu4) <a href="https://twitter.com/PriyankaSaggu4/status/1271295943850123265?ref_src=twsrc%5Etfw">June 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -82,7 +86,7 @@ heading: ""
 <sub>And now, my answer to the question, ***Which of my current habits serves me most? Which serves me least?***</sub>
 
 - <sub>Current habits that serves me the most: *meditation & writing daily journals!*</sub>
-- <sub>Current habitw that serves me the least: *Over thinking (turning negative thinking), self-pity!*</sub>
+- <sub>Current habits that serves me the least: *Over thinking (turning negative thinking), self-pity!*</sub>
 
 <sub>(PS: Today, I read all my journals from the very beginning. And now, with no doubts, I can say my writing has really really improved. And this journal has turned out to be a really wonderful & really insightful place for me. I absolutely loved re-reading all of it, once again. It took me some time, but I see the consistency have finally yielded something beautiful & something memorable for me. A pat on my back :) )</sub>
 
