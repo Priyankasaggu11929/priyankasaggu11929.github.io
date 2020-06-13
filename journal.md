@@ -40,6 +40,8 @@ heading: ""
 
 <sub>(PS: I got to talk to my friend for good nice time today. That makes me really happy. :) )</sub>
 
+<sub>(PSS: Today's morning pages were all around my mother. It's personal, but I'll say my mom is the most giving person in my life, and she certainly is the best & most loving mother. ❤️ )</sub>
+
 ---
 
 ## *June 12, 2020*
