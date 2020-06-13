@@ -26,6 +26,23 @@ Okay, let's start:
 
 ---
 
+## *June 13, 2020*
+
+    - cw: 75.3 kgs (2020/06/13)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs 
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Hahahaha, the early update was a little too early I guess. :P</sub> 
+
+<sub>But I'm happy I've hit the third goal (and I celebrated as well by updating it here). Because, after logging and tracking for quite good long time, now I'm confident that it's nothing but the diet variations that showed the increase, so it's perfectly fine. It'll go down with time and more consistent work. :)</sub>
+
+---
+
 ## *June 11, 2020*
 
 **<sub>Early update!</sub>**
