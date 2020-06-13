@@ -41,6 +41,8 @@ Okay, let's start:
 
 <sub>But I'm happy I've hit the third goal (and I celebrated as well by updating it here). Because, after logging and tracking for quite good long time, now I'm confident that it's nothing but the diet variations that showed the increase, so it's perfectly fine. It'll go down with time and more consistent work. :)</sub>
 
+<sub>Overall, the week was a nice productive one! :)</sub>
+
 ---
 
 ## *June 11, 2020*
