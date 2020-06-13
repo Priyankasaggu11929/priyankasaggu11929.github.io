@@ -16,29 +16,29 @@ heading: ""
 
 <sub>***[00:06] A day...***</sub>
 
-<sub>I woke up late today. I meditated very late like just 10 minutes back. I wrote my morning page again vert late, sometime in the night around 9pm.</sub>
+<sub>I woke up late today. I meditated very late like just 10 minutes back. I wrote my morning page again very very late, like sometime in the night around 9pm.</sub>
 
 <sub>So, overall it was a late day. XD</sub>
 
-<sub>Nothing productive, nothing happening, just another day. (And I won't say it is a normal day, because this is not the nowadays normal for me. So, it was just *a day!* XD).</sub>
+<sub>Nothing productive, nothing happening, just another boring usual day. (And I won't say it is a normal day, because this is not the nowadays normal for me. So, it was just *a day!* XD).</sub>
 
-<sub>Couple of things were scheduled for today, but (because of certain reasons) those are now rescheduled for tomorrow. And so that was one another reason why everything turned so untimely, all random today. But it's ok, it was a holiday for me. And I spent it being easy on myself.</sub>
+<sub>Couple of catchups were scheduled for today, but (because of certain reasons) those are now rescheduled for tomorrow. And so that was one another reason why everything turned so untimely, all random today. But it's ok, it was a holiday for me. And I spent it being easy on myself.</sub>
 
 <sub>There are 2 things that I came across today & absolutely loved or found awefully nice.</sub>
 
 - <sub>This short movie [TYLER](https://www.youtube.com/watch?v=y3knga2u6o8) about the pride moment of a *Nine years child coming out as gay*. :)</sub>
 
-- <sub>And now the list turns to three. Because following the above one, I absolutely love this [moving toast by an Indian dad on his gay son's wedding](https://www.youtube.com/watch?v=gmRQ5Rtf-HI). Being an Indian, listening a father being positive to such a level, feels something exceptionally special.</sub>
+- <sub>And now the list turns to three. Because following the above one, I absolutely love this [moving toast by an Indian dad on his gay son's wedding](https://www.youtube.com/watch?v=gmRQ5Rtf-HI). Being an Indian, listening to a father being positive on the matters, to such a level, feels something exceptionally special.</sub>
 
-- <sub>And last but the most insightful read for the day is this article, [An Incomplete Guide to Inclusive Language for Startups and Tech](https://open.buffer.com/inclusive-language-tech/) by *Courtney Seiter*. I consider it as a must read for every person in tech. It's important to be aware about inclusive language for both sakes.</sub>
+- <sub>And last and the most insightful read for the day is this article, [An Incomplete Guide to Inclusive Language for Startups and Tech](https://open.buffer.com/inclusive-language-tech/) by *Courtney Seiter*. I consider it as a must read for every person in tech. It's important to be aware about inclusive language for both sakes.</sub>
 
-<sub>And lastly, I reached out to some people for help. I'm happy people so nicely reply even out of their busy, hefty schedule. I hope things turn better soon. I'm doing my work & putting my efforts.</sub>
+<sub>And lastly, I reached out to some people for help. I'm happy that people so nicely reply even out of their busy, hefty schedule. I hope things turn better soon. I'm doing my work & putting my efforts.</sub>
 
 <sub>That's all for the day. Happy sunday (for tomorrow)! o/</sub>
 
 <sub>Good night.</sub>
 
-<sub>(PS: I got to talk to a friend for good nice time today. That makes me really happy. :) )</sub>
+<sub>(PS: I got to talk to my friend for good nice time today. That makes me really happy. :) )</sub>
 
 ---
 
