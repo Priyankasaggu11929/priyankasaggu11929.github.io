@@ -12,6 +12,34 @@ heading: ""
 
 ---
 
+## *June 14, 2020*
+
+<sub>***[22:23] Sunday gone...***</sub>
+
+<sub>The morning started on a good note. It was all happy, me spending time with the family. I cooked all meals for breakfast and lunch. Had a very nice chat with a friend of mine, that inspired me no end.</sub>
+
+<sub>Although early evening turned a little stressful from all around. The social media was filled with tensions, and then there were more tensions in the family of near dear ones, so mom dad were taking care of that. Even, God knows why, whatever I read today was not in anyway a good feed for the brain (which I understood now, it's important to check what kind of information goes inside the brain. It *matters a lot*). It was just not so good day.</sub>
+
+<sub>And there was absolutely nothing wrong with me. All this bluesy feelings were mostly because of social media and then the stupid overthinking about occassional not so good incidents and blah.</sub> 
+
+<sub>I'm super fine now & I'm much cheerful too. Spending time with family, talking to friends is the best thing in the world.</sub>
+
+<sub>I know I have really good people in my life - mom, dad and my mentors. They are my source of positivity and that's why even in the worst times now, I know I've the best people to talk to, share and ask for guidance. God is really generous!</sub>
+
+<sub>One thing I've learnt, I need to be a little more careful & considerate while chosing whom to ask help for. Everyone is good in their own ways, but not everyone's way of helping is actually a help to me. So, yea that's my learning. :)</sub>
+
+<sub>Anyways, tomorrow is another day. :) </sub> 
+
+<sub>I'm happy I meditated, I'm writing here and that's definitely is a rewarding thing for me, at the end of my day.</sub>
+
+<sub>I'm so grateful to God for giving me this awesone opportunity to learn and be around the bestest people. I'm the luckiest when it comes to my parents and my mentors. I can't stop praying to God for their health & happiness. I love them the most.</sub>
+
+<sub>And I just want to tell them that I'm always there in all their good and bad, and I love them and they're the most important people in my life. 🤗️</sub>
+
+<sub>God bless everyone! :)</sub>
+
+---
+
 ## *June 13, 2020*
 
 <sub>***[00:06] A day...***</sub>
