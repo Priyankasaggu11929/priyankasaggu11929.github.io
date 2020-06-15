@@ -20,7 +20,7 @@ heading: ""
 
 <sub>So, very quickly, here are the updates!</sub> 
 
-<sub>I binge-watched *Liz Rice* talks on youtube. And now I can very confidently say, I know ****what a container actually is***.</sub>
+<sub>I binge-watched *Liz Rice* talks on youtube. And now I can very confidently say, I know ***what a container actually is***.</sub>
 
 <sub>And then, I also attended one of her talk, ***The Container Security Checklist***, live at Online DevSecCon conference. This beautiful graphic (literally) covers it all. 👇️</sub>
 
