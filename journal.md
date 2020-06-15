@@ -20,9 +20,9 @@ heading: ""
 
 <sub>So, very quickly, here are the updates!</sub> 
 
-<sub>I binge-watched *Liz Rice* talks on youtube. And now I can proudly say, I know what a container actually is.</sub>
+<sub>I binge-watched *Liz Rice* talks on youtube. And now I can very confidently say, I know ****what a container actually is***.</sub>
 
-<sub>And the I also attended one of her talk ***The Container Security Checklist*** today live at Online DevSecCon. This beautiful graphic covers it (literally) all. 👇️</sub>
+<sub>And then, I also attended one of her talk, ***The Container Security Checklist***, live at Online DevSecCon conference. This beautiful graphic (literally) covers it all. 👇️</sub>
 
 ![The-Container-Security-Checklist](/assets/checklist.jpeg)
 
