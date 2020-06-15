@@ -38,7 +38,7 @@ heading: ""
 
 ![Be-happy-and keep-working](/assets/smile.jpeg)
 
-<sub>It's really hard. Right now, I've no idea how to do both od these together but I'm *trying* my best.</sub>
+<sub>It's really hard. Right now, I've no idea how to do both of these together but I'm *trying* my best.</sub>
 
 <sub>Good night now!</sub>
 
