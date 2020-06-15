@@ -26,19 +26,19 @@ heading: ""
 
 ![The-Container-Security-Checklist](/assets/checklist.jpeg)
 
-<sub>She's really an awesome teacher. I was so inspired from her that I've actually left a not for her today hoping for a discussion someday. But I really don't know if her time & schedule allows her for that. I'm hoping for the best. :)</sub>
+<sub>She's absolutely a really awesome teacher. I was so inspired that I've actually left a message for her, hoping for a discussion someday. I really don't know if her time or schedule allows her for that, but I'm hoping for the best. :)</sub>
 
-<sub>Then I came across this article, [BLCK VC Co-Founder Sydney Sykes: Community is now more important than ever](https://medium.com/marketfit-rho/blck-vc-co-founder-sydney-sykes-community-is-now-more-important-than-ever-cafc236558ec) which put some light on the miserable conditions of hirings, even more worst working conditions of *people of color* in these so called startups | ventures | companies, meanwhile suggesting some solutions too. And the quoted shows a bigger idea.</sub>
+<sub>Then I came across this article, [BLCK VC Co-Founder Sydney Sykes: Community is now more important than ever](https://medium.com/marketfit-rho/blck-vc-co-founder-sydney-sykes-community-is-now-more-important-than-ever-cafc236558ec), which put some light on the miserable conditions of the hirings in these big tech companies, even more worst working conditions of *people of color* in these so called startups | ventures. The quoted shows one of the broader ideas.</sub>
 
 ><sub>Having that emotional support is almost equally as important as having that network that can help you get those jobs and deals</sub>
 
-<sub>Right now, I can't summarise it, but it is something that I very closely resembles in my life.</sub>
+<sub>Right now, I can't summarise it because it really has lots in it, but I'll say it is something that I very closely resembles in my life.</sub>
 
-<sub>Ok, last is I want to add this visualtion here by *[Visualize Value](https://twitter.com/visualizevalue)!*</sub>
+<sub>Ok, last is I want to add this visualization here (from *[Visualize Value](https://twitter.com/visualizevalue))!*</sub>
 
 ![Be-happy-and keep-working](/assets/smile.jpeg)
 
-<sub>I'll say it's really hard. I'm just trying my best.</sub>
+<sub>It's really hard. Right now, I've no idea how to do both od these together but I'm *trying* my best.</sub>
 
 <sub>Good night now!</sub>
 
