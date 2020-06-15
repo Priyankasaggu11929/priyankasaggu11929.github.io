@@ -12,6 +12,38 @@ heading: ""
 
 ---
 
+## *June 15, 2020*
+
+<sub>***[00:04] Monday gone...***</sub>
+
+<sub>I'm having a bad headache right now.</sub>
+
+<sub>So, very quickly, here are the updates!</sub> 
+
+<sub>I binge-watched *Liz Rice* talks on youtube. And now I can proudly say, I know what a container actually is.</sub>
+
+<sub>And the I also attended one of her talk ***The Container Security Checklist*** today live at Online DevSecCon. This beautiful graphic covers it (literally) all. 👇️</sub>
+
+![The-Container-Security-Checklist](/assets/checklist.jpeg)
+
+<sub>She's really an awesome teacher. I was so inspired from her that I've actually left a not for her today hoping for a discussion someday. But I really don't know if her time & schedule allows her for that. I'm hoping for the best. :)</sub>
+
+<sub>Then I came across this article, [BLCK VC Co-Founder Sydney Sykes: Community is now more important than ever](https://medium.com/marketfit-rho/blck-vc-co-founder-sydney-sykes-community-is-now-more-important-than-ever-cafc236558ec) which put some light on the miserable conditions of hirings, even more worst working conditions of *people of color* in these so called startups | ventures | companies, meanwhile suggesting some solutions too. And the quoted shows a bigger idea.</sub>
+
+><sub>Having that emotional support is almost equally as important as having that network that can help you get those jobs and deals</sub>
+
+<sub>Right now, I can't summarise it, but it is something that I very closely resembles in my life.</sub>
+
+<sub>Ok, last is I want to add this visualtion here by *[Visualize Value](https://twitter.com/visualizevalue)!*</sub>
+
+![Be-happy-and keep-working](/assets/smile.jpeg)
+
+<sub>I'll say it's really hard. I'm just trying my best.</sub>
+
+<sub>Good night now!</sub>
+
+---
+
 ## *June 14, 2020*
 
 <sub>***[22:23] Sunday gone...***</sub>
