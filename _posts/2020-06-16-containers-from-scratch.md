@@ -25,7 +25,7 @@ Before jumping into writing a container of our own from scratch, the first thing
 - *Control Groups (cgroups) - What your container can use!*
 - *layered filesystem - The home for the above two, to do all their magic.*
 
-![What-is-container](assets/container.jpeg)
+![What-is-container](/assets/container.jpeg)
 
 Ok, now that our base idea is ready, we know what elements we need to implement in order to write our container from scratch.
 
