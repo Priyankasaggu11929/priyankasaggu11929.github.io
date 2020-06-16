@@ -9,7 +9,7 @@ comments: false
 
 June 16, 2020
 
-Okay, finally I'm here writing something technical. I'm still not sure what's gonna be the flow but I'm keeping my hopes high (*or otherwise I'll strike it once I'm done XD*).
+Okay, finally I'm here writing something technical. I'm still not sure what's gonna be the flow but I'm keeping my hopes high (*<strike>or otherwise I'll strike it once I'm done XD</strike>*).
 
 Actually this post is gonna be my *talk-notes* for the *Liz Rice's* talk *[What Have Namespaces Done for You Lately?](https://www.youtube.com/watch?v=MHv6cWjvQjM)* So, everything written later in the post is entirelly credited to *[Liz Rice](https://www.lizrice.com/)* who in-turn thanks *[Julian Friedman](https://twitter.com/doctor_julz)* for the talk idea & the code snippets used inside.
 
@@ -34,6 +34,8 @@ So, it's a good time to jump into the actual go implementation now.
 ---
 
 ### IMPLEMENTATION
+
+![skeletion-of-main-go](/assets/skeleton.jpeg)
 
 - The first and formost requirement is to import all the required modules. So, that's what the below code block is taking care of.
 
@@ -121,10 +123,49 @@ func must(err error) {
 	}
 }
 ```
+---
 
+### EXTRA 
 
-![skeletion-of-main-go](/assets/skeleton.jpeg)
+- This is a function `cg()` which basically creates a new cgroup `pids` for our new container. According to our flow, it should be invoked inside the `child()` function.
 
+```go
+func cg() {
+	cgroups := "/sys/fs/cgroup/"
+	pids := filepath.Join(cgroups, "pids")
+	os.Mkdir(filepath.Join(pids, "priyanka"), 0755)
+	must(ioutil.WriteFile(filepath.Join(pids, "priyanka/pids.max"), []byte("20"), 0700))
+
+	// Removes the new cgroup in place after the container exits
+	must(ioutil.WriteFile(filepath.Join(pids, "priyanka/notify_on_release"), []byte("1"), 0700))
+	must(ioutil.WriteFile(filepath.Join(pids, "priyanka/cgroup.procs"), []byte(strconv.Itoa(os.Getpid())), 0700))
+}
+```
+---
+
+### INITIALISING THE CONTAINER
+
+- Mark that the `main.go` file needs to executed from a user with root privileges.
+- You can verify whether the new container is being created or not via running example commands like:
+
+```
+$ go run main.go run echo Hello World
+
+$ go run main.go run /bin/bash
+
+```
+
+That's all about what our go program does in process of creating a whole new container from scratch.
+
+During the talk, Liz talks about `fork bomb` which basically is this `:(){ :|: & }; :` command. It basically creates infinite numbers of processes to check whether the cgroup created above limits the number of process running the container or not. It basically is a way to create a memory exploit scenario to check for security purposes.
+
+---
+
+And now, I'm going above to strike that one line. Because, I just somehow finished this blog for the sake of finishing it. I think I could've written it in a much better way.
+
+But for now, this is what all I have.
+
+Good night o/
 
 ---
 
