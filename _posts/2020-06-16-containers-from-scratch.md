@@ -27,9 +27,15 @@ Before jumping into writing a container of our own from scratch, the first thing
 
 ![What-is-container](/assets/container.jpeg)
 
-Ok, now that our base idea is ready, we know what elements we need to implement in order to write our container from scratch.
+Ok, now that our base idea is ready, and we know what elements we need to implement in order to write our container from scratch.
 
 So, it's a good time to jump into the actual go implementation now. 
+
+---
+
+### IMPLEMENTATION
+
+- The first and formost requirement is to import all the required modules. So, that's what the below code block is taking care of.
 
 ```go
 package main
@@ -40,7 +46,12 @@ import (
 	"os/exec"
 	"syscall"
 )
+```
+- Next up, we have a function defined as `main()`. It reads the first argument (passed while running the `main.go` file), checks if it is either `run`, or `child`. 
+    - If it's `run`, then run the `parent()` method.
+    - Or if it's `child`, then run the `child()` method.
 
+```go
 func main() {
 	switch os.Args[1] {
 	case "run":
@@ -51,7 +62,15 @@ func main() {
 		panic("Something else!")
 	}
 }
+```
 
+- Next, we have another function, `parent()`. This function does the following:
+    - It runs `/proc/self/exe` which is a special file containing an in-memory image of the current executable. In other words, it re-run itself, but passing child as the first argument
+    - Then it adds `UTS`, `PID`, and `MNT` namespaces to the container.
+    - Rest, set of `Stdin | Stdout | Stderr` commands are to display the results.
+    - And finally it does the caretaking for error handling.
+
+```go
 func parent() {
 	cmd := exec.Command("/proc/self/exe", append([]string{"child"}, os.Args[2:]...)...)
 	cmd.SysProcAttr = &syscall.SysProcAttr{
@@ -66,8 +85,16 @@ func parent() {
 		os.Exit(1)
 	}
 }
+```
+- Then, we've this another function defined as `child()` which does the following:
+    - The first line change the default user prompt hostname to `container`, so we can visualize that we are inside our newly created container.
+    - The next two lines tell the OS to move the current directory at `/` to `rootfs/oldrootfs` , and to swap the new rootfs directory to `/`.
+    - Then in the next two line, once the `pivotroot` call is complete, the `/` directory in the container will refer to the rootfs.
+    - Rest part is same as we discussed in the above function. 
 
+```go
 func child() {
+        must(syscall.Sethostname([]byte("container")))
 	must(syscall.Mount("rootfs", "rootfs", "", syscall.MS_BIND, ""))
 	must(os.MkdirAll("rootfs/oldrootfs", 0700))
 	must(syscall.PivotRoot("rootfs", "rootfs/oldrootfs"))
@@ -83,13 +110,20 @@ func child() {
 		os.Exit(1)
 	}
 }
+```
 
+- And finally the last `must()` function. It's a part of the skeleton code, and it basically wraps all the syscall & os module commands for error handling purpose.
+
+```go
 func must(err error) {
 	if err != nil {
 		panic(err)
 	}
 }
 ```
+
+
+![skeletion-of-main-go](/assets/skeleton.jpeg)
 
 
 ---
