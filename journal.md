@@ -12,6 +12,28 @@ heading: ""
 
 ---
 
+## *June 16, 2020*
+
+<sub>***[23:46] Better today...***</sub>
+
+<sub>In the morning, I was supposed to finish writing an article about *writing containers from scratch in go*, but then I got stuck in fxing the setup around that itself.</sub> 
+
+<sub>And then later today, I finished reading third chapter - *Control Groups* from the book ***Container Security*** by *Liz Rice*, moving onto *Container Isolation* part now. I've some good enough idea about this chapter as I binge-watched her talks yesterday only which mostly revolved around concepts from both the last chapter (cgroups) & current chapter (namespaces) itself.</sub>
+
+<sub>*(I'm undoubtedly a very slow reader. I took a hell lot of time to just cover till 3rd chapter from the book. So, the only good part is that whatever I read so far, I understand most of it, and it is strengthening my fundamentals by many folds.)*</sub>
+
+<sub>I worked for a long good while on the office tasks today. Happy that I've made some really good progress there too. Currently, I'm trying to write a simple dev-tool in *bash* script, for automating deployment of the entire lite-stack of the product, in a local cluster without the help of our traditionally used tool, KOTS (Replicated) release|license management tool. I'm almost done. :)</sub>
+
+<sub>For now, the plan is to finish writing the article first and then sleep. Because I know I'm procastinating this time & the other so called reasons are getting added to it as a pile of my excuses/reasons to my-own-self. Which I don't want now, it's for my own good & I ought to do it.</sub>
+
+<sub>So, wrapping it here itself. Good night all o/</sub>
+
+<sub>(PS: And yes, I meditated too. :) )</sub>
+
+<sub>***(And hurrah, today I finish 30 days of writing this journal in one continuous streak. A whole month of writing. It makes me sooo happy. :) )***</sub>
+
+---
+
 ## *June 15, 2020*
 
 <sub>***[00:04] Monday gone...***</sub>
