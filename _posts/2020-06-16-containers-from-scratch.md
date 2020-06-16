@@ -17,9 +17,9 @@ Let's get started now!
 
 ---
 
-Before jumping into writing a container of our own from scratch, the first thing is to understand **what actually a container is**?
+Before jumping right away into writing a container of our own from scratch, the first & the most important thing is to understand ***what actually a container is?***
 
-*From my understanding so far, a container simply is a means for process isolation. I'm sure it is in no way a complete definition but definitely a broader idea. So, what completes the definition, is knowing about the following 3 things which makes up the majority of the container.*
+*From my understanding so far, a container simply is a means for obtaining process isolation. I'm sure it is in no way close to a complete definition but definitely a broader idea. So, what completes the definition, is knowing about the following 3 things which makes up the majority of the container.*
 
 - *Namespaces - What your container can see!*
 - *Control Groups (cgroups) - What your container can use!*
@@ -67,10 +67,10 @@ func main() {
 ```
 
 - Next, we have another function, `parent()`. This function does the following:
-    - It runs `/proc/self/exe` which is a special file containing an in-memory image of the current executable. In other words, it re-run itself, but passing child as the first argument
-    - Then it adds `UTS`, `PID`, and `MNT` namespaces to the container.
-    - Rest, set of `Stdin | Stdout | Stderr` commands are to display the results.
-    - And finally it does the caretaking for error handling.
+    - In the first line, it runs `/proc/self/exe` which is a special file containing an in-memory image of the current executable. In other words, it re-run itself, but passing child as the first argument
+    - In the second line, it adds `UTS`, `PID`, and `MNT` namespaces to the container.
+    - Rest, set of `Stdin | Stdout | Stderr` commands are to display the results in the terminal.
+    - And finally in the end, it does the caretaking for error handling.
 
 ```go
 func parent() {
@@ -125,9 +125,11 @@ func must(err error) {
 ```
 ---
 
-### EXTRA 
+### CREATING CGROUPS (EXTRA)
 
-- This is a function `cg()` which basically creates a new cgroup `pids` for our new container. According to our flow, it should be invoked inside the `child()` function.
+- The below is a function `cg()` which basically creates a new cgroup `pids` for our newly created container. 
+
+(*According to our flow, it should be invoked inside the `child()` function.*)
 
 ```go
 func cg() {
@@ -157,13 +159,13 @@ $ go run main.go run /bin/bash
 
 That's all about what our go program does in process of creating a whole new container from scratch.
 
-During the talk, Liz talks about `fork bomb` which basically is this `:(){ :|: & }; :` command. It basically creates infinite numbers of processes to check whether the cgroup created above limits the number of process running the container or not. It basically is a way to create a memory exploit scenario to check for security purposes.
+During the talk, Liz talks about `fork bomb` which basically is this `:(){ :|: & }; :` command. It basically creates infinite numbers of processes to check whether the cgroup created above limits the number of process running inside the container or not. It basically is a way to create a memory exploit scenario to check for security purposes.
 
 ---
 
 And now, I'm going above to strike that one line. Because, I just somehow finished this blog for the sake of finishing it. I think I could've written it in a much better way.
 
-But for now, this is what all I have.
+But for now, this is what all I have. Next time, hopefully better. :)
 
 Good night o/
 
