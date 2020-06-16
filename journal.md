@@ -32,6 +32,12 @@ heading: ""
 
 <sub>***(And hurrah, today I finish 30 days of writing this journal in one continuous streak. A whole month of writing. It makes me sooo happy. :) )***</sub>
 
+<sub>***[01:06] Just saw the email notification to [this github comment](https://github.com/GoogleCloudPlatform/deploymentmanager-samples/issues/549#issuecomment-644894536)!***</sub>
+
+<sub>Yes, I *do my work* nicely when I really do it with all my heart.</sub>
+
+![appreciation](assets/appreciation.png)
+
 ---
 
 ## *June 15, 2020*
