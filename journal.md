@@ -12,6 +12,40 @@ heading: ""
 
 ---
 
+## *June 17, 2020*
+
+<sub>***[23:04] A day well spent...***</sub>
+
+<sub>Yesterday, I was up until 5 am in the morning finishing the pending blog. I finally managed to finish it (although, throughout the time, I struggled no end to actually finish it. I was hell sleepy and I just wanted to leave it once again. It happens with me every single time when I procastinate and leave things for this long). </sub>
+
+<sub>So, I woke up around 9:30 in the morning. Cooked breakfast for mum, bhai & me. And then finished all the morning routines. And, nowadays, I tend to read in the morning (I can't keep at one thing although, so it keeps changing every single day, but usually it's something insightful only).</sub>
+
+<sub>Today, I read this article, *[Carpe Diem!](https://janusworx.com/blog/carpe-diem/)* by *[jasonbraganza](https://janusworx.com)* (Ok, I'm super obsessed with jasonbraganza's writings. It's the only blog, that I never miss a single new post from, since the time I subscribed to it.Even, I've learnt this beautiful skill of *reading and writing* just from him. He's a *great* teacher! :) ).</sub>
+
+<sub>And then I read this article, *[Do not limit yourself](https://kushaldas.in/posts/do-not-limit-yourself.html)* by *[kushal](https://kushaldas.in/posts/do-not-limit-yourself.html)*.</sub> 
+
+<sub>So, the morning basically started with reading words from the lives of both my mentors. Nothing could be more special than this. :)</sub>
+
+<sub>Hey, btw, I landed onto *jasonbraganza's "Carpe Diem!"* post while I was searching through his blog for *Amor Fati*. But the search gave me much more than I wanted.</sub> 
+
+<sub>Finally, this last link from (jasonbraganza's) post, leaded to *Daily Stoic's* *[Amor Fati: The Immense Power of Learning To Love Your Fate](https://dailystoic.com/amor-fati/)* post which I later realised is a summary of *Ryan Holiday's* book, *The Obstacle is the way*.</sub> 
+
+<sub>I feel so happy that the time I've invested in reading books (fro, the  last couple of weeks), is finally connecting me to so many great writers at the same time, on similar lines. What could be more satisfying than learning from all of them at the same time.</sub> 
+
+<sub>(Thank you *jasonbraganza*. Life seems so better now. 🙂️)</sub>
+
+<sub>I took a little nap, sometime during the day. Then I worked nicely through the office hours, and I'm one step ahead in my task of writing that *local product-deployment dev-tool* from yesterday. I hope, by tomorrow, I get to finish it & test it as whole.</sub>
+
+<sub>I think that was mostly all from the day.</sub> 
+
+<sub>But yeah, one thing, I'm really very keenly looking forward to learning about *Software Licenses*, from the upcoming series of posts by *[Anwesha Das](https://anweshadas.in/)*. This one, *[Software Licenses : Legalese to English](https://anweshadas.in/software-licenses-legalese-to-english/)* is the first post from the series (even, my first actual insightful exposure to software licenses was through her PyCon'17 (Portland, Oregon) talk, [The trends in choosing licenses in Python ecosystem](https://www.youtube.com/watch?v=ikT2i4I2LYY)).</sub>
+
+<sub>Ok, I think I can call it off for the day now. Overall, it was a peaceful day. :)</sub>
+
+<sub>Good night everyone!</sub>
+
+---
+
 ## *June 16, 2020*
 
 <sub>***[23:46] Better today...***</sub>
