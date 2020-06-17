@@ -32,7 +32,7 @@ heading: ""
 
 <sub>Finally, the last link from (jasonbraganza's) post, leaded to *Daily Stoic's* *[Amor Fati: The Immense Power of Learning To Love Your Fate](https://dailystoic.com/amor-fati/)* post which I later realised is a summary of *Ryan Holiday's* book, *The Obstacle is the way*.</sub> 
 
-<sub>I feel so happy that the time I've invested in reading books (for, the last couple of weeks), is finally connecting me to so many great writers at the same time, on similar lines. What could be more satisfying than learning from all of them at the same time.</sub> 
+<sub>I feel so happy that the time I've invested in reading books (for, the last couple of weeks), is finally connecting me to so many great writers at the same time, on similar lines. What could be more satisfying for me than me learning from all of these great people at the same time.</sub> 
 
 <sub>(Thank you *jasonbraganza*. Life seems so better now. 🙂️)</sub>
 
