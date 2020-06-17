@@ -42,9 +42,9 @@ heading: ""
 
 <sub>But yeah, one thing, I'm really very keenly looking forward to learning about *Software Licenses*, from the upcoming series of posts by *[Anwesha Das](https://anweshadas.in/)*. This one, *[Software Licenses : Legalese to English](https://anweshadas.in/software-licenses-legalese-to-english/)* is the first post from the series. Also, my first actual insightful exposure to software licenses was also through her PyCon'17 (Portland, Oregon) talk, [The trends in choosing licenses in Python ecosystem](https://www.youtube.com/watch?v=ikT2i4I2LYY).</sub>
 
-<sub>Ok, I think I can call it off for the day now. Overall, it was a peaceful day. :)</sub>
+<sub>Ok, I think I can call it off for the day now. To me, overall, it was a peaceful day. :)</sub>
 
-<sub>Good night everyone!</sub>
+<sub>Good night!</sub>
 
 ---
 
