@@ -161,6 +161,8 @@ That's all about what our go program does in process of creating a whole new con
 
 During the talk, Liz talks about `fork bomb` which basically is this `:(){ :|: & }; :` command. It basically creates infinite numbers of processes to check whether the cgroup created above limits the number of process running inside the container or not. It basically is a way to create a memory exploit scenario to check for security purposes.
 
+*(I just realised, I used "basically" in every single line of the above para. So, in my defence, yes, I was stressing on the basicness (if that is something). Ok, honestly, that's because I'm super sleepy. XD)*
+
 ---
 
 And now, I'm going above to strike that one line. Because, I just somehow finished this blog for the sake of finishing it. I think I could've written it in a much better way.
