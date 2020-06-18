@@ -48,6 +48,70 @@ heading: ""
 
 ---
 
+## *June 17, 2020*
+
+<sub>***[23:15] Just another day...***</sub>
+
+<sub>Many things happened of all sorts!</sub>
+
+<sub>People helped me, and some offered me more help, and some pointed me to the help . I'm really grateful to each one of them.</sub>
+
+<sub>The morning didn't come well from any side. The work, the personal, everywhere there were tensions, some real big tensions. And at these times, I wish I could've some superpowers to undo all the bad in just no time. But, sadly, there's no such super power that I know so far or have ever seen. The time is the only supreme power I know which makes everything better as it passes. I'm learning it now as I'm stepping into my real *adult* phase. Life is hard mostly, we all work hard to make it better every single day. Yes, exactly that is what each one of us is doing everyday in our own ways. I'm praying hard right now. I'm praying that God really bless everyone. We so badly need blessings & prayers right now!</sub>
+
+<sub>Things from later in the day now!</sub>
+
+<sub>I did the officework, finished some important stuffs there, and have wrapped it up now.</sub> 
+
+<sub>The evening at 8:00pm, I attended the first meeting by *AquaSecurity*, regarding its open source project *Starboard*. I found the product really useful & actually the first of it's own kind. It's a security audit dashboard. I hope to use it soon & learn more about it, or maybe if it makes some real sense, then contribute back to it too. But right now, I'm just gathering all the possible information I can obtain in this period of time.</sub>
+
+<sub>I reached out to a couple of people from the kubernetes community too. I'm trying to not get much overwhelmed by the vastness of the community & searching my own comfort tribe so that I can really start somewhere. I've no issues if it takes time, because I've really a lot on my plate right now. I'm trying the best possible everywhere. Atlest that's what I feel from inside. Rest only time will tell. :)</sub>
+
+<sub>I will go and meditate for sometime now. But I really pray tomorrow be a better day for eveyone, every single of us.</sub>
+
+<sub>Good night :)</sub>
+
+<sub>*(PS: The only good thing today is, I age 26 on the scale. So, now 4 more years to work on!)*</sub>
+
+<sub>***[23:29] Ok, I'm back...***</sub>
+
+<sub>Just read *James Clear's* thursday newsletter. So, I want to put some part of it here.</sub>
+
+><sub>"The Cycle of Improvement:</sub>
+>
+><sub>1. Awareness - identify what you need to improve.</sub>
+>
+><sub>2. Deliberate practice - focus your conscious effort on the specific area you want to improve.</sub>
+>
+><sub>3. Habit - with practice, the effortful becomes automatic.</sub>
+>
+><sub>4. Repeat - begin again."</sub></sub>
+
+and
+
+><sub>"The Paradox of Freedom:</sub>
+>
+><sub>The way to expand your freedom is to narrow your focus.</sub>
+>
+><sub>Stay focused on saving to achieve financial freedom.</sub>
+>
+><sub>Stay focused on training to achieve physical freedom.</sub>
+>
+><sub>Stay focused on learning to achieve intellectual freedom."</sub>
+
+and
+
+><sub>Why would I think about missing a shot that I haven’t taken yet?</sub>
+>
+><sub>- Micheal Jordan</sub>
+
+<sub>and lastly the answer to the question, ***What are you preventing yourself from feeling?***</sub>
+
+<sub>*Preventing myself from feeling sad, impatient, crying, helpless, worthless and every bad thing. But I want to add, I'm pushing myself to feeling happy, brave, worth, competent, patient, loved, strong & capable enough to do any big thing!*</sub> 
+
+<sub>*And I'm trying to love myself more every single day!*</sub>
+
+---
+
 ## *June 16, 2020*
 
 <sub>***[23:46] Better today...***</sub>
