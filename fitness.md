@@ -26,6 +26,12 @@ Okay, let's start:
 
 ---
 
+## *June 18, 2020*
+
+<sub>Today, I age 26 on the scale, in terms of my metabolic age. So, 4 more years left to knock down now. :)</sub>
+
+---
+
 ## *June 13, 2020*
 
     - cw: 75.3 kgs (2020/06/13)
