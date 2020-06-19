@@ -12,6 +12,38 @@ heading: ""
 
 ---
 
+## *June 19, 2020*
+
+<sub>***[23:20] Another week over. It was quick this time!***</sub>
+
+<sub>Late morning! Not well today, but I did lots of work. :)</sub>
+
+<sub>The office hours were quite productive. I just wrapped up now. Everyone works really hard. I can feel the stress, pain, fear & hope in the meetings. I hope for the best outcomes! :)</sub>
+
+<sub>So, as expected, I (almost) finished writing the *local deployment Dev-Tool*. Now, it fetches *tls-certificates & tls-keys* from some location on the local machine, encode them as Base64, and pass them as secrets to the kubernetes objects (through helm chart's values.yaml). Therefore, now the final step is, just running all the scripts together on a cluster to check if everything works the intended way. That's for the coming week now. :) </sub>
+
+<sub>I also had couple other tasks, that I sort of did well in. Some of them have a couple of things to re-work in the coming week. But overall, I learnt a lot and I did well!</sub>
+
+<sub>Talking to people is the best thing I'm doing right now. And people, being the most kind & generous, are offering me some huge help as well. Now, the next step here, is to use *their help* in the best possible way & do well in the following process. And That's something for this weekend now. :) </sub>
+
+<sub>Just read *Shawn Blanc's* newsletter and found this beautiful excerpt from the book he mentioned ***The Crossroads of Should & Must***.</sub>
+
+><sub>Elle writes that there are four obstacles to doing what she calls our “Must” (i.e. our most important work).</sub>
+>
+><sub>Those four obstacles are: (1) Money; (2) Time; (3) Space; and (4) Vulnerability.</sub>
+>
+><sub>Elle lists your workspace as one of the four obstacles that stand in the way of us doing your most important work:</sub>
+>
+><sub>You need a physical space — private, safe, and just for you. When you are in this space, you are not available. I repeat, you are not available. This is your sacred space to be by and with yourself. We all need safe containers. How might you create a safe space that you can spend time in daily? How might you get creative with where it begins and ends? Find this place and make it your own.</sub>
+
+<sub>Now, I'll go and first read [this thread here](https://twitter.com/mekkaokereke/status/1027552459873378304), showing ***some practical tips regarding Performance Review!***</sub>
+
+<sub>And then, I'll meditate for a short while and then nothing more hopefully but off to bed.</sub>
+
+<sub>Good night. I wish & I pray the coming week be a really nice & peaceful one for everyone!</sub>
+
+---
+
 ## *June 18, 2020*
 
 <sub>***[23:15] Just another day...***</sub>
