@@ -26,6 +26,28 @@ Okay, let's start:
 
 ---
 
+## *June 20, 2020*
+
+
+    - cw: 73.9 kgs (2020/06/20)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Here I go, girl! 🎉️🤩️</sub>
+
+<sub>So, while today I crossed the *third goal weight* milestone, I've come closer to *the fourth one* too. And this makes me so happy, that for a moment, I forgot all my other tensions, stressful things in the life. 🙂️</sub>
+
+<sub>There's yet a long way for me to actually touch the final goal weight, but at this point of time, I'm no longer afraid to face people in real life. I'm much comfortable with my body, with the way I look. I'm happier than ever before! 😊️</sub>
+
+<sub>I really worked hard for it & I *myself appreciate* all my efforts now. ❤️ </sub>
+
+---
+
 ## *June 18, 2020*
 
 <sub>Today, I age 26 on the scale, in terms of my metabolic age. So, 4 more years left to knock down now. :)</sub>
