@@ -22,7 +22,7 @@ heading: ""
 
 <sub>*Back to good things now...*</sub>
 
-<sub>On weekends, Papa comes back to home (from work) & so, having my small family sit together for a small while is the happiest part of my days.</sub>
+<sub>On weekends, Papa comes back to home (from work) & so, having my small family sit together for a small while is the happiest part of my day.</sub>
 
 <sub>Although *being adult* is real hard. I wish there was some other option too! 😂️</sub>
 
@@ -34,11 +34,11 @@ heading: ""
 
 <sub>I might watch some more now. Let's see if I find any. :)</sub>
 
-<sub>(*And I usually don't ask people for movie recommendations, because I hardly see any. It's always random search, that makes me watch something otherwise I'm more than happy with my chinese village cooking videos. :P*)</sub>
+<sub>(*And I usually don't ask people for movie recommendations, because I hardly see any. It's always some random search, that makes me watch something, otherwise I'm more than happy with my chinese village cooking videos. :P*)</sub>
 
-<sub>Oh, there is something that I think of writing everyday but it just slips my head only (*my poor little memory*).</sub> 
+<sub>Oh, there is something that I think of writing everyday but it just slips my head only (*my poor little memory*). But today finally I remember writing it!</sub> 
 
-<sub>So, I always feel like I never spent money for my own-self (other than the essentials), like no money for my hobbies or my self care and stuff. It's mostly I love doing for people I admire. But I was wrong, I really never thought of it only. I just spent some 17k bucks (7.5k once + 9.5k once) on my dieting thing. Yup, that's something huge I spent just for myself & I feel really happy & satisfied about it. :)</sub>
+<sub>So, I always feel like I never spent money for my own-self (other than the essentials), like no money for my hobbies or my self care and stuff. It's mostly I love doing for people I admire. But (for the first time) I was wrong. It really never clicked me only, until this week. I actually spent some 17k bucks (7.5k once + 9.5k once) on my dieting thing. Yup, that's something huge I spent just for myself & I feel really happy & satisfied about it. :)</sub>
 
 <sub>*(I know that (👆️) makes no sense, but it's something big and new for me that I never usually do for myself, so that's worth writing here. :))*</sub>
 
