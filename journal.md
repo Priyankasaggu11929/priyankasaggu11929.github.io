@@ -42,7 +42,7 @@ heading: ""
 
 <sub>*(I know that (👆️) makes no sense, but it's something big and new for me that I never usually do for myself, so that's worth writing here. :))*</sub>
 
-<sub>Ok, that's mostly all of it for today. I was supposed to work today (some side work), but I put it on my bad health (& ok, a little procastination too).</sub>
+<sub>Ok, that's mostly all of it for today. I was supposed to work today (some side work), but I put it on my bad health (& ok, a little procastination too). And not only that, but on some guests & some more maintaince work. Literally, I want my mornings just for myself with noone around. So, yeah, I had ton lots of reasons to cover up this time...😝️</sub>
 
 <sub>Now, leaving it & hoping for tomorrow. Good night! :)</sub>
 
