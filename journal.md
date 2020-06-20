@@ -12,6 +12,42 @@ heading: ""
 
 ---
 
+## *June 20, 2020*
+
+<sub>***[23:05] Leisure...***</sub>
+
+<sub>It's saturday, and so I literally don't feel like doing anything anyways on the weekends. And moreover my brain needs some real rest. I'm putting so much pressure on it, that it has become a pressure cooker and it will blast someday!</sub>
+
+<sub>Ok, puns apart, life is a little tough right now. And I'm trying to calm myself down. And that *is* a very important work in itself, so, that's what I'm ought to do right now. :)</sub>
+
+<sub>*Back to good things now...*</sub>
+
+<sub>On weekends, Papa comes back to home (from work) & so, having my small family sit together for a small while is the happiest part of my days.</sub>
+
+<sub>Although *being adult* is real hard. I wish there was some other option too! 😂️</sub>
+
+<sub>*Sadly being a girl/woman is hard too. Yup, sometimes it is! 😐️*</sub>
+
+<sub>*Ok, back to the good things once again XD*</sub>
+
+<sub>I watched this short movie *[Hidden Moon](https://www.youtube.com/watch?v=RRBhROkLJBs)*. And I loved it. And surprisingly, it was mostly in spanish but the subtitles worked seamlessly wonder for me.</sub>
+
+<sub>I might watch some more now. Let's see if I find any. :)</sub>
+
+<sub>(*And I usually don't ask people for movie recommendations, because I hardly see any. It's always random search, that makes me watch something otherwise I'm more than happy with my chinese village cooking videos. :P*)</sub>
+
+<sub>Oh, there is something that I think of writing everyday but it just slips my head only (*my poor little memory*).</sub> 
+
+<sub>So, I always feel like I never spent money for my own-self (other than the essentials), like no money for my hobbies or my self care and stuff. It's mostly I love doing for people I admire. But I was wrong, I really never thought of it only. I just spent some 17k bucks (7.5k once + 9.5k once) on my dieting thing. Yup, that's something huge I spent just for myself & I feel really happy & satisfied about it. :)</sub>
+
+<sub>*(I know that (👆️) makes no sense, but it's something big and new for me that I never usually do for myself, so that's worth writing here. :))*</sub>
+
+<sub>Ok, that's mostly all of it for today. I was supposed to work today (some side work), but I put it on my bad health (& ok, a little procastination too).</sub>
+
+<sub>Now, leaving it & hoping for tomorrow. Good night! :)</sub>
+
+---
+
 ## *June 19, 2020*
 
 <sub>***[23:20] Another week over. It was quick this time!***</sub>
