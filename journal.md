@@ -14,6 +14,32 @@ heading: ""
 
 ## *June 20, 2020*
 
+<sub>***[21:37] Loved it...***</sub>
+
+<sub>Today was the best day after so long.</sub>
+
+<sub>And It's fathers day. I love and adore them no end, and I pray for their long healthy & happy lives.</sub>
+
+<sub>My day, I loved it thoroughly today!</sub>
+
+<sub>Thanks to God, I've the best people in my life. I just can't thank God enough for blessing me with them. :)</sub>
+
+<sub>And, I watched three (small) movies today.</sub>
+
+-<sub>[Light Thereafter](https://www.youtube.com/watch?v=VLPWPo1-jlw)</sub>
+-<sub>[Midway to Heaven](https://www.youtube.com/watch?v=hDI0geV03us&t=5s)</sub>
+-<sub>[Inside Out](https://www.youtube.com/watch?v=V9OPnV4_pd0)</sub>
+
+<sub>Each one of them was very different, but really good in their own ways.</sub>
+
+<sub>This sunday was the best. I'm really happy today. I just want to cry out of my happiness, I'm that happy & (happily) emotional.</sub>
+
+<sub>Thank you God for everything. :)</sub>
+
+---
+
+## *June 20, 2020*
+
 <sub>***[23:05] Leisure...***</sub>
 
 <sub>It's saturday, and so I literally don't feel like doing anything anyways on the weekends. And moreover my brain needs some real rest. I'm putting so much pressure on it, that it has become a pressure cooker and it will blast someday!</sub>
