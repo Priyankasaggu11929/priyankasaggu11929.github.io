@@ -16,23 +16,19 @@ heading: ""
 
 <sub>***[21:37] I Loved it...***</sub>
 
-<sub>Today was the best day after so long.</sub>
+<sub>Today was the best day after so long. It's fathers day, and I love & adore them no end, and I pray for their long healthy & happy lives.</sub>
 
-<sub>And It's fathers day. I love and adore them no end, and I pray for their long healthy & happy lives.</sub>
-
-<sub>My day, I loved it thoroughly today!</sub>
-
-<sub>Thanks to God, I've the best people in my life. I just can't thank God enough for blessing me with them. :)</sub>
+<sub>My day today, I loved it thoroughly. Thanks to God, I've the best people in my life. I just can't thank God enough for blessing me with them. :)</sub>
 
 <sub>And, I watched three (small) movies today.</sub>
 
--<sub>[Light Thereafter](https://www.youtube.com/watch?v=VLPWPo1-jlw)</sub>
--<sub>[Midway to Heaven](https://www.youtube.com/watch?v=hDI0geV03us&t=5s)</sub>
--<sub>[Inside Out](https://www.youtube.com/watch?v=V9OPnV4_pd0)</sub>
+- <sub>[Light Thereafter](https://www.youtube.com/watch?v=VLPWPo1-jlw)</sub>
+- <sub>[Midway to Heaven](https://www.youtube.com/watch?v=hDI0geV03us&t=5s)</sub>
+- <sub>[Inside Out](https://www.youtube.com/watch?v=V9OPnV4_pd0)</sub>
 
-<sub>Each one of them was very different, but really good in their own ways.</sub>
+<sub>Each one of them were very different, but really good in their own ways. I liked all three.</sub>
 
-<sub>This sunday was the best. I'm really happy today. I just want to cry out of my happiness, I'm that happy & (happily) emotional.</sub>
+<sub>This sunday was the best. I'm really happy today. I'm feeling like crying out of this happiness, just little happy emotional feelings.</sub>
 
 <sub>Thank you God for everything. :)</sub>
 
