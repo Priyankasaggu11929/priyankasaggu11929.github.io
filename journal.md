@@ -12,9 +12,9 @@ heading: ""
 
 ---
 
-## *June 20, 2020*
+## *June 21, 2020*
 
-<sub>***[21:37] Loved it...***</sub>
+<sub>***[21:37] I Loved it...***</sub>
 
 <sub>Today was the best day after so long.</sub>
 
