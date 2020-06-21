@@ -26,9 +26,9 @@ heading: ""
 - <sub>[Midway to Heaven](https://www.youtube.com/watch?v=hDI0geV03us&t=5s)</sub>
 - <sub>[Inside Out](https://www.youtube.com/watch?v=V9OPnV4_pd0)</sub>
 
-<sub>Each one of them were very different, but really good in their own ways. I liked all three.</sub>
+<sub>Each one of them were very different, but really good in their own ways. I liked all three!</sub>
 
-<sub>This sunday was the best. I'm really happy today. I'm feeling like crying out of this happiness, just little happy emotional feelings.</sub>
+<sub>This sunday was the best. I'm really happy today. I'm feeling like crying out of this happiness, just my little happy emotional feelings.</sub>
 
 <sub>Thank you God for everything. :)</sub>
 
