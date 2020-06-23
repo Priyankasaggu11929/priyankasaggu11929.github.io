@@ -12,6 +12,26 @@ heading: ""
 
 ---
 
+## *June 22, 2020 & June 23, 2020*
+
+<sub>***[21:37] Worked a loooooot...***</sub>
+
+<sub>I hardly slept for 4 hours for last 2 days. Because I was trying to finish a personal side work, and also there was lots of office work too.</sub>
+
+<sub>After so many days, I finally feel like I'm a DevOps person, like atleast I know how to get my things done somehow.</sub>
+
+<sub>And I learnt & practiced a lot of ***go programming!*** And also I'm happy, that I can handle this one database/data-structure-store, *Redis* inside out now (to a good extend).</sub>
+
+<sub>After so long, I wrote *Dockerfile, Docker-compose file & ansible playbooks* today. I just did what was asked. It works exactly the intended way & that's more than enough for me, for now. XD</sub>
+
+<sub>I really wish things turn better for me now. It's hard juggling between things that I don't want to do anymore & other things leading to the solution for that.</sub>
+
+<sub>Ah, God bless me too!</sub>
+
+<sub>Good night, time to crash now! o/</sub>
+
+---
+
 ## *June 21, 2020*
 
 <sub>***[21:37] I Loved it...***</sub>
