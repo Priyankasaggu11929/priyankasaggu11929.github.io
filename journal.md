@@ -30,6 +30,8 @@ heading: ""
 
 <sub>Good night, time to crash now! o/</sub>
 
+(PS: Today was the bestest day from last 4 months now. I got unexpected surprises, and I love them! :) )
+
 ---
 
 ## *June 21, 2020*
