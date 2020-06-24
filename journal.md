@@ -12,6 +12,28 @@ heading: ""
 
 ---
 
+## *June 24, 2020*
+
+<sub>***[23:19] A day full of lots of emotions...***</sub>
+
+<sub>I'm trying hard to make my way to a better side. There are some small wins, atleast now I know I'm capable enough to start once again!</sub>
+
+<sub>There was happiness, sadness, frustation, excitement, confusion, tension, and a lot more, all throughout the day.</sub>
+
+<sub>Now, it's just not my own life that is giving me a little hard time, the surroundings are full of stress & tension too.</sub> 
+
+<sub>Actually right now, life is getting much harder for some others (around me). Atleast, I can look for my way outs, all by myself. Poor these people are, their entire family is suffering and splitting because of some shit money related family issues. And my parents with all others, being part of the community & society and family, are trying to be a help, atleast the emotional support.</sub>
+
+<sub>So, It's turning really stressful all around me. I'm just trying my best to relax & meditate (I'll go and meditate now) so atleast my brain pains a little less. Like I can really feel the stress inside my head, it's aching badly right now!</sub>
+
+<sub>But with God's grace, I'm still lucky to have some source of hope, even now. I'll make sure I make the best out of them.</sub>
+
+<sub>Yea, that's all about it. I really pray things get better for everyone. People need love, care, and a lot of mental peace. God please bless them & me too!</sub>
+
+<sub>Good night. Hope tomorrow be a better day!</sub>
+
+---
+
 ## *June 22, 2020 & June 23, 2020*
 
 <sub>***[21:37] Worked a loooooot...***</sub>
