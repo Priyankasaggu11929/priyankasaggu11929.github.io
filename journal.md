@@ -12,6 +12,28 @@ heading: ""
 
 ---
 
+## *June 25, 2020*
+
+<sub>***[23:58] A much better day...***</sub>
+
+<sub>I worked on office stuff for a quite long time today. There were some tangible outcomes!</sub>
+
+<sub>But I'm happily surprised about a couple other things!</sub>
+
+<sub>I helped a new intern in the company, giving him an entire walkthrough around the product specifics for about a couple of hours. I sensed that he understood everything. It was satisying for me, as in a new intern finally got to understand the product at such an early stage in his internship. :)</sub>
+
+<sub>Another guy approached me today for some help and advice around company hirings. (*That was a little funny, me advising him over that. But it's ok, I can advise everyone the best solutions, implementing them is usually hard!*).</sub>
+
+<sub>And later, I was specifically approached to schedule a call with two girls & help & guide them for taking better decisions. I loved it. I really want to help women/girls/underrepresented-folks as much as possible & in my reach. Well, I want to help myself first although!</sub>
+
+<sub>I made my first ever contribution (which is now a merged PR) to the kubernetes community project. Ok, it was just a mere broken link fix. But still, any start *is* a start. Now, the plan is to pick up some more *good first issue* & get the org membership as soon as possible. I need it for getting into the mentorship program. :)</sub>
+
+<sub>Apart from all these, there is no big difference from yesterday. Although, there are some talks extended, let's see how it goes for me. I'm praying hard for myself right now!</sub>
+
+<sub>Good night!</sub>
+
+---
+
 ## *June 24, 2020*
 
 <sub>***[23:19] A day full of lots of emotions...***</sub>
