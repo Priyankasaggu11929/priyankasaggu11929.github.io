@@ -14,7 +14,7 @@ heading: ""
 
 ## *June 26, 2020*
 
-<sub>***[23:58] finally, a nice day...***</sub>
+<sub>***[23:15] finally, a nice day...***</sub>
 
 <sub>In short, I had a couple of nice long productive conversation with people. It was really nice talking to all of them, I learnt thoroughly, I'm boosted to start again, let's see if it will be more helpful or not!</sub>
 
