@@ -12,6 +12,34 @@ heading: ""
 
 ---
 
+## *June 26, 2020*
+
+<sub>***[23:58] finally, a nice day...***</sub>
+
+<sub>In short, I had a couple of nice long productive conversation with people. It was really nice talking to all of them, I learnt thoroughly, I'm boosted to start again, let's see if it will be more helpful or not!</sub>
+
+<sub>So, yeah, I found my day to be a real productive!</sub>
+
+<sub>I don't recall anything much. It was mostly talking talking & more talking. Otherwise I was working or chat!</sub>
+
+<sub>In the evening, although, I got a chance to talk to some more folks from the channel #learnandteach (ah, that feels like a family). I love these sessions from *[kushal](https://kushaldas.in)*. And even, today was the first time, when I, actually, was able to join it in time & be there throughout & learn & in the end, actually *talk* as well. I enjoyed it. It's always worth it!</sub>
+
+<sub>And yeah, there is a little more too, from the day!</sub>
+
+<sub>Today, I knocked down my fourth goal weight. So, I weigh 73 now, which means I'm 22.7 kgs down from the highest weight & 15.6 kgs down from the day I came back home in march (after lockdown). I'm happy! </sub>
+
+<sub>And the metabolic age on scale counts to 25 today. That means, just *3 more years* to go now! 😍️ </sub>
+
+<sub>And tomorrow is weekend! That's the best thing!😁️</sub>
+
+<sub>Now, I'll go & watch some random videos or something, for sometime! And meditate & sleep then!</sub>
+
+<sub>Good night! o/</sub>
+
+<sub>Happy Happy weekends! \o/</sub>
+
+---
+
 ## *June 25, 2020*
 
 <sub>***[23:58] A much better day...***</sub>

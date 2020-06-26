@@ -26,6 +26,29 @@ Okay, let's start:
 
 ---
 
+## *June 26, 2020*
+
+**<sub>Just an early update!</sub>**
+
+    - cw: 73 kgs (2020/06/26)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs ✔️
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>More hurraaaaah!🎉️🎉️🎉️</sub>
+
+<sub>Another goal weight down! 😍️</sub>
+
+<sub>It's just a day earlier than my regular saturday updates. But who knows, if it goes up tomorrow. So, marking it here to celebrate my progress today itself! 😊️</sub>
+
+<sub>And the metabolic age counts 25 today. So, just 3 more years left to go down!</sub>
+
+---
+
 ## *June 20, 2020*
 
 
@@ -38,7 +61,7 @@ Okay, let's start:
     - gw5: 70 kgs
     - gw6: 67 kgs
 
-<sub>Here I go, girl! 🎉️🤩️</sub>
+<sub>Here you go, girl! 🎉️🤩️</sub>
 
 <sub>So, while today I crossed the *third goal weight* milestone ([again](https://priyankasaggu11929.github.io/fitness.html#june-13-2020) XD), I've come closer to *the fourth one* too. And this makes me so happy, that for a moment, I forgot all my other tensions, stressful things in the life. 🙂️</sub>
 
