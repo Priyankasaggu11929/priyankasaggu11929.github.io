@@ -12,6 +12,26 @@ heading: ""
 
 ---
 
+## *June 27, 2020 & June 27, 2020*
+
+<sub>***[21:02] the perfect weekend...***</sub>
+
+<sub>I loved it!</sub>
+
+<sub>It was really the perfect weekend! It was peaceful, I was *really* happy, I did what all makes me happy, I learnt a little bit here & there. And I enjoyed it thoroughly!</sub>
+
+<sub>Now, the only desire is, this world get better soon. And we all get to do some things, that we had planned for a long while now. :)</sub>
+
+<sub>Taking some out of the work, learning and all other stuffs that require focus and efforts, for a little short time, I think it really helps to get back to the *life*. Top of that, if you get a chance to spend that time with the dear near ones, nothing could be any better than that!</sub>
+
+<sub>And now while the weekend is over, I'm slowly prepping my brain for the regular hassle for an another week now! I really pray, this coming week be the one I have prayed for last some days!</sub>
+
+<sub>I'm really praying hard for things to happen now!</sub>
+
+<sub>Thank you God for everything! :)</sub>
+
+---
+
 ## *June 26, 2020*
 
 <sub>***[23:15] finally, a nice day...***</sub>
