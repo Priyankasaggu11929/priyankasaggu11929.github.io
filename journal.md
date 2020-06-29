@@ -32,6 +32,10 @@ heading: ""
 
 <sub>Good night! o/</sub>
 
+<sub>*[1:52] PS: Finished the blogpost!*</sub>
+
+
+
 ---
 
 ## *June 28, 2020 & June 27, 2020*
