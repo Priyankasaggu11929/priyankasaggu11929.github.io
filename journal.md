@@ -12,7 +12,7 @@ heading: ""
 
 ---
 
-## *June 27, 2020 & June 27, 2020*
+## *June 28, 2020 & June 27, 2020*
 
 <sub>***[21:02] the perfect weekend...***</sub>
 
@@ -106,7 +106,7 @@ heading: ""
 
 ---
 
-## *June 22, 2020 & June 23, 2020*
+## *June 23, 2020 & June 22, 2020*
 
 <sub>***[21:37] Worked a loooooot...***</sub>
 
