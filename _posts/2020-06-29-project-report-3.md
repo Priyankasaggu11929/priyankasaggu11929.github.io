@@ -179,7 +179,7 @@ And then later, provides an *Ansible* playbook for provisiong a *Vagrant* virtua
 
 - **STEP 4:** Write ansible playbook(s) to provision the above created Ubuntu Vagrant box with all the checkpoints (memtioned above in the problem description section).
 
-(NOTE: *There are multiple playbooks as a solution here, and all of them are too large to be put here. So, [here](https://github.com/Priyankasaggu11929/zerodha-task/blob/master/playbooks/main.yml) is a github link to all ansible playbooks for the same!*)
+(***NOTE:*** *There are multiple playbooks as a solution here, and all of them are too large to be put here. So, [here](https://github.com/Priyankasaggu11929/zerodha-task/blob/master/playbooks/main.yml) is a github link to all ansible playbooks for the same!*)
 
 ### Commands to run the ansible playbook
 
