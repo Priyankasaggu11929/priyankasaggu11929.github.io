@@ -38,7 +38,7 @@ heading: ""
 
 ## *June 30, 2020*
 
-<sub>***[LATE JOURNAL- I'm writing the next day ie. July 1, 2020] It was a really good day...***</sub>
+<sub>***[LATE JOURNAL- I'm writing on the next day ie. July 1, 2020] It was a really good day...***</sub>
 
 <sub>Yesterday, was a very productive day. I worked a lot. I read a lot, learnt even more & applied as well during the office hours.</sub>
 
