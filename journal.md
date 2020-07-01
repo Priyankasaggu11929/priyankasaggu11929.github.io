@@ -69,17 +69,17 @@ heading: ""
 
 <sub>***[23:33] A good day...***</sub>
 
-<sub>A very nice start of the day. I read some good articles, one amongst is this, [The fastest way to learn](https://www.swyx.io/writing/learn-in-public/). Although, I'm already aware of most of thing things & even trying as well, to practice most of them in my routine, but still it was nice to know them once again!</sub>
+<sub>A very nice start of the day. I read some good articles, one amongst is, [The fastest way to learn](https://www.swyx.io/writing/learn-in-public/). Although, I'm already aware of most of things mentioned inside the post & even trying my best to add most of them in my routine as well, still it was a really nice read!</sub>
 
 <sub>And I continued my learning!</sub> 
 
-<sub>Today, I spent a lot of time understanding kubernetes in a way, that I can explain it to others as well, in the most simple yet right words. It was a missing thing before (that I realised *this one fine day* last week).I mean it's been some months now, that I've been using kubernetes, almost on a daily basis, but still I lacked the basic fundamental understanding only. Now, I think I made some really good progress. It will help me in the coming days hopefully!</sub>
+<sub>Today, I spent a lot of time understanding kubernetes, in a better way. The intent behind was that I could explain kubernetes to others as well, in the most simplest possible way. It was a missing thing before (and I realised it on  *this one fine day* last week). I mean it's been some months now, since, I've been using kubernetes, almost on a daily basis, but still I lacked the basic fundamental understanding only. But now, I think I made some really good progress. It will help me in the coming days hopefully!</sub>
 
-<sub>Apart from kubernetes, I learnt more about linux-sysadmin part, a little about editor configs, some more cloud computing stuffs on & off.</sub>
+<sub>Apart from kubernetes, I learnt more about linux-sysadmin part, a little about vim editor configs, some more cloud computing stuffs, on & off.</sub>
 
-<sub>Finally, there was work during office hours. I've compiled a good long list of tasks that I can nicely cover over this week! There was aa little progress today!</sub>
+<sub>Finally, there was work during office hours. I've compiled a good long list of tasks that I can nicely cover over this week. So, There was a little progress today from office as well!</sub>
 
-<sub>And now, I want to sleep, as my head is aching badly because of what reasons, I don't know!</sub>
+<sub>And now, I want to sleep, as my head is aching badly because of some funny p reasons, I don't know!</sub>
 
 <sub>But there's one more thing left for the day. Let's see if I can quickly finish it somehow. Ok, rushing to writing the pending blogpost!</sub>
 
