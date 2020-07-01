@@ -9,6 +9,7 @@ heading: ""
 ***This is my personal journal where I wish (and want) to lay down something everyday!***
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
+
 ---
 
 ## *July 01, 2020*
