@@ -9,6 +9,59 @@ heading: ""
 ***This is my personal journal where I wish (and want) to lay down something everyday!***
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
+---
+
+## *July 01, 2020*
+
+<sub>***[23:47] It was hard!***</sub>
+
+<sub>Today, I'm absolutely not feeling like writing anything here. But that would simply be breaking the real motivation behind this personal space.</sub>
+
+<sub>Ok, so today, it turned out to be a real bad day for me, and also my second realisation in the row, that nothing in this life works like how I expect them or how I want them to happen. There are always good, bad or shocking surprises in the way, and that's the only time where prior hard-work, the preparations, the margin helps.</sub>
+
+<sub>And that's exactly where I lacked today, both in the my prior work & my confidence & my preparations!</sub>
+
+<sub>I won't lie saying that I'm not sad. I *am* really very sad right now, but I also know that this is of no use to me in anyways!</sub>
+
+<sub>So, compiling the good things from today!</sub>
+
+<sub>I worked really hard during the office hours. The trial PoC around Rancher On-Prem platform & K3s cluster setup went absolutely nice way. And now, I've picked up the further steps around replicating this PoC for a Production-grade HA setup.</sub>
+
+<sub>Also, I took my next steps towards the kubernetes community contribution. I've managed to finally gather some more *good first issues* in the process of the org membership sponsership. That means I had some more progress today! :)</sub>
+
+<sub>My only advice to myself after today is, *I certainly need to work more harder. But I also need to first calm down a bit. And make sure that I'm not awefully stressed or burnt out!*</sub>
+
+<sub>Good night!</sub>
+
+---
+
+## *June 30, 2020*
+
+<sub>***[LATE JOURNAL- I'm writing the next day ie. July 1, 2020] It was a really good day...***</sub>
+
+<sub>Yesterday, was a very productive day. I worked a lot. I read a lot, learnt even more & applied as well during the office hours.</sub>
+
+<sub>But, here is the worst thing about late journals!</sub> 
+
+<sub>I just recall this much that I read a lot of good articles/posts or something. But there is no memory for what exactly it was. And now I really can't do anything, because (foolish me) even after knowing about feed readers, I just don't maintain one. Maybe now, I shall do it! </sub>
+
+<sub>Although, there is something good, I still remember from yesterday!</sub>
+
+<sub>It was *Ramit Sethi's* birthday, and he sent this very beautiful newsletter telling about the same. So, I want to quote some part of it here, where he leaves an advice for all of us!</sub>
+
+><sub>So this year, my advice is: LIVE TO FIGHT ANOTHER DAY.</sub>
+>
+><sub>If you’re in any kind of journey — a business journey, financial journey, fitness journey, even relationship journey — do whatever it takes to make sure you’re here to push forward tomorrow.</sub>
+>
+><sub>To me, this changes the way I approach things. It means I invest in relationships. I don’t cut corners. I can push hard...and I can also take breaks, knowing I have a long time to get there. And I’m conservative, knowing that I want to create backups so I never get my back against the wall.</sub>
+
+<sub>By the way, I worked alot yesterday, so that's why it felt good & very productive to me. Emotionally, the last two days were very rough for me!</sub>
+
+<sub>Yesterday, was the first realisation again that I've to keep learning. It's not gonna be an easy walk every single time. Expectations changes with time & work & words, so do the hard work required behind it!</sub>
+
+<sub>And so, I tried to cheer myself this way:</sub>
+
+![an-advice-to-myself](/assets/d.jpeg)
 
 ---
 
