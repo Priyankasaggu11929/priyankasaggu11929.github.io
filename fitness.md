@@ -39,7 +39,7 @@ Okay, let's start:
 
 <sub>Ok, I knew it that it will go up (so, I'm happy, I had my early updates put down here yesterday!:D).</sub>
 
-<sub>And yea, that's all about it. I'm putting the current ones, first to keep the saturday updates streak, and secondly & most importantly, to be honest with my progress!</sub>
+<sub>And yea, that's all about it. I'm putting the current ones, first to keep my saturday updates streak going, and secondly & most importantly, to be honest with my progress journey!</sub>
 
 ---
 
