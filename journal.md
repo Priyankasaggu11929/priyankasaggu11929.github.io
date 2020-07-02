@@ -43,6 +43,12 @@ heading: ""
 
 <sub>Good night!</sub>
 
+<sub>PS: It's thurday & *James Clear* today's question is ***Am I being good to myself?***</sub>
+
+<sub>And my answer is:</sub>
+
+<sub>*No, I'm not being good to myself atleast for last some weeks. I'm just not being nice to myself, the worst is, not even meditating when I need it the most. But now, I'll do it. It **is** the biggest priority!*</sub>
+
 ---
 
 ## *July 01, 2020*
