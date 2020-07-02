@@ -12,6 +12,39 @@ heading: ""
 
 ---
 
+## *July 02, 2020*
+
+<sub>***[01:56] Productive & peaceful one...***</sub>
+
+<sub>Finally today, I've had *all* my focus on the work. So, I really made some nice progress as well!</sub>
+
+<sub>I started reading the book *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win* by *Maria Konnikova* (after *[jasonbraganza's](https://mjbraganza.com/) recommedation*). So, far I've just touched the third chapter. This is the first time I can make some sense out of a book, without re-reading the pages a hundred times. I'm already learning a lot through it!</sub>
+
+<sub>I started listening to [this podcast](https://tim.blog/2020/06/26/hugh-jackman/) during the office hours, so, I know I have to listen to it once again, because I can't do multi-tasking. My brain just doesn't work this way. But one thing hit me hard here, which *jasonbraganza* quoted here in one of his [latest toot](https://toots.dgplug.org/web/statuses/104442859880017003).</sub>
+
+><sub>Everyone takes a shower every day, and we don’t complain about it.</sub>
+>
+><sub>We do it out of discipline.</sub>
+><sub>There will always be an excuse not to meditate.</sub>
+>
+><sub>— Hugh Jackman</sub>
+
+<sub>Now, why it hit me hard?</sub> 
+
+<sub>Because I'm exactly doing the same thing. I'm missing [my meditations](https://priyankasaggu11929.github.io/meditation.html) quite many times from last couple of weeks. And there's no good reason behind it (but my own excuses to procastinate).</sub>
+
+<sub>But I really don't want to break atleast my these some good habits, so I WILL MEDITATE!</sub>
+
+<sub>Now, I will go and watch this *Byron Woodfork's* talk, [THE TRUTH ABOUT MENTORING MINORITIES](https://www.thestrangeloop.com/2017/the-truth-about-mentoring-minorities.html). Folks from #conservancy (on freenode) suggested this while today's discussion about *Mentoring Miniorities*.</sub>
+
+<sub>*(I'm linking it here beforehand, so I can come back here & pass it to others as well!)*</sub>
+
+<sub>Ok, that's pretty much all from today. I'm continuously working for the better time!</sub>
+
+<sub>Good night!</sub>
+
+---
+
 ## *July 01, 2020*
 
 <sub>***[23:47] It was hard!***</sub>
