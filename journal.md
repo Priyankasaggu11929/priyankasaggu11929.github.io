@@ -25,7 +25,7 @@ heading: ""
 - <sub>Application load-balancers</sub>
 - <sub>Internet Gateways (IGW)</sub>
 - <sub>Connect IGW to VPC & finally, add them to Route-tables</sub>
-- <sub>Spin up EC2 instances through EC2 & add a loadbalancer in front of it.</sub>
+- <sub>Spin up EC2 instances through ASG & add a loadbalancer in front of it.</sub>
 - <sub>Distribute incoming traffic to load-balancer on different target group via setting `path` based rules.</sub>
 
 <sub>So, yes, certainly there was a lot of learning today about AWS Cloud Platform. Although I'm still not able to achieve the intended results, so, I'm working on saturday this time!</sub>
