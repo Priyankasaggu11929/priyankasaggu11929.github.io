@@ -9,9 +9,11 @@ comments: false
 
 July 04, 2020
 
-Yesterday, I started reading this book ***The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win,*** by *Maria Konnikova*. Currently, I'm four chapter down the row. And I think it will take me *some time* to finish it!
+Yesterday, I started reading this book, **The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win,** by *Maria Konnikova*. So far, I've finished four chapters from the book. And I think it will take me *some time* to finish it!
 
-But below are some really helpful excerpts fromt the chapters (I've so far), that I want to put here for myself (and for others too). Those are my learnings from the last two days!
+---
+
+But below are some excerpts from the chapters (I've read so far), that I want to put here for myself (and for others too). Those are my learnings from the last two days!
 
 ***I***
 
