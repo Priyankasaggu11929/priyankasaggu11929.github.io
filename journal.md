@@ -42,7 +42,11 @@ heading: ""
 
 <sub>So, in the morning, I continued reading the book **The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win**, by *Maria Konnikova*. I'm four chapter down now. And I think it will take me *some time* to finish it!</sub>
 
-<sub>~Below are some excerpts I want to put here for myself. Those are my learnings from today!~ Actually there were lots of them, so, I posted them as a separate post [here]().</sub>
+<sub>~Below are some excerpts I want to put here for myself. Those are my learnings from today!~ Actually there were lots of them, so, I posted them as a separate post [here](https://priyankasaggu11929.github.io/writing/2020/07/04/book-notes.html).</sub>
+
+<sub>And finally, there is a big confusion in my head (apart from thousand others). From the last 2 weeks, I meditate but I do it just before I'm about to sleep. So, basically, the meditation only makes me asleep.</sub> 
+
+<sub>Does that count as a meditation?</sub>
 
 ---
 
