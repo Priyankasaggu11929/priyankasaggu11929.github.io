@@ -16,9 +16,11 @@ heading: ""
 
 <sub>***[23:17] A long working day...***</sub>
 
-<sub>So, another week ends today, and on a good productive note.</sub>
+<sub>Another week ends today, and it is ending on a good productive note!</sub>
 
-<sub>Today, I learnt how to create the following resources in AWS Cloud Platform.</sub>
+<sub>Today was quite a long working day, and I learnt a hell lot of new things too.</sub>
+
+<sub>I manage to learn how to create the following resources in AWS Cloud Platform.</sub>
 - <sub>Launch Configuration (with both custom AMIs & regular AMI options)</sub>
 - <sub>Target Groups</sub>
 - <sub>Auto-scaling Groups (ASG)</sub>
@@ -28,13 +30,17 @@ heading: ""
 - <sub>Spin up EC2 instances through ASG & add a loadbalancer in front of it.</sub>
 - <sub>Distribute incoming traffic to load-balancer on different target group via setting `path` based rules.</sub>
 
-<sub>So, yes, certainly there was a lot of learning today about AWS Cloud Platform. Although I'm still not able to achieve the intended results, so, I'm working on saturday this time!</sub>
+<sub>So, yes, certainly there was a lot of learning today about AWS Cloud Platform, but I was still not able to achieve the intended results, so, I'm working on saturday this time!</sub>
 
-<sub>In the evening, I attended *[kushal's](kushaldas.in)* live-coding session around *extending his DNS tool written in Go*. I joined sometime in the middle, so from where I picked up, I got to learn a lot about what different *DNS Records* types are (I knew a little about them, but was not much aware. So, it was certainly a thourough deep learning today!). Besides, I also got a bit understanding around what different columns comes in case of different *DNS Record types*, in the *ANSWER SECTION* of output of `dig` (DNS Lookup Utility) command.</sub>
+<sub>By the way, I'm trying to setup a *High-Availabilty (HA) Rancher* setup.</sub>
 
-<sub>In the morning, I continued reading the book *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win* by *Maria Konnikova*. I'm four chapter down now. I think it will take me some time to finish it!</sub>
+<sub>In the evening, I attended *[kushal's](kushaldas.in)* live-coding session around *extending the DNS tool* written by him in Golang. I joined sometime in the middle, so from where I picked up, I got to learn a lot about what different *DNS Records* types are (I knew a little about them, but was not much aware. So, it was certainly a thourough deep learning today!). Besides, I also got a bit understanding around what different columns are there in case of different *DNS Record types*, in the **ANSWER SECTION** of output of `dig` (DNS Lookup Utility) command.</sub>
 
-<sub>There are some excerpts I want to put here for myself. Those are my learnings from today!</sub>
+<sub>Ok, I missed writing about the morning!</sub>
+
+<sub>In the morning, I continued reading the book *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win,* by *Maria Konnikova*. I'm four chapter down now. And I think it will take me *some time* to finish it!</sub>
+
+<sub>Below are some excerpts I want to put here for myself. Those are my learnings from today!</sub>
 
 ***I***
 
