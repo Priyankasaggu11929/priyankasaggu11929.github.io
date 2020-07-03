@@ -56,4 +56,5 @@ heading: ""
 | Jun 29, 2020 | ✔️           |
 | Jun 30, 2020 | ❌          |
 | July 01, 2020 | ~❌          |
-| Jun 29, 2020 | ✔️   (I meditated, but I've a doubt now. The meditation makes me asleep. So, does that count?)        |
+| Jun 29, 2020 | ✔️          | (I meditated, but I've a doubt now. The meditation makes me asleep. So, does that count?) 
+
