@@ -26,6 +26,23 @@ Okay, let's start:
 
 ---
 
+## *July 04, 2020*
+
+    - cw: 72.9 kgs (2020/07/03)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs ✔️
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>Plateau!</sub>
+
+<sub>For the whole week, it went going up & down (around 73)!</sub>
+
+---
+
 ## *June 27, 2020*
 
     - cw: 73.2 kgs (2020/06/27)
