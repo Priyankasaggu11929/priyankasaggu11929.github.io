@@ -12,6 +12,62 @@ heading: ""
 
 ---
 
+## *July 06, 2020*
+
+<sub>***[00:39] Monday, back to work...***</sub>
+
+<sub>A new working week!</sub>
+
+<sub>Started in time, have this long weekly team progress as first thing in the morning (before that I quickly deployed some rancher servers).</sub>
+
+<sub>Then I had a demo session around Sentry (centralised cluster event management tool) integration with Pagerduty (an on-call, service esclations, alert/notification endpoint).</sub>
+
+<sub>Then, I finished the ASG in EC2 High Availability setup for Rancher. Will enhance it more tomorrow with an external mysql server for state management (right now, a new redundant configuration is created in every newly spinned up instance).</sub>
+
+<sub>The next blocker is to decide, whether it is right to do a workaround for exposing `cluster.yaml` file of a managed EKS cluster to Rancher or not. It's basically exposing the part which is intentionally secured by AWS. So, need a discussion tomorrow around it!</sub>
+
+<sub>Late evening, I ordered a phone for papa. This is actually my first (really) expensive buy for him. I am happy & little emotional. :)</sub>
+
+<sub>And last thing for the day, was this amazing information sharing session with *Nuritzi Sanchez*. She is an incredibly kind, really humble, absolutely amazing woman who so nicely gave me, a huge helpful & most insightful set of advices.</sub>
+
+<sub>I've wrapped up the work now. Happy that I've written the pending journals too. It's something that I want to keep at!</sub>
+
+<sub>Calling it off for the day, Good night! o/</sub>
+
+---
+
+## *July 05, 2020*
+
+<sub>***[Late post] Sunday...***</sub>
+
+<sub>I don't remember much (because I didn't do anything interesting).</sub>
+
+<sub>I slept for a good long time, that was good. :D</sub>
+
+<sub>I ate a little more than usual. Not anything junk or something that I can't eat, but consumed more calories basically (some 1400), and that made me a little irritated/frustrated. :')</sub>
+
+<sub>That was the sunday mostly. I really don't remember more now!</sub>
+
+---
+
+## *July 04, 2020*
+
+<sub>***[Late post] A nice saturday, it was...***</sub>
+
+<sub>The plan was to work on office tasks, but the saturdays just doesn't feel like a working day to me. More because Papa comes back home from work during the weekend, and so everyone sits together and talk or eat. So, I also feel like sitting with them, rather than working. And that's what I *actually* did as soon as I was up!</sub>
+
+<sub>Then I slept again for a good time during the day. :)</sub>
+
+<sub>And I talked to a friend. I absolutely love spending my time talking to people, whenever I get a chance!</sub>
+
+<sub>Later afternoon, I received the *MoneyLife - PathBreakers* Combo set. So, I spent time reading two of the interviews from Part 1 (first with Mukesh Ambani & second one with Rahul Bajaj).</sub>
+
+<sub>Other times, I watched korean/japanese food videos. Now, the idea is to watch videos of non-vegetarian food stuffs. I'm a vegetarian, so I don't crave for anything of it, it doesn't make a wee-bit difference to my taste buds, but I still love watching all of it! XD</sub>
+
+<sub>Yup, so that was mostly how I spent the saturday! :)</sub>
+
+---
+
 ## *July 03, 2020*
 
 <sub>***[23:17] A long working day...***</sub>
