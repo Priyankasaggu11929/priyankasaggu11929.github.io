@@ -12,6 +12,30 @@ heading: ""
 
 ---
 
+## *July 07, 2020*
+
+<sub>***[23:20] Another working day...***</sub>
+
+<sub>Morning, I started with lots of learning around AWS networking concepts. I'm happy that I spent good time around that. Also, that's something a part of the current tasks at work.</sub>
+
+<sub>After learning the above for quite a good while, I started with work!</sub>
+
+<sub>And very soon I realised, that yesterday's managed kubernetes issue I had while importing clusters inside Rancher, was a simple IP whitelisting issue in the security group. I felt funny for once because it was a very simple thing, but I'm happy I learnt a couple more approaches too. Those were not right, but still very insightful!</sub>
+
+<sub>Later in the evening, I had some conversation with a panel of some really nice folks. I learnt more about SRE and Ops concepts there. It was absolutely nice talking to all of them!</sub>
+
+<sub>I loved the discussion I had with *Aditya Konarde*. I was even more happier talking to him in Hindi, during a technical conversation. And cherry on the cake, was that we had a good bunch of people in the mutual network, that made the conversation even more pleasent!</sub>
+
+<sub>So, overall, today was a nice peaceful, exciting day!</sub>
+
+<sub>I'm really grateful to God for blessing me with some really generous people in the life!</sub>
+
+<sub>Calling it off for the day now. Good night!</sub>
+
+<sub>PS: The meditation part is totally ruined. I'm not happy, it's just the laziness. I need to do something about it now (hell, basically I've to do it!).</sub>
+
+---
+
 ## *July 06, 2020*
 
 <sub>***[00:39] Monday, back to work...***</sub>
@@ -34,6 +58,7 @@ heading: ""
 
 <sub>Calling it off for the day, Good night! o/</sub>
 
+<sub>PS: I learnt about ACM (Amazon certificate manager), although I imported my own set of certificates. XD</sub>
 ---
 
 ## *July 05, 2020*
