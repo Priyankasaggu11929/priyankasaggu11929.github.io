@@ -20,7 +20,7 @@ heading: ""
 
 <sub>I'm really happy for my brain is back to the work mode. I can nicely focus on my work now. :D</sub>
 
-<sub>Today, I'm almost done with my Rancher HA setup. The only thing left is to check the firewall (security groups) that is restricting the load balancer DNS to hit the target groups. So, yea, some minor changes left, and it will be done. Apart from that, I picked up some more adhoc tasks, and those are finished!</sub>
+<sub>Today, I'm almost done with my Rancher HA setup. The only thing left is to check the firewall (security groups) that is restricting the load balancer DNS to hit the target groups. So, yea, some minor changes left, and it will be done. Apart from that, I picked up some more adhoc tasks around Product setup, and those are finished!</sub>
 
 <sub>Evening, I had another nice conversation with *Jaime Melis*. It was thoroughly insightful, I learnt couple more new things in nice detail. :)</sub>
 
