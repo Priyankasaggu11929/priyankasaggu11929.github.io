@@ -14,6 +14,34 @@ heading: ""
 
 ## *July 07, 2020*
 
+<sub>***[23:10] A happy, productive day...***</sub>
+
+<sub>A long working day!</sub>
+
+<sub>I'm really happy for my brain is back to the work mode. I can nicely focus on my work now. :D</sub>
+
+<sub>Today, I'm almost done with my Rancher HA setup. The only thing left is to check the firewall (security groups) that is restricting the load balancer DNS to hit the target groups. So, yea, some minor changes left, and it will be done. Apart from that, I picked up some more adhoc tasks, and those are finished!</sub>
+
+<sub>Evening, I had another nice conversation with *Jaime Melis*. It was thoroughly insightful, I learnt couple more new things in nice detail. :)</sub>
+
+<sub>That's all about the day. Work and meeting, and more work, and more tinkering, and some tangible results too.</sub>
+
+<sub>A happy peaceful day in the end!</sub>
+
+<sub>Wrapped up the work now. Also, surprisingly, someone asked me for a resume review today. Hahahahaha, it's my time now, to pull all my learnings (from my own resume reviews) to the front, and help back to my level best. :)</sub>
+
+<sub>Ok, that's all for the day.</sub>
+
+<sub>Some of my friends are struggling really hard on the job search and things. It's turning really bad for everyone now.</sub>
+
+<sub>I'm praying for this situation to get better. Honestly, now God only can do some magic!</sub>
+
+<sub>Ok, finally done now. Good night!</sub>
+
+---
+
+## *July 07, 2020*
+
 <sub>***[23:20] Another working day...***</sub>
 
 <sub>Morning, I started with lots of learning around AWS networking concepts. I'm happy that I spent good time around that. Also, that's something a part of the current tasks at work.</sub>
