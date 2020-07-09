@@ -9,10 +9,55 @@ heading: ""
 ***This is my personal journal where I wish (and want) to lay down something everyday!***
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
+---
+
+## *July 09, 2020*
+
+<sub>***[23:12] Early start, today!***</sub>
+
+<sub>I woke up around 6:20ish in the morning, went to terrace, sat there enjoying old hindi songs & sipping the warm water. And then I literally meditated for some 20-25 minutes in the morning after so long, today. I was super calm, super peaceful, and super energetic for a fresh start.</sub>
+
+<sub>After some 2 hours, I came back, cooked breakfast for mom & bhai and then for me too. Then I watched cartoons for about an hour, and then did some more chopping and finally, I even slept for an hour again. XD</sub>
+
+<sub>Did office work all throughout the day, struggling with the funny ingress & loadbalancers. Just a little success, although me & a colleague worked really hard & for long hours on this. Which actually remind of this quote from today's *James Clear's* newsletter.</sub>
+
+><sub>"Time spent working hard is often better spent identifying where the bottleneck is located.
+>
+><sub>Working hard on the wrong thing leads to frustration, not progress."</sub>
+
+<sub>So, ok, we spent time doing both, but I'll keep this in my head next time!</sub>
+
+<sub>The entire day was spent really nicely, but right after I wrapped up the office work, I had this strage anxious feeling of sadness & stress. So, I literally meditated three times today. XD</sub>
+
+<sub>It worked actually. I'm feeling much much right now. :)</sub>
+
+<sub>*James Clear's* newsletter as he says in his words, *certainly* deliver the most wisdom per word!</sub>
+
+><sub>"3 things that help habits stick:</sub>
+>
+><sub>1) Repetition. Habits form based on frequency, not time.</sub>
+>
+><sub>2) Stable context. If the context is always changing, so is the behavior. You need a reliable environment.</sub>
+>
+><sub>3) Positive emotions. If it feels good, you’ll want to repeat it."</sub>
+
+<sub>and this another beautiful quote<sub>
+
+><sub>"When you lose track of time, you are either living your best life or wasting it."</sub>
+
+<sub>And finally the question, **What am I avoiding just because the desired outcome would take longer than I'd like?**</sub>
+
+<sub>*I'm sure there are a lot of things that I'm avoiding. Just that at this very moment, I'm not sure what exactly they are! But yes, there are lots!*</sub>
+
+<sub>Ok, calling it off for the day now.</sub>
+
+<sub>But before, I leave, I know *the impatience/sudden urge or sudden desire to know things right at the moment and then stress about it no end*, is the biggest issue most of the times, in my life. I'm writing about it now because I just read *[jasonbraganza's](mjbraganza.com)* toot [here](https://toots.dgplug.org/web/statuses/104484491014993493) and this is what I should do at these times!</sub>
+
+<sub>That's all for the day. Good night!</sub>
 
 ---
 
-## *July 07, 2020*
+## *July 08, 2020*
 
 <sub>***[23:10] A happy, productive day...***</sub>
 
