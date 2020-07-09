@@ -55,6 +55,8 @@ heading: ""
 
 <sub>That's all for the day. Good night!</sub>
 
+<sub>PS: After 3 weeks of plateau, today I weigh the lowest, i.e. 72.6 kgs. :D</sub>
+
 ---
 
 ## *July 08, 2020*
