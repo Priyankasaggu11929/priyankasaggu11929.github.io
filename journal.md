@@ -18,7 +18,7 @@ heading: ""
 
 <sub>I woke up around 6:20ish in the morning, went to terrace, sat there enjoying some old hindi songs & sipping warm water. And then after so many days (or weeks), I finally meditated for some 20-25 minutes in the morning. I was super calm, super peaceful, and super energetic for a fresh start.</sub>
 
-<sub>After some 2 hours, I came back, cooked breakfast for mom & bhai and then for me too. Then I watched cartoons for about an hour, and then did some more chopping and finally, I even slept for an hour again. XD</sub>
+<sub>After some 2 hours, I came back, cooked breakfast for mom & bhai and then mine. Then I watched cartoons for about an hour, and then did some more chopping and finally, I even slept for an hour again. XD</sub>
 
 <sub>Did office work all throughout the day, struggling with the funny ingress & loadbalancers. Just a little success, although me & a colleague worked really hard & for long hours on this. Which actually remind of this quote from today's *James Clear's* newsletter.</sub>
 
