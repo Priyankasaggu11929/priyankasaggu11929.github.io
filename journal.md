@@ -20,7 +20,7 @@ heading: ""
 
 <sub>After some 2 hours, I came back, cooked breakfast for mom & bhai and then mine. Then I watched cartoons for about an hour, and then did some more chopping and finally, I even slept for an hour again. XD</sub>
 
-<sub>Did office work all throughout the day, struggling with the funny ingress & loadbalancers. Just a little success, although me & a colleague worked really hard & for long hours on this. Which actually remind of this quote from today's *James Clear's* newsletter.</sub>
+<sub>Today, there was office work all throughout the day, me struggling with the funny ingress & loadbalancers. Just a little success, although me & a colleague worked really hard & for long hours on this. Which actually remind of this quote from today's *James Clear's* newsletter.</sub>
 
 ><sub>"Time spent working hard is often better spent identifying where the bottleneck is located.
 >
