@@ -52,7 +52,7 @@ heading: ""
 
 <sub>Ok, calling it off for the day now.</sub>
 
-<sub>But before, I leave, I know *the impatience/sudden urge or sudden desire to know things right at the moment and then stress about it no end*, is the biggest issue most of the times, in my life. I'm writing about it now because I just read *[jasonbraganza's](mjbraganza.com)* toot [here](https://toots.dgplug.org/web/statuses/104484491014993493) and this is what I should do at these times!</sub>
+<sub>But before, I leave, I know "the impatience/sudden urge or sudden desire to know things right at the moment and then stress about it no end", *is* the biggest issue most of the times, in my life. I'm writing about it now because I just read this one toot by *[jasonbraganza's](mjbraganza.com)* [here](https://toots.dgplug.org/web/statuses/104484491014993493) and this is what I should do at these times!</sub>
 
 <sub>That's all for the day. Good night!</sub>
 
