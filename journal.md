@@ -12,6 +12,74 @@ heading: ""
 
 ---
 
+## *July 10, 2020 - July 15, 2020*
+
+<sub>***[11:36] Pending Logs!***</sub>
+
+<sub>I'm guilty. I didn't write here for like 5 days now, which is just procastination (exactly every single time)!</sub>
+
+<sub>But I had this massive emotional rollar coaster for this time. I was super happy at one time, and other times, I cried as well!</sub>
+
+<sub>***[July 10, 2020] Friday***</sub>
+
+<sub>For the whole day, I waited for the parcel (papa's phone) to come & it got delayed!</sub>
+
+<sub>I worked through the office hours, and in the night read some 40% of this book **Finish What You Start** by *Peter Hollins*. Everything written is totally worth!</sub>
+
+<sub>Late evening, I attended the kickstart meeting for *kubernetes SIG-Node Mentoship program*! </sub>
+
+<sub>***[July 11, 2020] Saturday***</sub>
+
+<sub>Weekend day 1! 
+
+<sub>I cooked breakfast for everyone. Daddy loved it, and mommy too. And I think I cooked lunch as well. Over time, I have realised, cooking is a real stress reliever! :D</sub>
+
+<sub>Finally, late afternoon, the phone arrived. Daddy was happy, really happy. And me? I was the happiest! :)</sub>
+
+<sub>The rest of the day, we spent sitting around the phone (I mean setting it up, transferring data and stuff XD). I just watched actually, bhai did all that.</sub>
+
+<sub>So, yes, this day will always be one of the most memorable days of my life. I gifted my father something really expensive, all out of my own. I can see, he is proud. Not because, I gifted him something, but more because I care for the family. And I really do! :)</sub>
+
+<sub>***[July 12, 2020] Sunday***</sub>
+
+<sub>More cooking. I absolutely love it!</sub>
+
+<sub>Ah, sunday I think I mostly spent sleeping. And later in the evening, sister came back home, so I cooked some food for her. :)</sub>
+
+<sub>Hahahaha, yes, the weekends for me, are full of cooking only!</sub>
+
+<sub>***[July 13, 2020] Monday***</sub>
+
+<sub>There were guests at home. So, helped mommy with preparing lunch for them!</sub>
+
+<sub>And there was office too, so worked there too!</sub>
+
+<sub>I was really anxious for many things. So, meditated as well. Overall, it was another normal regular working for me, with the extra of guests. The good part is, now that I have lost weight, I go and meet people, sit with them & talk as well. Earlier, it was me *literally* hiding for the whole time, whenever somebody came to home, with the fear that someone will poke me for my fat/obese body & endlessly advise me to diet, exercise & what not!</sub>
+
+<sub>I'm not sure it was sunday or monday, but on one among the two days, I read another chapter of **The Biggest Bluff** by *Maria Konnikova*. And other day, I read two more interviews with *Dr. Vijay Bhatkar (world renowned for the Indian super computer, Param)* and *Sanjeev Bikhchandani (founder of Naukri.com, 99acers.com & jeevansathi.com)* from **Moneylife - Pathbreakers**, Part 1. I was highly inspired because both of them were real example of starting from the ground to reaching the heights! </sub>
+
+<sub>***[July 14, 2020] Tuesday***</sub>
+
+<sub>Another working day!</sub>
+
+<sub>I worked all throughout the day. Just working, solving some pending issues. And I had good progress around them. So, until late night, everything was perfect for a working day, until I received some feedbacks.</sub>
+
+<sub>I'm just ok with everything right now, because the goals are different. Right I just want to learn & explore as much as I can!</sub>
+
+<sub>***[July 15, 2020] Wednesday***</sub>
+
+<sub>I'm really very happy. Although, I cried in the morning. Ok, today it was tension & stress, not the happy emotional me. XD</sub>
+
+<sub>So, the reason for happiness?</sub>
+
+<sub>I finished writing my logs here, in my morning pages, on my fitness page, on the meditation page, basically everywhere. It genuinely bothers me when I miss because, I'm trying to log these for my-own-self, to make sure I have my own record of good & bad times, and to make myself aware that not every time is same!</sub>
+
+<sub>Now, the goal is to reduce the size of the logs (which was the actual plan, i.e. writing small logs), so that, it doesn't look like a work to me!</sub>
+
+<sub>Ok, now I'm off to work!</sub>
+
+---
+
 ## *July 09, 2020*
 
 <sub>***[23:12] Early start, today!***</sub>

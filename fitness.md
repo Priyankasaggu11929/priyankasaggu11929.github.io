@@ -26,9 +26,26 @@ Okay, let's start:
 
 ---
 
+## *July 11, 2020*
+
+    - cw: 72.1 kgs (2020/07/11)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs ✔️
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>There is progress!</sub>
+
+<sub>And I need to be really patient here!</sub>
+
+---
+
 ## *July 04, 2020*
 
-    - cw: 72.9 kgs (2020/07/03)
+    - cw: 72.9 kgs (2020/07/04)
 
     - gw1: 81 kgs ✔️
     - gw2: 78 kgs ✔️
