@@ -10,6 +10,7 @@ heading: ""
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
 
+---
 
 ## *July 18, 2020 - July 19, 2020*
 
@@ -30,6 +31,8 @@ heading: ""
 <sub>And finally, from now onwards, I will keep this daily journal to one or 2 lines only or maybe as short as possible, and better start writing regularly on the main blog now!</sub>
 
 <sub>Good night!</sub>
+
+---
 
 ## *July 16, 2020 - July 17, 2020*
 
