@@ -26,6 +26,25 @@ Okay, let's start:
 
 ---
 
+## *July 18, 2020*
+
+    - cw: 71.5 kgs (2020/07/18)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs ✔️
+    - gw5: 70 kgs
+    - gw6: 67 kgs
+
+<sub>More progress!</sub>
+
+<sub>The metabolic age is 24 now, so, 2 more years left to knock down. (*ah actually, 1 year & 3 months*).</sub>
+
+<sub>I'm really happy. :)</sub>
+
+---
+
 ## *July 11, 2020*
 
     - cw: 72.1 kgs (2020/07/11)
