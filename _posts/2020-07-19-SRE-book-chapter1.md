@@ -9,15 +9,15 @@ comments: false
 
 July 19, 2020
 
-The [Google's Site Reliability Enginnering](https://landing.google.com/sre/sre-book/toc/index.html) is the one of the books, that have been recommended or talked about by almost all the experienced DevOps, SRE, or cloud | infrastructure engineers, I have had a conversation with so far.
+The [Google's Site Reliability Enginnering](https://landing.google.com/sre/sre-book/toc/index.html) is the one of the books, that have been recommended or talked about by almost all the experienced DevOps, SRE, or cloud/infrastructure engineers, I ever got a chance to have a conversation.
 
-Even in some of my recent interviews, there were discussions around the book. So, I no longer need any more facts to convice myself that this book *is* certainly a must read for anyone who is starting with or is already working in the relavant domains, or even for all other IT, or software engineers. It has teachings for every single of us!
+Even in some of my recent interviews, there were discussions around the book. So, I no longer need any more facts to convice myself that this book *is* certainly a must read not only for the DevOps/SRE/Cloud/Infra engineers, but (because now that I've read some part of it) for the core IT & software engineers too.
 
-Today, I finished the first chapter from the book, which is an introduction to the SRE, the various approach to service management inside & outside Google, and finally a brief yet detailed discussion around tenants of SRE.
+Today, I finished the first chapter from the book, which is an introduction to the SRE, the various approach to service management outside (the traditional Sysadmin approach) & inside Google, and finally a brief yet detailed discussion around tenants of SRE.
 
 It's absolutely a gem of information. Even the *Preface* of the book itself gave me my first set of learnings!
 
-In this post here, I'll be quoting just a few of the things that inspired me the most, or some facts that I learnt, or found interesting!
+In this post here, I'll be quoting just a few of the things that inspired me the most, or some other facts that I learnt, or found quite interesting!
 
 ---
 
