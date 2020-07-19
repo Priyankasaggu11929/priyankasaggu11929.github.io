@@ -18,11 +18,11 @@ heading: ""
 
 <sub>Just like my normal days this time. I didn't even cook this time.</sub>
 
-<sub>The first day because, I kept foolishing thinking for the entire day about nothing productive at all, but all negative. An unneccessary *overthinking* that was!</sub>
+<sub>The first day because, I kept foolishing spent the entire day, thinking absolutely about nothing productive at all, all negative bad stressful thoughts! An unneccessary *overthinking* that was!</sub>
 
 <sub>Although, the day ended with some super solid dose!</sub>
 
-<sub>And sunday, because I was not well!</sub>
+<sub>And sunday, I didn't cook because I was not well!</sub>
 
 <sub>But I finally finished one book entirely, **The Obstacle is the way** by *Ryan Holiday*. I'm super inspired by this book. Also, It never made this much sense to me ever before, as it happened to me today. I'll definitely keep re-reading/listening this later too in the life. The last some lessons that I recall are *Memento Mori* i.e. I'm mortal & I've to die, and the second is *Amor Fati*, which I'm quoting below.</sub>
 
