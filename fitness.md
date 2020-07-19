@@ -43,6 +43,8 @@ Okay, let's start:
 
 <sub>I'm really happy. :)</sub>
 
+<sub>PS: I've updated it the next day actually. So, today's weight is 71.3 kgs. :D</sub>
+
 ---
 
 ## *July 11, 2020*

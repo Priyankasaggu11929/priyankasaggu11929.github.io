@@ -10,6 +10,59 @@ heading: ""
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
 
+
+## *July 18, 2020 - July 19, 2020*
+
+<sub>***[23:27] The weekends!***</sub>
+
+<sub>Just like my normal days this time. I didn't even cook this time.</sub>
+
+<sub>The first day because, I kept foolishing thinking for the entire day about nothing productive at all, but all negative. An unneccessary *overthinking* that was!</sub>
+
+<sub>Although, the day ended with some super solid dose!</sub>
+
+<sub>And sunday, because I was not well!</sub>
+
+<sub>But I finally finished one book entirely, **The Obstacle is the way** by *Ryan Holiday*. I'm super inspired by this book. Also, It never made this much sense to me ever before, as it happened to me today. I'll definitely keep re-reading/listening this later too in the life. The last some lessons that I recall are *Memento Mori* i.e. I'm mortal & I've to die, and the second is *Amor Fati*, which I'm quoting below.</sub>
+
+><sub>t is why amor fati is the Stoic mindset that you take on for making the best out of anything that happens: Treating each and every moment—no matter how challenging—as something to be embraced, not avoided. To not only be okay with it, but love it and be better for it. So that like oxygen to a fire, obstacles and adversity become fuel for your potential.</sub>
+
+<sub>And finally, from now onwards, I will keep this daily journal to one or 2 lines only or maybe as short as possible, and better start writing regularly on the main blog now!</sub>
+
+<sub>Good night!</sub>
+
+## *July 16, 2020 - July 17, 2020*
+
+<sub>***Missed logging!***</sub>
+
+<sub>I've absolutely no idea what actually I did. It was just work, work and work for most part.</sub>
+
+<sub>Thurday, I have no idea what all happened. I'm sure it's because of the unneccessary stress I carry all the time.</sub>
+
+<sub>But the *James Claer* quotes are always the best things for any tueday, so, I'll put them here for me.</sub>
+
+><sub>"It is better to start as a fool and learn from your mistakes than to fake being a genius and ignore your errors."</sub>
+
+<sub>and,</sub>
+
+><sub>"Be forgiving with your past self.</sub>
+>
+><sub>Be strict with your present self.</sub>
+>
+><sub>Be flexible with your future self."</sub>
+
+<sub>and the best one for this time,</sub>
+
+><sub>"Action forces prioritization.</sub>
+>
+><sub>If you're stuck deciding between options, force yourself to act. You can only act on one thing at a time, which means you will have to make something the top priority.</sub>
+>
+><sub>Even if you pick wrong, you'll learn something."</sub>
+
+<sub>Now, summarizing friday.</sub>
+
+<sub>I worked really hard during the office hours, attended the kubernetes second node-reviewers meeting late night. And for the first time, I realised what actually I'm supposed to be doing there through that mentorship program. Happy that I got to have a separate conversation with another fellow member from the mentoship group. Talking to people is the best thing I have learnt over this recent times!</sub>
+
 ---
 
 ## *July 10, 2020 - July 15, 2020*
