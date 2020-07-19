@@ -9,7 +9,7 @@ comments: false
 
 July 19, 2020
 
-The [Google's Site Reliability Enginnering](https://landing.google.com/sre/sre-book/toc/index.html) is the one of the books, that have been recommended or talked about by almost all the experienced DevOps, SRE, or cloud|infrastructure engineers, I have had a conversation with so far.
+The [Google's Site Reliability Enginnering](https://landing.google.com/sre/sre-book/toc/index.html) is the one of the books, that have been recommended or talked about by almost all the experienced DevOps, SRE, or cloud | infrastructure engineers, I have had a conversation with so far.
 
 Even in some of my recent interviews, there were discussions around the book. So, I no longer need any more facts to convice myself that this book *is* certainly a must read for anyone who is starting with or is already working in the relavant domains, or even for all other IT, or software engineers. It has teachings for every single of us!
 
