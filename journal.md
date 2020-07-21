@@ -12,6 +12,14 @@ heading: ""
 
 ---
 
+## *July 20, 2020 - July 21, 2020*
+
+<sub>***[22:21] Finally, the *working days*!***</sub>
+
+<sub>There was all work, work and more work. The day was productive, well managed & I read a lot as well!</sub>
+
+---
+
 ## *July 18, 2020 - July 19, 2020*
 
 <sub>***[23:27] The weekends!***</sub>
