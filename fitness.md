@@ -28,7 +28,7 @@ Okay, let's start:
 
 ## *July 26, 2020*
 
-    - cw: 70.2 kgs (2020/07/18)
+    - cw: 70.2 kgs (2020/07/26)
 
     - gw1: 81 kgs ✔️
     - gw2: 78 kgs ✔️
