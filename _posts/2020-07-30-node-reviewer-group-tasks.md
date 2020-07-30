@@ -213,5 +213,5 @@ Executed 1 out of 1 test: 1 test passes.
  - [3] [Installing Bazel on Ubuntu](https://docs.bazel.build/versions/1.0.0/install-ubuntu.html)
  - [4] [Setup guide for Kubernetes developers](https://developer.ibm.com/articles/setup-guide-for-kubernetes-developers/)
  - [5] [Build and test with Bazel](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-testing/bazel.md)
- - [6] [Tip: User `--test_filter`](https://www.google.com/search?q=bazel+golang+test_filter)
+ - [6] [Tip: Use `--test_filter` while running bazel tests](https://www.google.com/search?q=bazel+golang+test_filter)
  - [7] [Building Go Applications with Bazel](https://www.google.com/search?q=bazel+golang+test_filter)
