@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[node-reviewer-group] Tasks progress!"
+title: "[sig-node-reviewer-group] Tasks progress!"
 description: "A short post around the task progress from kubernetes node-reviewer-group mentorship program tasks!"
 category: Kubernetes-mentorship
 tags: [Kubernetes]

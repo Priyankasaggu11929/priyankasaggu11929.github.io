@@ -12,6 +12,14 @@ heading: ""
 
 ---
 
+## *July 30, 2020*
+
+<sub>***[23:34] JOURNAL ON A HALT NOW*!***</sub>
+
+<sub>It will go on a momentary halt for now. I'm trying to bring the life back to a progressive track!</sub>
+
+---
+
 ## *July 20, 2020 - July 21, 2020*
 
 <sub>***[22:21] Finally, the *working days*!***</sub>
