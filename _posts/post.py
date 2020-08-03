@@ -18,7 +18,9 @@ for root, dirs, files in os.walk(dir_path):
 count+=1
 today = date.today()
 
-title = str(today)+"-Outreachy-Day-"+str(count)+".md"
+inp=input("Enter the title: ")
+
+title = str(today)+"-"+inp+".md"
 
 print(title)
 
@@ -27,25 +29,17 @@ if not path.exists(title):
     date = today.strftime("%B %d, %Y")
     data ="""---
 layout: post
-title: "Outreachy - Week __, Day __!"
-description: "The Progress report of Day __ of work for Outreachy Program."
-category: Outreachy
-tags: [Outreachy, GNOME, GTranslator, Internship, Daily-Progress]
+title: ""
+description: ""
+category: something
+tags: [something]
 comments: false
 ---
+
 """+"\n"+ date + """
 
-**Task for the week:**
-
-- 
-
-**Progress of the day:**
-
--
-
-Till tomorrow. o/
-
 """
+
     fi.write(data)
     fi.close()
 
