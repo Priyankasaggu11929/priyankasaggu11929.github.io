@@ -9,12 +9,21 @@ heading: ""
 ***This is my personal journal where I wish (and want) to lay down something everyday!***
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
+---
+
+## *Aug 03, 2020*
+
+<sub>***[22:09] Nice morning!***</sub>
+
+<sub>The Grandma (or as I call Daadi ma) greeted me *Ram Ram* with folded hands from her terrace, when I was just trying to wake myself up for study at about 7:10 in the morning.</sub>
+
+<sub>I saw her for the first time (I'm really not social I realised), and it was the best thing of my day! :)</sub>
 
 ---
 
 ## *July 30, 2020*
 
-<sub>***[23:34] JOURNAL ON A HALT NOW*!***</sub>
+<sub>***[23:34] JOURNAL ON A HALT NOW!***</sub>
 
 <sub>It will go on a momentary halt for now. I'm trying to bring the life back to a progressive track!</sub>
 
