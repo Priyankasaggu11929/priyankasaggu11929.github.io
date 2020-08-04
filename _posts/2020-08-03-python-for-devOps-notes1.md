@@ -17,7 +17,7 @@ I've started with the book **Python for DevOps** by *Noah Gift, Kennedy Behrman,
 
 ---
 
-**The Chapter 1, *Python Essentials for DevOps* touched the following topics briefly!**
+### The Chapter 1, *Python Essentials for DevOps* touched the following topics briefly!
 
 - [X] Installing and Running Python (Python Shell, IPython)
 - [X] Procedural Programming (Variables, Basic Math, Comments, Built-in Functions, Print & Range)
@@ -177,7 +177,7 @@ map = {'key-1': 'value-1', 'key-2': 'value-2'}
 key-4 not there
 ```
 
-- Just writing a note for myself that get() & del() functions for Python dictionary have different syntax.
+- Just writing a note for myself that `get()` & `del()` functions for Python dictionary have different syntax.
 
 ```python
 # Different syntax
@@ -188,11 +188,14 @@ b.get(1)
 
 del(b[5])
 ```
+---
 
 - There are three types of comprehensions I learnt so far,
     1. List Comprehensions: [x%x for x in range(10)]
     2. Dict Comprehensions: {x:x%x for x in range(10)}
     3. Generator Comprehensions: (x%x for x in range(10))
+
+---
 
 - **Functions are objects.** They can be passed around, or stored in data structures. You can define two functions, put them in a list, and then iterate through the list to invoke them:
 
@@ -242,7 +245,7 @@ del(b[5])
 > # OUTPUT
 > [[0, 'a', 2], [5, 'b', 0], [2, 'c', 1]]
 > ```
-> With the lambda keyword, you can do the same thing without the full function definition. Lambdas work with the lambda keyword followed by a parameter name, a colon, and a return value:
+> With the `lambda` keyword, you can do the same thing without the full function definition. Lambdas work with the lambda keyword followed by a parameter name, a colon, and a return value:
 >
 > `lambda <PARAM>: <RETURN EXPRESSION>`
 >
@@ -287,7 +290,7 @@ Out[4]: <re.Match object; span=(32, 38), match='Rostam'>
 'com'
 ```
 
-- And you can also supply names for the groups by adding ?P<NAME> in the group definition. Then you can access the groups by name instead of number.
+- And you can also supply names for the groups by adding `?P<NAME>` in the group definition. Then you can access the groups by name instead of number.
 
 ```python
 >>> matched = re.search(r'(?P<name>\w+)\@(?P<SLD>\w+)\.(?P<TLD>\w+)', cc_list)
@@ -339,7 +342,7 @@ Out[4]: <re.Match object; span=(32, 38), match='Rostam'>
 
 - [Generators - Lazy Evaluation]
     - To write a generator function, use the yield keyword rather than a return statement.
-    - Every time the generator is called, it returns the value specified by yield and then pauses its state until it is next called.
+    - Every time the generator is called, it returns the value specified by `yield` and then pauses its state until it is next called.
     - Example: a generator that simply counts, returning each subsequent number.
 
 ```python
@@ -363,7 +366,7 @@ Out[4]: <re.Match object; span=(32, 38), match='Rostam'>
 
 ---
 
-- We can see the difference in memory used by using the sys.getsizeof method, which returns the size of an object, in bytes:
+- We can see the difference in memory used by using the `sys.getsizeof` method, which returns the size of an object, in bytes:
 
 ```python
 >>> import sys
@@ -380,7 +383,7 @@ Out[4]: <re.Match object; span=(32, 38), match='Rostam'>
 
 ---
 
-**From the Chapter 2, *Chapter 2. Automating Files and the Filesystem*  I've covered the following topics so far...**
+### **From the Chapter 2, *Automating Files and the Filesystem*  I've covered a little so far...**
 
 - [X] Reading and Writing Files
 
@@ -452,8 +455,3 @@ with open(file_path, newline='') as csv_file:
         for _ in range(5):
            print(next(off_reader))
 ```
-
-
-
-
-
