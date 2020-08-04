@@ -64,7 +64,7 @@ I've started with the book **Python for DevOps** by *Noah Gift, Kennedy Behrman,
 
 ---
 
--  And try & catch! I remember the first & last time I ever used `try-atch` blocks was during writing small sys-admin based problems in [kushal's](kushaldas.in) [lymworkbook](https://github.com/kushaldas/lymworkbook) project. Hopefully, I will write more now onwards!
+-  And try & catch! I remember the first & last time I ever used `try-catch` blocks was during writing small sys-admin based problems in [kushal's](kushaldas.in) [lymworkbook](https://github.com/kushaldas/lymworkbook) project. Hopefully, I will write more now onwards!
 
 - I'm not sure if it is right. But I've seen questions like *what's the difference between python functions & methods?*. To me, both were same, but just a slight difference stuck my attention, so I'm writing it here.
     - Python functions attached to objects and classes are referred to as `methods`.
