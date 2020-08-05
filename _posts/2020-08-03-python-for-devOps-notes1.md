@@ -422,7 +422,7 @@ with open(`service-policy.json`, `r`) as opened_file:
 
 - Then I read about `PyYAML` module which is not included in the Python Standard Library, but you can install it using pip, `pip install PyYAML`.
 
-- And stupid me, I was trying to import the module as `import PyYAML` (didn't even cared to read 2 more lines from the book) for some 15-20 minutes & marked my python setup had some issue. :|
+*(And stupid me, I was trying to import the module as `import PyYAML` (didn't even cared to read 2 more lines from the book) for some 15-20 minutes & marked my python setup had some issue.)*
 
 ```python
 import yaml
