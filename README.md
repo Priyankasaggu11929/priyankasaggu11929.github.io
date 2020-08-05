@@ -1,4 +1,4 @@
-# Jekyll source for blog.lanyonm.org
+# Jekyll source for priyankasaggu11929.github.io
 Read more here: [GitHub User Pages](https://help.github.com/articles/user-organization-and-project-pages).
 
 # License
