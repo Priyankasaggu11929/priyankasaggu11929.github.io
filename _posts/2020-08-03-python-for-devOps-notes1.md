@@ -383,7 +383,7 @@ Out[4]: <re.Match object; span=(32, 38), match='Rostam'>
 
 ---
 
-### **From the Chapter 2, *Automating Files and the Filesystem*  I've covered a little so far...**
+### From the Chapter 2, *Automating Files and the Filesystem*  I've covered a little so far...
 
 - [X] Reading and Writing Files
 
