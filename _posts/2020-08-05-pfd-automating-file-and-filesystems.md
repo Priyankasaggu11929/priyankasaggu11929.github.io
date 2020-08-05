@@ -23,7 +23,7 @@ And I covered the following topics:
 
 ---
 
-I already had noted down couple of points, around reading & writing files in Python, in the last post. So, extending it more here,
+I already had noted down couple of points, around reading & writing files in Python, in my [last post](https://priyankasaggu11929.github.io/learning-python/2020/08/03/python-for-devOps-notes1.html). So, extending it more here...
 
 - Apart from the `csv` module, the `Pandas` package is also a mainstay in data science world when it comes to processing large datasets.
 
