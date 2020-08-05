@@ -27,6 +27,29 @@ Okay, let's start:
 
 ---
 
+## *Aug 05, 2020*
+
+**<sub>Early update!</sub>**
+
+    - cw: 69.8 kgs (2020/08/05)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs ✔️
+    - gw4: 70 kgs ✔️
+    - gw6: 67 kgs
+
+<sub>Hurraahh! 🎉️ 🎊️ 😍️</sub>
+
+<sub>Another goal weight down, which means I'm really close to my final goal weight (for this first run!)</sub>
+
+<sub>And guess what, I'm 23 in my metabolic age, which in a way is my current age (but ok, I'm still 22, so couple more months :D).</sub>
+
+<sub>Keep it up, Priyanka!</sub>
+
+---
+
 ## *Aug 01, 2020*
 
     - cw: 70.7 kgs (2020/08/01)

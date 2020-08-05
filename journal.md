@@ -12,6 +12,18 @@ heading: ""
 
 ---
 
+## *Aug 05, 2020*
+
+<sub>***[12:45] Productive morning!***</sub>
+
+<sub>I'm *studying* nowadays for 3 hours in the morning & that's going well till now.</sub>
+
+<sub>The work is finally on a nice track. No longer bothers me like before!</sub>
+
+<sub>And the best thing, I just knocked down my second last goal weight! I'm 69.8 kgs today! :)</sub>
+
+---
+
 ## *Aug 03, 2020*
 
 <sub>***[22:09] Nice morning!***</sub>
