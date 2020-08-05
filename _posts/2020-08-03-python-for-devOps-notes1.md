@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[Python for DevOps] Essentials for DevOps & Automating Files and the Filesystem!"
-description: "The notes for chapter 1 & chapter 2 from the book, Python for DevOps"
+title: "[Python for DevOps] Essentials for DevOps!"
+description: "The notes for chapter 1 from the book, Python for DevOps."
 category: Learning-Python
 tags: [DevOps, Python, Notes]
 comments: false
