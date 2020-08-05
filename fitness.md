@@ -42,11 +42,11 @@ Okay, let's start:
 
 <sub>Hurraahh! 🎉️ 🎊️ 😍️</sub>
 
-<sub>Another goal weight down, which means I'm really close to my final goal weight (for this first run!)</sub>
+<sub>Another goal weight down, which means I'm really close to my final goal weight now (for this first run!)</sub>
 
 <sub>And guess what, I'm 23 in my metabolic age, which in a way is my current age (but ok, I'm still 22, so couple more months :D).</sub>
 
-<sub>Keep it up, Priyanka!</sub>
+<sub>But yea, keep it up, Priyanka!</sub>
 
 ---
 
