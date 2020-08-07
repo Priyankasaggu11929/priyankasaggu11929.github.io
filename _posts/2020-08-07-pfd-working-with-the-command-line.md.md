@@ -128,7 +128,7 @@ In [4]: cp.stderr
 Out[4]: ''
 ```
 
-(*Here, for the first time I got to know about the `--utc` flag for checking date & time in UTC. All the while, the browser was the option! :')*)
+(*Here, for the first time I got to know about the `--utc` flag for checking date & time in UTC. All the while, the browser was the only option! :')*)
 
 ---
 
