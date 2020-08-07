@@ -45,45 +45,46 @@ Now, the current approach of writing command line tools using just, `sys.argv` a
 >        - If the name begins with a `dash (-- or -)`, it is treated as an optional flag argument; otherwise it is treated as a position-dependent command.     
 >    - The parser creates a parsed-arguments object, with the arguments as attributes that you can then use to access input.
 
-```ipython
-In [11]: %%writefile simple_parse.py 
-    ...: #!/usr/bin/env python 
-    ...: """ 
-    ...: Command-line tool using argparse 
-    ...: """ 
-    ...: import argparse 
-    ...:  
-    ...:  
-    ...: if __name__ == '__main__': 
-    ...:  
-    ...:     # Create the parser object, with its documentation message. 
-    ...:     parser = argparse.ArgumentParser(description='Echo your input')  
-    ...:  
-    ...:     # Add a position-based command with its help message. 
-    ...:     parser.add_argument('message', 
-    ...:                         help='Message to echo') 
-    ...:  
-    ...:     # Add an optional argument. 
-    ...:     # `action=store_true` stores the optional argument as a boolean value. 
-    ...:     parser.add_argument('--twice', '-t', 
-    ...:                         help='Do it twice', 
-    ...:                         action='store_true')      
-    ...:  
-    ...:     # Use the parser to parse the arguments. 
-    ...:     args = parser.parse_args()   
-    ...:  
-    ...:     # Access the argument values by name. The optional argument’s name has the -- removed. 
-    ...:     print(args.message)     
-    ...:     if args.twice: 
-    ...:         print(args.message) 
-    ...:                                                                                                                             
-Overwriting simple_parse.py
+```python
+#!/usr/bin/env python
+"""
+Command-line tool using argparse
+"""
+import argparse
 
-In [12]: !python3 simple_parse.py hello --twice                                                                                      
+
+if __name__ == '__main__':
+
+    # Create the parser object, with its documentation message.
+    parser = argparse.ArgumentParser(description='Echo your input')
+
+    # Add a position-based command with its help message.
+    parser.add_argument('message',
+                        help='Message to echo')
+
+    # Add an optional argument.
+    # `action=store_true` stores the optional argument as a boolean value.
+    parser.add_argument('--twice', '-t',
+                        help='Do it twice',
+                        action='store_true')
+
+    # Use the parser to parse the arguments.
+    args = parser.parse_args()
+
+    # Access the argument values by name. The optional argument’s name has the -- removed.
+    print(args.message)
+    if args.twice:
+        print(args.message)
+```
+
+- And when invoked from command line,
+
+```bash
+$ python3 simple_parse.py hello --twice                                                                                      
 hello
 hello
 
-In [13]: !python3 simple_parse.py --help                                                                                             
+$ python3 simple_parse.py --help                                                                                             
 usage: simple_parse.py [-h] [--twice] message
 
 Echo your input
@@ -102,69 +103,71 @@ optional arguments:
 
 *(Now we're picking up an example python problem `implement a maritime application that has commands for ships and sailors` which will later be used to learn all the other 2 modules as well. So, the comparision will be much easier!)*
 
-```ipython3
-    ...: #!/usr/bin/env python 
-    ...: """ 
-    ...: Command-line tool using argparse 
-    ...: """ 
-    ...: import argparse 
-    ...:  
-    ...: def sail(): 
-    ...:     ship_name = 'Your ship' 
-    ...:     print(f"{ship_name} is setting sail") 
-    ...:  
-    ...: def list_ships(): 
-    ...:     ships = ['John B', 'Yankee Clipper', 'Pequod'] 
-    ...:     print(f"Ships: {','.join(ships)}") 
-    ...:  
-    ...: def greet(greeting, name): 
-    ...:     message = f'{greeting} {name}' 
-    ...:     print(message) 
-    ...:  
-    ...: if __name__ == '__main__': 
-    ...:  
-    ...:     # Create the top-level parser. 
-    ...:     parser = argparse.ArgumentParser(description='Maritime control') 
-    ...:  
-    ...:     # Add a top-level argument that can be used along with any command under this parser’s hierarchy. 
-    ...:     parser.add_argument('--twice', '-t', 
-    ...:                         help='Do it twice', 
-    ...:                         action='store_true') 
-    ...:  
-    ...:     # Create a subparser object to hold the subparsers. The dest is the name of the attribute used to choose a subparser. 
-    ...:     subparsers = parser.add_subparsers(dest='func') 
-    ...:  
-    ...:     # Add a subparser for ships. 
-    ...:     ship_parser =  subparsers.add_parser('ships', 
-    ...:                                          help='Ship related commands') 
-    ...:  
-    ...:     # Add a command to the ships subparser. The choices parameter gives a list of possible choices for the command. 
-    ...:     ship_parser.add_argument('command', 
-    ...:                              choices=['list', 'sail']) 
-    ...:  
-    ...:     # Add a subparser for sailors. 
-    ...:     sailor_parser = subparsers.add_parser('sailors', 
-    ...:                                           help='Talk to a sailor') 
-    ...:  
-    ...:     # Add a required positional argument to the sailors subparser. 
-    ...:     sailor_parser.add_argument('name', 
-    ...:                                help='Sailors name') 
-    ...:     sailor_parser.add_argument('--greeting', '-g', 
-    ...:                                help='Greeting', 
-    ...:                                default='Ahoy there') 
-    ...:  
-    ...:     args = parser.parse_args() 
-    ...:  
-    ...:     #  Check which subparser is used by checking the `func` value. 
-    ...:     if args.func == 'sailors': 
-    ...:         greet(args.greeting, args.name) 
-    ...:     elif args.command == 'list': 
-    ...:         list_ships() 
-    ...:     else: 
-    ...:         sail() 
+```python
+#!/usr/bin/env python
+"""
+Command-line tool using argparse
+"""
+import argparse
 
-Overwriting argparse_example.py
+def sail():
+    ship_name = 'Your ship'
+    print(f"{ship_name} is setting sail")
 
+def list_ships():
+    ships = ['John B', 'Yankee Clipper', 'Pequod']
+    print(f"Ships: {','.join(ships)}")
+
+def greet(greeting, name):
+    message = f'{greeting} {name}'
+    print(message)
+
+if __name__ == '__main__':
+
+    # Create the top-level parser.
+    parser = argparse.ArgumentParser(description='Maritime control')
+
+    # Add a top-level argument that can be used along with any command under this parser’s hierarchy.
+    parser.add_argument('--twice', '-t',
+                        help='Do it twice',
+                        action='store_true')
+
+    # Create a subparser object to hold the subparsers. The dest is the name of the attribute used to choose a subparser.
+    subparsers = parser.add_subparsers(dest='func')
+
+    # Add a subparser for ships.
+    ship_parser =  subparsers.add_parser('ships',
+                                         help='Ship related commands')
+
+    # Add a command to the ships subparser. The choices parameter gives a list of possible choices for the command.
+    ship_parser.add_argument('command',
+                             choices=['list', 'sail'])
+
+    # Add a subparser for sailors.
+    sailor_parser = subparsers.add_parser('sailors',
+                                          help='Talk to a sailor')
+
+    # Add a required positional argument to the sailors subparser.
+    sailor_parser.add_argument('name',
+                               help='Sailors name')
+    sailor_parser.add_argument('--greeting', '-g',
+                               help='Greeting',
+                               default='Ahoy there')
+
+    args = parser.parse_args()
+
+    #  Check which subparser is used by checking the `func` value.
+    if args.func == 'sailors':
+        greet(args.greeting, args.name)
+    elif args.command == 'list':
+        list_ships()
+    else:
+        sail()
+```
+
+- again, when invoked from command line
+
+```bash
 In [16]: !python3 argparse_example.py --help                                                                                         
 usage: argparse_example.py [-h] [--twice] {ships,sailors} ...
 
@@ -251,29 +254,28 @@ Do something after calling wrapped function
 
 > The `click` package was first developed to work with web framework flask. It uses `Python function decorators` to bind the command-line interface directly with your functions. Unlike `argparse`, `click` interweaves your interface decisions directly with the rest of your code.
 
-```ipython3
-In [19]: %%writefile simple_click.py 
-    ...: #!/usr/bin/env python 
-    ...: """ 
-    ...: Simple Click example 
-    ...: """ 
-    ...: import click 
-    ...:  
-    ...: @click.command() 
-    ...: @click.option('--greeting', default='Hiya', help='How do you want to greet?') 
-    ...: @click.option('--name', default='Tammy', help='Who do you want to greet?') 
-    ...: def greet(greeting, name): 
-    ...:     print(f"{greeting} {name}") 
-    ...:  
-    ...: if __name__ == '__main__': 
-    ...:     greet() 
-    ...:                                                                                                                             
-Writing simple_click.py
+```python
+#!/usr/bin/env python
+"""
+Simple Click example
+"""
+import click
 
-In [20]: !python3 simple_click.py --greeting Heyya --name Priyanka                                                                   
+@click.command()
+@click.option('--greeting', default='Hiya', help='How do you want to greet?')
+@click.option('--name', default='Tammy', help='Who do you want to greet?')
+def greet(greeting, name):
+    print(f"{greeting} {name}")
+
+if __name__ == '__main__':
+    greet()
+```
+
+```python
+$ python3 simple_click.py --greeting Heyya --name Priyanka                                                                   
 Heyya Priyanka
 
-In [21]: !python3 simple_click.py --help                                                                                             
+$ python3 simple_click.py --help                                                                                             
 Usage: simple_click.py [OPTIONS]
 
 Options:
@@ -288,57 +290,57 @@ Options:
 - And let's look a more complex `click` implementation using `click.group` for the same *Ships & Sailors* problem!
 
 
-```jupyter
-In [23]: %%writefile click_example.py 
-    ...: #!/usr/bin/env python 
-    ...: """ 
-    ...: Command-line tool using click 
-    ...: """ 
-    ...: import click 
-    ...:  
-    ...: # Create a top-level group under which other groups and commands will reside. 
-    ...: @click.group()  
-    ...:  
-    ...: # Create a function to act as the top-level group. The click.group method transforms the function into a group. 
-    ...: def cli():  
-    ...:     pass 
-    ...:  
-    ...: # Create a group to hold the ships commands. 
-    ...: @click.group(help='Ship related commands')  
-    ...: def ships(): 
-    ...:     pass 
-    ...:  
-    ...: # Add the ships group as a command to the top-level group. Note that the cli function is now a group with an add_command met
-    ...: hod.     
-    ...: cli.add_command(ships)  
-    ...:  
-    ...: # Add a command to the ships group. Notice that ships.command is used instead of `click.command`. 
-    ...: @ships.command(help='Sail a ship')  
-    ...: def sail(): 
-    ...:     ship_name = 'Your ship' 
-    ...:     print(f"{ship_name} is setting sail") 
-    ...:  
-    ...: @ships.command(help='List all of the ships') 
-    ...: def list_ships(): 
-    ...:     ships = ['John B', 'Yankee Clipper', 'Pequod'] 
-    ...:     print(f"Ships: {','.join(ships)}") 
-    ...:  
-    ...: # Add a command to the cli group.     
-    ...: @cli.command(help='Talk to a sailor')   
-    ...: @click.option('--greeting', default='Ahoy there', help='Greeting for sailor') 
-    ...: @click.argument('name') 
-    ...: def sailors(greeting, name): 
-    ...:     message = f'{greeting} {name}' 
-    ...:     print(message) 
-    ...:  
-    ...: if __name__ == '__main__': 
-    ...:  
-    ...:     # Call the top-level group.      
-    ...:     cli()   
-                                                                                                            
-Overwriting click_example.py
+```python
+#!/usr/bin/env python
+"""
+Command-line tool using click
+"""
+import click
 
-In [24]: !python3 click_example.py --help                                                                                            
+# Create a top-level group under which other groups and commands will reside.
+@click.group()
+
+# Create a function to act as the top-level group. The click.group method transforms the function into a group.
+def cli():
+    pass
+
+# Create a group to hold the ships commands.
+@click.group(help='Ship related commands')
+def ships():
+    pass
+
+# Add the ships group as a command to the top-level group. Note that the cli function is now a group with an add_command method.    
+cli.add_command(ships)
+
+# Add a command to the ships group. Notice that ships.command is used instead of `click.command`.
+@ships.command(help='Sail a ship')
+def sail():
+    ship_name = 'Your ship'
+    print(f"{ship_name} is setting sail")
+
+@ships.command(help='List all of the ships')
+def list_ships():
+    ships = ['John B', 'Yankee Clipper', 'Pequod']
+    print(f"Ships: {','.join(ships)}")
+
+# Add a command to the cli group.    
+@cli.command(help='Talk to a sailor')
+@click.option('--greeting', default='Ahoy there', help='Greeting for sailor')
+@click.argument('name')
+def sailors(greeting, name):
+    message = f'{greeting} {name}'
+    print(message)
+
+if __name__ == '__main__':
+
+    # Call the top-level group.     
+    cli()
+```
+
+- when invoked from command line,
+
+```bash
+$ python3 click_example.py --help                                                                                            
 Usage: click_example.py [OPTIONS] COMMAND [ARGS]...
 
 Options:
@@ -348,7 +350,7 @@ Commands:
   sailors  Talk to a sailor
   ships    Ship related commands
 
-In [25]: !python3 click_example.py ships --help                                                                                      
+$ python3 click_example.py ships --help                                                                                      
 Usage: click_example.py ships [OPTIONS] COMMAND [ARGS]...
 
   Ship related commands
