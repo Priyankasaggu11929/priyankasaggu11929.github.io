@@ -188,8 +188,7 @@ if __name__ == '__main__':
     - If the script runs on the command line, the first argument is the name of the script. The rest of the items in the list are any remaining command-line arguments, represented as strings.
 
 ```ipython3
-In [1]: %%writefile sys_argv.py 
-   ...:  #!/usr/bin/env python 
+In [1]: #!/usr/bin/env python 
    ...: """ 
    ...: Simple command-line tool using sys.argv 
    ...: """ 
@@ -211,58 +210,57 @@ The fourth argument: 'arg3'
 
 - Here an example, where we're re-implementing the above `say_it()` function using `sys.arg` (basically implementing it as a argument parser).
 
-```ipython3
-In [7]: %%writefile sys_argv.py 
-   ...: #!/usr/bin/env python 
-   ...: """ 
-   ...: Simple command-line tool using sys.argv 
-   ...: """ 
-   ...: import sys 
-   ...:  
-   ...: def say_it(greeting, target): 
-   ...:     message = f'{greeting} {target}' 
-   ...:     print(message) 
-   ...:  
-   ...: # Here we test to see if we are running from the command line. 
-   ...: if __name__ == '__main__': 
-   ...:  
-   ...:     # Default values are set in these two lines. 
-   ...:     greeting = 'Hello' 
-   ...:     target = 'Joe' 
-   ...:  
-   ...:     # Check if the string --help is in the list of arguments. 
-   ...:     if '--help' in sys.argv: 
-   ...:         help_message = f"Usage: {sys.argv[0]} --name <NAME> --greeting <GREETING>" 
-   ...:         print(help_message) 
-   ...:  
-   ...:         # Exit the program after printing the help message. 
-   ...:         sys.exit() 
-   ...:  
-   ...:     if '--name' in sys.argv: 
-   ...:         # Get position after name flag 
-   ...:  
-   ...:         # We need the position of the value after the flag, which should be the associated value. 
-   ...:         name_index = sys.argv.index('--name') + 1 
-   ...:  
-   ...:         # Test that the arguments list is long enough. It will not be if the flag was provided without a value. 
-   ...:         if name_index < len(sys.argv): 
-   ...:             name = sys.argv[name_index] 
-   ...:  
-   ...:     if '--greeting' in sys.argv: 
-   ...:         # Get position after greeting flag 
-   ...:         greeting_index = sys.argv.index('--greeting') + 1 
-   ...:         if greeting_index < len(sys.argv): 
-   ...:             greeting = sys.argv[greeting_index] 
-   ...:  
-   ...:     # Call the function with the values as modified by the arguments. 
-   ...:     say_it(greeting, name) 
+```python
+#!/usr/bin/env python
+"""
+Simple command-line tool using sys.argv
+"""
+import sys
 
-Overwriting sys_argv.py
+def say_it(greeting, target):
+    message = f'{greeting} {target}'
+    print(message)
 
-In [8]: !python3 sys_argv.py --help                                                                                                  
+# Here we test to see if we are running from the command line.
+if __name__ == '__main__':
+
+    # Default values are set in these two lines.
+    greeting = 'Hello'
+    target = 'Joe'
+
+    # Check if the string --help is in the list of arguments.
+    if '--help' in sys.argv:
+        help_message = f"Usage: {sys.argv[0]} --name <NAME> --greeting <GREETING>"
+        print(help_message)
+
+        # Exit the program after printing the help message.
+        sys.exit()
+
+    if '--name' in sys.argv:
+        # Get position after name flag
+
+        # We need the position of the value after the flag, which should be the associated value.
+        name_index = sys.argv.index('--name') + 1
+
+        # Test that the arguments list is long enough. It will not be if the flag was provided without a value.
+        if name_index < len(sys.argv):
+            name = sys.argv[name_index]
+
+    if '--greeting' in sys.argv:
+        # Get position after greeting flag
+        greeting_index = sys.argv.index('--greeting') + 1
+        if greeting_index < len(sys.argv):
+            greeting = sys.argv[greeting_index]
+
+    # Call the function with the values as modified by the arguments.
+    say_it(greeting, name)
+```
+
+```bash
+$ python3 sys_argv.py --help                                                                                                  
 Usage: sys_argv.py --name <NAME> --greeting <GREETING>
 
-In [9]: !python3 sys_argv.py --name Priyanka --greeting Hey                                                                          
+$ python3 sys_argv.py --name Priyanka --greeting Hey                                                                          
 Hey Priyanka
 ```
 ---
