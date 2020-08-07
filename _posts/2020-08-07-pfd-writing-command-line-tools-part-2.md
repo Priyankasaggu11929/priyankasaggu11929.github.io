@@ -168,7 +168,7 @@ if __name__ == '__main__':
 - again, when invoked from command line
 
 ```bash
-In [16]: !python3 argparse_example.py --help                                                                                         
+$ python3 argparse_example.py --help                                                                                         
 usage: argparse_example.py [-h] [--twice] {ships,sailors} ...
 
 Maritime control
@@ -182,7 +182,7 @@ optional arguments:
   -h, --help       show this help message and exit
   --twice, -t      Do it twice
 
-In [17]: !python3 argparse_example.py ships --help                                                                                   
+$ python3 argparse_example.py ships --help                                                                                   
 usage: argparse_example.py ships [-h] {list,sail}
 
 positional arguments:
