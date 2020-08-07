@@ -11,7 +11,7 @@ August 07, 2020
 
 So far, my journey around learning Python is on a nice track. And I'm trying my best to keep it up & going!
 
-So, moving forward in the book, *"Python for DevOps"*, yesterdy I finished the third chapter, *Working with the command line*! And I must say, now it's no longer me learning python once again (that was till some parts of the first chapter). Now, it's simply, *me learning python!* (all from kind of scratch & for the first time!)
+So, moving forward in the book, *"Python for DevOps"*, yesterday I finished the third chapter, *Working with the command line*! And I must say, now it's no longer me learning python once again (that was till some parts of the first chapter). Now, it's simply, *me learning python!* (all from kind of scratch & for the first time!)
 
 So, from the third chapter, I covered the following topics:
 
