@@ -211,7 +211,7 @@ The fourth argument: 'arg3'
 
 - Here an example, where we're re-implementing the above `say_it()` function using `sys.arg` (basically implementing it as a argument parser).
 
-```python3
+```ipython3
 In [7]: %%writefile sys_argv.py 
    ...: #!/usr/bin/env python 
    ...: """ 
