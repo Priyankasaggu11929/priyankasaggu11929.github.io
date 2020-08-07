@@ -177,13 +177,17 @@ if __name__ == '__main__':
 
 ---
 
-> The first step in creating command-line tools is separating code that should only run when invoked on the command line. The next step is to accept command-line arguments. Unless your tool only does one thing, you need to accept commands to know what to do. Also, command-line tools that do more than the simplest tasks accept optional flags to configure their workings. Remember that these commands and flags are the user interface (UI) for anyone using your tools. You need to consider how easy they are to use and understand. Providing documentation is an essential part of making your code understandable.
+> The first step in creating command-line tools is separating code that should only run when invoked on the command line.
+>
+> The next step is to accept command-line arguments. 
+>
+> Unless your tool only does one thing, you need to accept commands to know what to do. Also, command-line tools that do more than the simplest tasks accept optional flags to configure their workings. Remember that these commands and flags are the user interface (UI) for anyone using your tools. You need to consider how easy they are to use and understand. Providing documentation is an essential part of making your code understandable.
 
 - The simplest and most basic way to process arguments from the command line is to use the `argv` attribute of the `sys` module. 
     - This attribute is a list of arguments passed to a Python script at runtime.
     - If the script runs on the command line, the first argument is the name of the script. The rest of the items in the list are any remaining command-line arguments, represented as strings.
 
-```python3
+```ipython3
 In [1]: %%writefile sys_argv.py 
    ...:  #!/usr/bin/env python 
    ...: """ 
