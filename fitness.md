@@ -24,6 +24,20 @@ Okay, let's start:
 
 *(for someone who wants to read from the beginning, start [here](https://priyankasaggu11929.github.io/fitness.html#april-11-2019).)*
 
+---
+
+## *Aug 09, 2020*
+
+    - cw: 69.3 kgs (2020/08/09)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs ✔️
+    - gw4: 70 kgs ✔️
+    - gw6: 67 kgs
+
+<sub>This week marked good progress. I lost 1.4 kgs of weight, in total.</sub>
 
 ---
 
