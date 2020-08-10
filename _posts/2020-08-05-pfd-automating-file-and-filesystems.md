@@ -21,6 +21,8 @@ And I covered the following topics:
 - [X] Walking Directory Trees Using os.walk
 - [X] Paths as Objects with Pathlib
 
+*(**Note:** The notes below are the direct excerpts from the book, [Python For DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/), compiled for the purpose of learning & memory.)*
+
 ---
 
 I already had noted down couple of points, around reading & writing files in Python, in my [last post](https://priyankasaggu11929.github.io/learning-python/2020/08/03/python-for-devOps-notes1.html). So, extending it more here...

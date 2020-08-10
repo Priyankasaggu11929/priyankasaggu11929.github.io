@@ -40,6 +40,8 @@ And apart from the above, I also got to know about:
 - Python function decorators
 - Python classes
 
+*(**Note:** The notes below are the direct excerpts from the book, [Python For DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/), compiled for the purpose of learning & memory.)*
+
 ---
 
 This chapter broadly introduced me to interacting with systems & shells using python. Further expanding to writing *command line tools* with Python, from (almost) scratch to building them using feature-loaded python modules.

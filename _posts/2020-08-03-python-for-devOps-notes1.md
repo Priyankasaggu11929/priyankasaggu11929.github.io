@@ -15,6 +15,8 @@ Ok, now to the point!
 
 I've started with the book **Python for DevOps** by *Noah Gift, Kennedy Behrman, Alfredo Deza, Grig Gheorghiu*. And the plan is to follow & finish it religiously as my first some steps.
 
+*(**Note:** The notes below are the direct excerpts from the book, [Python For DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/), compiled for the purpose of learning & memory.)*
+
 ---
 
 ### The Chapter 1, *Python Essentials for DevOps* touched the following topics briefly!

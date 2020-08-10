@@ -25,6 +25,8 @@ Now, the current approach of writing command line tools using just, `sys.argv` a
     2. `click`
     3. `python-fire`
 
+*(**Note:** The notes below are the direct excerpts from the book, [Python For DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/), compiled for the purpose of learning & memory.)*
+
 ---
 
 ### Using `argparse`!
