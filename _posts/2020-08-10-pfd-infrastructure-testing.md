@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Python for DevOps] Pytest for DevOps!"
+title: "[Python for DevOps] Infrastructure testing using `pytest` plugin `Testinfra`!"
 description: "This post contain notes from Chapter-8 'Pytest for DevOps' from the book, Python for DevOps!"
 category: learning-python
 tags: [DevOps, Python, Notes]
