@@ -38,6 +38,7 @@ Okay, let's start:
     - gw6: 67 kgs
 
 <sub>More Progress! 900 gms down this week, and getting closer to the target! :)</sub>
+
 ---
 
 ## *Aug 09, 2020*
