@@ -26,6 +26,20 @@ Okay, let's start:
 
 ---
 
+## *Aug 16, 2020*
+
+    - cw: 68.4 kgs (2020/08/16)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs ✔️
+    - gw4: 70 kgs ✔️
+    - gw6: 67 kgs
+
+<sub>More Progress! 900 gms down this week, and getting closer to the target! :)</sub>
+---
+
 ## *Aug 09, 2020*
 
     - cw: 69.3 kgs (2020/08/09)
