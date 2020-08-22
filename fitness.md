@@ -26,6 +26,21 @@ Okay, let's start:
 
 ---
 
+## *Aug 22, 2020*
+
+    - cw: 67.5 kgs (2020/08/22)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs ✔️
+    - gw4: 70 kgs ✔️
+    - gw6: 67 kgs
+
+<sub>Closer! :)</sub>
+
+---
+
 ## *Aug 16, 2020*
 
     - cw: 68.4 kgs (2020/08/16)
