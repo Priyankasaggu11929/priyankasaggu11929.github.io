@@ -45,7 +45,22 @@ Okay, let's start:
 
 <sub>**I'M FINALLY *NORMAL*!**</sub>
 
-<sub>**It was not just a *weight loss* journey for me, I am *mentally* transformed. I'm really happy & relieved right now!**</sub>
+<sub>**It was not just a *weight loss* journey for me, I am *mentally transformed*. I'm really happy & relieved right now! I'm loving myself!**</sub>
+
+---
+
+<sub>Although, it's not the end here, there is still more to go for me. Now that the first bigger milestone is achieved, I will move towards getting into the ideal weight range for me.</sub>
+
+<sub>So, here I start with my second run...</sub>
+
+    - cw: 66.9 kgs (2020/08/28)
+
+    - gw1: 64 kgs 
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>But once again, you did really ***awesome***, Priyanka!</sub>
 
 ---
 
