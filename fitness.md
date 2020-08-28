@@ -26,6 +26,29 @@ Okay, let's start:
 
 ---
 
+## *Aug 28, 2020*
+
+    - cw: 66.9 kgs (2020/08/28)
+
+    - gw1: 81 kgs ✔️
+    - gw2: 78 kgs ✔️
+    - gw3: 75 kgs ✔️
+    - gw4: 73 kgs ✔️
+    - gw4: 70 kgs ✔️
+    - gw4: 67 kgs ✔️
+
+![progress](assets/progress1.jpeg)
+
+<sub>First Run - Fin!</sub>
+
+<sub>I'm no longer *obese*, no more *overweight*.</sub>
+
+<sub>I'M FINALLY ***NORMAL***!</sub>
+
+<sub>It was not just a *weight loss* journey for me, I am *mentally* transformed. I'm really happy & relieved right now!</sub>
+
+---
+
 ## *Aug 22, 2020*
 
     - cw: 67.5 kgs (2020/08/22)
