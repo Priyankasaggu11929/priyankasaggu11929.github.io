@@ -28,7 +28,7 @@ Okay, let's start:
 
 ## *Aug 28, 2020*
 
-    - cw: 66.9 kgs (2020/08/28)
+    - cw: 66.8 kgs (2020/08/28)
 
     - gw1: 81 kgs ✔️
     - gw2: 78 kgs ✔️
@@ -49,11 +49,13 @@ Okay, let's start:
 
 ---
 
-<sub>Although, it's not the end here, there is still more to go for me. Now that the first bigger milestone is achieved, I will move towards getting into the ideal weight range for me.</sub>
+<sub>Although, it's not the end here, there is still more to go for me.</sub> 
 
-<sub>So, here I start with my second run...</sub>
+<sub>Now that the first bigger milestone is achieved, I will move towards getting into the ideal weight range for me.</sub>
 
-    - cw: 66.9 kgs (2020/08/28)
+<sub>*And so, here I start with my second run...*</sub>
+
+    - cw: 66.8 kgs (2020/08/28)
 
     - gw1: 64 kgs 
     - gw2: 61 kgs 
