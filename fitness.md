@@ -39,13 +39,13 @@ Okay, let's start:
 
 ![progress](assets/progress1.jpeg)
 
-<sub>First Run - Fin!</sub>
+<sub>**First Run - Fin!**</sub>
 
-<sub>I'm no longer *obese*, no more *overweight*.</sub>
+<sub>**I'm no longer *obese*, no more *overweight* **.</sub>
 
-<sub>I'M FINALLY ***NORMAL***!</sub>
+<sub>**I'M FINALLY ***NORMAL***!**</sub>
 
-<sub>It was not just a *weight loss* journey for me, I am *mentally* transformed. I'm really happy & relieved right now!</sub>
+<sub>**It was not just a *weight loss* journey for me, I am *mentally* transformed. I'm really happy & relieved right now!**</sub>
 
 ---
 
