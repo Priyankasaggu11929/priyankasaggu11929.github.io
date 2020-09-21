@@ -26,6 +26,32 @@ Okay, let's start:
 
 ---
 
+## *Sept 21, 2020*
+
+    - cw: 65.4 kgs (2020/09/21)
+
+    - gw1: 64 kgs 
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Slow progress, but good progress!</sub>
+
+---
+
+## *Sept 14, 2020*
+
+    - cw: 66.5 kgs (2020/09/14)
+
+    - gw1: 64 kgs 
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Gained a kilo over the last week (but I got to eat potatoes, so fine :joy:)!</sub>
+
+---
+
 ## *Sept 09, 2020*
 
     - cw: 65.5 kgs (2020/09/09)
