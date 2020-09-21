@@ -48,7 +48,7 @@ Okay, let's start:
     - gw3: 58 kgs 
     - gw4: 55 kgs 
 
-<sub>Gained a kilo over the last week (but I got to eat potatoes, so fine :joy:)!</sub>
+<sub>Gained a kilo over the last week (but I got to eat potatoes, so fine :joy: )!</sub>
 
 ---
 
