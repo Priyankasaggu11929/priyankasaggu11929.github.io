@@ -35,7 +35,7 @@ Okay, let's start:
     - gw3: 58 kgs 
     - gw4: 55 kgs 
 
-<sub>Second run, first goal weight down! Progress!  </sub>
+<sub>Second run, first goal weight down! Progress! 🎉️ </sub>
 
 ---
 
