@@ -26,6 +26,19 @@ Okay, let's start:
 
 ---
 
+## *Sept 26, 2020*
+
+    - cw: 64.0 kgs (2020/09/26)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Second run, first goal weight down! Progress!  </sub>
+
+---
+
 ## *Sept 21, 2020*
 
     - cw: 65.4 kgs (2020/09/21)
