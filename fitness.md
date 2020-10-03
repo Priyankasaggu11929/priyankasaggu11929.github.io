@@ -26,6 +26,21 @@ Okay, let's start:
 
 ---
 
+## *Oct 03, 2020*
+
+    - cw: 62.8 kgs (2020/10/03)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Feeling fit!</sub>
+
+<sub>The metabolic age has turned down to 19 (and so, this is the also the first time when my body has actually felt like a teenager's, in years).</sub>
+
+---
+
 ## *Sept 26, 2020*
 
     - cw: 64.0 kgs (2020/09/26)
