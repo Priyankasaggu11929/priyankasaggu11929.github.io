@@ -26,6 +26,19 @@ Okay, let's start:
 
 ---
 
+## *Oct 18, 2020*
+
+    - cw: 62.2 kgs (2020/10/18)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Gained some 200gms (actually on a plateau). All good, it'll take it's time. :)</sub>
+
+---
+
 ## *Oct 11, 2020*
 
     - cw: 62.0 kgs (2020/10/11)
