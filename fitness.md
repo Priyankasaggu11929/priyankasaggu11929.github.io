@@ -26,6 +26,19 @@ Okay, let's start:
 
 ---
 
+## *Oct 24, 2020*
+
+    - cw: 61.0 kgs (2020/10/24)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Second run, second goal weight down! Hurrah 🎉️🎉️</sub>
+
+---
+
 ## *Oct 18, 2020*
 
     - cw: 62.2 kgs (2020/10/18)
