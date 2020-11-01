@@ -26,6 +26,19 @@ Okay, let's start:
 
 ---
 
+## *Nov 1, 2020*
+
+    - cw: 60.4 kgs (2020/11/01)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Slow progress, but there *is* progress!</sub>
+
+---
+
 ## *Oct 24, 2020*
 
     - cw: 61.0 kgs (2020/10/24)
