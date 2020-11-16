@@ -26,6 +26,25 @@ Okay, let's start:
 
 ---
 
+## *Nov 16, 2020*
+
+    - cw: 60.9 kgs (2020/11/16)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Ok, I took a break early this november. And as expected, the weight jumped up by couple of kgs.</sub>
+
+<sub>Which to me, is *totally* worth this time. I ate what all my heart wanted for a whole long week, everything junk food, sugar, lots of sugar, fried food, hahahahaha, literally looots of food.</sub>
+
+<sub>And I gained only 2.6 kgs, which to me, feels like a real bargain.</sub>
+
+<sub>Now, I am already a week ahead the break time, and today I weigh 60.9 kgs (I cheated yesterday too. 2 Barfis I ate, but ok now, no more sugar for me, promise!)</sub>
+
+---
+
 ## *Nov 1, 2020*
 
     - cw: 60.4 kgs (2020/11/01)
