@@ -26,6 +26,21 @@ Okay, let's start:
 
 ---
 
+## *Nov 30, 2020*
+
+    - cw: 61.0 kgs (2020/11/30)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>I gained weight. (And I missed updating last week here, but yes, that was also a weight gain week only).</sub>
+
+<sub>But guess what, today is a *good weight* gain day. I *lost fat* and I *gained muscles*, which is soooo good. 😁</sub>
+
+---
+
 ## *Nov 16, 2020*
 
     - cw: 60.9 kgs (2020/11/16)
