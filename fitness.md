@@ -26,6 +26,21 @@ Okay, let's start:
 
 ---
 
+## *Dec 05, 2020*
+
+    - cw: 61.0 kgs (2020/12/06)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Tough PLATEAU. Hahahaha, really tough this time.
+    
+<sub> But I'm happy, the little exercise is paying off (in the form of muscles, so the constant weight). I need to be real patient this time (and I'm trying hard \o/).</sub>
+
+---
+
 ## *Nov 30, 2020*
 
     - cw: 61.0 kgs (2020/11/30)
