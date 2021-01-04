@@ -26,6 +26,19 @@ Okay, let's start:
 
 ---
 
+## *Jan 04, 2021*
+
+    - cw: 59.9 kgs (2021/01/04)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Really really happy I am! This is the maximum lowest I have been in past 7-8ish years. Slow progress this time, but it's on, so good!</sub>
+
+---
+
 ## *Dec 05, 2020*
 
     - cw: 61.0 kgs (2020/12/06)
@@ -35,7 +48,7 @@ Okay, let's start:
     - gw3: 58 kgs 
     - gw4: 55 kgs 
 
-<sub>Tough PLATEAU. Hahahaha, really tough this time.
+<sub>Tough PLATEAU. Hahahaha, really tough this time.</sub>
     
 <sub> But I'm happy, the little exercise is paying off (in the form of muscles, so the constant weight). I need to be real patient this time (and I'm trying hard \o/).</sub>
 
