@@ -35,7 +35,7 @@ Okay, let's start:
     - gw3: 58 kgs 
     - gw4: 55 kgs 
 
-<sub>Ok, I'm finally back :joy: (after 6 months of plateau, and btw I'd a heck lots of cheat days this time. :stuck_out_tongue_closed_eyes:)</sub>
+<sub>Ok, I'm finally back 😂 (after 6 months of plateau, and btw I'd a heck lots of cheat days this time. 😝)</sub>
 
 <sub>Anyways, today is 59.1 kgs. This is the first time in months since body lost some weight. Let's see how it goes now, as I'm back to eating clean food. 😄 </sub>
 
