@@ -26,6 +26,21 @@ Okay, let's start:
 
 ---
 
+## *May 02, 2021*
+
+    - cw: 59.1 kgs (2021/05/02)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Ok, I'm finally back :joy: (after 6 months of plateau, and btw I'd a heck lots of cheat days this time. :stuck_out_tongue_closed_eyes:)</sub>
+
+<sub>Anyways, today is 59.1 kgs. This is the first time in months since body lost some weight. Let's see how it goes now, as I'm back to eating clean food. 😄 </sub>
+
+---
+
 ## *Jan 04, 2021*
 
     - cw: 59.9 kgs (2021/01/04)
