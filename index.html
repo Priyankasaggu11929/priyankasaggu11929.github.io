@@ -9,7 +9,7 @@ og:
 
 <div id="home">
   <ul class="posts">
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:20 %}
       {% if post.layout != "none" %}
       <li>{% if post.category == "speaking" %}<i class="fa fa-microphone"></i> {% endif %}
         <h1> <a href=" {{ post.url }}">{{ post.title }}</a> </h1>
