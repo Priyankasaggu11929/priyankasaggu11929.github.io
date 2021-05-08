@@ -11,7 +11,7 @@ August 10, 2020
 
 Ok, this time I made a jump from *chapter 3*, to directly *chapter 8* in the book ***Python for DevOps***, because I needed to learn about writing tests/unitests in python.
 
-When I say writing tests, I broadly mean *writing validation steps*, to check if everything is happening the intended way or not. And if not, then what kind of behaviour I'm receiving from my program, or infrastructure.
+When I say writing tests, I broadly mean *writing validation steps*, to check if everything is happening the intended way or not. And if not, then what kind of behaviour I'm receiving from my program, or infrastructure.<!-- break -->
 
 *(**Note:** The notes below are the direct excerpts from the book, [Python For DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/), compiled for the purpose of learning & memory.)*
 
