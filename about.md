@@ -7,11 +7,11 @@ title: About
 
 <sub>I'm mostly a software engineer (with couple other varying names like DevOps engineer, or Site Reliablity Engineer, at times). Currently, I'm working as a site reliability engineer in the global cloud services SRE team at Red Hat.</sub>
 
-<sub>I like to talk about ~ *Kubernetes, Containers, Python, Golang, GNOME, Open Source, and more ...* And I'm ***very*** keen to learn about ~ *Hardware, Networking, all things having wires, & circuits & lEDs, & chips* (I hardly understand anything in that space, that's why I want to learn).</sub>
+<sub>I like to talk about ~ *Kubernetes, Containers, Python, Golang, GNOME, Open Source, and more ...* And I'm ***very*** keen to learn about ~ *Hardware, Networking, and (*all things having wires, & circuits & LEDs, & ICs in them. I hardly understand anything in this space, and that's why I want to learn)*.</sub>
 
 <sub>This blog is a running record for all things about me, & nothing specific in general. 🙂 
     
-<sub>I talk about [what things I'm learning currently](https://www.psaggu.com/), my ***[weight loss journey](https://www.psaggu.com/fitness.html)***, some random ***[personal journaling](https://www.psaggu.com/journal.html)*** from the days, and sometimes (which is really *sometimes* only), I try to make ***[beautiful book notes](https://www.psaggu.com/notes.html)***.</sub>
+<sub>I talk about ***[what things I'm learning currently](https://www.psaggu.com/)***, my ***[weight loss journey](https://www.psaggu.com/fitness.html)***, some random ***[personal journaling](https://www.psaggu.com/journal.html)*** from the days, and sometimes (which is really *sometimes* only), I try to make ***[beautiful book notes](https://www.psaggu.com/notes.html)***.</sub>
 
 <sub>I was also an Outreachy intern in the past (Dec'2019 - March' 2020), under the GNOME Foundation. I've written about ***[my journey here](https://www.psaggu.com/outreachy.html)***.</sub>
 
