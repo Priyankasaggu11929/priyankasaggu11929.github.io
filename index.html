@@ -16,9 +16,7 @@ og:
         <span>{{ post.date | date: "%B %d, %Y" }}</span></br>
         <div>{{ post.excerpt | truncatewords:75}} </div> </li>
       {% endif %}
-      {% if post.content.size > post.excerpt.size %}
         <p><a href="{{ post.url }}">Read more…</a></p>
-      {% endif %}
       <hr>
     {% endfor %}
   </ul>
