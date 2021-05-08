@@ -16,7 +16,7 @@ And I covered the following topics:
 - [X] Using Regular Expressions to Search Text
 - [X] Dealing with Large Files
 - [X] Encrypting Text
-- [X] The os Module
+- [X] The os Module <!-- break -->
 - [X] Managing Files and Directories Using os.path
 - [X] Walking Directory Trees Using os.walk
 - [X] Paths as Objects with Pathlib
