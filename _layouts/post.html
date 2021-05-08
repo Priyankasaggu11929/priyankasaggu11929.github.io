@@ -20,8 +20,9 @@ layout: default
       <li>
         <h3>
           <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.excerpt }}
+            {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
+            {{ post.description }}
           </a>
         </h3>
       </li>
