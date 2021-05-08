@@ -16,6 +16,7 @@ January 04, 2020
   - [X] <strike>[sub-task] First try doing the above task in a seperate simple application.</strike> 
 
 **Progress:**
+<!-- break -->
 
 - <strike>I finished the sub-task i.e replicating the gnome-builder's "search and replace bar" widget in the libdazzle example application (which basically is a really *big* step towards my final goal).</strike> I finished both the tasks, now it's definitely a big step. :)
 
