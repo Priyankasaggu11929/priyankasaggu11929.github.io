@@ -12,9 +12,11 @@ og:
     {% for post in site.posts %}
       {% if post.layout != "none" %}
       <li>{% if post.category == "speaking" %}<i class="fa fa-microphone"></i> {% endif %}
-        <h3> <a href=" {{ post.url }}">{{ post.title }}</a> </h3>
+        <h2> <a href=" {{ post.url }}">{{ post.title }}</a> </h2>
         <span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span></br>
         {{ post.excerpt | strip_html | truncatewords:75 }} </li>
+        
+        <p><a href="{{ post.url }}">Read more…</a></p>
         <hr>
       {% endif %}
     {% endfor %}
