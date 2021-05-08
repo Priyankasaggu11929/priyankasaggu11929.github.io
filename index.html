@@ -17,9 +17,9 @@ og:
         {{ post.excerpt | truncatewords:75 }} </li>
         </br>
         {{ strip_html }}
+      {% endif %}
         <sub><a href="{{ post.url }}">Read more…</a></sub>
         <hr>
-      {% endif %}
     {% endfor %}
   </ul>
 </div>
