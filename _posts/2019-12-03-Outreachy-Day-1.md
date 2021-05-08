@@ -13,7 +13,7 @@ Okay, **finally** the Outreachy Internship has started! 🎉 🎉
 
 For this very moment, nothing could make me happier for the fact that I earned this chance to pursue it under a very highly reputed Open Source project, the [GNOME Foundation](https://www.gnome.org/foundation/) 🙂. 
 
-Soon, I will try to write a more detailed post thanking all the awesome people who have endlessly helped me being capable of reaching out to this milestone (and hopefully to some more as I continue to progress). At the same time, I'll lay down my experience so far, so that the upcoming Outreachy aspirants could take away some key-points to ease their process of applying.
+Soon, I will try to write a more detailed post thanking all the awesome people who have endlessly helped me being capable of reaching out to this milestone (and hopefully to some more as I continue to progress). At the same time, I'll lay down my experience so far, so that the upcoming Outreachy aspirants could take away some key-points to ease their process of applying. <!-- break -->
 
 Now, before I proceed, I'd like to take this moment to profusely thank my *Project Mentors*, [Daniel García Moreno (danigm)](http://danigm.net) and [Daniel Mustieles García (dmustieles)](https://versosparaundiacualquiera.blogspot.com/) for being incredibly generous with their time and energy and always being a source of immense encouragement and guidance to me.
 
