@@ -5,8 +5,7 @@ description: 'I speak here {^_^}'
 exclude: [Gemfile, Gemfile.lock, README.md]
 markdown: kramdown
 
-paginate: 10
-paginate_path: "blog/page:num"
+
 excerpt_separator: "<!-- break -->"
 
 author: 'Priyanka Saggu'
