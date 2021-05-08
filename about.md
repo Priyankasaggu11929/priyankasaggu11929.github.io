@@ -7,7 +7,7 @@ title: About
 
 <sub>I'm mostly a software engineer (with couple other varying names like DevOps engineer, or Site Reliablity Engineer, at times). Currently, I'm working as a site reliability engineer in the global cloud services SRE team at Red Hat.</sub>
 
-<sub>I like to talk about ~ *Kubernetes, Containers, Python, Golang, GNOME, Open Source, and more ...* And I'm ***very*** keen to learn about ~ *Hardware, Networking, and (*all things having wires, & circuits & LEDs, & ICs in them. I hardly understand anything in this space, and that's why I want to learn)*.</sub>
+<sub>I like to talk about ~ *Kubernetes, Containers, Python, Golang, GNOME, Open Source, and more ...* And I'm ***very*** keen to learn about ~ *Hardware, Networking, and (all things having wires, & circuits & LEDs, & ICs in them. I hardly understand anything in this space, and that's why I want to learn)*.</sub>
 
 <sub>This blog is a running record for all things about me, & nothing specific in general. 🙂 
     
