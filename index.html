@@ -14,9 +14,8 @@ og:
       <li>{% if post.category == "speaking" %}<i class="fa fa-microphone"></i> {% endif %}
         <h1> <a href=" {{ post.url }}">{{ post.title }}</a> </h1>
         <span>{{ post.date | date: "%B %d, %Y" }}</span></br>
-        {{ post.excerpt | truncatewords:75 }} </li>
+        {{ post.excerpt | truncatewords:75 | strip_html }} </li>
         </br>
-        {{ strip_html }}
       {% endif %}
         <sub><a href="{{ post.url }}">Read more…</a></sub>
         <hr>
