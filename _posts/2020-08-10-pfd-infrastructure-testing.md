@@ -12,6 +12,7 @@ August 10, 2020
 In the [last post](https://priyankasaggu11929.github.io/learning-python/2020/08/10/pfd-pytest-for-devops.html), we discussed about using `pytest` module for writing traditional software tests.
 
 Here, we will be expanding the same for performing *Infrastructure testing* using `pytest` module.
+<!-- break -->
 
 *(Note: The notes below are the direct excerpts from the book, [Python For DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/), compiled for the purpose of learning & memory.)*
 
