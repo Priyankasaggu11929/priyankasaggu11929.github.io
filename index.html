@@ -15,7 +15,7 @@ og:
         <h2> <a href=" {{ post.url }}">{{ post.title }}</a> </h2>
         <span>{{ post.date | date: "%B %d, %Y" }}</span></br>
         {{ post.excerpt | truncatewords:75 }} </li>
-        
+        </br>
         <p><a href="{{ post.url }}">Read more…</a></p>
         <hr>
       {% endif %}
