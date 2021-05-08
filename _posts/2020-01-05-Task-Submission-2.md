@@ -25,7 +25,7 @@ The project aims to provide a REST/CLI solution to access a key-value store. Mor
 
 ### Pre-requisites:
 
-- A VM/server for hosting the Consul web UI.
+- A VM/server for hosting the Consul web UI. <!-- break -->
 
 **Note**: *I am using GCP Compute-Engine VM instances for my solution*.
 
