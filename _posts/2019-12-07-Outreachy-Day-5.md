@@ -19,7 +19,7 @@ December 07, 2019
 
 - I finished going through the flatpak's [Getting started](http://docs.flatpak.org/en/latest/index.html) documentation.
 
-- Next, I have started with [Quickstart guide for Using Meson](https://mesonbuild.com/Quick-guide.html). Will take some more time to finish (and understad).
+- Next, I have started with [Quickstart guide for Using Meson](https://mesonbuild.com/Quick-guide.html). Will take some more time to finish (and understad). <!-- break -->
 
 ## Misc (not related to outreachy):
 
