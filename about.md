@@ -16,7 +16,7 @@ title: About
 <sub>I was also an Outreachy intern in the past (Dec'2019 - March' 2020), under the GNOME Foundation. I've written about ***[my journey here](https://www.psaggu.com/outreachy.html)***.</sub>
 
 
-<sub>And recently, I also tried [recording podcasts](https://www.youtube.com/watch?v=LnnFjscF4Wc&t=3641s) (so, I could talk to, and learn from lots of wonderful people around the world.)</sub>
+<sub>And recently, I've also tried my hands at ***[recording podcasts](https://www.youtube.com/watch?v=LnnFjscF4Wc&t=3641s)*** (so, I could talk to, and learn from lots of wonderful people around the world.)</sub>
 
 
 <sub>You could find me at these other places, as well:</sub>
