@@ -20,7 +20,7 @@ title: About
 <p class="social-icons">
   <a href="https://twitter.com/_psaggu"><i class="fab fa-twitter fa-2x"></i></a>
   <a href="https://github.com/priyankasaggu11929"><i class="fab fa-github fa-2x"></i></a>
-  <a href="https://gitlab.gnome.org/priyankasaggu119"><i class="fab fa-gitlab fa-2x"></i></a>
+  <a href="https://gitlab.gnome.org/psaggu"><i class="fab fa-gitlab fa-2x"></i></a>
   <a href="www.linkedin.com/in/psaggu/"><i class="fab fa-linkedin-in fa-2x"></i></a>
 </p>
 
