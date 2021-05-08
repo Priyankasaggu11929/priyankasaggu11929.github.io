@@ -15,7 +15,7 @@ heading: ""
 ## *May 08, 2021*
 
 <sub>I look at my working desk now & I smile & I feel sooo happy, because now I have a second screen/monitor attached to my laptop.</sub>
-<sub>Half a year back, I didn't know how to connect an external screen, or an external webcam, or what having a router with a LAN cable works like.</sub>
+<sub>Half a year back, I didn't know how to connect an external screen, or an external webcam, or what having a router with a LAN cable works like. (or what paying bills for all of them and so many other things, feels like).</sub>
 
 <sub>There is always a first time for doing things. This time, doing the above stuff made me happy. I did them for the first almost half an year back, I am still feeling the same happiness. :)</sub>
 
