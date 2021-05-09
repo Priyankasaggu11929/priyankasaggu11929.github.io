@@ -12,6 +12,16 @@ heading: ""
 
 ---
 
+## *May 09, 2021*
+
+<sub>100 blog posts milestone!</sub> 
+
+<sub>I'm extremely grateful to my mentor, *[Jason Braganza](https://janusworx.com)*. From the day 1 post to today's & for all others to come, he is the one who has constanly kept me on it.</sub>
+
+<sub>***Thank you, jasonbraganza. Thank you so much.*** 🙏 </sub>
+
+---
+
 ## *May 08, 2021*
 
 <sub>I look at my working desk now & I smile & I feel sooo happy, because now I have a second screen/monitor attached to my laptop.</sub>
