@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-***Hello, I'm Priyanka Saggu.***
-
+![0001](https://user-images.githubusercontent.com/30499743/117557992-8487b000-b096-11eb-9b00-3e09e69e0989.jpg)
 <sub>I'm mostly a software engineer (with couple other varying names like DevOps engineer, or Site Reliablity Engineer, at times). Currently, I'm working as a site reliability engineer in the global cloud services SRE team at Red Hat.</sub>
 
 <sub>I like to talk about ~ *Kubernetes, Containers, Python, Golang, GNOME, Open Source, and more ...* And I'm ***very*** keen to learn about ~ *Hardware, Networking, and (all things having wires, & circuits & LEDs, & ICs in them. Well, I hardly understand anything in this space, and that's why I want to learn)*.</sub>
