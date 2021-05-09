@@ -28,7 +28,7 @@ Okay, let's start:
 
 ## *May 09, 2021*
 
-    - cw: 59.0 kgs (2021/05/09)
+    - cw: 58.8 kgs (2021/05/09)
 
     - gw1: 64 kgs ✔️
     - gw2: 61 kgs ✔️
