@@ -11,6 +11,7 @@ og:
   <img src="assets/header.jpg" alt="Header">
   <ul class="posts">
     {% for post in paginator.posts %}
+      <img src="assets/header.png" alt="Header">
       {% if post.layout != "none" %}
       <li>{% if post.category == "speaking" %}<i class="fa fa-microphone"></i> {% endif %}
         <h1> <a href=" {{ post.url }}">{{ post.title }}</a> </h1>
