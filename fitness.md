@@ -26,6 +26,20 @@ Okay, let's start:
 
 ---
 
+## *May 09, 2021*
+
+    - cw: 59.0 kgs (2021/05/09)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Every single gram counts towards progress. 😄 </sub>
+
+
+---
+
 ## *May 02, 2021*
 
     - cw: 59.1 kgs (2021/05/02)
