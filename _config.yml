@@ -5,7 +5,7 @@ description: 'I speak here {^_^}'
 exclude: [Gemfile, Gemfile.lock, README.md]
 markdown: kramdown
 
-paginate: 10
+paginate: 6
 paginate_path: /page:num/
 
 excerpt_separator: "<!-- break -->"
