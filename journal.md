@@ -14,9 +14,9 @@ heading: ""
 
 ## *May 09, 2021*
 
-<sub>100 blog posts milestone!</sub> 
+<sub>***[100 blog posts milestone!](https://www.psaggu.com/daily%20logs/2021/05/08/notes.html)***</sub> 
 
-<sub>I'm extremely grateful to my mentor, *[Jason Braganza](https://janusworx.com)*. From the day 1 post to today's & for all others to come, he is the one who has constanly kept me on it.</sub>
+<sub>I'm extremely grateful to my mentor, *[Jason Braganza](https://janusworx.com)*. From the [day 1 post](https://www.psaggu.com/2018/11/06/day-1/) to today's & for all others to come, he is the one who has constanly kept me on it.</sub>
 
 <sub>***Thank you, jasonbraganza. Thank you so much.*** 🙏 </sub>
 
