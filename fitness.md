@@ -26,6 +26,12 @@ Okay, let's start:
 
 ---
 
+## *May 10, 2021*
+
+<sub>Just logging it here, because I weigh the lowest today. I'm 58.7 kgs. 😃 </sub>
+
+---
+
 ## *May 09, 2021*
 
     - cw: 58.8 kgs (2021/05/09)
