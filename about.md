@@ -9,7 +9,7 @@ title: About
 
 <sub>I like to talk about ~ *Kubernetes, Containers, Python, Golang, GNOME, Open Source, and more ...* And I'm ***very*** keen to learn about ~ *Hardware, Networking, and (all things having wires, & circuits & LEDs, & ICs in them. Well, I hardly understand anything in this space, and that's why I want to learn)*.</sub>
 
-<sub>This blog is a running record for all things about me, & nothing specific in general. 🙂 
+<sub>This blog is a running record of all things about me, & nothing specific in general. 🙂 
     
 <sub>I talk about ***[what things I'm learning currently](https://www.psaggu.com/)***, my ***[weight loss journey](https://www.psaggu.com/fitness.html)***, some random ***[personal journaling](https://www.psaggu.com/journal.html)*** from the days, and sometimes (which is really *sometimes* only), I try to make ***[beautiful book notes](https://www.psaggu.com/notes.html)***.</sub>
 
