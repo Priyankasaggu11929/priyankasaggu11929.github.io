@@ -3,7 +3,8 @@ layout: page
 title: About
 ---
 
-![Screenshot from 2021-05-11 13-45-59](https://user-images.githubusercontent.com/30499743/117782528-57d2c480-b25f-11eb-8748-58b45e24c6d0.png)
+![Screenshot from 2021-05-11 14-45-51](https://user-images.githubusercontent.com/30499743/117791150-a4ba9900-b267-11eb-8412-e477087f70c3.png)
+
 
 <sub>I'm mostly a software engineer (with couple other varying names like DevOps engineer, or Site Reliablity Engineer, at times). Currently, I'm working as a site reliability engineer in the global cloud services SRE team at Red Hat.</sub>
 
