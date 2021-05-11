@@ -10,6 +10,8 @@ heading: ""
 
 *(Because it's still the hardest thing to keep at it, but it's definitely the most rewarding thing in life.)*
 
+![Screenshot from 2021-05-11 14-28-32](https://user-images.githubusercontent.com/30499743/117788643-3248b980-b265-11eb-95a0-ac3ccc4def59.png)
+
 ---
 
 *(For someone who might want to start, I use this [tara barach's meditation stream](http://www.tarabrach.com/audio/2010-07-07-Smile-Meditation-TaraBrach.mp3) and [headspace](https://www.youtube.com/channel/UC3JhfsgFPLSLNEROQCdj-GQ).)*
