@@ -28,6 +28,14 @@ Okay, let's start:
 
 ---
 
+## *May 14, 2021*
+
+<sub>logging it here, I weight 58.5 kgs today.</sub>
+
+<sub> This is to celebrate my small progress and well ofcourse, my lowest weight so far.</sub>
+
+---
+
 ## *May 10, 2021*
 
 <sub>Just logging it here, because I weigh the lowest today. I'm 58.7 kgs. 😃 </sub>
