@@ -4,13 +4,13 @@ title: Kubernetes
 heading: ""
 ---
 
-*First time, I joined the the kubernetes community slack, sometime in the middle of june, 2020.*
+<sub>***First time, I joined the the kubernetes community slack, sometime in the middle of june, 2020.***</sub>
 
-*I started there by getting involved with the (then) newly formed, [node-reviewers-group](https://www.psaggu.com/kubernetes-mentorship/2020/07/30/node-reviewer-group-tasks.html). This was kind of a mentorship program where a group of people would work together on reviewing/triaging `sig-node` PR(s) & issue(s).*
+<sub>***I started there by getting involved with the (then) newly formed, [node-reviewers-group](https://www.psaggu.com/kubernetes-mentorship/2020/07/30/node-reviewer-group-tasks.html). This was kind of a mentorship program where a group of people would work together on reviewing/triaging `sig-node` PR(s) & issue(s).***</sub>
 
-*I spent couple of months in the group, trying to understand all what was being taught (or discussed) in there, and then I realised, not much of the stuff made  any sense to me. I was too overwhelmed by the concepts being discussed there, I felt absolutely alien-ish in that space. So, I gave up & left.*
+<sub>***I spent couple of months in the group, trying to understand all what was being taught (or discussed) in there, and then I realised, not much of the stuff made  any sense to me. I was too overwhelmed by the concepts being discussed there, I felt absolutely alien-ish in that space. So, I gave up & left.***</sub>
 
-*But fortunately that was not the end for me!*
+<sub>***But fortunately that was not the end for me!***</sub>
 
 ***I've started my journey again. And this time, I'm very actively getting involved into various parts of the Kubernetes organisation.***
 
