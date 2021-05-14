@@ -17,7 +17,7 @@ heading: ""
 ***This will be a logging document for all my upstream Kubernetes project contributions so far, all new ones moving forward.***
 
 
-*(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
+*(For someone who want to read from the beginning, start [here](https://www.psaggu.com/kubernetes.html#april-2021).)*
 
 ---
 
