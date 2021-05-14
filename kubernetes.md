@@ -4,7 +4,7 @@ title: Kubernetes
 heading: ""
 ---
 
-***I joined the the kubernetes community slack, sometime in the middle of june, 2020.***
+***I first joined the the kubernetes community slack, sometime in the middle of june, 2020.***
 
 ***I started by getting involved with the (then) newly formed, [node-reviewers-group](https://www.psaggu.com/kubernetes-mentorship/2020/07/30/node-reviewer-group-tasks.html) which was kind of a mentorship program where a group of people would work together on reviewing/triaging `sig-node` PR(s) & issue(s).***
 
