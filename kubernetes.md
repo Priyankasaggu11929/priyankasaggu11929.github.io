@@ -102,11 +102,12 @@ heading: ""
 
 I first started writing kubernetes flavor of go code while working on the [integreatly-operator](https://github.com/integr8ly/integreatly-operator) project. This is an Openshift Operator based on the Operator SDK for installing and reconciling Integreatly services.
 
-Following are the PRs for the changes I worked on:
 
-- [Add custom alertmanager go template to enhance email config #1721](https://github.com/integr8ly/integreatly-operator/pull/1721)
-- [Add alertmanager config changes #1672](https://github.com/integr8ly/integreatly-operator/pull/1672)
-- [fix hardcoded addon value in controllers/rhmi/promethuesRules.go #1649](https://github.com/integr8ly/integreatly-operator/pull/1649)
+- `PR(s) merged`
+
+    - [Add custom alertmanager go template to enhance email config #1721](https://github.com/integr8ly/integreatly-operator/pull/1721)
+    - [Add alertmanager config changes #1672](https://github.com/integr8ly/integreatly-operator/pull/1672)
+    - [fix hardcoded addon value in controllers/rhmi/promethuesRules.go #1649](https://github.com/integr8ly/integreatly-operator/pull/1649)
 
 ## *June, 2020*
 
