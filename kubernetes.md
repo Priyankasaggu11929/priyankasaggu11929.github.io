@@ -29,36 +29,36 @@ heading: ""
 
 ## *May, 2021*
 
-### **[microsoft/hcsshim](https://github.com/microsoft/hcsshim)**
+#### **[microsoft/hcsshim](https://github.com/microsoft/hcsshim)**
 
 `PR(s) merged`
 - <sub>[bump containerd version to v1.5.1 #1027](https://github.com/microsoft/hcsshim/pull/1027#event-4745184459)</sub>
 
 
-### **[google/cadvisor](https://github.com/google/cadvisor/)**
+#### **[google/cadvisor](https://github.com/google/cadvisor/)**
 
 `PR(s) merged`  
 - <sub>[bump containerd version to v1.5.1 #2870](https://github.com/google/cadvisor/pull/2870)</sub>
 
-### **[containerd/zfs](https://github.com/containerd/zfs/)**
+#### **[containerd/zfs](https://github.com/containerd/zfs/)**
 
 `PR(s) merged`
 - <sub>[sync up with containerd 1.5 GA #47](https://github.com/containerd/zfs/pull/47)</sub>
 
-### **[kubernetes/image-builder](https://github.com/kubernetes-sigs/image-builder)**
+#### **[kubernetes/image-builder](https://github.com/kubernetes-sigs/image-builder)**
 
 `PR(s) merged`
 - <sub>[bump containerd version to v1.5.1 #610](https://github.com/kubernetes-sigs/image-builder/pull/610)</sub>
 - <sub>[bump containerd version to v1.5.0 #606](https://github.com/kubernetes-sigs/image-builder/pull/606)</sub>
 
 
-### **[kubernetes/test-infra](https://github.com/kubernetes/test-infra)**
+#### **[kubernetes/test-infra](https://github.com/kubernetes/test-infra)**
 
 `PR(s) merged`
 - <sub>[bump containerd version to v1.5.1 #22178](https://github.com/kubernetes/test-infra/pull/22178)</sub>
 - <sub>[bump containerd version to v1.5.0 #22157](https://github.com/kubernetes/test-infra/pull/22157)</sub>
 
-### **[ kubernetes-client/python ](https://github.com/kubernetes-client/python)**
+#### **[ kubernetes-client/python ](https://github.com/kubernetes-client/python)**
 
 `PR(s) merged`
 - <sub>[add examples to demonstrate the usage of dynamic client #1448](https://github.com/kubernetes-client/python/pull/1448)</sub>
@@ -79,7 +79,7 @@ heading: ""
 
 ## *April, 2021*
 
-### **[ kubernetes-client/python ](https://github.com/kubernetes-client/python)**
+#### **[ kubernetes-client/python ](https://github.com/kubernetes-client/python)**
 
 `PRs raised`
 - <sub>[Add example to demonstrate usage of patch_cluster_custom_object method #1437](https://github.com/kubernetes-client/python/pull/1437)</sub>
@@ -102,7 +102,7 @@ heading: ""
 
 ## *March, 2021*
 
-### **[integreatly-operator](https://github.com/integr8ly/integreatly-operator)**
+#### **[integreatly-operator](https://github.com/integr8ly/integreatly-operator)**
 
 <sub>I first started writing kubernetes flavor of go code while working on the [integreatly-operator](https://github.com/integr8ly/integreatly-operator) project. This is an Openshift Operator based on the Operator SDK for installing and reconciling Integreatly services.</sub>
 
