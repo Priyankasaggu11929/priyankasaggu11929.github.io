@@ -84,8 +84,8 @@ heading: ""
 - <sub>[simplify & enhance the node_labels.py example #1435](https://github.com/kubernetes-client/python/pull/1435)</sub>
 - <sub>[Fix CustomResourceDefinition manifest yaml in custom_object.py example #1433 ](https://github.com/kubernetes-client/python/pull/1433)</sub>
     
-<sub>`Issues resolved`:</sub>
-- [Example of body format for patch_cluster_custom_object #1427](https://github.com/kubernetes-client/python/issues/1427)</sub>
+`Issues resolved`
+- <sub>[Example of body format for patch_cluster_custom_object #1427](https://github.com/kubernetes-client/python/issues/1427)</sub>
 
    
 `Issues created & resolved`
