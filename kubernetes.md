@@ -4,7 +4,7 @@ title: Kubernetes
 heading: ""
 ---
 
-***I joined the the kubernetes community slack, sometime in the middle of july, 2020.***
+***I joined the the kubernetes community slack, sometime in the middle of june, 2020.***
 
 ***I started by getting involved with the (then) newly formed, [node-reviewers-group](https://www.psaggu.com/kubernetes-mentorship/2020/07/30/node-reviewer-group-tasks.html) which was kind of a mentorship program where a group of people would work together on reviewing/triaging `sig-node` PR(s) & issue(s).***
 
@@ -21,10 +21,30 @@ heading: ""
 ***This will be a running logging document for all my upstream Kubernetes project contributions.***
 
 
-*(For someone who want to read from the beginning, start [here](https://www.psaggu.com/kubernetes.html#april-2021).)*
+*(For someone who want to read from the beginning, start [here](https://www.psaggu.com/kubernetes.html#march-2021).)*
 
 ---
 
 ## *May, 2021*
 
 ## *April, 2021*
+
+---
+
+## *March, 2021*
+
+I first started writing kubernetes flavor of go code while working on the [integreatly-operator](https://github.com/integr8ly/integreatly-operator) project which is an `Openshift Operator` based on the Operator SDK for installing and reconciling Integreatly services.
+
+Following are the PRs for the changes I worked on:
+
+- [Add custom alertmanager go template to enhance email config #1721](https://github.com/integr8ly/integreatly-operator/pull/1721)
+- [Add alertmanager config changes #1672](https://github.com/integr8ly/integreatly-operator/pull/1672)
+- [fix hardcoded addon value in controllers/rhmi/promethuesRules.go #1649](https://github.com/integr8ly/integreatly-operator/pull/1649)
+
+---
+
+## *June, 2020*
+
+My very first PR on the upstream kubernetes project was:
+
+- [Update broken file link in title 3 #4896](https://github.com/kubernetes/community/pull/4896)
