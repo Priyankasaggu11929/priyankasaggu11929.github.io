@@ -8,7 +8,7 @@ heading: ""
 
 ***This is my personal journal where I wish (and want) to lay down something everyday!***
 
-![Screenshot from 2021-05-11 14-43-04](https://user-images.githubusercontent.com/30499743/117790821-573e2c00-b267-11eb-8629-625d80401801.png)
+![Screenshot from 2021-05-14 12-40-03](https://user-images.githubusercontent.com/30499743/118234920-a4add980-b4b1-11eb-8cd4-65e6e6d8773b.png)
 
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
