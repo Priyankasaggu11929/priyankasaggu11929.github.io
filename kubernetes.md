@@ -8,13 +8,13 @@ heading: ""
 
 ***Fortunately that's not the end!***
 
-*I'm back to getting involved in the Kubernetes organisation, fully active this time. And guess what I have already started contributing with code. 🙂*
+*I'm back to getting involved in the Kubernetes organisation, fully active this time. I have already started contributing with code.* 🙂
 
 
 ![Screenshot from 2021-05-14 12-05-43](https://user-images.githubusercontent.com/30499743/118231546-f30ca980-b4ac-11eb-9fd8-2d90e6d9e51e.png)
 
 
-***This will be a logging document for all my upstream Kubernetes project contributions so far, all new ones moving forward.***
+***This will be a running logging document for all my upstream Kubernetes project contributions.***
 
 
 *(For someone who want to read from the beginning, start [here](https://www.psaggu.com/kubernetes.html#april-2021).)*
