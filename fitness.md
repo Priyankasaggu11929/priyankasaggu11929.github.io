@@ -30,7 +30,17 @@ Okay, let's start:
 
 ## *May 14, 2021*
 
-<sub>logging it here, I weight 58.5 kgs today.</sub>
+<sub>58.3 kgs today.</sub>
+
+<sub>I'm absolutely not sorry for logging it daily this time 😆. It's totally worth (*and required*) to celebrate the small wins.</sub>
+
+<sub>*(Which also means, it would be totally fine if it goes up again. This is to tell myself, if it can happen once, it will happen again too, provided I keep doing the work (i.e keep eating clean))*</sub>
+
+---
+
+## *May 13, 2021*
+
+<sub>logging it here, I weigh 58.5 kgs today.</sub>
 
 <sub> This is to celebrate my small progress and well ofcourse, my lowest weight so far.</sub>
 
