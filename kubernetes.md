@@ -4,21 +4,23 @@ title: Kubernetes
 heading: ""
 ---
 
-***First time, I joined the the kubernetes community slack, sometime in the middle of june, 2020.***
+*First time, I joined the the kubernetes community slack, sometime in the middle of june, 2020.*
 
-***I started there by getting involved with the (then) newly formed, [node-reviewers-group](https://www.psaggu.com/kubernetes-mentorship/2020/07/30/node-reviewer-group-tasks.html). This was kind of a mentorship program where a group of people would work together on reviewing/triaging `sig-node` PR(s) & issue(s).***
+*I started there by getting involved with the (then) newly formed, [node-reviewers-group](https://www.psaggu.com/kubernetes-mentorship/2020/07/30/node-reviewer-group-tasks.html). This was kind of a mentorship program where a group of people would work together on reviewing/triaging `sig-node` PR(s) & issue(s).*
 
-***I spent couple of months in the group, trying to understand all what was being taught (or discussed) in there, and then I realised, not much of the stuff made  any sense to me. I was too overwhelmed by the concepts being discussed there, I felt absolutely alien-ish in that space. So, I gave up & left.***
+*I spent couple of months in the group, trying to understand all what was being taught (or discussed) in there, and then I realised, not much of the stuff made  any sense to me. I was too overwhelmed by the concepts being discussed there, I felt absolutely alien-ish in that space. So, I gave up & left.*
 
-***But fortunately that was not the end for me!***
+*But fortunately that was not the end for me!*
 
-***I've started again. And this time, I'm very actively getting involved into various parts of the Kubernetes organisation.***
+*I've started again. And this time, I'm very actively getting involved into various parts of the Kubernetes organisation.*
 
 
 ![Screenshot from 2021-05-14 12-05-43](https://user-images.githubusercontent.com/30499743/118231546-f30ca980-b4ac-11eb-9fd8-2d90e6d9e51e.png)
 
 
-***This will be a running logging document for all my upstream Kubernetes project contributions.***
+***This document will be a running logging document for all my upstream Kubernetes project contributions.***
+
+***Let's start...***
 
 
 *(For someone who want to read from the beginning, start [here](https://www.psaggu.com/kubernetes.html#june-2020).)*
