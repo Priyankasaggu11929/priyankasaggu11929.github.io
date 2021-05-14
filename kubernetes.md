@@ -8,9 +8,9 @@ heading: ""
 
 <sub>***I started there by getting involved with the (then) newly formed, [node-reviewers-group](https://www.psaggu.com/kubernetes-mentorship/2020/07/30/node-reviewer-group-tasks.html). This was kind of a mentorship program where a group of people would work together on reviewing/triaging `sig-node` PR(s) & issue(s).***</sub>
 
-<sub>***I spent couple of months in the group, trying to understand all what was being taught (or discussed) in there, and then I realised, not much of the stuff made  any sense to me. I was too overwhelmed by the concepts being discussed there, I felt absolutely alien-ish in that space. So, I gave up & left.***</sub>
+<sub>***I spent couple of months in the group, trying to understand all what was being taught (or discussed) in there. I soon realised I was not able to understand much of the stuff at the time. I was too overwhelmed by the concepts being discussed there, that I felt absolutely alien-ish in that space. So, in the end, I just gave up & left.***</sub>
 
-<sub>***But fortunately that was not the end for me!***</sub>
+<sub>***Which was not good, I ahould have tried more. But anyway, I'm back on the track after 6 months now!***</sub>
 
 ***I've started my journey again. And this time, I'm very actively getting involved into various parts of the Kubernetes organisation.***
 
@@ -33,6 +33,8 @@ heading: ""
 
 - `PR(s) merged`
     - <sub>[bump containerd version to v1.5.1 #1027](https://github.com/microsoft/hcsshim/pull/1027#event-4745184459)</sub>
+ 
+---
 
 
 #### **[google/cadvisor](https://github.com/google/cadvisor/)**
@@ -40,10 +42,14 @@ heading: ""
 - `PR(s) merged`  
     - <sub>[bump containerd version to v1.5.1 #2870](https://github.com/google/cadvisor/pull/2870)</sub>
 
+---
+
 #### **[containerd/zfs](https://github.com/containerd/zfs/)**
 
-`PR(s) merged`
+- `PR(s) merged`
 - <sub>[sync up with containerd 1.5 GA #47](https://github.com/containerd/zfs/pull/47)</sub>
+
+---
 
 #### **[kubernetes/image-builder](https://github.com/kubernetes-sigs/image-builder)**
 
@@ -51,12 +57,16 @@ heading: ""
     - <sub>[bump containerd version to v1.5.1 #610](https://github.com/kubernetes-sigs/image-builder/pull/610)</sub>
     - <sub>[bump containerd version to v1.5.0 #606](https://github.com/kubernetes-sigs/image-builder/pull/606)</sub>
 
+---
+
 
 #### **[kubernetes/test-infra](https://github.com/kubernetes/test-infra)**
 
 - `PR(s) merged`
     - <sub>[bump containerd version to v1.5.1 #22178](https://github.com/kubernetes/test-infra/pull/22178)</sub>
     - <sub>[bump containerd version to v1.5.0 #22157](https://github.com/kubernetes/test-infra/pull/22157)</sub>
+
+---
 
 #### **[ kubernetes-client/python ](https://github.com/kubernetes-client/python)**
 
