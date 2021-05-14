@@ -21,7 +21,7 @@ heading: ""
 ***This will be a running logging document for all my upstream Kubernetes project contributions.***
 
 
-*(For someone who want to read from the beginning, start [here](https://www.psaggu.com/kubernetes.html#march-2021).)*
+*(For someone who want to read from the beginning, start [here](https://www.psaggu.com/kubernetes.html#june-2020).)*
 
 ---
 
@@ -29,7 +29,6 @@ heading: ""
 
 ## *April, 2021*
 
----
 
 ## *March, 2021*
 
@@ -40,8 +39,6 @@ Following are the PRs for the changes I worked on:
 - [Add custom alertmanager go template to enhance email config #1721](https://github.com/integr8ly/integreatly-operator/pull/1721)
 - [Add alertmanager config changes #1672](https://github.com/integr8ly/integreatly-operator/pull/1672)
 - [fix hardcoded addon value in controllers/rhmi/promethuesRules.go #1649](https://github.com/integr8ly/integreatly-operator/pull/1649)
-
----
 
 ## *June, 2020*
 
