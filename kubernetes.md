@@ -27,7 +27,7 @@ heading: ""
 
 ---
 
-## *May, 2021*
+# *May, 2021*
 
 #### **[microsoft/hcsshim](https://github.com/microsoft/hcsshim)**
 
@@ -77,7 +77,7 @@ heading: ""
 
 ---
 
-## *April, 2021*
+# *April, 2021*
 
 #### **[ kubernetes-client/python ](https://github.com/kubernetes-client/python)**
 
@@ -86,7 +86,7 @@ heading: ""
     - <sub>[simplify & enhance the node_labels.py example #1435](https://github.com/kubernetes-client/python/pull/1435)</sub>
     - <sub>[Fix CustomResourceDefinition manifest yaml in custom_object.py example #1433 ](https://github.com/kubernetes-client/python/pull/1433)</sub>
 
-    `Issues resolved`
+- `Issues resolved`
     - <sub>[Example of body format for patch_cluster_custom_object #1427](https://github.com/kubernetes-client/python/issues/1427)</sub>
 
    
@@ -95,12 +95,12 @@ heading: ""
     - <sub>[Update the CRD yaml manifest mentioned in custom_object example #1432](https://github.com/kubernetes-client/python/issues/1432)</sub>
     - <sub>[simplify & enhance the node_labels.py example #1434](https://github.com/kubernetes-client/python/issues/1434)</sub>
 
-    `Issues/PRs responded to`
+- `Issues/PRs responded to`
     - <sub>[Removed custom_object.py and created a new file namespaced</sub>_custom_object.py which is more specific to usage of namespaced custom resource #1440](https://github.com/kubernetes-client/python/pull/1440)
 
 ---
 
-## *March, 2021*
+# *March, 2021*
 
 #### **[integreatly-operator](https://github.com/integr8ly/integreatly-operator)**
 
@@ -114,12 +114,12 @@ heading: ""
 
 ---
 
-## *June, 2020*
+# *June, 2020*
 
 #### **[kubernetes/community](https://github.com/kubernetes/community/)**
 
 <sub>This was my very first time contributing on the upstream kubernetes project.</sub>
 
-`PR(s) merged`
+- `PR(s) merged`
 
-- <sub>[Update broken file link in title 3 #4896](https://github.com/kubernetes/community/pull/4896)</sub>
+    - <sub>[Update broken file link in title 3 #4896](https://github.com/kubernetes/community/pull/4896)</sub>
