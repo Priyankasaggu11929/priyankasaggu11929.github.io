@@ -10,7 +10,8 @@ heading: ""
 
 *(Because it's still the hardest thing to keep at it, but it's definitely the most rewarding thing in life.)*
 
-![Screenshot from 2021-05-11 14-28-32](https://user-images.githubusercontent.com/30499743/117788643-3248b980-b265-11eb-95a0-ac3ccc4def59.png)
+![Screenshot from 2021-05-14 12-39-49](https://user-images.githubusercontent.com/30499743/118235052-d0c95a80-b4b1-11eb-86e5-87fe9e9ea8a2.png)
+
 
 ---
 
