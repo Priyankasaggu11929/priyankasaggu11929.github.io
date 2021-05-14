@@ -73,7 +73,7 @@ heading: ""
     -  [Document client-side timeouts in watch #1402](https://github.com/kubernetes-client/python/issues/1402)
     -  [Drop Python 2 support #1413](https://github.com/kubernetes-client/python/issues/1413)
 
-
+---
 
 ## *April, 2021*
 
@@ -96,6 +96,8 @@ heading: ""
 - `Issues/PRs responded to`:
     -  [Removed custom_object.py and created a new file namespaced_custom_object.py which is more specific to usage of namespaced custom resource #1440](https://github.com/kubernetes-client/python/pull/1440)
 
+---
+
 ## *March, 2021*
 
 #### [integreatly-operator](https://github.com/integr8ly/integreatly-operator)
@@ -109,10 +111,14 @@ I first started writing kubernetes flavor of go code while working on the [integ
     - [Add alertmanager config changes #1672](https://github.com/integr8ly/integreatly-operator/pull/1672)
     - [fix hardcoded addon value in controllers/rhmi/promethuesRules.go #1649](https://github.com/integr8ly/integreatly-operator/pull/1649)
 
+---
+
 ## *June, 2020*
 
 #### [kubernetes/community](https://github.com/kubernetes/community/)
 
-My very first PR on the upstream kubernetes project was:
+This was my very first time contributing on the upstream kubernetes project.
 
-- [Update broken file link in title 3 #4896](https://github.com/kubernetes/community/pull/4896)
+- `PR(s) merged`
+
+    - [Update broken file link in title 3 #4896](https://github.com/kubernetes/community/pull/4896)
