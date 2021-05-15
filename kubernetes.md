@@ -10,7 +10,7 @@ heading: ""
 
 <sub>***I spent couple of months in the group, trying to understand all what was being taught (or discussed) in there. I soon realised I was not able to understand much of the stuff at the time. I was too overwhelmed by the concepts being discussed there, that I felt absolutely alien-ish in that space. So, in the end, I just gave up & left.***</sub>
 
-<sub>***Which was not good, I ahould have tried more. But anyway, I'm back on the track after 6 months now!***</sub>
+<sub>***Which was not good, I should have tried more. But anyway, I'm back on the track after 6 months now!***</sub>
 
 ***I've started my journey again. And this time, I'm very actively getting involved into various parts of the Kubernetes organisation.***
 
