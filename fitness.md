@@ -40,7 +40,9 @@ Okay, let's start:
 
 <sub>Hahahaha, this is a tease. I so want to hit this another milestone, but can't because well 100gms count!.</sub>
 
-<sub>This reminds me of [jason braganza](https://janusworx.com) always telling me, nothing is certain unless you've the thing in your hands. So, yes, I'll wait for when it happens & then strike it. 🙂</sub>
+<sub>This reminds me of [jason braganza](https://janusworx.com) always telling me, no job is certain unless you've the offer letter in your hand. 😅</sub>
+
+<sub>So, yes, I'll wait for when it actually happens to be 58.0 & *then* I'll strike it. 🙂</sub>
 
 ---
 
