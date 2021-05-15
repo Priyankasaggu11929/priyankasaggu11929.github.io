@@ -29,6 +29,20 @@ heading: ""
 
 # *May, 2021*
 
+#### **[ kubernetes-client/python-base](https://github.com/kubernetes-client/python-base)**
+
+- `WIP PR(s)`
+    - <sub>[[ [WIP] drop python2 support #238](https://github.com/kubernetes-client/python-base/pull/238)</sub>
+
+---
+
+#### **[ containerd/containerd ](https://github.com/containerd/containerd)**
+
+- `WIP PR(s)`
+    - <sub>[bump hcsshim version to v0.8.17 #5505](https://github.com/containerd/containerd/pull/5505)</sub>
+ 
+---
+
 #### **[microsoft/hcsshim](https://github.com/microsoft/hcsshim)**
 
 - `PR(s) merged`
@@ -69,6 +83,10 @@ heading: ""
 ---
 
 #### **[ kubernetes-client/python ](https://github.com/kubernetes-client/python)**
+
+- `WIP PR(s)`
+    - <sub>[[WIP] add documentation for the server & client side timeout #1467](https://github.com/kubernetes-client/python/pull/1467)</sub>
+    - <sub>[[WIP] drop python 2 support #1468](https://github.com/kubernetes-client/python/pull/1468)</sub>
 
 - `PR(s) merged`
     - <sub>[add examples to demonstrate the usage of dynamic client #1448](https://github.com/kubernetes-client/python/pull/1448)</sub>
