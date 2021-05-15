@@ -4,13 +4,46 @@ title: Kubernetes
 description: "Posts about my Kubernetes upstream contributions."
 ---
 
-<div id="outreachy">
-  <ul class="posts">
-    <img src="https://user-images.githubusercontent.com/30499743/118231546-f30ca980-b4ac-11eb-9fd8-2d90e6d9e51e.png">
-    {% for post in site.posts %}
+<div id="kubernetes">
+  <ul class="posts">    
+    {% for post in paginator.posts %}
+      {% if post.layout != "none" %}
       {% if post.category == "upstream-contribution" %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a><span> &raquo; {{ post.date | date: "%B %d, %Y" }}</span></li>
+      <li>
+        <h1> <a href=" {{ post.url }}">{{ post.title }}</a> </h1>
+        <span>{{ post.date | date: "%B %d, %Y" }}</span></br>
+        <div>{{ post.excerpt | truncatewords:75}} </div> </li>
+        <p><i><a href="{{ post.url }}">Read more…</a></i></p>
+        <hr>
       {% endif %}
     {% endfor %}
   </ul>
 </div>
+
+
+<!-- pagination -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="webjeda">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a href="/">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
