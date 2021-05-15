@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kubernetes Contributions
+title: K8s Contributions
 heading: ""
 ---
 
