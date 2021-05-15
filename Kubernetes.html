@@ -7,14 +7,15 @@ description: "Posts about my Kubernetes upstream contributions."
 <div id="home">
   <ul class="posts">    
      {% for post in paginator.posts %}
-      {% if post.category == "upstream-contribution" %}
       <li>
+        {% if post.category == "upstream-contribution" %}
         <h1> <a href=" {{ post.url }}">{{ post.title }}</a> </h1>
         <span>{{ post.date | date: "%B %d, %Y" }}</span></br>
-        <div>{{ post.excerpt | truncatewords:75}} </div> </li>
+        <div>{{ post.excerpt | truncatewords:75}} </div> 
+        {% endif %}
+      </li>
         <p><i><a href="{{ post.url }}">Read more…</a></i></p>
         <hr>
-      {% endif %}
     {% endfor %}
   </ul>
 </div>
