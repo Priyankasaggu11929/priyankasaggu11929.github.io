@@ -28,6 +28,22 @@ Okay, let's start:
 
 ---
 
+
+## *May 15, 2021*
+
+    - cw: 58.1 kgs (2021/05/15)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Hahahaha, this is a tease. I so want to hit this another milestone, but can't because well 100gms count!.</sub>
+
+<sub>This reminds me of [jason braganza](https://janusworx.com) always telling me, nothing is certain unless you've the thing in your hands. So, yes, I'll wait for when it happens & then strike it. 🙂</sub>
+
+---
+
 ## *May 14, 2021*
 
 <sub>58.3 kgs today.</sub>
