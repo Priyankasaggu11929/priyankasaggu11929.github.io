@@ -96,153 +96,200 @@ td pre {
 // .sidebar .social-icons a:hover {
 //   text-decoration: none;
 // }
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600);
 
-body{
-  font-family: "Lato";
-  font-size: 100%; 
-	overflow-y: scroll; 
- font-family: sans-serif; 
- -ms-text-size-adjust: 100%; 
- -webkit-text-size-adjust: 100%; 
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; 
-  text-rendering: optimizeLegibility;
-  background-color: #fefefe;
-}
-a{
-  text-decoration: none;
-  @include transition(all 0.6s ease);
-  
-  &:hover{
-     @include transition(all 0.6s ease);
-  }
-}
-
-.app{
-  height: 100vh;
-}
-/* -------------
-Sidebar
-----------------*/
+/* Style and "hide" the sidebar */
 .sidebar {
-  position: absolute;
-  //width: 33.3333%;
-  width: 17em;
+  position: fixed;
   height: 100%;
   top: 0;
-  overflow:hidden;
-  background-color: #19222a;
-  -webkit-transform: translateZ(0);
-  visibility: visible;
-  -webkit-backface-visibility: hidden;
-  
-  header{
-    background-color: #09f;
-    width: 100%;
-    display:block;
-    padding: 0.75em	1em;
+  bottom: 0;
+  left: -28rem;
+  width: 28rem;
+  visibility: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 1.8rem;
+  color: rgba(255,255,255,.6);
+  background-color: #202020;
+  -webkit-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
+}
+@media (min-width: 30em) {
+  .sidebar {
+    font-size: 1.7rem;
   }
 }
 
-/* -------------
-Sidebar Nav
-----------------*/
+/* Sidebar content */
+.sidebar a {
+  font-weight: normal;
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: all 0s ease;
+  -moz-transition: all 0s ease;
+  transition: all 0s ease;
+}
+.sidebar-item {
+  padding: -2rem 1rem;
+  font-size: 0.8em;
+}
+.sidebar-item p:last-child {
+  margin-bottom: 0;
+}
+
+/* Sidebar nav */
 .sidebar-nav {
   position: fixed;
-  //width: 13em;
-  background-color: #19222a;
+  background-color: #202020;
   height: 100%;
-  font-weight: 400; 
+  font-weight: 400;
   font-size: 1.2em;
   overflow: auto;
-  padding-bottom: 6em;
+  /*padding-bottom: 6em;*/
   z-index: 9;
   overflow: hidden;
   -webkit-overflow-scrolling: touch;
- 
-  
-  ul{
-    list-style:none;
-    display: block;
-    padding: 0;
-    margin: 0;
-    
-    li{
-      margin-left: 0;
-      padding-left: 0;
-      //min-width: 13em;
-      display:inline-block;
-      width: 100%;
-      
-      a{
-        color: rgba(255,255,255,0.9);
-        font-size: 0.75em;
-        padding: 1.05em	1em;
-        position: relative;
-        display:block;
-        
-        &:hover{
-          background-color: rgba(0,0,0,0.9);
-          @include transition(all 0.6s ease);
-        }
-      }
-/* -------------
-Sidebar: icons
-----------------*/
-      i{
-        font-size: 1.8em;
-        padding-right: 0.5em;
-        width: 9em;
-        display: inline;
-        vertical-align:middle;
-      }  
-    }
-  }
+  border-bottom: 1px solid rgba(255,255,255,.1);
+}
+.sidebar-nav ul {
+  list-style: none;
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+.sidebar-nav ul li {
+  margin-left: 0;
+  padding-left: 0;
+  display: inline-block;
+  width: 100%;
+  /* -------------
+  Sidebar: icons
+  ----------------*/
+}
+.sidebar-nav ul li a {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 0.75em;
+  padding: 0.4em 0.5em;
+  position: relative;
+  display: block;
+}
+.sidebar-nav ul li a:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+  -webkit-transition: all 0s ease;
+  -moz-transition: all 0s ease;
+  transition: all 0s ease;
+}
+.sidebar-nav ul li i {
+  font-size: 1.8em;
+  padding-right: 0.5em;
+  width: 19em;
+  display: inline;
+  vertical-align: middle;
+}
+.sidebar-nav > ul > li > a:after {
+  content: '\f125';
+  font-family: ionicons;
+  font-size: 0.5em;
+  width: 10px;
+  color: #fff;
+  position: absolute;
+  right: 0.75em;
+  top: 45%;
+}
+.sidebar-nav-item {
+  display: block;
+  padding: 1.5rem 2rem; /* height width */
+  border-top: 1px solid rgba(255,255,255,.1);
+  font-size: 0.7em;
+}
+.sidebar-nav-item.active,
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+  -webkit-transition: all 0s ease;
+  -moz-transition: all 0s ease;
+  transition: all 0s ease;
+}
 
-/* -------------
-Chev elements
-----------------*/ 
-  & > ul > li > a:after {
-    content: '\f125';
-    font-family: ionicons;
-    font-size: 0.5em;
-    width: 10px;
-    color: #fff;
-    position: absolute;
-    right: 0.75em;
-    top: 45%;
+@media (min-width: 48em) {
+  .sidebar-item {
+    padding: -2rem 1rem;
   }
-/* -------------
-Nav-Flyout
-----------------*/
-  & .nav-flyout {
-    position: absolute;
-    background-color: #080D11;
-    z-index: 9;
-    left: 2.5em;
-    top: 0;
-    height: 100vh;
-    @include transform(translateX(100%));
-    @include transition(all 0.5s ease);
-    
-    a:hover{
-      background-color: rgba(255,255,255, 0.05)
-    }
-  }
-
-/* -------------
-Hover
-----------------*/
-  & ul > li:hover{
-      .nav-flyout{
-      @include transform(translateX(0));
-        @include transition(all 0.5s ease);
-    }
+  .sidebar-nav-item {
+    padding-left:  4rem;
+    padding-right: 4rem;
   }
 }
+
+/* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
+.sidebar-checkbox {
+  position: absolute;
+  opacity: 0;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+
+/* Style the `label` that we use to target the `.sidebar-checkbox` */
+.sidebar-toggle {
+  position: absolute;
+  top:  .8rem;
+  left: 2.5rem;
+  display: block;
+  padding: .28rem .75rem;
+  color: white;
+  background-color: var(--background-color);
+  border-radius: .28rem;
+  cursor: pointer;
+}
+
+.sidebar-toggle:before {
+  display: inline-block;
+  width: 2rem;
+  height: 1.5rem;
+  content: "";
+  background-image: -webkit-linear-gradient(to bottom, var(--sidebar-line-color), var(--sidebar-line-color) 20%, var(--background-color) 20%, var(--background-color) 40%, var(--sidebar-line-color) 40%, var(--sidebar-line-color) 60%, var(--background-color) 60%, var(--background-color) 80%, var(--sidebar-line-color) 80%, var(--sidebar-line-color) 100%);
+  background-image:    -moz-linear-gradient(to bottom, var(--sidebar-line-color), var(--sidebar-line-color) 20%, var(--background-color) 20%, var(--background-color) 40%, var(--sidebar-line-color) 40%, var(--sidebar-line-color) 60%, var(--background-color) 60%, var(--background-color) 80%, var(--sidebar-line-color) 80%, var(--sidebar-line-color) 100%);
+  background-image:     -ms-linear-gradient(to bottom, var(--sidebar-line-color), var(--sidebar-line-color) 20%, var(--background-color) 20%, var(--background-color) 40%, var(--sidebar-line-color) 40%, var(--sidebar-line-color) 60%, var(--background-color) 60%, var(--background-color) 80%, var(--sidebar-line-color) 80%, var(--sidebar-line-color) 100%);
+  background-image:         linear-gradient(to bottom, var(--sidebar-line-color), var(--sidebar-line-color) 20%, var(--background-color) 20%, var(--background-color) 40%, var(--sidebar-line-color) 40%, var(--sidebar-line-color) 60%, var(--background-color) 60%, var(--background-color) 80%, var(--sidebar-line-color) 80%, var(--sidebar-line-color) 100%);
+}
+
+.sidebar-toggle:active,
+#sidebar-checkbox:focus ~ .sidebar-toggle,
+#sidebar-checkbox:checked ~ .sidebar-toggle {
+  color: #000;
+  background-color: #eeeeee;
+}
+
+.sidebar-toggle:active:before,
+#sidebar-checkbox:focus ~ .sidebar-toggle:before,
+#sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  /*background-image: -webkit-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);*/
+  /*background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);*/
+  /*background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);*/
+  /*background-image:         linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);*/
+  background-image: -webkit-linear-gradient(to bottom, #555, #555 20%, #eee 20%, #eee 40%, #555 40%, #555 60%, #eee 60%, #eee 80%, #555 80%, #555 100%);
+  background-image:    -moz-linear-gradient(to bottom, #555, #555 20%, #eee 20%, #eee 40%, #555 40%, #555 60%, #eee 60%, #eee 80%, #555 80%, #555 100%);
+  background-image:     -ms-linear-gradient(to bottom, #555, #555 20%, #eee 20%, #eee 40%, #555 40%, #555 60%, #eee 60%, #eee 80%, #555 80%, #555 100%);
+  background-image:         linear-gradient(to bottom, #555, #555 20%, #eee 20%, #eee 40%, #555 40%, #555 60%, #eee 60%, #eee 80%, #555 80%, #555 100%);
+}
+
+@media (min-width: 30.1em) {
+  .sidebar-toggle {
+    position: fixed;
+  }
+}
+
+@media print {
+  .sidebar-toggle {
+    display: none;
+  }
+}
+
+
 /*****************************************************************************/
 /*
 /* Home
