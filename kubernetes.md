@@ -38,7 +38,7 @@ heading: ""
 
 #### **[ containerd/containerd ](https://github.com/containerd/containerd)**
 
-- `WIP PR(s)`
+- `PR(s) merged`
     - <sub>[bump hcsshim version to v0.8.17 #5505](https://github.com/containerd/containerd/pull/5505)</sub>
  
 ---
