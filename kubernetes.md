@@ -61,7 +61,7 @@ heading: ""
 #### **[containerd/zfs](https://github.com/containerd/zfs/)**
 
 - `PR(s) merged`
-- <sub>[sync up with containerd 1.5 GA #47](https://github.com/containerd/zfs/pull/47)</sub>
+    - <sub>[sync up with containerd 1.5 GA #47](https://github.com/containerd/zfs/pull/47)</sub>
 
 ---
 
