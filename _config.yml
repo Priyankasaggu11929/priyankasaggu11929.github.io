@@ -2,6 +2,14 @@ title: Priyanka Saggu
 url: 'https://psaggu.com'
 description: 'I speak here {^_^}'
 
+navbar-links:
+  - title: Kubernetes
+    subcategories:
+    - title: Blog
+      href: /blog/
+    - title: Contributions
+      href:  /contributions/
+
 exclude: [Gemfile, Gemfile.lock, README.md]
 markdown: kramdown
 
