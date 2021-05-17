@@ -72,6 +72,39 @@ td pre {
   margin-left: -1.125em !important;
 }
 
+
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #ccc;
+    background-color: #000;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #eee;
+  }
+
+  .page-title, .post-title {
+    color: #eee;
+  }
+
+  .anchorjs-link {
+    color: #eee;
+  }
+
+  code {
+    color: #d44950;
+    background-color: #222;
+  }
+
+  pre {
+    background-color: #222;
+  }
+
+  .sidebar-toggle {
+    background-color: #eee;
+  }
+}
 /*****************************************************************************/
 /*
 /* sidebar
@@ -155,9 +188,23 @@ ul.posts li span {
 //   text-align: center;
  } */
 
+.page .social-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
 .page .social-icons a {
   color: #515151;
   padding: 10px;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  .page .social-icons a {
+    color: #aaa;
+  }
 }
 
 /*****************************************************************************/
@@ -205,6 +252,13 @@ ul.posts li span {
   vertical-align: super;
   font-size: 10px;
   font-size: 0.625rem;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  .tag-box a {
+    background-color: #222;
+  }
 }
 
 /*****************************************************************************/
