@@ -31,8 +31,8 @@ heading: ""
 
 #### **[ kubernetes-client/python-base](https://github.com/kubernetes-client/python-base)**
 
-- `WIP PR(s)`
-    - <sub>[[ [WIP] drop python2 support #238](https://github.com/kubernetes-client/python-base/pull/238)</sub>
+- `PR(s) merged`
+    - <sub>[drop python2 support #238](https://github.com/kubernetes-client/python-base/pull/238)</sub>
 
 ---
 
