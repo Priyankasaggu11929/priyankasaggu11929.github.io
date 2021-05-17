@@ -97,10 +97,24 @@ td pre {
 //   text-decoration: none;
 // }
 
+/*
+ * Sidebar
+ *
+ * The sidebar is the drawer, the item we are toggling with our handy hamburger
+ * button in the corner of the page.
+ *
+ * This particular sidebar implementation was inspired by Chris Coyier's
+ * "Offcanvas Menu with CSS Target" article, and the checkbox variation from the
+ * comments by a reader. It modifies both implementations to continue using the
+ * checkbox (no change in URL means no polluted browser history), but this uses
+ * `position` for the menu to avoid some potential content reflow issues.
+ *
+ * Source: http://css-tricks.com/off-canvas-menu-with-css-target/#comment-207504
+ */
+
 /* Style and "hide" the sidebar */
 .sidebar {
   position: fixed;
-  height: 100%;
   top: 0;
   bottom: 0;
   left: -28rem;
@@ -125,14 +139,9 @@ td pre {
 .sidebar a {
   font-weight: normal;
   color: #fff;
-  text-decoration: none;
-  -webkit-transition: all 0s ease;
-  -moz-transition: all 0s ease;
-  transition: all 0s ease;
 }
 .sidebar-item {
-  padding: -2rem 1rem;
-  font-size: 0.8em;
+  padding: 1rem;
 }
 .sidebar-item p:last-child {
   margin-bottom: 0;
@@ -140,68 +149,13 @@ td pre {
 
 /* Sidebar nav */
 .sidebar-nav {
-  position: fixed;
-  background-color: #202020;
-  height: 100%;
-  font-weight: 400;
-  font-size: 1.2em;
-  overflow: auto;
-  /*padding-bottom: 6em;*/
-  z-index: 9;
-  overflow: hidden;
-  -webkit-overflow-scrolling: touch;
   border-bottom: 1px solid rgba(255,255,255,.1);
 }
-.sidebar-nav ul {
-  list-style: none;
-  display: block;
-  padding: 0;
-  margin: 0;
-}
-.sidebar-nav ul li {
-  margin-left: 0;
-  padding-left: 0;
-  display: inline-block;
-  width: 100%;
-  /* -------------
-  Sidebar: icons
-  ----------------*/
-}
-.sidebar-nav ul li a {
-  color: rgba(255, 255, 255, 0.9);
-  font-size: 0.75em;
-  padding: 0.4em 0.5em;
-  position: relative;
-  display: block;
-}
-.sidebar-nav ul li a:hover {
-  background-color: rgba(0, 0, 0, 0.9);
-  -webkit-transition: all 0s ease;
-  -moz-transition: all 0s ease;
-  transition: all 0s ease;
-}
-.sidebar-nav ul li i {
-  font-size: 1.8em;
-  padding-right: 0.5em;
-  width: 19em;
-  display: inline;
-  vertical-align: middle;
-}
-.sidebar-nav > ul > li > a:after {
-  content: '\f125';
-  font-family: ionicons;
-  font-size: 0.5em;
-  width: 10px;
-  color: #fff;
-  position: absolute;
-  right: 0.75em;
-  top: 45%;
-}
+
 .sidebar-nav-item {
   display: block;
-  padding: 1.5rem 2rem; /* height width */
+  padding: 1rem 2rem; /* height width */
   border-top: 1px solid rgba(255,255,255,.1);
-  font-size: 0.7em;
 }
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
@@ -209,14 +163,11 @@ a.sidebar-nav-item:focus {
   text-decoration: none;
   background-color: rgba(255,255,255,.1);
   border-color: transparent;
-  -webkit-transition: all 0s ease;
-  -moz-transition: all 0s ease;
-  transition: all 0s ease;
 }
 
 @media (min-width: 48em) {
   .sidebar-item {
-    padding: -2rem 1rem;
+    padding: 1.5rem;
   }
   .sidebar-nav-item {
     padding-left:  4rem;
@@ -237,24 +188,24 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle {
   position: absolute;
   top:  .8rem;
-  left: 2.5rem;
+  left: 1rem;
   display: block;
   padding: .28rem .75rem;
   color: white;
-  background-color: var(--background-color);
+  background-color: {{ site.page-col }};
   border-radius: .28rem;
   cursor: pointer;
 }
 
 .sidebar-toggle:before {
   display: inline-block;
-  width: 2rem;
+  width: 1rem;
   height: 1.5rem;
   content: "";
-  background-image: -webkit-linear-gradient(to bottom, var(--sidebar-line-color), var(--sidebar-line-color) 20%, var(--background-color) 20%, var(--background-color) 40%, var(--sidebar-line-color) 40%, var(--sidebar-line-color) 60%, var(--background-color) 60%, var(--background-color) 80%, var(--sidebar-line-color) 80%, var(--sidebar-line-color) 100%);
-  background-image:    -moz-linear-gradient(to bottom, var(--sidebar-line-color), var(--sidebar-line-color) 20%, var(--background-color) 20%, var(--background-color) 40%, var(--sidebar-line-color) 40%, var(--sidebar-line-color) 60%, var(--background-color) 60%, var(--background-color) 80%, var(--sidebar-line-color) 80%, var(--sidebar-line-color) 100%);
-  background-image:     -ms-linear-gradient(to bottom, var(--sidebar-line-color), var(--sidebar-line-color) 20%, var(--background-color) 20%, var(--background-color) 40%, var(--sidebar-line-color) 40%, var(--sidebar-line-color) 60%, var(--background-color) 60%, var(--background-color) 80%, var(--sidebar-line-color) 80%, var(--sidebar-line-color) 100%);
-  background-image:         linear-gradient(to bottom, var(--sidebar-line-color), var(--sidebar-line-color) 20%, var(--background-color) 20%, var(--background-color) 40%, var(--sidebar-line-color) 40%, var(--sidebar-line-color) 60%, var(--background-color) 60%, var(--background-color) 80%, var(--sidebar-line-color) 80%, var(--sidebar-line-color) 100%);
+  background-image: -webkit-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
+  background-image:    -moz-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
+  background-image:     -ms-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
+  background-image:         linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
 }
 
 .sidebar-toggle:active,
@@ -271,10 +222,10 @@ a.sidebar-nav-item:focus {
   /*background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);*/
   /*background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);*/
   /*background-image:         linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);*/
-  background-image: -webkit-linear-gradient(to bottom, #555, #555 20%, #eee 20%, #eee 40%, #555 40%, #555 60%, #eee 60%, #eee 80%, #555 80%, #555 100%);
-  background-image:    -moz-linear-gradient(to bottom, #555, #555 20%, #eee 20%, #eee 40%, #555 40%, #555 60%, #eee 60%, #eee 80%, #555 80%, #555 100%);
-  background-image:     -ms-linear-gradient(to bottom, #555, #555 20%, #eee 20%, #eee 40%, #555 40%, #555 60%, #eee 60%, #eee 80%, #555 80%, #555 100%);
-  background-image:         linear-gradient(to bottom, #555, #555 20%, #eee 20%, #eee 40%, #555 40%, #555 60%, #eee 60%, #eee 80%, #555 80%, #555 100%);
+  background-image: -webkit-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
+  background-image:    -moz-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
+  background-image:     -ms-linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
+  background-image:         linear-gradient(to bottom, #555, #555 20%, #fff 20%, #fff 40%, #555 40%, #555 60%, #fff 60%, #fff 80%, #555 80%, #555 100%);
 }
 
 @media (min-width: 30.1em) {
@@ -288,6 +239,58 @@ a.sidebar-nav-item:focus {
     display: none;
   }
 }
+
+/*
+ * Wrapper
+ *
+ * The wrapper is used to position site content when the sidebar is toggled. We
+ * use an outter wrap to position the sidebar without interferring with the
+ * regular page content.
+ */
+
+.wrap {
+  position: relative;
+  width: 100%;
+}
+
+/* Slide effect
+ *
+ * Handle the sliding effects of the sidebar and content in one spot, seperate
+ * from the default styles.
+ *
+ * As an a heads up, we don't use `transform: translate3d()` here because when
+ * mixed with `position: fixed;` for the sidebar toggle, it creates a new
+ * containing block. Put simply, the fixed sidebar toggle behaves like
+ * `position: absolute;` when transformed.
+ *
+ * Read more about it at http://meyerweb.com/eric/thoughts/2011/09/12/.
+ */
+
+.wrap,
+.sidebar,
+.sidebar-toggle {
+  -webkit-backface-visibility: hidden;
+      -ms-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+.wrap,
+.sidebar-toggle {
+  -webkit-transition: -webkit-transform .3s ease-in-out;
+          transition: transform .3s ease-in-out;
+}
+
+#sidebar-checkbox:checked + .sidebar {
+  z-index: 10;
+  visibility: visible;
+}
+#sidebar-checkbox:checked ~ .sidebar,
+#sidebar-checkbox:checked ~ .wrap,
+#sidebar-checkbox:checked ~ .sidebar-toggle {
+  -webkit-transform: translateX(28rem);
+      -ms-transform: translateX(28rem);
+          transform: translateX(28rem);
+}
+
 
 
 /*****************************************************************************/
