@@ -86,9 +86,9 @@ heading: ""
 
 - `WIP PR(s)`
     - <sub>[[WIP] add documentation for the server & client side timeout #1467](https://github.com/kubernetes-client/python/pull/1467)</sub>
-    - <sub>[[WIP] drop python 2 support #1468](https://github.com/kubernetes-client/python/pull/1468)</sub>
 
 - `PR(s) merged`
+    - <sub>[drop python 2 support #1468](https://github.com/kubernetes-client/python/pull/1468)</sub> 
     - <sub>[add examples to demonstrate the usage of dynamic client #1448](https://github.com/kubernetes-client/python/pull/1448)</sub>
     - <sub>[add example to demonstrate a rolling restart of the deployment #1450](https://github.com/kubernetes-client/python/pull/1450)</sub>
     - <sub>[update deployment_crud.py to include a restart_deployment method for typed client #1452](https://github.com/kubernetes-client/python/pull/1452)</sub>
