@@ -9,24 +9,26 @@
 </div> 
 
   <nav class="sidebar-nav">
-     <ul>
-        <li>
-          <a href="#"><i class="ion-bag"></i> <span>Shop</span></a>
-          <ul class="nav-flyout">
+    <ul>
+      {% for nav in site.navbar-links %}
+          {% if nav.subcategories %}
             <li>
-              <a href="#"><i class="ion-ios-color-filter-outline"></i>Derps</a>
+              <a class="sidebar-nav-item" href="#"><i class="ion-ios-more"></i> <span class="">{{ nav.title }}</span></a>
+              <ul class="nav-flyout">
+                {% for subcategory in nav.subcategories %}
+                <li>
+                    <a href="{{ subcategory.href | relative_url }}"><i class="ion-record"></i> <span class="">{{ subcategory.title }}</a>
+                </li>
+                {% endfor %}
+              </ul>
             </li>
+          {% else %}
             <li>
-              <a href="#"><i class="ion-ios-clock-outline"></i>Times</a>
+              <a class="sidebar-nav-item{% if page.url == linkurl %}.active{% endif %}" href="{{ nav.href | relative_url }}"><i class="ion-ios-more-outline"></i> <span class="">{{ nav.title }}</span></a>    
             </li>
-            <li>
-              <a href="#"><i class="ion-android-star-outline"></i>Hates</a>
-            </li>
-            <li>
-              <a href="#"><i class="ion-heart-broken"></i>Beat</a>
-            </li>
-          </ul>
-        </li>
+          {% endif %}
+        {% endfor %}
+        
       </ul>
     <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="/">Home</a>
 
