@@ -41,6 +41,7 @@ heading: ""
 ---
 
 - `Issues reviewed/triaged`
+    - <sub>[Last command of "Interactive Tutorial - Exposing Your App" interactive lesson is deprecated #27056](https://github.com/kubernetes/website/issues/27056#issuecomment-843129207)</sub>
     - <sub>[List All Container Images Running in a Cluster (#27475)](https://github.com/kubernetes/website/issues/27475#issuecomment-843066458)</sub>
     - <sub>[Unclear requirements for “Using Source IP” tutorial #27162](https://github.com/kubernetes/website/issues/27162#issuecomment-843223669)</sub>
 
