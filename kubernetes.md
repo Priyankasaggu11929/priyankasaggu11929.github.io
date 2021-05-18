@@ -37,7 +37,8 @@ heading: ""
 ---
 
 - `Issues resolved`
-    - <sub>[Issue with k8s.io/docs/tasks/administer-cluster/kubeadm/kubeadm-certs/ #27931](https://github.com/kubernetes/website/issues/27931)</sub> 
+    - <sub>[Issue with k8s.io/docs/tasks/administer-cluster/kubeadm/kubeadm-certs/ #27931](https://github.com/kubernetes/website/issues/27931)</sub>
+
 ---
 
 - `Issues reviewed/triaged`
