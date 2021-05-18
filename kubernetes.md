@@ -29,14 +29,31 @@ heading: ""
 
 # *May, 2021*
 
-#### **[ kubernetes-client/python-base](https://github.com/kubernetes-client/python-base)**
+#### **[kubernetes/website](https://github.com/kubernetes/website)**
+
+- `PR(s) raised`
+    - <sub>[fix the kubelet-config-1.21 configmap key value from config to kubelet #28025](https://github.com/kubernetes/website/pull/28025)</sub>
+
+---
+
+- `Issues resolved`
+    - <sub>[Issue with k8s.io/docs/tasks/administer-cluster/kubeadm/kubeadm-certs/ #27931](https://github.com/kubernetes/website/issues/27931)</sub> 
+---
+
+- `Issues reviewed/triaged`
+    - <sub>[List All Container Images Running in a Cluster (#27475)](https://github.com/kubernetes/website/issues/27475#issuecomment-843066458)</sub>
+    - <sub>[Unclear requirements for “Using Source IP” tutorial #27162](https://github.com/kubernetes/website/issues/27162#issuecomment-843223669)</sub>
+
+---
+
+#### **[kubernetes-client/python-base](https://github.com/kubernetes-client/python-base)**
 
 - `PR(s) merged`
     - <sub>[drop python2 support #238](https://github.com/kubernetes-client/python-base/pull/238)</sub>
 
 ---
 
-#### **[ containerd/containerd ](https://github.com/containerd/containerd)**
+#### **[containerd/containerd](https://github.com/containerd/containerd)**
 
 - `PR(s) merged`
     - <sub>[bump hcsshim version to v0.8.17 #5505](https://github.com/containerd/containerd/pull/5505)</sub>
@@ -82,7 +99,7 @@ heading: ""
 
 ---
 
-#### **[ kubernetes-client/python ](https://github.com/kubernetes-client/python)**
+#### **[kubernetes-client/python](https://github.com/kubernetes-client/python)**
 
 - `WIP PR(s)`
     - <sub>[[WIP] add documentation for the server & client side timeout #1467](https://github.com/kubernetes-client/python/pull/1467)</sub>
@@ -107,7 +124,7 @@ heading: ""
 
 # *April, 2021*
 
-#### **[ kubernetes-client/python ](https://github.com/kubernetes-client/python)**
+#### **[kubernetes-client/python](https://github.com/kubernetes-client/python)**
 
 - `PRs raised`
     - <sub>[Add example to demonstrate usage of patch_cluster_custom_object method #1437](https://github.com/kubernetes-client/python/pull/1437)</sub>
