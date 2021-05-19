@@ -31,7 +31,7 @@ heading: ""
 
 #### **[kubernetes/website](https://github.com/kubernetes/website)**
 
-- `PR(s) raised`
+- `PR(s) merged`
     - <sub>[fix the kubelet-config-1.21 configmap key value from config to kubelet #28025](https://github.com/kubernetes/website/pull/28025)</sub>
 
 ---
@@ -41,10 +41,20 @@ heading: ""
 
 ---
 
-- `Issues reviewed/triaged`
+- `Issues reviewed/triaged`  
+    - <sub>[Delete a StatefulSet #27920](https://github.com/kubernetes/website/issues/27920)</sub>
+    - <sub>[Install and Set Up kubectl on Linux #27951](https://github.com/kubernetes/website/issues/27951)</sub>     
     - <sub>[Last command of "Interactive Tutorial - Exposing Your App" interactive lesson is deprecated #27056](https://github.com/kubernetes/website/issues/27056#issuecomment-843129207)</sub>
     - <sub>[List All Container Images Running in a Cluster (#27475)](https://github.com/kubernetes/website/issues/27475#issuecomment-843066458)</sub>
+    - <sub>[Non-existent script is being referenced #27982](https://github.com/kubernetes/website/issues/27982#issuecomment-844272373)</sub>
     - <sub>[Unclear requirements for “Using Source IP” tutorial #27162](https://github.com/kubernetes/website/issues/27162#issuecomment-843223669)</sub>
+
+---
+
+#### **[kubernetes/org](https://github.com/kubernetes/org)**
+
+- `kubernetes organisation membership request` 🎊
+    - <sub>[REQUEST: New membership for Priyankasaggu11929 #2712](https://github.com/kubernetes/org/issues/2712)</sub>
 
 ---
 
@@ -58,6 +68,7 @@ heading: ""
 #### **[containerd/containerd](https://github.com/containerd/containerd)**
 
 - `PR(s) merged`
+    - <sub>[bump runc version to v1.0.0-rc95 #5514](https://github.com/containerd/containerd/pull/5514)</sub>
     - <sub>[bump hcsshim version to v0.8.17 #5505](https://github.com/containerd/containerd/pull/5505)</sub>
  
 ---
@@ -72,7 +83,8 @@ heading: ""
 
 #### **[google/cadvisor](https://github.com/google/cadvisor/)**
 
-- `PR(s) merged`  
+- `PR(s) merged`
+    - <sub>[bump runc version to v1.0.0-rc95 #2873](https://github.com/google/cadvisor/pull/2873)</sub>
     - <sub>[bump containerd version to v1.5.1 #2870](https://github.com/google/cadvisor/pull/2870)</sub>
 
 ---
