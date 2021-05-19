@@ -18,9 +18,9 @@ heading: ""
 
 ## *May 19, 2021*
 
-<sub>First thing, well being active on twitter for that PyCon India 2021 tickets giveaway, actually made me go backt to twitter, scrolling through the endless feeds for absolutely no reason at all (& it happens all subconciously, without even me knowing at times). It's just 2 days & I can already see the difference. I'm acknowleding it & will make sure I stop doing it</sub>
+<sub>First thing, well being active on twitter for that PyCon India 2021 tickets giveaway, actually made me go back to twitter, scrolling through the endless feeds for absolutely no reason at all (& it happens all subconciously, without even me knowing at times). It's just 2 days & I can already see the difference. I'm acknowleding it & will make sure I stop doing it</sub>
 
-<sub>Reason being, right now it won't harm me because generally I'm doing fine with my mental health. But at times, where I'm stressed about thousand things, then that twitter thing would be really toxic I know. So, yea better now then later.</sub
+<sub>Reason being, right now it won't harm me because generally I'm doing fine with my mental health. But at times, when I'm stressed about thousand things, then that twitter thing go *really* toxic I know. So, yea better now then later.</sub>
 
 <sub>And second thing, hahahaha, I spent the last weekend mostly trying to customize this blog thing (trying making the sidebar thing to have categories & sub-categories, & also trying to create a dark & light toggle button thing). This is just a note for myself, that the blog is to write not *just* to decorate it & do nothing that is supposed to be done here (which is writing, writing, writing). 😆 </sub>
 
