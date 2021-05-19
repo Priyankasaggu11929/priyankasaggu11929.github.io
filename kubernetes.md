@@ -43,7 +43,7 @@ heading: ""
 
 - `Issues reviewed/triaged`  
     - <sub>[Delete a StatefulSet #27920](https://github.com/kubernetes/website/issues/27920)</sub>
-    - <sub>[Install and Set Up kubectl on Linux #27951](https://github.com/kubernetes/website/issues/27951)</sub>     
+    - <sub>[Install and Set Up kubectl on Linux #27951](https://github.com/kubernetes/website/issues/27951#issuecomment-844218003)</sub>     
     - <sub>[Last command of "Interactive Tutorial - Exposing Your App" interactive lesson is deprecated #27056](https://github.com/kubernetes/website/issues/27056#issuecomment-843129207)</sub>
     - <sub>[List All Container Images Running in a Cluster (#27475)](https://github.com/kubernetes/website/issues/27475#issuecomment-843066458)</sub>
     - <sub>[Non-existent script is being referenced #27982](https://github.com/kubernetes/website/issues/27982#issuecomment-844272373)</sub>
