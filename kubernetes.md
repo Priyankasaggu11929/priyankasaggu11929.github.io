@@ -107,7 +107,8 @@ heading: ""
 
 #### **[kubernetes/test-infra](https://github.com/kubernetes/test-infra)**
 
-- `PR(s) merged`
+- `PR(s) merged`  
+    - <sub>[bump runc version to v1.0.0-rc95 & containerd version to v1.5.2 #22273](https://github.com/kubernetes/test-infra/pull/22273)</sub>
     - <sub>[bump containerd version to v1.5.1 #22178](https://github.com/kubernetes/test-infra/pull/22178)</sub>
     - <sub>[bump containerd version to v1.5.0 #22157](https://github.com/kubernetes/test-infra/pull/22157)</sub>
 
