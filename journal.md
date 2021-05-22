@@ -17,7 +17,7 @@ heading: ""
 
 ## *May 21, 2021*
 
-<sub>I think this is really important for me to write here, just for myself. I don't care for others right now.</sub>
+<sub>I think this is really important for me to write here, just for myself. I don't care what's others thoughts and opinions right now.</sub>
 
 <sub>I'm 23 years old currently & for almost 20 years of my life, I had known Gender to be binary, as two things, either male or female.</sub>
 
