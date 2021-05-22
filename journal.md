@@ -13,6 +13,27 @@ heading: ""
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
 
+---
+
+## *May 21, 2021*
+
+<sub>I think this is really important for me to write here, just for myself. I don't care for others right now.</sub>
+
+<sub>I'm 23 years old currently & for almost 21 years of my life, I had known Gender to be binary, as two things, either male or female.</sub>
+
+<sub>And not to mention, I was wrong. And, I am *really* happy that I was wrong.</sub>
+
+<sub>Now, athough, for these last 2 years of my life, I got this education and I became aware about the LGBTQ+ community, the cis and trans genders, the practice of using gender neutral pronouns, I still struggled. And before I write anything more, just wanna clarify that  I totally belive in, and I totally respect it, infact I consider it to be the most right, one of the most wonderful things which, finally, people are openly talking about, sharing about.</sub>
+
+<sub>It simply feels like one notion of freedom to me.</sub>
+
+<sub>But, I struggled, even after all this. Why? because it was still so hard for me, to give myself a definition for what is Gender, provided now I knew its not binary for sure, its definitely more than that, much more than that.</sub>
+
+<sub>I think today, I got a fair enough definition to give myself.</sub>
+
+<sub>***Gender is a spectrum, and where people sit on this spectrum has a fluidity on it. And because gender is a spectrum, we should not be defined by any specific terms.***</sub>
+
+<sub>That's my realisation for today. It's really pewceful now.</sub>
 
 ---
 
