@@ -27,7 +27,9 @@ heading: ""
 
 <sub>It simply feels like one notion of freedom to me.</sub>
 
-<sub>But, I struggled, even after all this. Why? because it was still so hard for me, to give myself a definition for what is Gender, provided now I knew its not binary for sure, its definitely more than that, much more than that.</sub>
+<sub>But, I struggled, even after all this. Why?</sub>
+
+<sub>Because it was still so hard for me, to give myself a definition for what is Gender, provided now I knew its not binary for sure, its definitely more than that, much more than that.</sub>
 
 <sub>I think today, I got a fair enough definition to give myself.</sub>
 
