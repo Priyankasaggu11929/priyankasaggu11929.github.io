@@ -31,11 +31,13 @@ heading: ""
 
 <sub>Because it was still so hard for me, to give myself a definition for what is Gender, provided now I knew its not binary for sure, its definitely more than that, much more than that.</sub>
 
-<sub>I think today, I got a fair enough definition to give myself.</sub>
+<sub>I think today, I got a fair enough definition, the right words to resolve that silent struggle, finally..</sub>
 
-<sub>***Gender is a spectrum, and where people sit on this spectrum has a fluidity on it. And because gender is a spectrum, we should not be defined by any specific terms.***</sub>
+<sub>***Gender is a spectrum, and where people sit on this spectrum has a fluidity on it.***</sub>
 
-<sub>That's my realisation for today. It's really pewceful now.</sub>
+<sub>***And because gender is a spectrum, we should not be defined by any specific terms.***</sub>
+
+<sub>This is my realisation for today. It has made me really peaceful now.</sub>
 
 ---
 
