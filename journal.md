@@ -19,11 +19,11 @@ heading: ""
 
 <sub>I think this is really important for me to write here, just for myself. I don't care for others right now.</sub>
 
-<sub>I'm 23 years old currently & for almost 21 years of my life, I had known Gender to be binary, as two things, either male or female.</sub>
+<sub>I'm 23 years old currently & for almost 20 years of my life, I had known Gender to be binary, as two things, either male or female.</sub>
 
 <sub>And not to mention, I was wrong. And, I am *really* happy that I was wrong.</sub>
 
-<sub>Now, although, for these last 2 years of my life, I got this education and I became aware about the LGBTQ+ community, the cis and trans genders, the practice of using gender neutral pronouns, I still struggled. And before I write anything more, just wanna clarify that  I totally belive in, and I totally respect it, infact I consider it to be the most right, one of the most wonderful things which, finally, people are openly talking about, sharing about.</sub>
+<sub>And although, for these last 3 years of my life, I got this education and I became aware about the LGBTQ+ community, the cis and trans genders, the practice of using gender neutral pronouns, I still struggled. And before I write anything more, just wanna clarify that  I totally belive in, and I totally respect it, infact I consider it to be the most right, one of the most wonderful things which, finally, people are openly talking about, sharing about.</sub>
 
 <sub>It simply feels like one notion of freedom to me.</sub>
 
