@@ -23,7 +23,7 @@ heading: ""
 
 <sub>And not to mention, I was wrong. And, I am *really* happy that I was wrong.</sub>
 
-<sub>Now, athough, for these last 2 years of my life, I got this education and I became aware about the LGBTQ+ community, the cis and trans genders, the practice of using gender neutral pronouns, I still struggled. And before I write anything more, just wanna clarify that  I totally belive in, and I totally respect it, infact I consider it to be the most right, one of the most wonderful things which, finally, people are openly talking about, sharing about.</sub>
+<sub>Now, although, for these last 2 years of my life, I got this education and I became aware about the LGBTQ+ community, the cis and trans genders, the practice of using gender neutral pronouns, I still struggled. And before I write anything more, just wanna clarify that  I totally belive in, and I totally respect it, infact I consider it to be the most right, one of the most wonderful things which, finally, people are openly talking about, sharing about.</sub>
 
 <sub>It simply feels like one notion of freedom to me.</sub>
 
