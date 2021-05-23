@@ -4,8 +4,8 @@ Read more here: [GitHub User Pages](https://help.github.com/articles/user-organi
 # License
 The following directories and their contents are Copyright Priyanka Saggu.  You may not reuse anything therein without my permission:
 
-*   _posts/
-*   _drafts/
-*   images/ (unless otherwise noted in a watermark)
+*  `_posts/`
+*  `_drafts/`
+*  `assets/`, `images/`, `_attachments/` (unless otherwise noted in a watermark)
 
 All other directories and files are MIT Licensed.
