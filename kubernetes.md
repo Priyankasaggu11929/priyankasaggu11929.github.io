@@ -15,7 +15,7 @@ heading: ""
 ***I've started my journey again. And this time, I'm very actively getting involved into various parts of the Kubernetes organisation.***
 
 
-![Screenshot from 2021-05-14 12-05-43](https://user-images.githubusercontent.com/30499743/118231546-f30ca980-b4ac-11eb-9fd8-2d90e6d9e51e.png)
+![psaggu-k8s-logo](https://user-images.githubusercontent.com/30499743/118231546-f30ca980-b4ac-11eb-9fd8-2d90e6d9e51e.png)
 
 
 ***This document will be a running logging document for all my upstream Kubernetes project contributions.***
