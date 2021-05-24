@@ -29,6 +29,20 @@ Okay, let's start:
 ---
 
 
+## *May 23, 2021*
+
+    - cw: 58.5 kgs (2021/05/23)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Ok, yes, body needs time to get stable in the below 60 numbers. And I've all the time for it. No hurry! 🙂</sub>
+
+---
+
+
 ## *May 15, 2021*
 
     - cw: 58.1 kgs (2021/05/15)
