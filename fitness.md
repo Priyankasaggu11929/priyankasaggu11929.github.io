@@ -18,6 +18,7 @@ And, just to break the jargons,
 - <sub>gw: goal weight</sub>
 
 Okay, let's start:
+
 ![Screenshot from 2021-05-11 14-27-23](https://user-images.githubusercontent.com/30499743/117788784-54dad280-b265-11eb-92f8-70cbd2c0fa08.png)
 
 
