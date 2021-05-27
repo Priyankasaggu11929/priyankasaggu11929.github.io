@@ -55,6 +55,7 @@ heading: ""
 
 - `kubernetes organisation membership request` 🎊
     - <sub>[REQUEST: New membership for Priyankasaggu11929 #2712](https://github.com/kubernetes/org/issues/2712)</sub>
+    - <sub>[add Priyankasaggu11929 to wg-structured-logging #2739](https://github.com/kubernetes/org/pull/2739)</sub>
 
 ---
 
