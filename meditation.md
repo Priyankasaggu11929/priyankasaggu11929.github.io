@@ -19,6 +19,14 @@ heading: ""
 
 ---
 
+*I start again! This time, will update at the top whenever I do (and track how much I do or infact if I do at all)*
+
+| Date         | 🧘 (✔️ /❌)  |
+|:------------:|:-----------:|
+| May 28, 2021 | ✔️           |
+
+---
+
 | Date         | 🧘 (✔️ /❌)  |
 |:------------:|:-----------:|
 | May 25, 2020 | ✔️           |
