@@ -16,9 +16,34 @@ heading: ""
 
 ---
 
+## *May 29 2021*
+
+<sub>***Day 1 of driving class with Papa!*** 😄 </sub>
+
+- <sub>I drove a car for the first time today (first time for a 4 wheeler).</sub>
+- <sub>Very hard it is 😆. Would take me lots of time to be comfortable, but Papa says I would be fine with more practice.</sub>
+- <sub>Also Papa is a bad teacher, because he is a Papa. ❤️ He keep worrying when I'm on the steering wheel, so, in his tension, he keeps getting confused while giving me instructions 😅. The clutch become race & race become break (not everytime ofcourse, & also, yes, he is a wonderful driver 😘)</sub>
+- <sub>So, in total I learnt the following today:</sub>
+    - <sub>how to turn on the switch, & then turn on the car engine (ofcourse, this is just me turning the key only, bit by bit 😄)</sub>
+    - <sub>what is clutch in the car</sub>
+    - <sub>what is a race foot rest</sub>
+    - <sub>what are breaks</sub>
+    - <sub>how to take the car ~</sub>
+         - <sub>from neutral gear to 1st gear (Papa made me understand the difference as ~ at neutral, the gear knob is more loose & at any other gears, it is a little less loose, more on the restricting side)</sub>
+         - <sub>from 1st gear back to neutral</sub>
+         - <sub>from neutral to second gear (& I confuse that with 4th gear, aaah, hard it is. I'll be better with time) 🙂</sub>
+    - <sub>I still find it hard to turn on the car. The balance of leaving the clutch & giving race, I'm finding it so hard to understand.</sub>
+         - <sub>either, I would give too much race that the car would jump (not good, I know)</sub> 
+         - <sub>or I would leave clutch & give no race that the car engine would stop only</sub>
+
+<sub>Anyway, a very good first day. I drove a little bit. Papa also let me take a turn to a different side road. 😄</sub>
+
+
+---
+
 ## *May 28 2021*
 
-<sub>Another lesson [jason braganza](https://janusworx.com) taught me today:</sub>
+<sub>Another lesson [jason braganza](https://janusworx.com) taught me today.</sub>
 
 <sub>***Forward. Always forward.***</sub>
 
