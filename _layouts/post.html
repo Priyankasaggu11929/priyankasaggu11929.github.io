@@ -4,7 +4,7 @@ layout: default
 
 <article itemscope itemtype="http://schema.org/Article">
   <div class="post">
-    <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
+    <h2 itemprop="name" class="post-title">{{ page.title }}</h2>
     <p class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</p>
     <!--    <p class="post-date" itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date_to_string }}</p> -->
     {% if page.comments %}<p><a href="{{ site.url }}{{ page.url }}#disqus_thread">Comments</a></p>{% endif %}
