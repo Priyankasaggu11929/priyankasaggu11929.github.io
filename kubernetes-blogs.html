@@ -10,7 +10,7 @@ description: "Posts about my Kubernetes upstream contributions."
     <hr>
      {%  for post in site.tags["kubernetes"] %}
           <li>
-            <h1> <a href=" {{ post.url }}">{{ post.title }}</a> </h1>
+            <h2> <a href=" {{ post.url }}">{{ post.title }}</a> </h2>
             <span>{{ post.date | date: "%B %d, %Y" }}</span></br>
             <div>{{ post.excerpt | truncatewords:75}} </div> 
           </li>
