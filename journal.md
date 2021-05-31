@@ -13,10 +13,15 @@ heading: ""
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
 
-
 ---
 
 ## *May 31, 2021*
+
+<sub>[Jason Braganza](https://janusworx.com/) taught me ~</sub>
+
+<sub>*You don't have to be rich. You want to have margins (***thick margins***) & redundancy.*</sub>
+
+---
 
 <sub>I read the book **So Good They Can't Ignore You** by *Cal Newport* for a good long (sharp) 45 min. First time in eons, I felt like literally *reading* a book, not listening!</sub>
 
@@ -34,7 +39,7 @@ heading: ""
 
 ## *May 29, 2021*
 
-<sub>[Jason Braganza](https://cb.janusworx.com/jason) reposted [this toot from Ru Singh](https://cb.janusworx.com/notice/A7iQAy5pfo3jCjImBM) & so that is where I spent some of my last hours. I read so many old blog posts from her, & so much more at other places on her blog. Really really wonderful. I absolutely loved the way she writes & more generally, she would be one of the folks I feel, I would want to follow along. 🙂 (Btw, I've known her for the last past 2 hours only, so, yea ... she is that awesome)</sub>
+<sub>[Jason Braganza](https://janusworx.com/) reposted [this toot from Ru Singh](https://cb.janusworx.com/notice/A7iQAy5pfo3jCjImBM) & so that is where I spent some of my last hours. I read so many old blog posts from her, & so much more at other places on her blog. Really really wonderful. I absolutely loved the way she writes & more generally, she would be one of the folks I feel, I would want to follow along. 🙂 (Btw, I've known her for the last past 2 hours only, so, yea ... she is that awesome)</sub>
 
 
 ---
