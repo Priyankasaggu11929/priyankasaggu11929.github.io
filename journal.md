@@ -16,6 +16,12 @@ heading: ""
 
 ---
 
+## *May 31, 2021*
+
+<sub>I read the book **So Good They Can't Ignore You** by *Cal Newport* for a good long (sharp) 45 min. First time in eons, I felt like literally *reading* a book, not listening!</sub>
+
+---
+
 ## *May 30, 2021*
 
 <sub>***Day 2 of driving lessons with Papa!***</sub>
