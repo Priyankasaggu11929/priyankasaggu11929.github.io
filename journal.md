@@ -16,6 +16,16 @@ heading: ""
 
 ---
 
+## *May 30, 2021*
+
+<sub>***Day 2 of driving lessons with Papa!***</sub>
+
+<sub>I was much better today. Slowly getting the hang of that [balance thing between leaving clutch & giving race](https://www.psaggu.com/journal.html#may-29-2021-1). </sub>
+
+<sub>I always forget to put the gear on back to neutral while stopping the car (glad Papa keeps pointing me that how important it is & also he puts it back to neutral before I make the car jump because of my ignorance over this). Will pay more attention on this today (if I go, because back to working days!) 🙂 </sub>
+
+---
+
 ## *May 29, 2021*
 
 <sub>[Jason Braganza](https://cb.janusworx.com/jason) reposted [this toot from Ru Singh](https://cb.janusworx.com/notice/A7iQAy5pfo3jCjImBM) & so that is where I spent some of my last hours. I read so many old blog posts from her, & so much more at other places on her blog. Really really wonderful. I absolutely loved the way she writes & more generally, she would be one of the folks I feel, I would want to follow along. 🙂 (Btw, I've known her for the last past 2 hours only, so, yea ... she is that awesome)</sub>
