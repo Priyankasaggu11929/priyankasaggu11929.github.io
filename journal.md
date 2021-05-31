@@ -22,7 +22,7 @@ heading: ""
 
 <sub>I was much better today. Slowly getting the hang of that [balance thing between leaving clutch & giving race](https://www.psaggu.com/journal.html#may-29-2021-1). </sub>
 
-<sub>I always forget to put the gear on back to neutral while stopping the car (glad Papa keeps pointing me that how important it is & also he puts it back to neutral before I make the car jump because of my ignorance over this). Will pay more attention on this today (if I go, because back to working days!) 🙂 </sub>
+<sub>I always forget to put the gear on back to neutral while stopping the car (glad Papa keeps pointing me that how important it is & also he puts it back to neutral before I make the car jump because of my ignorance over this). Will pay more attention on this tomorrow(if I go, because back to working days!) 🙂 </sub>
 
 ---
 
