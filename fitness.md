@@ -30,6 +30,22 @@ Okay, let's start:
 ---
 
 
+## *May 31, 2021*
+
+    - cw: 59.9 kgs (2021/05/31)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Hahaha, I have to be more gentle & patient with my body & the weight loss. There is nothing certain about it.</sub>
+
+<sub>Well one good thing, this time the weight gain is more towards me building up muscles. Because, yea, I've been exercising regularly (so far, yes, from a month or so) & I was doing good with my mental conditions too. So, nothing to worry about. Weight loss is a slow process, that is. 🙂</sub>
+
+---
+
+
 ## *May 23, 2021*
 
     - cw: 58.5 kgs (2021/05/23)
