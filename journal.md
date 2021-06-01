@@ -19,7 +19,9 @@ heading: ""
 
 ## *June 01, 2021*
 
-<sub>Today's lesson summary from the ***So good they can't ignore you*** by Cal Newport. (*This is the rule #3, i.e. the importance of control over what you do & how you do it, while creating work that you love.*)</sub>
+<sub>Today's lesson summary from the book, ***So good they can't ignore you*** by *Cal Newport*. </sub>
+    
+<sub>(*This is the rule #3, where Cal talks about the importance of control over what you do & how you do it, while creating the work that you love.*)</sub>
 
 ![ima_6ad5bd5](https://user-images.githubusercontent.com/30499743/120272211-4d3da500-c2ca-11eb-8213-36d30dd41e6d.jpeg)
 
