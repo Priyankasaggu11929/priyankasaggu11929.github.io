@@ -22,7 +22,7 @@ heading: ""
 
 <sub>I've been & even currently (very passively, although) researching & exploring & educating myself on different options for migrating to a different country from India. This is for many reasons maybe, but to start with, ofcourse for better opportunities.</sub> 
 
-<sub>That said, moving outside your country as a colored person is a little hard & tricky task & more tricky when you're woman doing it alone (and I understand this thing mostly all the time, from different spaces in my life currently). But no, that doens't stop me from doing it someday!</sub>
+<sub>That said, moving outside your country as a colored person is a little hard & tricky task & more tricky when you're a woman doing it alone (and I understand this thing mostly all the time, from different spaces in my life currently). But no, that doens't stop me from doing it someday!</sub>
 
 <sub>The series, I mentioned above, gave me a really significant knowledge/learning about the historical evidences on how colored/black folks were (& won't be wrong to say, are) treated in western countries. Not everything is same today ofcourse (I'm grateful for this, because it was really really really harsh & inhumane & literally more than worst or even more, back then), but the same mentality still presists!</sub>
 
