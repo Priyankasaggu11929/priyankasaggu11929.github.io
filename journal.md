@@ -14,6 +14,36 @@ heading: ""
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
 
 
+---
+
+## *June 02, 2021*
+
+<sub>Over last week (or rather weekend), I watched the [The Underground Railroad (TV series)](https://en.wikipedia.org/wiki/The_Underground_Railroad_(TV_series)).</sub>
+
+<sub>I've been & even currently (very passively, although) researching & exploring & educating myself on different options for migrating to a different country from India. This is for many reasons maybe, but to start with, ofcourse for better opportunities.</sub> 
+
+<sub>That said, moving outside your coutry as a colored person is a little hard & tricky task & more tricky when you're woman doing it alone (and I understand this thing mostly all the time, from different spaces in my life currently). But no, that doens't stop me from doing it someday!</sub>
+
+<sub>The series, I mentioned above, gave me a really significant knowledge/learning about the historical evidences on how colored/black folks were (& won't be wrong to say, are) treated in western countries. Not everything is same today ofcourse (I'm grateful for this, because it was really really really harsh & inhumane & literally more than worst or even more, back then), but the same mentality still presists!</sub>
+
+<sub>I was quite shifted & moved by the *The Underground Railroad* (& before when I watched *[12 Years a Slave (film)](https://en.wikipedia.org/wiki/12_Years_a_Slave_(film))*). So, I was researching a bit more about it on internet today. Reading more about the series, I learnt it was directed by [Barry Jenkins](https://en.wikipedia.org/wiki/Barry_Jenkins).</sub>
+
+<sub>Some more reading about Barry Jenkins & I learnt that he is a very highly celebrated director for his movies around african, or american-african black community.</sub>
+
+<sub>And finally, I ended up listening to this almost an hour & a half long [Masterclass Barry Jenkins](https://www.youtube.com/watch?v=1CMHMZq0spI) interview from the *International Film Festival Rotterdam*.</sub>
+
+<sub>Very early into the interview, I realised that *The Underground Railway* is not the only direction I've seen from Barry, but [Moonlight (2016 film)](https://en.wikipedia.org/wiki/Moonlight_(2016_film)) is another direction that I've seen before. This Master class felt like I was watching the *Moonlight* movie again but this time with a more raw story, more behind the scenes stories & so much more.</sub>
+
+<sub>The description of the Master class video has a list of the questions asked during the interview. Well, honestly I loved & learnt thoroughly throughout the entire interview, but the below questions are what I want to keep for myself here ~</sub>
+
+- <sub>[Why is the book “In a Blink of an Eye” so important to you?](https://www.youtube.com/watch?v=1CMHMZq0spI&t=1583s)</sub>
+- <sub>[What was the process of editing “Moonlight” like?](https://www.youtube.com/watch?v=1CMHMZq0spI&t=1796s)</sub>
+- <sub>[Did you make this film with the intention of it being universal?](https://www.youtube.com/watch?v=1CMHMZq0spI&t=2438s)</sub>
+- <sub>[ Q&A How did you manage to get noticed with “Medicine for Melancholy”?](https://www.youtube.com/watch?v=1CMHMZq0spI&t=4188s) (This last question's answer is exactly something what *[Jason Braganza](https://janusworx.com)* taught me when I started my professional career & I was trying to or managing to get noticed by a right set of people. That advice proved to be really life-changing, & I mean it really!)</sub> 
+
+<sub>Ok, so that's the end of this today's notes. Now that I read it, well yes, it is all scattered and not one or other cohesive thing. But that's how it is really. I can make some sense out of it, so fine for now. :) </sub>
+
+<sub>Good night!</sub>
 
 ---
 
