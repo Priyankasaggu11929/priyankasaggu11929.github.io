@@ -17,11 +17,11 @@ heading: ""
 
 ## *June 04, 2021*
 
-<sub>[Jason Braganza](https://janusworx.com) posted these [David Perell’s thread on twitter on how to improve your writing ](https://cb.janusworx.com/notice/A7wJvg5nvcrQ4IhV9E) today, on his [pleroma](https://cb.janusworx.com)./sub>
+<sub>[Jason Braganza](https://janusworx.com) posted these [David Perell’s thread on twitter on how to improve your writing ](https://cb.janusworx.com/notice/A7wJvg5nvcrQ4IhV9E) today, on his [pleroma](https://cb.janusworx.com).</sub>
 
 <sub>This is some gem of an advice on writing, truly!</sub>
 
-<sub>And infact, I subconciously do some of it. For example, the very first advice itself in the thread, I follow it from Day 1. Because I never knew only that a post is something that people write over days. I always had this notion at the back of my head that this is something everything writes as quickly as possible. And in addition to that I felt that everyone is smart, so, they write beautifully in the one go itself, and while I need to keep editing the post even after I have posted it like a week ago.</sub>
+<sub>And infact, I subconciously do some of it. For example, the very first advice itself in the thread, I follow it from Day 1. Because I never knew only that a post is something that people write over days. I always had this notion at the back of my head that this is something everyone writes as quickly as possible. And in addition to that I felt that everyone is smart, so, they write beautifully in the one go itself, and while I need to keep editing the post even after I have posted it like a week ago.</sub>
 
 <sub>So, here are some that really really inspired me or I right away connected with ~</sub>
 
