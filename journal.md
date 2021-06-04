@@ -15,6 +15,30 @@ heading: ""
 
 ---
 
+## *June 04, 2021*
+
+<sub>[Jason Braganza](https://janusworx.com) posted these [David Perell’s thread on twitter on how to improve your writing ](https://cb.janusworx.com/notice/A7wJvg5nvcrQ4IhV9E) today, on his [pleroma](https://cb.janusworx.com)./sub>
+
+<sub>This is some gem of an advice on writing, truly!</sub>
+
+<sub>And infact, I subconciously do some of it. For example, the very first advice itself in the thread, I follow it from Day 1. Because I never knew only that a post is something that people write over days. I always had this notion at the back of my head that this is something everything writes as quickly as possible. And in addition to that I felt that everyone is smart, so, they write beautifully in the one go itself, and while I need to keep editing the post even after I have posted it like a week ago.</sub>
+
+<sub>So, here are some that really really inspired me or I right away connected with ~</sub>
+
+- <sub>**Get ideas on paper:** Put words on the page as fast as you can. First drafts are always messy. But you can only start shaping ideas into polished writing once they’re out of your head. The beauty and clarity you desire will emerge with each edit.</sub>
+
+- <sub>**The two benefits of reading:** Painters look at lots of art, musicians listen to lots of music, and writers read all the time. Read to collect ideas and get inspired. Save the best ideas into your note-taking system and let yourself be inspired by the majesty of beautiful prose.</sub>
+    
+- <sub>**Ending writing sessions:** Flow states are the holy grail of this craft. Once you’re done writing, give yourself 60 seconds to jot down what you were thinking when you stopped writing and what you plan to accomplish next time at the top of the page</sub>
+    
+- <sub>**Grammar:** Waito study grammar. No part of writing is as important as having something interesting to say in the first place. That’s why we can read poorly written comments for hours on Reddit written by guys in their underwear but get bored with academic writing in a second.</sub>
+    
+<sub>These are some that I wrote in here, but literally each one of those advice is very very useful. For someone reading this, go ahead and finish reading all of them. They're simply the best set of advice.</sub>
+    
+<sub>That's all. Terribly sleepy now. I think I will crash right away. Good night!</sub>
+    
+---
+
 ## *June 02, 2021*
 
 <sub>Over last week (or rather weekend), I watched the [The Underground Railroad (TV series)](https://en.wikipedia.org/wiki/The_Underground_Railroad_(TV_series)).</sub>
