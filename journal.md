@@ -51,9 +51,9 @@ heading: ""
 
 <sub>And if it's a bad feeling or an uncomfortable sensation, try to feel this on behalf of other people, again, on behalf of those whom you care for.</sub>
 
-<sub>So, that pressure on my butts was not pleasant.</sub>
+<sub>SThat pressure due to weight on my butts was not pleasant.</sub>
 
-<sub>So, next I was thinking of my parents, that how much pressure they both have on them, about their family & the responsibilities.</sub>
+<sub>So, next momennt I was thinking of my parents, that how much pressure they both have on them, about their family & the responsibilities.</sub>
 
 <sub>Then I would tink of the butts again. That really, is it possible to let go of this tension on this point of focus, by letting go of the weight exerted by the whole body on it.</sub>
 
