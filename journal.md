@@ -39,7 +39,7 @@ heading: ""
 
 <sub>I did this today & I really was aware how many times I was distracted by my thoughts.</sub>
 
-<sub>And I also felt what all different kind of things I subconciously keep thinking about. And I draw whether they are of any importance or thinking about them is doing any good to me, & then I would label them important or not-important.</sub>
+<sub>And I also felt what all different kind of things I subconciously keep thinking about. And I draw whether they are of any importance or thinking about them is doing any good to me, & then I would label them as "important" or "not-important".</sub>
 
 <sub>And then I would eventually realise, most of them are absolutey of no good use to me. They are just mere seeds of thoughts from social media or random chats or stuff like that.</sub>
 
