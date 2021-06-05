@@ -17,7 +17,7 @@ heading: ""
 
 ## *June 05, 2021*
 
-<sub>I was listening to the audio book [Headspace-Guide-Meditation-Mindfulness-Minutes](https://www.amazon.in/Headspace-Guide-Meditation-Mindfulness-Minutes/dp/1250104904), by *Andy Puddicombe*</sub>
+<sub>I was listening to the audio book [The Headspace Guide to Meditation and Mindfullness](https://www.amazon.in/Headspace-Guide-Meditation-Mindfulness-Minutes/dp/1250104904), by *Andy Puddicombe*</sub>
 
 <sub>And I was meditating meanwhile, whenever there were those small meditation exercise breaks.</sub>
 
