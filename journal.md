@@ -15,6 +15,66 @@ heading: ""
 
 ---
 
+## *June 05, 2021*
+
+<sub>I was listening to the audio book [Headspace-Guide-Meditation-Mindfulness-Minutes](https://www.amazon.in/Headspace-Guide-Meditation-Mindfulness-Minutes/dp/1250104904), by *Andy Puddicombe*</sub>
+
+<sub>And I was meditating meanwhile, whenever there were those small meditation exercise breaks.</sub>
+
+<sub>Today, I felt like I understood the meditation for the first time.</sub>
+
+<sub>I sat quietly to meditate at some times. And other times I was walking trying to be in an empty state of mind.</sub>
+
+<sub>But as usual the thoughts would come. All sorts, good, bad, comparisions, or about pending work & everything!</sub>
+
+<sub>Then I would realise, oh I'm thinking about something when I'm supposed to not do anything.</sub>
+
+<sub>So, I would label that thought 1 & move ahead.</sub>
+
+<sub>Again, then I would try to concentrate on not thinking about anything, just walk or sit & try to feel the nice breeze.</sub>
+
+<sub>But soon, another thought would come up & I'm again lost in it.</sub>
+
+<sub>And then I would realise, oh yea, it happened again. I would acknowledge that thought again & label it as thought 2 & move ahead.</sub>
+
+<sub>I did this today & I really was aware how many times I was distracted by my thoughts.</sub>
+
+<sub>And I also felt what all different kind of things I subconciously keep thinking about. And I draw whether they are of any importance or thinking about them is doing any good to me, & then I would label them important or not-important.</sub>
+
+<sub>And then I would eventually realise, most of them are absolutey of no good use to me. They are just mere seeds of thoughts from social media or random chats or stuff like that.</sub>
+
+<sub>And then doing this, would bring me back to utter peace & I would really enjoy the occassional cool breeze, or walking around & touching the leaves.</sub>
+
+<sub>I also tried to do this exercise of sitting to meditate, but this time focussing on a body sensation, a tangible place of focus (I concentrated on my butts while I was sitting on the hard ground & was thinking how much weight these have to carry & all the pressure I was feeling at the time at that point of focus)</sub>
+
+<sub>And then Andy (the book aurator & author) also asked to do this. While you're meditating if that's a good feeling, try to share that happy feeling with others, like your family, friends & others you care for.</sub>
+
+<sub>And if it's a bad feeling or an uncomfortable sensation, try to feel this on behalf of other people, again, on behalf of those whom you care for.</sub>
+
+<sub>So, that pressure on my butts was not pleasant.</sub>
+
+<sub>So, next I was thinking of my parents, that how much pressure they both have on them, about their family & the responsibilities.</sub>
+
+<sub>Then I would tink of the butts again. That really, is it possible to let go of this tension on this point of focus, by letting go of the weight exerted by the whole body on it.</sub>
+
+<sub>The answer was obviously no. The only way I could cut that weight off is by cutting the entire upper half off & that is eventually me dead! So, No!</sub>
+
+<sub>Then I came back to thinking about parents. Same thing I thought, that is it something possible i.e. letting go their pressure created by the family & their responsibility. The only way I see was letting go of the family. And that's an insane thought! So, again, no no!</sub>
+
+<sub>So, then next thing was, I sat on the hard ground under me with both my feet & butt touching it. And instantly, it felt like quite considerable amount of that pressure was taken off, as it was now shared with my legs & the feet.</sub>
+
+<sub>So, again I came back to thinking about my parents. I thought about the same thing, I realised the way to help letting go off their pressure by all those family responsibilities is to share them across, with them.</sub>
+
+<sub>Ofcourse, it sounds very trivial & one would say, we don't need to sit & meditate to understand this. But what I did was mindfulness, I tried to concentrate on my uncomfortable sensations & then thought about others in those sensations & tried to take these bad feelings off them.</sub>
+
+<sub>I learnt mindfullness & that's what all count. 🙂</sub>
+
+---
+
+<sub>This is a very nice, very small video to watch ~ [How To Get Over Rejection](https://www.youtube.com/watch?v=5motuzyLXIk). Keeping this for myself to watch again later!</sub>
+    
+---
+
 ## *June 04, 2021*
 
 <sub>[Jason Braganza](https://janusworx.com) posted these [David Perell’s thread on twitter on how to improve your writing ](https://cb.janusworx.com/notice/A7wJvg5nvcrQ4IhV9E) today, on his [pleroma](https://cb.janusworx.com).</sub>
