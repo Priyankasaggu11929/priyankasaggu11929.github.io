@@ -51,15 +51,15 @@ heading: ""
 
 <sub>And if it's a bad feeling or an uncomfortable sensation, try to feel this on behalf of other people, again, on behalf of those whom you care for.</sub>
 
-<sub>That pressure due to my weight on my butts was not pleasant.</sub>
+<sub>That pressure due to my weight on my butt was not pleasant.</sub>
 
 <sub>So, next moment what I was thinking was about my parents. I was thinking that how much pressure they both have on them, about their family & the responsibilities.</sub>
 
 <sub>Then I would come back to my point of focus again. That really, is it possible to let go off this tension on this point of focus, by letting go off the weight exerted by the whole body on it.</sub>
 
-<sub>The answer was obviously no. The only way I could cut that weight off is by cutting the entire upper half off & that is eventually me going dead! So, No!</sub>
+<sub>The answer was obviously no. The only way I could cut that weight off is by cutting the entire upper half off & that is eventually me turning dead! So, No!</sub>
 
-<sub>Then I came back to thinking about parents. Same thing I thought, that is it something possible i.e. letting go off their pressure created by the family & their responsibility. The only way I thought off was by letting go off the source of that tension, i.e. the family itself. And that's an insane thought! So, again, no no!</sub>
+<sub>Then I came back to thinking about parents. Same thing I thought, that, is it something that is possible like letting go off their this pressure created by the family & their responsibility. The only way I could think of was by letting go off the source of that tension, i.e. the family itself. And that's an insane thought! So, again, no no!</sub>
 
 <sub>So, then next thing was, I sat on the hard ground under me with both my feet & butt touching it. And instantly, it felt like quite considerable amount of that pressure was taken off, as it was now shared between my legs & the feet and the point of focus.</sub>
 
