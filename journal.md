@@ -67,7 +67,7 @@ heading: ""
 
 <sub>Ofcourse, it sounds very trivial & one would say, we don't need to sit & meditate to understand this. But what I did was mindfulness, I tried to concentrate on my uncomfortable sensations & then thought about others in those sensations & tried to take those bad feelings off them. It was a very small exercise, but practicing it more & more with such scenarios would help practicing mindfullness in real times.</sub>
 
-<sub>So, yea, I learnt mindfullness today. And that's what all count. 🙂</sub>
+<sub>So, yea, I learnt mindfullness today. And that's all that counts. 🙂</sub>
 
 ---
 
