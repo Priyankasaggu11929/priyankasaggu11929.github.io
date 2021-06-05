@@ -51,23 +51,23 @@ heading: ""
 
 <sub>And if it's a bad feeling or an uncomfortable sensation, try to feel this on behalf of other people, again, on behalf of those whom you care for.</sub>
 
-<sub>SThat pressure due to weight on my butts was not pleasant.</sub>
+<sub>That pressure due to my weight on my butts was not pleasant.</sub>
 
-<sub>So, next momennt I was thinking of my parents, that how much pressure they both have on them, about their family & the responsibilities.</sub>
+<sub>So, next moment what I was thinking was about my parents. I was thinking that how much pressure they both have on them, about their family & the responsibilities.</sub>
 
-<sub>Then I would tink of the butts again. That really, is it possible to let go of this tension on this point of focus, by letting go of the weight exerted by the whole body on it.</sub>
+<sub>Then I would come back to my point of focus again. That really, is it possible to let go off this tension on this point of focus, by letting go off the weight exerted by the whole body on it.</sub>
 
-<sub>The answer was obviously no. The only way I could cut that weight off is by cutting the entire upper half off & that is eventually me dead! So, No!</sub>
+<sub>The answer was obviously no. The only way I could cut that weight off is by cutting the entire upper half off & that is eventually me going dead! So, No!</sub>
 
-<sub>Then I came back to thinking about parents. Same thing I thought, that is it something possible i.e. letting go their pressure created by the family & their responsibility. The only way I see was letting go of the family. And that's an insane thought! So, again, no no!</sub>
+<sub>Then I came back to thinking about parents. Same thing I thought, that is it something possible i.e. letting go off their pressure created by the family & their responsibility. The only way I thought off was by letting go off the source of that tension, i.e. the family itself. And that's an insane thought! So, again, no no!</sub>
 
-<sub>So, then next thing was, I sat on the hard ground under me with both my feet & butt touching it. And instantly, it felt like quite considerable amount of that pressure was taken off, as it was now shared with my legs & the feet.</sub>
+<sub>So, then next thing was, I sat on the hard ground under me with both my feet & butt touching it. And instantly, it felt like quite considerable amount of that pressure was taken off, as it was now shared between my legs & the feet and the point of focus.</sub>
 
-<sub>So, again I came back to thinking about my parents. I thought about the same thing, I realised the way to help letting go off their pressure by all those family responsibilities is to share them across, with them.</sub>
+<sub>So, again I came back to thinking about my parents. I thought about the same thing, I realised the way to help them letting go off their pressure by all those family responsibilities, is to share it with them.</sub>
 
-<sub>Ofcourse, it sounds very trivial & one would say, we don't need to sit & meditate to understand this. But what I did was mindfulness, I tried to concentrate on my uncomfortable sensations & then thought about others in those sensations & tried to take these bad feelings off them.</sub>
+<sub>Ofcourse, it sounds very trivial & one would say, we don't need to sit & meditate to understand this. But what I did was mindfulness, I tried to concentrate on my uncomfortable sensations & then thought about others in those sensations & tried to take those bad feelings off them. It was a very small exercise, but practicing it more & more with such scenarios would help practicing mindfullness in real times.</sub>
 
-<sub>I learnt mindfullness & that's what all count. 🙂</sub>
+<sub>So, yea, I learnt mindfullness today. And that's what all count. 🙂</sub>
 
 ---
 
