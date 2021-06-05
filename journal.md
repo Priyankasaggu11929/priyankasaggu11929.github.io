@@ -29,13 +29,13 @@ heading: ""
 
 <sub>Then I would realise, oh I'm thinking about something when I'm supposed to not do anything.</sub>
 
-<sub>So, I would label that thought 1 & move ahead.</sub>
+<sub>So, I would label that thought as "thought 1" & move ahead.</sub>
 
 <sub>Again, then I would try to concentrate on not thinking about anything, just walk or sit & try to feel the nice breeze.</sub>
 
 <sub>But soon, another thought would come up & I'm again lost in it.</sub>
 
-<sub>And then I would realise, oh yea, it happened again. I would acknowledge that thought again & label it as thought 2 & move ahead.</sub>
+<sub>And then I would realise, oh yea, it happened again. I would acknowledge that thought & label it as "thought 2" & move ahead.</sub>
 
 <sub>I did this today & I really was aware how many times I was distracted by my thoughts.</sub>
 
