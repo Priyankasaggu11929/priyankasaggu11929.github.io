@@ -15,6 +15,23 @@ heading: ""
 
 ---
 
+## *June 6, 2021*
+
+<sub>I learnt the difference between fiction and non-fiction books today *(and [Jason Braganza](https://janusworx.com) taught me)*</sub>
+
+<sub>So, what I understood before, from fiction and non-fiction was that, a fiction is a story and so, a non-fiction is a non-story.</sub>
+
+<sub>But well, that's not right. Because, we mostly commonly see the non-fiction books too in a storytelling format.</sub>
+
+<sub>So, Jason Braganza clarfied that a fiction is what is imaginary and a non-fiction is something that's not imaginary.</sub>
+
+<sub>Might this be trivial to most, but I learnt it the right way today!</sub>
+
+
+
+
+---
+
 ## *June 05, 2021*
 
 <sub>I was listening to the audio book [The Headspace Guide to Meditation and Mindfullness](https://www.amazon.in/Headspace-Guide-Meditation-Mindfulness-Minutes/dp/1250104904), by *Andy Puddicombe*</sub>
