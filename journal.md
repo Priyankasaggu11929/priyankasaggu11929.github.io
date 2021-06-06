@@ -42,11 +42,13 @@ heading: ""
 
 ---
 
-<sub>***Thoughts out of gratitude and greatfulness***</sub>
+<sub>***Thoughts out of gratitude and greatfulness. These are some moments that I'll never forget and I'll be forever grateful for!***</sub>
+
+
 
 <sub>[Sourabh Pruthi](https://sourabh1031.github.io/sourabhpruthi.github.io/) introduced me to the word Dgplug. And that Dgplug turned out to be the start of a new era, new life for me!</sub>
 
-<sub>[Jason Braganza](https://janusworx.com) taught me how to ssh into remote machines (as the very first thing I remeber) and that started the idea of DevOps or system administration or hardware for me. Jason braganza also taught me about bottom posting in mailing list, that was a moment of whole lot of new confidence. And he taught me about the power of asking, and reviewing and taking feedback.</sub>
+<sub>[Jason Braganza](https://janusworx.com) taught me how to ssh into remote machines (as my very first thing I learnt in this space I remember) and that started the idea of DevOps or system administration or hardware for me. I got this super power of using remote machines to do all breaking and building and learning and what not. Jason braganza also taught me about bottom posting in mailing list, that was a moment of whole lot of new confidence. And he taught me about the power of asking, and reviewing and taking feedback.</sub>
 
 <sub>[Kushal](https://kushaldas.in) taught me about about IRC, opensource and taking textual classes & I would b forever grateful to him. He just changd everything for me.</sub>
 
