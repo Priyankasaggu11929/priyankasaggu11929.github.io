@@ -42,7 +42,7 @@ heading: ""
 
 ---
 
-<sub>***Thoughts out of gratitude and greatfulness. These are some moments that I'll never forget and I'll be forever grateful for!***</sub>
+<sub>***Thoughts out of gratitude and gratefulness. These are some moments that I'll never forget and I'll be forever grateful for!***</sub>
 
 
 
