@@ -42,7 +42,7 @@ heading: ""
 
 ---
 
-<sub>Thoughts out or greatfulness</sub>
+<sub>***Thoughts out of gratitude and greatfulness***</sub>
 
 <sub>[Sourabh Pruthi](https://sourabh1031.github.io/sourabhpruthi.github.io/) introduced me to the word Dgplug. And that Dgplug turned out to be the start of a new era, new life for me!</sub>
 
