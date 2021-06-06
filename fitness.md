@@ -30,6 +30,19 @@ Okay, let's start:
 ---
 
 
+## *June 06, 2021*
+
+    - cw: 59.9 kgs (2021/06/06)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Part of the process ~ the plateaus. All I have to keep eating clean and keep doing a little bit of exercise.</sub>
+
+---
+
 ## *May 31, 2021*
 
     - cw: 59.9 kgs (2021/05/31)
