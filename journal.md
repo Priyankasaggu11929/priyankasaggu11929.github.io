@@ -28,7 +28,37 @@ heading: ""
 <sub>Might this be trivial to most, but I learnt it the right way today!</sub>
 
 
+---
 
+<sub>Today, I learnt more about meditation and mindfullness and headspace while I was listening to the book, [The Headspace Guide to Meditation and Mindfullness](https://www.amazon.in/Headspace-Guide-Meditation-Mindfulness-Minutes/dp/1250104904), by *Andy Puddicombe*.</sub>
+
+<sub>I learnt that it is mindfulness that's that core of the meditation. That is, becoming mindful of all the thoughts that are coming and going out of your mind.</sub>
+
+<sub>Headspace is the result of that mindfullness.</sub>
+
+<sub>Headspace is not an empty state of mind. It's rather a state of mind when you are aware of the existence of all these thoughts coming and going out of your mind, and you are still comfortable and in peace with them.</sub>
+
+<sub>I also learnt when you do body scans while meditation, the nature of the thoughts in your mind might also depend on the point of focus at the time. You might get thoughts associated with life & experiences around that point of focus.</sub>
+
+---
+
+<sub>Thoughts out or greatfulness</sub>
+
+<sub>[Sourabh Pruthi](https://sourabh1031.github.io/sourabhpruthi.github.io/) introduced me to the word Dgplug. And that Dgplug turned out to be the start of a new era, new life for me!</sub>
+
+<sub>[Jason Braganza](https://janusworx.com) taught me how to ssh into remote machines (as the very first thing I remeber) and that started the idea of DevOps or system administration or hardware for me. Jason braganza also taught me about bottom posting in mailing list, that was a moment of whole lot of new confidence. And he taught me about the power of asking, and reviewing and taking feedback.</sub>
+
+<sub>[Kushal](https://kushaldas.in) taught me about about IRC, opensource and taking textual classes & I would b forever grateful to him. He just changd everything for me.</sub>
+
+<sub>[mbuf](http://www.shakthimaan.com) taught me about how to ask proper questions with proper amount of information, and how to mind the tone and asking people's permission before pinging them in DM. My first introduction to an agile scrum or sprint like format was also because of mbuf with the project Operation Blue Moon (OBM).</sub>
+
+<sub>[Nikhita](https://www.nikhita.dev) instilled the idea of working in a dream team and that was a driving force for everything then onwards.</sub>
+
+<sub>[Jose](https://github.com/pepedocs) injected this idea in my head on how to start thinking of kubernetes in API terms. And that's the start of an another phase for me, I am able to understand k8s upstream source code and even contributing to it. He also taught me how to be aware and concious with the usage of words in work place while sharing ideas or opinions. Like he taught me by this word "should" (for an example), this might imply as an unneccsary exertion of our own ideas on others.</sub>
+
+<sub>[dims](https://twitter.com/dims) made me regular and obedient with my Kubernetes upstream work.</sub>
+
+<sub>***I'm literally forever grateful! Thank you to all of you and so many others!***</sub>
 
 ---
 
