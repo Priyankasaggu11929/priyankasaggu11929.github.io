@@ -15,6 +15,20 @@ heading: ""
 
 ---
 
+## *June 8, 2021*
+
+<sub>This last weekend, I had another driving lesson.</sub>
+
+<sub>Practised a lot of feet & hand switching between race, break, clutch, & gear stick. I feel much more confident now, but ofcourse loooots of practice is required.</sub>
+
+<sub>I learnt how to reverse the car, & take turns on the same road by rotating the steering wheel to it's extreme ends on both sides. Another skill unloacked.</sub>
+
+<sub>Drove over a bumpy road, with lots of broken road patches, so, had a really good practice on bring the car from certain speed to neutral using clutch & break.</sub>
+
+<sub>Was another really fun session! Slowly getting the hand of it! :)</sub>
+
+---
+
 ## *June 6, 2021*
 
 <sub>I learnt the difference between fiction and non-fiction books today *(and [Jason Braganza](https://janusworx.com) taught me)*</sub>
