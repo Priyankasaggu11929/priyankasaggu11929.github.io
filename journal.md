@@ -23,7 +23,9 @@ heading: ""
 
 <sub>I learnt how to reverse the car, & take turns on the same road by rotating the steering wheel to it's extreme ends on both sides. Another skill unlocked. 😆 </sub>
 
-<sub>Drove over a bumpy road, with lots of broken road patches, so, had a really good practice on bring the car from certain speed to neutral using clutch & break & cross those patches with very little race.</sub>
+<sub>Drove over a bumpy road, with lots of broken road patches, so, had a really good practice on bringing the car from a certain speed to neutral using clutch & break & cross those patches with very little race.</sub>
+
+<sub>Changing gears from 2nd to 3rd (now, when I'm driving) feels like too much high speed to me. So, pracitce, lot more practice required.</sub>
 
 <sub>Among all this, *YES, FINALLY*, I was aware (mostly but couple misses) to put the gear stick back to neutral after every car switch off!</sub>
 
