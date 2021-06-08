@@ -21,11 +21,13 @@ heading: ""
 
 <sub>Practised a lot of feet & hand switching between race, break, clutch, & gear stick. I feel much more confident now, but ofcourse loooots of practice is required.</sub>
 
-<sub>I learnt how to reverse the car, & take turns on the same road by rotating the steering wheel to it's extreme ends on both sides. Another skill unloacked.</sub>
+<sub>I learnt how to reverse the car, & take turns on the same road by rotating the steering wheel to it's extreme ends on both sides. Another skill unlocked. 😆 </sub>
 
-<sub>Drove over a bumpy road, with lots of broken road patches, so, had a really good practice on bring the car from certain speed to neutral using clutch & break.</sub>
+<sub>Drove over a bumpy road, with lots of broken road patches, so, had a really good practice on bring the car from certain speed to neutral using clutch & break & cross those patches with very little race.</sub>
 
-<sub>Was another really fun session! Slowly getting the hand of it! :)</sub>
+<sub>Among all this, *YES, FINALLY*, I was aware (mostly but couple misses) to put the gear stick back to neutral after every car switch off!</sub>
+
+<sub>It another really fun session! Slowly getting the hand of it! :)</sub>
 
 ---
 
