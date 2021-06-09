@@ -15,6 +15,12 @@ heading: ""
 
 ---
 
+## *June 9, 2021*
+
+<sub>On a very good book reading streak this week. Have finished the **So good they can't ignore you** by Cal Newport. And also read some 180 pages of the **Deep Work** book again by Cal Newport in 2 days. Really enjoying it this time!</sub>
+
+---
+
 ## *June 8, 2021*
 
 <sub>This last weekend, I had another driving lesson.</sub>
