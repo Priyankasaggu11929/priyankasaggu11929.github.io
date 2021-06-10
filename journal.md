@@ -15,6 +15,19 @@ heading: ""
 
 ---
 
+## *June 10, 2021*
+
+<sub>I'm currently reading a book about meditation & another book about building deep work habits in all career, professional & personal aspects!</sub>
+
+<sub>The very core fundamental values I learnt across them, are ~</sub>
+
+- <sub>***Mindfulness*** (about what *anything* that you're doing at the moment)</sub>
+- <sub>***Attention*** (being attentive at the point of focus or the task at focus, and not getting distracted by the outside things)</sub>
+- <sub>***Clarity*** (i.e. clarity of thoughts. This includes both clarity about what to do & clarity about what not to do?)</sub>
+- <sub>***Deliberate Practice*** (keep putting deliberate mindful practice into the things/habits/goals that you are trying to achive. The more you'll practice, the more easier overcoming the resistance would become, to keep doing them, and eventually you'll see compounded results)</sub>
+
+---
+
 ## *June 9, 2021*
 
 <sub>On a very good book reading streak this week. Have finished the **So good they can't ignore you** by Cal Newport. And also read some 180 pages of the **Deep Work** book again by Cal Newport in 2 days. Really enjoying it this time!</sub>
