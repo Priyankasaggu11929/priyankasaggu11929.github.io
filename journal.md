@@ -36,7 +36,9 @@ heading: ""
 
 <sub>It's the **checking in** before sitting for the meditation, that is even more important than doing the meditation.</sub>
 
-<sub>And by **checking in**, what I mean is prepping before you concentrate (on the breath, or other center of focus), i.e. sitting in a quiet place, in a right postion where you are comfortable, the weight of the body or the gravity at different body parts feel fine, doing quick scans to check the sensations in the body, taking deep breaths (taking air in from the nose, leaving out from the mouth), ans then once you are done checking in, you close your eyes finally to meditate.</sub>
+<sub>And by **checking in**, what I mean is prepping before you concentrate (on the breath, or other center of focus), i.e. sitting in a quiet place, in a right postion where you are comfortable, the weight of the body or the gravity at different body parts feel fine, doing quick scans to check the sensations in the body, taking deep breaths (taking air in from the nose, leaving out from the mouth)</sub>
+
+<sub>and then once you are done *checking in*, you close your eyes finally to meditate.</sub>
 
 <sub>I always felt like this was a part of the meditation (as I experienced during the headspace guided exercises). Infact, I didn't even know whether it was a separate step. Now, I can make sense of it.</sub>
 
