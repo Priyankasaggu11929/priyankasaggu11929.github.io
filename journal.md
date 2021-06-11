@@ -19,7 +19,7 @@ heading: ""
 
 <sub>Finished reading another book, **Deep work** by Cal Newport.</sub>
 
-<sub>While, I am very very happy that I finished 2 books over last week. But I know, this is not gonna be sustainable for me.  It more of feels like a one time thing right to me. Although, currently I am enjoying reading and so want to pick uo another one and dig deeper, but I worry that this excitement wont last longer, if I will finish these books in one stretch. I need to rather make it an every day habit. Little little everyday!</sub>
+<sub>While, I am very very happy that I finished 2 books over last week. But I know, this is not gonna be sustainable for me.  It more of feels like a one time thing right now, to me. Although, currently I am enjoying reading and so want to pick uo another one and dig deeper, but I worry that this excitement wont last longer, if I will finish these books in one stretch. I need to rather make it an every day habit. Little little everyday!</sub>
 
 <sub>And want to put here this one thing that I learnt today ~</sub>
 
