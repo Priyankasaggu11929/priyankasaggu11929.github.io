@@ -15,6 +15,33 @@ heading: ""
 
 ---
 
+## *June 11, 2021*
+
+<sub>Finished reading another book, **Deep work** by Cal Newport.</sub>
+
+<sub>While, I am very very happy that I finished 2 books over last week. But I know, this is not gonna be sustainable for me.  It more of feels like a one time thing right to me. Although, currently I am enjoying reading and so want to pick uo another one and dig deeper, but I worry that this excitement wont last longer, if I will finish these books in one stretch. I need to rather make it an every day habit. Little little everyday!</sub>
+
+<sub>And want to put here this one thing that I learnt today ~</sub>
+
+<sub>There is no meditation such as a good meditation or a bad meditation. Meditation in other words is just having awareness.</sub>
+
+<sub>Without awareness, there is no meditation. With distraction, there is no meditation.</sub>
+
+<sub>So, there is only this thing:</sub>
+
+- <sub>Whether I am aware, or I am not aware.</sub>
+- <sub>Whether I am distracted, or I am not distracted.</sub>
+
+<sub>And this one more thing that I realised:</sub>
+
+<sub>It's the **checking in** before sitting for the meditation, that is even more important than doing the meditation.</sub>
+
+<sub>And by **checking in**, what I mean is prepping before you concentrate (on the breath, or other center of focus), i.e. sitting in a quiet place, in a right postion where you are comfortable, the weight of the body or the gravity at different body parts feel fine, doing quick scans to check the sensations in the body, taking deep breaths (taking air in from the nose, leaving out from the mouth), ans then once you are done checking in, you close your eyes finally to meditate.</sub>
+
+<sub>I always felt like this was a part of the meditation (as I experienced during the headspace guided exercises). Infact, I didn't even know whether it was a separate step. Now, I can make sense of it.</sub>
+
+---
+
 ## *June 10, 2021*
 
 <sub>I'm currently reading a book about meditation & another book about building deep work habits in all career, professional & personal aspects!</sub>
