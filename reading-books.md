@@ -8,7 +8,7 @@ heading: ""
 
 ***But I like reading books (or listening to them. This is another way I try hard to keep this habit intact).***
 
-***So, whenever it happens, i.e. I manage to read some book(s), I feel very happy! (obvious na, yea 😆)***
+***And so, whenever it happens, i.e. I manage to read some book(s), I feel very happy! (obvious na, yea)*** 😆
 
 ***I'll keep this page for my very short list of books that I'm reading or I've finished!***
 
