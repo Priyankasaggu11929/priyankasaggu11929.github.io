@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book-Notes
+title: Reading-List
 heading: ""
 ---
 
