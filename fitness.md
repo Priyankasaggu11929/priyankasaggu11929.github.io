@@ -29,6 +29,18 @@ Okay, let's start:
 
 ---
 
+## *June 13, 2021*
+
+    - cw: 59.6 kgs (2021/06/13)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Little by little, making progress. (although for rest of sunday, I ate a lot 😆)</sub>
+
+---
 
 ## *June 06, 2021*
 
