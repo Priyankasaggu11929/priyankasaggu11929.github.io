@@ -15,6 +15,18 @@ heading: ""
 
 ---
 
+## *June 20, 2021*
+
+<sub>Had a wonderful last week. I worked hard, I studied for really long focussed hours, I got a certification!</sub>
+
+<sub>I got a new book, *How to read a book* by Mortimer J. Adler & Charles Van Doren. Just read some 10 pages over yesterday & I'm liking it (loving it infact). I'll make my way through it slowly slowly now! 🙂</sub>
+
+<sub>But what makes me most happy is that I wrote again (a little something). The weekend came with no stress for pending stuff (ofcourse, there is lot of stuff that I've to do, but I'll plan them & then I would do them). I feel more good, that even though I didn't write for this last week but it was because I was working really hard, not because I was being lazy. I feel now that it changes everything.</sub>
+
+<sub>I'm happy!</sub>
+
+---
+
 ## *June 11, 2021*
 
 <sub>Finished reading another book, **Deep work** by Cal Newport.</sub>
