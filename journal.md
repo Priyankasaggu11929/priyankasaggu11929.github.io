@@ -15,6 +15,20 @@ heading: ""
 
 ---
 
+## *June 25, 2021*
+
+<sub>It is early morning (8:28 AM) and I have been reading my book for quite a two hours stretch already now. I am reading "How to read a book".</sub>
+
+<sub>But I rushed here to write this.</sub>
+
+<sub>Today is one of those days when I am getting flashes of my childhood like no end. All those flashes of sitting in class 5 or 9 in the hindi and english lectures, taking bus ride to and back from school (I'm getting flashes of the homes that used to come in the way and that basically was the only way for me to understand that how much time there is left to reach the school, to understand how far the school is from those points or how close we are to the school now and so how less time it is left to revise the finaly chapters for the test that is going to happen in the first period itself. I still can feel the funny anxiety as I recall the time. 😅 </sub>
+
+<sub>I am getting flashes of my "naani ka ghar", the mandir she had in her home and how I used to sit with her there when she would do the evening prayers. The mandir is no longer there, I am also thinking that I am no longer the small child anymore, my naani is old now. I wish I had spent much more time there. But I am really happy that I have memories even now.</sub>
+
+<sub>I am usually not happy doing so much thinking in the morning, and absolutely not when I am trying to focus. But good thing is that, I have learnt to be ok with it. I have learnt to (atleast always try now) to stop and acknowledge that I am thinking too much and that how that thinking is making me feel and then let it. And of course then come back to the task at focus. It really helps!</sub>
+
+---
+
 ## *June 20, 2021*
 
 <sub>Had a wonderful last week. I worked hard, I studied for really long focussed hours, I got a certification!</sub>
