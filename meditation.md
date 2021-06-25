@@ -19,6 +19,12 @@ heading: ""
 
 ---
 
+*I don't recall why I didn't update here but I was quite regular this time, I would say very regular if not perfectly (maybe logging here feels like an obligation and thus become a blocker, but I still consider it important). I have come up with a format, I will see if that works. For now, I'm feeling my mental wellness because of meditation. 🙂
+
+| Date         | 🧘 (✔️ /❌)  |
+|:------------:|:-----------:|
+| June 25, 2021 | ✔️           |
+
 *I start again! This time, will update at the top whenever I do (and track how much I do or infact if I do at all)*
 
 | Date         | 🧘 (✔️ /❌)  |
