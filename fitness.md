@@ -56,7 +56,7 @@ Okay, let's start:
 
 <sub>I'm not stressing although. It's me acknowleding that it is ***hard*** to let go off cravings sometimes.</sub>
 
-<sub>Even though I know that eating all the junk is doing all bad to me, making me momentarily feel "only satisfied" (not good, because even when I'm eating, I am thinking of the later out of guilt), and leaving me all heavy and full and lazy for the rest of the time and eventually making me eat even more. Hahaha, yea, this is what happens!</sub>
+<sub>Even though I know that eating all the junk is doing all bad to me, making me momentarily feel "only satisfied" (not good, because even when I'm eating, I am thinking of the later, out of guilt). It makes me feel all heavy and full and lazy for the rest of my day(s) and eventually making me eat even more to let go off that bad feeling. Hahaha, yea, this is what is actually happening!</sub>
     
 <sub>But I'm reminding myself again. Fitness is not a destination, it's a journey, it's a way of life.</sub>
 
