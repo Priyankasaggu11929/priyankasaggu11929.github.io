@@ -62,7 +62,9 @@ Okay, let's start:
 
 <sub>PS: some people might argue reading this, that what is the use of getting fit if you're never ever going to enjoy, anything of all those appetizing food ***at all***. Well, for me, I would say, I do eat them. I want to eat them ofcourse, a lot of them infact. But here is the thing, I want to eat them only at *some time* (when I'm on a vacation, or I'm travelling, or an occasion). But I don't want to make them a habit, I don't want to make them my way of life, I don't want the food cravings to be dominant. I know eating healthy, eating lots of clean food, makes me feel even more happier any day over any of those appetizing junk food (which is very tasty, very very tasty but that taste remains just for the moment when I'm chewing it in my mouth. The moment it goes down to my gut, it is just something like any other thing I eat). So, yes, I do want to enjoy, but I want to be mindful that if I'm not going to take care of myself then journey backwards to 97 kgs is not going to take much time.</sub>
 
-<sub>It is a serious note to myself, I care about myself more than anyone right now. It took me a lot of work to accept myself, I don't want to go back down the ditch.</sub>
+<sub>It is a serious note to myself, I care about myself more than anyone right now.</sub>
+
+<sub>It took me a lot of work to accept myself, I don't want to go back down the ditch again.</sub>
 
 ---
 
