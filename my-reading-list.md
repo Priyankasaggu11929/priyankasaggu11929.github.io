@@ -18,7 +18,9 @@ heading: ""
 
 ### *June, 2021*
 
-- The Headspace Guide to Meditation and Mindfullness, by Andy Puddicombe  *(In Progress)*
+- How I built this, by Guy Raz (***in progress***)
+- How to read a book, by by Mortimer J. Adler & Charles Van Doren (***in progress***)
+- The Headspace Guide to Meditation and Mindfullness, by Andy Puddicombe
 - Deep Work, by Cal Newport
 - So good they can't ignore you, by Cal Newport
 
