@@ -15,6 +15,16 @@ heading: ""
 
 ---
 
+## *June 26, 2021*
+
+<sub>Finished reading (listening) the book *The Headspace Guide to Meditation and Mindfullness*. Now, it is to keep re-reading over time. 🙂</sub>
+
+<sub>And I'm loving reading the *How to read a book* by Mortimer J. Adler & Charles Van Doren. Finished about some 120 pages & this is literally helping me to make the most out of my all other books too.</sub>
+
+<sub>And I'm also reading (listening) *How I built this* by Guy Raz. I feel this book happened to me at a right time. Well, ofcourse [Jason Braganza](https://janusworx.com) pointed me to this (& emphasized it to be one the books I must read). Thank you. 🙏 </sub>
+
+---
+
 ## *June 25, 2021*
 
 <sub>It is early morning (8:28 AM) and I have been reading my book for quite a two hours stretch already now. I am reading "How to read a book".</sub>
