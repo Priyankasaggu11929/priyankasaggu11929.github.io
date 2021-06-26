@@ -29,6 +29,41 @@ Okay, let's start:
 
 ---
 
+## *June 26, 2021*
+
+    - cw: 60.30 kgs (2021/06/26)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs ✔️
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Trying hard to get back to eating clean.</sub> 
+
+
+---
+
+## *June 21, 2021*
+
+    - cw: 62.10 kgs (2021/06/21)
+
+    - gw1: 64 kgs ✔️
+    - gw2: 61 kgs
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Ok, I am eating wrong.</sub> 
+
+<sub>I'm not stressing although. It's me acknowleding that it is ***hard*** to let go off cravings sometimes. Even though I know that eating all the junk is doing all bad to me, making me momemntarily feel only satisfied (not good, because even when I'm eating, I am thinking of the later out of guilt), and leaving me all heavy and full and lazy for the rest of the time and eventually making me eat even more. Hahaha, yea, this is what happens!</sub>
+    
+<sub>But I'm reminding myself again. Fitness is not a destination, it's a journey, it's a way of life.</sub>
+
+<sub>PS: some people might argue reading this, that what is the use of getting fit if you're never ever going to enjoy, anything of all those appetizing food ***at all***. Well, for me, I would say, I do eat them. I want to eat them ofcourse, a lot of them infact. But here is the thing, I want to eat them only at *some time* (when I'm on a vacation, or I'm travelling, or an occasion). But I don't want to make them a habit, I don't want to make them my way of life, I don't want the food cravings to be dominant. I know eating healthy, eating lots of clean food, makes me feel even more happier any day over any of those appetizing junk food (which is very tasty, very very tasty but that taste remains just for the moment when I'm chewing it in my mouth. The moment it goes down to my gut, it is just something like any other thing I eat). So, yes, I do want to enjoy, but I want to be mindful that if I'm not going to take care of myself then journey backwards to 97 kgs is not going to take much time.</sub>
+
+<sub>It is a serious note to myself, I care about myself more than anyone right now. It took me a lot of work to accept myself, I don't want to go back down the ditch.</sub>
+
+---
+
 ## *June 13, 2021*
 
     - cw: 59.6 kgs (2021/06/13)
