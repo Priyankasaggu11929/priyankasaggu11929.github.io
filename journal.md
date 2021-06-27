@@ -13,6 +13,31 @@ heading: ""
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
 
+
+---
+
+## *June 27, 2021*
+
+<sub>I learnt a new word today! It is called, **feifdom**!</sub>
+
+> <sub>*it is the amount of land belonging to a ranked lord.*</sub>
+>
+> <sub>*a baron will have a baronetcy*</sub>
+>
+> <sub>*an earl will have an earldom*</sub>
+>
+> <sub>*a duke will have a duchy*</sub>
+>
+> <sub>*a king will have a kingdom*</sub>
+>
+> <sub>*an emperor will have an empire*</sub>
+>
+> <sub>*a generic term is fiefdom*</sub>
+
+<sub>Ah, well, it is more than one word 😆. And I'll take my time to use them, so they are here for me now.</sub>
+
+<sub>And yes, [Jason Braganza](https://janusworx.com) taught me this.</sub>
+
 ---
 
 ## *June 26, 2021*
