@@ -25,7 +25,7 @@ heading: ""
 | June 26, 2021 | ✔️           |
 
 
-*I don't recall why I didn't update here but I was quite regular this time, I would say very regular if not perfectly (maybe logging here feels like an obligation and thus become a blocker, but I still consider it important). I have come up with a format that might help me improving it, but I will see if that works. For now, I'm feeling my mental wellness going better and better (slowly) because of meditation. 🙂
+*I don't recall why I didn't update here but I was quite regular this time, I would say very regular if not perfectly (maybe logging here feels like an obligation and thus become a blocker, but I still consider it important). I have come up with a format that might help me improving it, but I will see if that works. For now, I'm feeling my mental wellness going better and better (slowly) because of meditation. 🙂*
 
 | Date         | 🧘 (✔️ /❌)  |
 |:------------:|:-----------:|
