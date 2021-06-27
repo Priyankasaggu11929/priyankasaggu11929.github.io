@@ -27,6 +27,16 @@ heading: ""
 
 ---
 
+# *June, 2021*
+
+#### **[stackrox/kube-linter](https://github.com/stackrox/kube-linter)**
+
+- `PR(s) raised`
+    - <sub>[add check for validating improper container image tags #191](https://github.com/stackrox/kube-linter/pull/191/files)</sub>
+
+
+---
+
 # *May, 2021*
 
 #### **[kubernetes/website](https://github.com/kubernetes/website)**
