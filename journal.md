@@ -13,6 +13,16 @@ heading: ""
 
 *(For someone who want to read from the beginning, start [here](https://priyankasaggu11929.github.io/journal.html#may-17-2020).)*
 
+---
+
+## *July 01, 2021*
+
+<sub>I'm trying to correct my sitting posture, ie. my back, my shoulders and my neck. When I sit to meditate, and scan my body, I've realised this thousand time that either my body feel too loose (that is because I'm not sitting straight, but with a bent body), my shoulders always feel dropping (I realised that in a recent video I recorded talking with someone) and my neck (when I close my eyes to sit peacefully, my neck just raises by some angle subconciously and that hurts after a while).</sub>
+
+<sub>I tried to correct myself repeatedly as I realised it happening. I hope to improve it. 🙂</sub>
+
+<sub>Mentally, I'm struggling a little to keep up with so many things and not react (and also trying to tell myself, that's some things are not over-reaction, but just requirements and musts as time). Feeling so better after today. 😃</sub>
+
 
 ---
 
