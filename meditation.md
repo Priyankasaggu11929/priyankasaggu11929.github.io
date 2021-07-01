@@ -19,6 +19,15 @@ heading: ""
 
 ---
 
+*July, 2021. Let's start again!* 🙌
+
+| Date         | 🧘 (✔️ /❌)  |
+|:------------:|:-----------:|
+| July 01, 2021 | ✔️           |
+
+
+*Ok, June, 2021 fin! It was a good start, a so so run (but really wonderful run, in comparision to myself who preferred to not do it at all, before. So, kudos! 🎊)*
+
 | Date         | 🧘 (✔️ /❌)  |
 |:------------:|:-----------:|
 | June 30, 2021 | ✔️           |
