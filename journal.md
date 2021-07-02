@@ -17,6 +17,16 @@ heading: ""
 
 ## *July 02, 2021*
 
+<sub>I learnt the very basics of the Indian Sign Language (ISL) today, using [this playlist of wonderful ISL basic lessons from Pragya gupta](https://youtube.com/playlist?list=PLxYMaKXKMMcMgg4f47WkG7AM0bb3AyjTi).</sub>
+
+<sub>I learnt in ISL, we have signs. So, I learnt signs for all 26 letters, numbers, basic words (hello, bye, man, woman, he, she, boy, girl, etc.), colors, week days, months, how to ask question, saying my name and all.</sub>
+
+<sub>I also learnt briefly about other signing languages, ASL (American Sign Language), Sim Com, signing exact english (SEE).  </sub>
+
+---
+
+## *July 02, 2021*
+
 <sub>Day 2 of me conciously correcting my sitting position (when I meditate). My neck hurts, I'm still trying to understand & observe the right (whatever we call it, angle, height, position) comfortable state. Will be better with time, if I keep continue to correct it little little everyday.</sub>
 
 <sub>In my ~10 min of meditation, I now spend more than (I feel) three quarter of the time in checking-in and scanning through my body. I feel it's good. I'm aware how I feel at different points. And also, I'm aware of my thoughts. For last some days, my brain is hogged with thoughts coming in, going out. I acknowledge them (label them as "thought x") & be ok with them, and continue. It's helping, it's working not at the time of meditation, but during my rest of the day. I can see the difference. I try to think and stop before reacting. It's still hard, but I feel I'm better than ever.</sub>
