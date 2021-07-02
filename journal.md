@@ -15,6 +15,14 @@ heading: ""
 
 ---
 
+## *July 02, 2021*
+
+<sub>Day 2 of me conciously correcting my sitting position (when I meditate). My neck hurts, I'm still trying to understand & observe the right (whatever we call it, angle, height, position) comfortable state. Will be better with time, if I keep continue to correct it little little everyday.</sub>
+
+<sub>In my ~10 min of meditation, I now spend more than (I feel) three quarter of the time in checking-in and scanning through my body. I feel it's good. I'm aware how I feel at different points. And also, I'm aware of my thoughts. For last some days, my brain is hogged with thoughts coming in, going out. I acknowledge them (label them as "thought x") & be ok with them, and continue. It's helping, it's working not at the time of meditation, but during my rest of the day. I can see the difference. I try to think and stop before reacting. It's still hard, but I feel I'm better than ever.</sub>
+
+---
+
 ## *July 01, 2021*
 
 <sub>I'm trying to correct my sitting posture, ie. my back, my shoulders and my neck. When I sit to meditate, and scan my body, I've realised this thousand time that either my body feel too loose (that is because I'm not sitting straight, but with a bent body), my shoulders always feel dropping (I realised that in a recent video I recorded talking with someone) and my neck (when I close my eyes to sit peacefully, my neck just raises by some angle subconciously and that hurts after a while).</sub>
