@@ -19,7 +19,7 @@ heading: ""
 
 <sub>I learnt the very basics of the Indian Sign Language (ISL) today, using [this playlist of wonderful ISL basic lessons from Pragya gupta](https://youtube.com/playlist?list=PLxYMaKXKMMcMgg4f47WkG7AM0bb3AyjTi).</sub>
 
-<sub>I learnt in ISL, we have signs. So, I learnt signs for all 26 letters, numbers, basic words (hello, bye, man, woman, he, she, boy, girl, etc.), colors, week days, months, how to ask question, saying my name and all.</sub>
+<sub>I learnt in ISL, we have signs (to what we call the vocabulary). So, I learnt signs for all 26 letters, numbers, basic words (hello, bye, man, woman, he, she, boy, girl, etc.), colors, week days, months, how to ask question, saying my name and all.</sub>
 
 <sub>I also learnt briefly about other signing languages, ASL (American Sign Language), Sim Com, signing exact english (SEE).  </sub>
 
