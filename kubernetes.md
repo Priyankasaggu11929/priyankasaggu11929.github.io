@@ -25,11 +25,27 @@ heading: ""
 
 *(For someone who want to read from the beginning, start [here](https://www.psaggu.com/kubernetes.html#june-2020).)*
 
+# *July, 2021*
+
+**[kubernetes-client/python](https://github.com/kubernetes-client/python)**
+
+- `PR(s) merged`
+    - <sub>[add documentation for the server & client side timeout #1467](https://github.com/kubernetes-client/python/pull/1467)</sub>
+
+- `Issues resolved`
+    - <sub>[Document client-side timeouts in watch #1402](https://github.com/kubernetes-client/python/issues/1402)</sub>
+
+
+**[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)**
+
+- `Issues (WIP)`
+    -   <sub>[Propose plural version for klog.KObj #102434]()https://github.com/kubernetes/kubernetes/issues/102434</sub>
+
 ---
 
 # *June, 2021*
 
-#### **[stackrox/kube-linter](https://github.com/stackrox/kube-linter)**
+**[stackrox/kube-linter](https://github.com/stackrox/kube-linter)**
 
 - `PR(s) raised`
     - <sub>[add check for validating improper container image tags #191](https://github.com/stackrox/kube-linter/pull/191/files)</sub>
@@ -39,7 +55,7 @@ heading: ""
 
 # *May, 2021*
 
-#### **[kubernetes/website](https://github.com/kubernetes/website)**
+**[kubernetes/website](https://github.com/kubernetes/website)**
 
 - `PR(s) merged`
     - <sub>[fix the kubelet-config-1.21 configmap key value from config to kubelet #28025](https://github.com/kubernetes/website/pull/28025)</sub>
@@ -61,7 +77,7 @@ heading: ""
 
 ---
 
-#### **[kubernetes/org](https://github.com/kubernetes/org)**
+**[kubernetes/org](https://github.com/kubernetes/org)**
 
 - `kubernetes organisation membership request` 🎊
     - <sub>[REQUEST: New membership for Priyankasaggu11929 #2712](https://github.com/kubernetes/org/issues/2712)</sub>
@@ -69,14 +85,14 @@ heading: ""
 
 ---
 
-#### **[kubernetes-client/python-base](https://github.com/kubernetes-client/python-base)**
+**[kubernetes-client/python-base](https://github.com/kubernetes-client/python-base)**
 
 - `PR(s) merged`
     - <sub>[drop python2 support #238](https://github.com/kubernetes-client/python-base/pull/238)</sub>
 
 ---
 
-#### **[containerd/containerd](https://github.com/containerd/containerd)**
+**[containerd/containerd](https://github.com/containerd/containerd)**
 
 - `PR(s) merged`
     - <sub>[bump runc version to v1.0.0-rc95 #5514](https://github.com/containerd/containerd/pull/5514)</sub>
@@ -84,7 +100,7 @@ heading: ""
  
 ---
 
-#### **[microsoft/hcsshim](https://github.com/microsoft/hcsshim)**
+**[microsoft/hcsshim](https://github.com/microsoft/hcsshim)**
 
 - `PR(s) merged`
     - <sub>[bump containerd version to v1.5.1 #1027](https://github.com/microsoft/hcsshim/pull/1027#event-4745184459)</sub>
@@ -92,7 +108,7 @@ heading: ""
 ---
 
 
-#### **[google/cadvisor](https://github.com/google/cadvisor/)**
+**[google/cadvisor](https://github.com/google/cadvisor/)**
 
 - `PR(s) merged`
     - <sub>[bump runc version to v1.0.0-rc95 #2873](https://github.com/google/cadvisor/pull/2873)</sub>
@@ -100,14 +116,14 @@ heading: ""
 
 ---
 
-#### **[containerd/zfs](https://github.com/containerd/zfs/)**
+**[containerd/zfs](https://github.com/containerd/zfs/)**
 
 - `PR(s) merged`
     - <sub>[sync up with containerd 1.5 GA #47](https://github.com/containerd/zfs/pull/47)</sub>
 
 ---
 
-#### **[kubernetes/image-builder](https://github.com/kubernetes-sigs/image-builder)**
+**[kubernetes/image-builder](https://github.com/kubernetes-sigs/image-builder)**
 
 - `PR(s) merged`
     - <sub>[bump containerd version to v1.5.1 #610](https://github.com/kubernetes-sigs/image-builder/pull/610)</sub>
@@ -116,7 +132,7 @@ heading: ""
 ---
 
 
-#### **[kubernetes/test-infra](https://github.com/kubernetes/test-infra)**
+**[kubernetes/test-infra](https://github.com/kubernetes/test-infra)**
 
 - `PR(s) merged`  
     - <sub>[bump runc version to v1.0.0-rc95 & containerd version to v1.5.2 #22273](https://github.com/kubernetes/test-infra/pull/22273)</sub>
@@ -125,10 +141,7 @@ heading: ""
 
 ---
 
-#### **[kubernetes-client/python](https://github.com/kubernetes-client/python)**
-
-- `WIP PR(s)`
-    - <sub>[[WIP] add documentation for the server & client side timeout #1467](https://github.com/kubernetes-client/python/pull/1467)</sub>
+**[kubernetes-client/python](https://github.com/kubernetes-client/python)**
 
 - `PR(s) merged`
     - <sub>[drop python 2 support #1468](https://github.com/kubernetes-client/python/pull/1468)</sub> 
@@ -150,7 +163,7 @@ heading: ""
 
 # *April, 2021*
 
-#### **[kubernetes-client/python](https://github.com/kubernetes-client/python)**
+**[kubernetes-client/python](https://github.com/kubernetes-client/python)**
 
 - `PRs raised`
     - <sub>[Add example to demonstrate usage of patch_cluster_custom_object method #1437](https://github.com/kubernetes-client/python/pull/1437)</sub>
@@ -173,7 +186,7 @@ heading: ""
 
 # *March, 2021*
 
-#### **[integreatly-operator](https://github.com/integr8ly/integreatly-operator)**
+**[integreatly-operator](https://github.com/integr8ly/integreatly-operator)**
 
 <sub>I first started writing kubernetes flavor of go code while working on the [integreatly-operator](https://github.com/integr8ly/integreatly-operator) project. This is an Openshift Operator based on the Operator SDK for installing and reconciling Integreatly services.</sub>
 
@@ -187,7 +200,7 @@ heading: ""
 
 # *June, 2020*
 
-#### **[kubernetes/community](https://github.com/kubernetes/community/)**
+**[kubernetes/community](https://github.com/kubernetes/community/)**
 
 <sub>This was my very first time contributing on the upstream kubernetes project.</sub>
 
