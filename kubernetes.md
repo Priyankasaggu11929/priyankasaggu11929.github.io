@@ -25,7 +25,9 @@ heading: ""
 
 *(For someone who want to read from the beginning, start [here](https://www.psaggu.com/kubernetes.html#june-2020).)*
 
-# *July, 2021*
+---
+
+## *July, 2021*
 
 **[kubernetes-client/python](https://github.com/kubernetes-client/python)**
 
@@ -43,7 +45,7 @@ heading: ""
 
 ---
 
-# *June, 2021*
+## *June, 2021*
 
 **[stackrox/kube-linter](https://github.com/stackrox/kube-linter)**
 
@@ -53,7 +55,7 @@ heading: ""
 
 ---
 
-# *May, 2021*
+## *May, 2021*
 
 **[kubernetes/website](https://github.com/kubernetes/website)**
 
@@ -106,7 +108,6 @@ heading: ""
     - <sub>[bump containerd version to v1.5.1 #1027](https://github.com/microsoft/hcsshim/pull/1027#event-4745184459)</sub>
  
 ---
-
 
 **[google/cadvisor](https://github.com/google/cadvisor/)**
 
@@ -161,7 +162,7 @@ heading: ""
 
 ---
 
-# *April, 2021*
+## *April, 2021*
 
 **[kubernetes-client/python](https://github.com/kubernetes-client/python)**
 
@@ -184,7 +185,7 @@ heading: ""
 
 ---
 
-# *March, 2021*
+## *March, 2021*
 
 **[integreatly-operator](https://github.com/integr8ly/integreatly-operator)**
 
@@ -198,7 +199,7 @@ heading: ""
 
 ---
 
-# *June, 2020*
+## *June, 2020*
 
 **[kubernetes/community](https://github.com/kubernetes/community/)**
 
