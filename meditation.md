@@ -19,6 +19,14 @@ heading: ""
 
 ---
 
+*August, 2021. New month. Let's start again!* 🙌
+
+| Date         | 🧘 (✔️ /❌)  |
+|:------------:|:-----------:|
+| Aug 11, 2021 | ✔️           |
+
+*July 2021. Fin! Very so, so. Need to do really better!*
+
 | Date         | 🧘 (✔️ /❌)  |
 |:------------:|:-----------:|
 | July 15, 2021 | ✔️           |
