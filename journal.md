@@ -218,7 +218,7 @@ heading: ""
 
 <sub>[Jason Braganza](https://janusworx.com) taught me how to ssh into remote machines (as my very first thing I learnt in this space I remember) and that started the idea of DevOps or system administration or hardware for me. I got this super power of using remote machines to do all breaking and building and learning and what not. Jason braganza also taught me about bottom posting in mailing list, that was a moment of whole lot of new confidence. And he taught me about the power of asking, and reviewing and taking feedback.</sub>
 
-<sub>[Kushal](https://kushaldas.in) taught me about about IRC, opensource and taking textual classes & I would be forever grateful to him. He literally changed everything for me.</sub>
+<sub>[Kushal](https://kushaldas.in) taught me about IRC, opensource and taking textual classes & I would be forever grateful to him. He literally changed everything for me.</sub>
 
 <sub>[mbuf](http://www.shakthimaan.com) taught me about how to ask proper questions with proper amount of information, and how to mind the tone and asking people's permission before pinging them in DM. My first introduction to an agile scrum or sprint like format was also because of mbuf during the project Operation Blue Moon (OBM).</sub>
 
