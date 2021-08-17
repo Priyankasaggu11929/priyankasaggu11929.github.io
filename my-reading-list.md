@@ -16,9 +16,20 @@ heading: ""
 
 ---
 
+
+### *Aug, 2021*
+
+- Brave Enough, - Strayed, Cheryl
+- How I built this, by Guy Raz (***in progress***)
+
 ### *June, 2021*
 
-- How I built this, by Guy Raz (***in progress***)
+- This Is Water, by David Foster Wallace
+
+---
+
+### *June, 2021*
+
 - How to read a book, by by Mortimer J. Adler & Charles Van Doren (***in progress***)
 - The Headspace Guide to Meditation and Mindfullness, by Andy Puddicombe
 - Deep Work, by Cal Newport
