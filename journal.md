@@ -15,6 +15,19 @@ heading: ""
 
 ---
 
+## *Aug 17, 2021*
+
+
+<sub>Just putting it here so, I can come back to it here</sub>
+
+> <sub>Words and languages were created by farmers, hunters, traders, prostitutes, carpenters, dancers, squid ink experts, cardiologists, post office clerks, & home builders.</sub>
+>    
+> <sub>Not by linguists, scribes, bureaucrats, librarians, grammarians, & college professors.</sub>
+> 
+> *<sub>Nassim Nicholas Taleb</sub>*
+
+---
+
 ## *July 02, 2021*
 
 <sub>I learnt the very basics of the Indian Sign Language (ISL) today, using [this playlist of wonderful ISL basic lessons from Pragya gupta](https://youtube.com/playlist?list=PLxYMaKXKMMcMgg4f47WkG7AM0bb3AyjTi).</sub>
