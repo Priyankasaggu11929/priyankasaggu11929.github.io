@@ -224,7 +224,7 @@ heading: ""
 
 <sub>[Nikhita](https://www.nikhita.dev) instilled the idea of working in a dream team and that was a driving force for everything then onwards.</sub>
 
-<sub>[Jose](https://github.com/pepedocs) injected this idea in my head on how to start thinking of kubernetes in API terms. And that's the start of an another phase for me, I am able to understand k8s upstream source code and even contributing to it. He also taught me how to be aware and concious with the usage of words in work place while sharing ideas or opinions. Like he taught me by this word "should" (for an example), this might imply as an unneccsary exertion of our own ideas on others.</sub>
+<sub>[Jose Cueto](https://github.com/pepedocs) injected this idea in my head about how to start thinking of kubernetes in the API terms. And that's the start of an another new phase for me. I am able to understand the k8s upstream source code and even I'm contributing to it. He also taught me how I should be aware and concious while using some words in a professional space (like while I'm sharing my ideas or opinions). For example, in one instance he taught me, how the word "should" might imply as an unneccsary exertion of my ideas on others.</sub>
 
 <sub>[dims](https://twitter.com/dims) made me regular and obedient with my Kubernetes upstream work.</sub>
 
