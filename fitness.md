@@ -31,7 +31,7 @@ Okay, let's start:
 
 *And here's a **before & after** shot of myself.*
 
-<sub>*(Not lying, it took every bit of my will & my power to put it out here 😆 , but here it is, finally! & I'm definitely never going to regret it. It's a very very hard earned victory!)*</sub>
+<sub>*(Not lying, it took every bit of my will & my power to put it out here 😆 , but here it is, finally! And top of that, I'm the most camera shy person you'll find out there. But it's OK! I'm definitely never going to regret it. It's a very very hard earned victory!)*</sub>
 
 ![image_6483441](https://user-images.githubusercontent.com/30499743/140608455-1552c63d-03a5-4f22-908b-daa4cf6b65e3.JPG)
 
