@@ -29,6 +29,24 @@ Okay, let's start:
 
 ---
 
+*And here's a before & after shot of myself (Not lying, it took every bit of my will & power to put it out here 😆 , but here it is, finally, & I'm definitely never going to regret it. It's a very very hardly earned win!)*
+
+![image_6483441](https://user-images.githubusercontent.com/30499743/140608455-1552c63d-03a5-4f22-908b-daa4cf6b65e3.JPG)
+
+
+
+
+---
+
+## *Nov 06, 2021*
+
+    - cw: 62.60 kgs (2021/11/06)
+
+<sub>I'm on a weight maintainence streak now, more than loosing more. And it has been going good so far! Had a wonderful 10 days Vacation a while back & ate to the fullest, gained weight to 67 kgs (& back to normal now). TOTALLY TOTALLY WORTH IT! </sub> 
+
+
+---
+
 ## *June 26, 2021*
 
     - cw: 60.30 kgs (2021/06/26)
