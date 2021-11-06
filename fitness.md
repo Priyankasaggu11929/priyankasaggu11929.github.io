@@ -29,12 +29,11 @@ Okay, let's start:
 
 ---
 
-*And here's a before & after shot of myself (Not lying, it took every bit of my will & power to put it out here 😆 , but here it is, finally, & I'm definitely never going to regret it. It's a very very hardly earned win!)*
+*And here's a **before & after** shot of myself.*
+
+<sub>*(Not lying, it took every bit of my will & my power to put it out here 😆 , but here it is, finally! & I'm definitely never going to regret it. It's a very very hard earned victory!)*</sub>
 
 ![image_6483441](https://user-images.githubusercontent.com/30499743/140608455-1552c63d-03a5-4f22-908b-daa4cf6b65e3.JPG)
-
-
-
 
 ---
 
