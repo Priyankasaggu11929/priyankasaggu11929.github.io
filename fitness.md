@@ -35,6 +35,25 @@ Okay, let's start:
 
 ![image_6483441](https://user-images.githubusercontent.com/30499743/140608455-1552c63d-03a5-4f22-908b-daa4cf6b65e3.JPG)
 
+
+---
+
+## *June 06, 2022*
+
+    - cw: 66.7 kgs (2022/06/06)
+
+    - gw1: 64 kgs
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Time to **seriously** start again! I'm going to start tracking my weight weekly!</sub>
+
+<sub>Gained a bit more of a weight over this year (owing to two wonderful trips to Valencia, Spain & Bangalore, India and eating a lot of sweet breads & Mexican food! :smile: It's extremely hard to go back to eating clean after weeks of eating all junk over vacations. The taste buds just fight with you with immense cravings!)</sub>
+
+<sub>Reminding myself once again - Weight Loss (or maintenance) is a journey not a goal!</sub> 
+
+
 ---
 
 ## *Nov 06, 2021*
