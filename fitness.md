@@ -38,6 +38,21 @@ Okay, let's start:
 
 ---
 
+## *June 13, 2022*
+
+    - cw: 66.6 kgs (2022/06/13)
+
+    - gw1: 64 kgs
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>Good start. Now just to repeat it for another week (& then another...)</sub>
+
+<sub>Ate clean for the whole of week. Observed good dips in the weight!</sub>
+
+---
+
 ## *June 06, 2022*
 
     - cw: 66.7 kgs (2022/06/06)
