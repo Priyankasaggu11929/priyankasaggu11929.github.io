@@ -34,6 +34,13 @@ heading: ""
 - `PR(s)`
     - <sub>[add verify-licenses.sh hack script (#108942)](https://github.com/kubernetes/kubernetes/pull/109299)</sub>
 
+**[kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)**
+- `PR(s)`
+    - <sub>[second trigger for cs-fetch-repos image initial build & push](https://github.com/kubernetes/k8s.io/pull/3528)</sub>
+    - <sub>[trigger for cs-fetch-repos image initial build & push approved](https://github.com/kubernetes/k8s.io/pull/3527)</sub>
+    - <sub>[minor typo fix in cloudsearch ingress.yaml](https://github.com/kubernetes/k8s.io/pull/3502)</sub>
+
+
 **[kubernetes/test-infra](https://github.com/kubernetes/test-infra)**
 
 - `PR(s)`
