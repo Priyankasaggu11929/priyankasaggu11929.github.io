@@ -25,7 +25,62 @@ heading: ""
 
 *(For someone who want to read from the beginning, start [here](https://www.psaggu.com/kubernetes.html#june-2020).)*
 
+
+
+# 2022
+
+**[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)**
+
+- `PR(s)`
+    - <sub>[add verify-licenses.sh hack script (#108942)](https://github.com/kubernetes/kubernetes/pull/109299)</sub>
+
+**[kubernetes/test-infra](https://github.com/kubernetes/test-infra)**
+
+- `PR(s)`
+    - <sub>[prow.k8s.io: add skip reason to Spyglass JUnit lens](https://github.com/kubernetes/test-infra/pull/25221)</sub>
+    - <sub>[jobs: add cs-fetch-repos image-pushing canary prow job](https://github.com/kubernetes/test-infra/pull/25576)</sub>
+    - <sub>[fix image path for cs-fetch-repos-canary postsubmit](https://github.com/kubernetes/test-infra/pull/25668)</sub>
+    - <sub>[add kubernetes-verify-go-licenses-periodical job](https://github.com/kubernetes/test-infra/pull/26220)</sub>
+    - <sub>[add sig-testing email to send alerts for kubernetes-verify-go-licenses-periodical](https://github.com/kubernetes/test-infra/pull/26492)</sub>
+
+**[kubernetes/release](https://github.com/kubernetes/release)**
+
+- `PR(s)`
+    - <sub>[pkg/release: replace github.com/pkg/errors dependency with native error wrapping](https://github.com/kubernetes/release/pull/2566)</sub>
+    - <sub>[pkg/testgrid: replace github.com/pkg/errors dependency with native error wrapping](https://github.com/kubernetes/release/pull/2561)</sub>
+    - <sub>[pkg/kubepkg: replace github.com/pkg/errors dependency with native error wrapping](https://github.com/kubernetes/release/pull/2560)</sub>
+    - <sub>[pkg/kubecross: replace github.com/pkg/errors dependency with native error wrapping](https://github.com/kubernetes/release/pull/2559)</sub>
+    - <sub>[pkg/build: replace github.com/pkg/errors dependency with native error wrapping](https://github.com/kubernetes/release/pull/2558)</sub>
+    - <sub>[cmd/schedule-builder: replace github.com/pkg/errors dependency with native error wrapping](https://github.com/kubernetes/release/pull/2557)</sub>
+    - <sub>[cmd/publish-release: replace github.com/pkg/errors dependency with native error wrapping](https://github.com/kubernetes/release/pull/2556)</sub>
+
+**[kubernetes/sig-release](https://github.com/kubernetes/sig-release)**
+
+- `PR(s)`
+    - <sub>[Add 1.25 Enhancements Shadows ](https://github.com/kubernetes/sig-release/pull/1913)</sub>
+    - <sub>[Update links to release manages and patch release pages in 1.24 release team file](https://github.com/kubernetes/sig-release/pull/1800)</sub>
+    - <sub>[pkg/kubepkg: replace github.com/pkg/errors dependency with native error wrapping](https://github.com/kubernetes/release/pull/2560)</sub>
+
+**[vmware-tanzu/community-edition](https://github.com/vmware-tanzu/community-edition)**
+
+- `PR(s)`
+    - <sub>[remove aws access-key-id and secret-access-key flags](https://github.com/vmware-tanzu/community-edition/pull/3873)</sub>
+
+
+**[aws/aws-k8s-tester](https://github.com/aws/aws-k8s-tester)**
+
+- `PR(s)`
+    - <sub>[fix link to the KEP 2313](https://github.com/aws/aws-k8s-tester/pull/248)</sub>
+
 ---
+
+# 2021
+
+**[vmware-tanzu/cluster-api-provider-bringyourownhost](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost)**
+
+- `PR(s)`
+    - <sub>[fix local_dev.md file for updated file path & environment variable name](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost/pull/236)</sub>
+
 
 ## *July, 2021*
 
