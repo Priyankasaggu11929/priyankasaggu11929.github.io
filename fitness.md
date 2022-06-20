@@ -38,6 +38,22 @@ Okay, let's start:
 
 ---
 
+## *June 20, 2022*
+
+    - cw: 66.5 kgs (2022/06/20)
+
+    - gw1: 64 kgs
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+
+<sub>I'm slow, I'm maintaing the clean eating, I'm following the process.</sub>
+
+<sub>Ate a slice of cake yesterday! Father's day! 🙂</sub>
+
+
+---
+
 ## *June 13, 2022*
 
     - cw: 66.6 kgs (2022/06/13)
