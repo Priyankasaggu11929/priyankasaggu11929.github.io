@@ -38,6 +38,24 @@ Okay, let's start:
 
 ---
 
+## *June 27, 2022*
+
+    - cw: 67.0 kgs (2022/06/27)
+
+    - gw1: 64 kgs
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+    
+<sub>gained 500 gms (which is actually less than my biggest peak for this week 67.9 kgs yesterday)</sub>    
+
+<sub>I ate a lot of junk this week! Masala Dosa(s), Grill Sandwiches, learnt not to do that again any time soon!</sub>
+
+<sub>I need to be way more patient, work more harder (i.e. work at my will, and cravings, more harder)</sub>
+
+
+---
+
 ## *June 20, 2022*
 
     - cw: 66.5 kgs (2022/06/20)
