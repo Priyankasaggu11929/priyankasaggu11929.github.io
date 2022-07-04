@@ -38,6 +38,19 @@ Okay, let's start:
 
 ---
 
+## *July 04, 2022*
+
+    - cw: 66.4 kgs (2022/07/04)
+
+    - gw1: 64 kgs
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+    
+<sub>Keeping the logging streak. This last week was emotional. lots of ups/down. Emotions are the hardest to deal with!</sub>    
+
+---
+
 ## *June 27, 2022*
 
     - cw: 67.0 kgs (2022/06/27)
