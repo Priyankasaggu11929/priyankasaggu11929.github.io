@@ -38,6 +38,24 @@ Okay, let's start:
 
 ---
 
+## *July 18, 2022*
+
+    - cw: 67 kgs (2022/07/18)
+
+    - gw1: 64 kgs
+    - gw2: 61 kgs 
+    - gw3: 58 kgs 
+    - gw4: 55 kgs 
+    
+<sub>well, today's weight sums it up all! Have not beeing doing good with eating clean. Skipped the last week logging as well here.</sub>
+
+<sub>It's going to be extremely slow this time. I ate clean at some days, then non-clean following days & the cycle went on & on. And I'm sad (but happy) that monday's weight is the reflection of all that - it's the highest in last 2 weeks.</sub>
+
+<sub>will do better from today.</sub>
+
+
+---
+
 ## *July 04, 2022*
 
     - cw: 66.4 kgs (2022/07/04)
