@@ -38,6 +38,55 @@ Okay, let's start:
 
 ---
 
+## *Aug 15, 2022*
+
+    - cw: 66.8 kgs (2022/08/15)
+
+    - gw1: 66.5 kgs 
+    - gw2: 66 kgs
+    - gw3: 65.5 kgs    
+    - gw4: 65 kgs 
+    - gw5: 64.5 kgs 
+    - gw6: 64 kgs
+    - gw7: 63.5 kgs
+    - gw8: 63 kgs
+    - gw9: 62.5 kgs
+    - gw10: 62 kgs
+    - gw11: 61.5 kgs
+    - gw12: 61 kgs
+    - gw13: 60.5 kgs
+    - gw14: 60 kgs
+    - gw15: 59.5 kgs
+    - gw16: 59 kgs
+    - gw17: 58.5 kgs
+    - gw18: 58 kgs
+    - gw19: 57.5 kgs
+    - gw20: 57 kgs    
+    - gw21: 56.5 kgs
+    - gw22: 56 kgs
+    - gw23: 55.5 kgs
+    - gw24: 55 kgs    
+    
+<sub>Been a month! Had a huge guilty feeling for not eating good (& then I ending up eating more & more bad and felt more & more guilt - it's real & it's terrible - I have a lot of work to do on myself I know!) & MUCH MORE GUILT FOR NOT LOGGING!</sub>
+
+<sub>And what happens then, is - if I don't log - I also miss weighing myself more frequently - and then if I don't know what my weight is - then I have no control on eating - because I don't get to know that whatever I am eating is doing "what" to my body - and then this hiding cycle goes on & on - because this guilt feeling & rash eating keeps growing - but I don't do anything to correct it - because I don't want to feel bad - and on and on</sub>
+
+<sub>So, first commitment I need to make is - to weigh myself everyday if I am at home (regardless of whatever, however was the day before)!</sub>
+
+<sub>Realised I need to change everything - the way I do logging & have much mooooore patience. Because it's not the same now as it was when I started loosing weight in the beginning. It was fast, way faster than how it is now. And I have hardly any patience & control left at this point. I need time & headspace to build it up again!</sub>
+
+<sub>I crave for all sorts of tasty stuff (sandwiches, dosas) & sweet stuff- all the time now. And no use hiding now - I ate a looooot of them these past months. The sad part is - I ate & I didn't enjoy - because I ended up feeling guilty & depressed in no time - becuase It was not one time eating for me - I am now in a cycle where I no more feel like eating the controlled diet that I used to eat before - it's all tasty stuff that I keep wanting all the time!</sub>
+
+<sub>I also realised that it happens whenever I have short trips - that I end up spoiling my entire eating cycle & go back to eating normal (which for me, the reality is - If I have to maintain weight - I can't eat normal diet. I have to be more observant - because my body tends to gain weight in no time if I start eating sugar or carbs). So, I need to find a solution for this - that's a TODO!</sub>
+
+<sub>Also realised, with the pace of loosing weight & the amount of patience I have left now - the previous goal weights were very difficult to reach. It was just not happening for me!</sub>
+
+<sub>So, I ended up breaking them down into (hopefully 🤞) this time very doable goals of 500 gms each. I know those small small wins & the "happy feeling" of reaching a goal weight, played the most important part in my "loosing weight" earlier. I need that again now - I need quick wins to keep myself motivated, I need to feel happy in the process & to keep myself on the track!</sub>
+
+<sub>I will really work on doing better now! With that, starting again... I'm 300 gms to my next goal weight 🙂</sub>
+
+---
+
 ## *July 18, 2022*
 
     - cw: 67 kgs (2022/07/18)
