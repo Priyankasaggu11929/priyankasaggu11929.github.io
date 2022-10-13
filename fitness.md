@@ -4,6 +4,12 @@ title: Fitness
 heading: ""
 ---
 
+
+*A big thanks to **[jasonbraganza](https://janusworx.com/)** because I copied this idea (and even the pattern) from his [super inspiring journey](https://cb.janusworx.com/notice/A0SCk8KhBHOfqEOURU) (sadly the linked page is gone! but there is a [new and shiny one](https://janusworx.com/fitness/)! ).*
+
+---
+
+
 ***And here, I (hope to) log my weight-loss journey...***
 
 Something that I could read overtime for my own inspiration. :)
@@ -1093,4 +1099,3 @@ Okay, let's start:
 
 ***
 
-*A big thanks to **[jasonbraganza](https://janusworx.com/)** because I copied this idea (and even the pattern) from his [super inspiring journey](https://cb.janusworx.com/notice/A0SCk8KhBHOfqEOURU).*
