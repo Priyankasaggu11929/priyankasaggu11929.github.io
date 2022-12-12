@@ -18,7 +18,7 @@ To [Dims](https://twitter.com/dims) and [Navid](https://twitter.com/_navidshaikh
 
 [Nikhita](https://twitter.com/thenikhita), your support and sponsorship have been invaluable in helping me grow in my career. You are not only a great colleague, but also a wonderful friend inside and outside of VMware. I truly mean it when I say that YOU ARE MY ROLE MODEL.
 
-[Meghana](https://mobile.twitter.com/cloudwarfare_), thank you for being an amazing onboarding buddy and for being there for me through every challenge and success. Your friendship, kindness & your selflessness means the world to me.
+[Meghana](https://mobile.twitter.com/cloudwarfare_), thank you for being an amazing onboarding buddy and for being there for me through every challenge and success. Your friendship, kindness and selflessness means the world to me.
 
 [Arka](https://twitter.com/thenikhita) and [Yash](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjApNj7sPP7AhVaUGwGHWiSBmAQFnoECBIQAQ&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fyash-kumar-singh-372340a9&usg=AOvVaw23Sh-1zocHMl2tvTfQ9NZG), thank you for being amazing work partners and for the countless long troubleshooting and learning sessions we had together. I will miss working with you.
 
