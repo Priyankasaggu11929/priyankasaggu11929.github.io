@@ -10,6 +10,8 @@ comments: false
 
 December 12, 2022
 
+---
+
 Dear Team,
 
 As my last day at VMware approaches, I wanted to take a moment to thank each and every one of you for the support and guidance you have given me during my time at VMware.
