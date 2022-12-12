@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Letter to my great VMware team!"
+title: "Thank you, my VMware team!"
 description: ""
 category: Gratitude
 tags: [Gratitude]
