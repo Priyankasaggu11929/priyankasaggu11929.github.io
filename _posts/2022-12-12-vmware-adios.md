@@ -16,7 +16,7 @@ Dear Team,
 
 As my last day at VMware approaches, I wanted to take a moment to thank each and every one of you for the support and guidance you have given me during my time at VMware.
 
-To [Dims](https://twitter.com/dims) and [Navid](https://twitter.com/_navidshaikh), I am especially grateful for helping me join the great organisation and for your ongoing support. Thank you for making me feel welcomed and valued from day one.
+To [dims](https://twitter.com/dims) and [Navid](https://twitter.com/_navidshaikh), I am especially grateful for helping me join the great organisation and for your ongoing support. Thank you for making me feel welcomed and valued from day one.
 
 [Nikhita](https://twitter.com/thenikhita), your support and sponsorship have been invaluable in helping me grow in my career. You are not only a great colleague, but also a wonderful friend inside and outside of VMware. I truly mean it when I say that YOU ARE MY ROLE MODEL.
 
