@@ -9,18 +9,19 @@ title: About
 <sub>I am primarily a software engineer, though I have held different titles such as Open Source Engineer, Site Reliability Engineer, and DevOps engineer, on occasion.</sub>
 
 <sub>Currently, I'm working at SUSE as a Kubernetes Integration Engineer.</sub>  
-<sub>In past, I've contributed to VMware's Tanzu portfolio, both - as a Founding member of the Tanzu Kubernetes LTS (Open Source Engineering) team, and as a Site Reliability Engineer in the Tanzu Kubernetes Grid (TKG) team.</sub>  
+<sub>In past, I've contributed to VMware's Tanzu portfolio, both — as a Founding member of the Tanzu Kubernetes LTS (Open Source Engineering) team, and as a Site Reliability Engineer in the Tanzu Kubernetes Grid (TKG) team.</sub>  
 <sub>Prior to that, I was part of the Global Cloud Services SRE team at Red Hat.</sub>
 
-<sub>Besides my work, I'm actively involved in the upstream Kubernetes community, contributing to various parts of the project through SIGs such as Release, Testing, ContribEx, and CLI.</sub>  
-<sub>I'm a Technical Lead for the Kubernetes Special Interest Group - Contributor Experience (SIG ContribEx).</sub>  
+<sub>Besides my work, I'm actively involved in the upstream Kubernetes community.</sub>
+<sub>I've contributed to various parts of the project through SIGs — Release, Testing, ContribEx, and CLI.</sub>  
+<sub>Currenly, I'm a Technical Lead for the Kubernetes Special Interest Group - Contributor Experience (SIG ContribEx).</sub>  
 <sub>I was also one of the Release Lead Shadows for Kubernetes v1.27 & v1.26 release cycles, Enhancement Lead for v1.25 release cycle and have been on the Release Team since v1.23.</sub>
 
-<sub>I was also an Outreachy intern in the past (Dec'2019 - March' 2020), under the GNOME Foundation.</sub>  
+<sub>I am a past Outreachy intern (_Dec'2019 - March' 2020_), under the GNOME Foundation.</sub>  
 <sub>I've written about ***[my journey here](https://www.psaggu.com/outreachy.html)***.</sub>
 
-<sub>I like to talk about ~ *opensource community values, mentoring, on/offline communication guidelines, benefits of writing & documenting things, and more...*</sub>  
-<sub>And I'm ***very*** keen to learn about ~ *Hardware, Networking (both computer and people networking 😉), and (all things having wires, & circuits & LEDs, & ICs in them. Well, I don't know much in this space, and I want to learn more)*.</sub>
+<sub>I like to talk about — *opensource community values, mentoring, on/offline communication guidelines, benefits of writing & documenting things, and more...*</sub>  
+<sub>And I'm ***very*** keen to learn about — *Hardware, Networking (both computer and people networking* 😉 *), and (all things having wires, & circuits & LEDs, & ICs in them. Well, I don't know much in this space, and I want to learn more)*.</sub>
 
 <sub>I also started to speak at conferences in past years.</sub>  
 <sub>I've presented talks at ***[KubeCon EU - 2023](https://youtu.be/gKKfXTZd7VU)***, ***[Open Source Summit - EU - 2022](https://youtu.be/uuaCygXJfE4)***, ***[openSUSE Conference - 2023](https://youtu.be/Fqvy30A07_U)***, ***[GNOME Users and Developers European Conference 2020](https://youtu.be/OVUGw5Svn5s?si=oNRfifwwolO8Q6rC)***.</sub>  
