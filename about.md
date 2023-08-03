@@ -20,8 +20,8 @@ title: About
 <sub>I am a past Outreachy intern (_Dec'2019 - March' 2020_), under the GNOME Foundation.</sub>  
 <sub>I've written about ***[my journey here](https://www.psaggu.com/outreachy.html)***.</sub>
 
-<sub>I like to talk about — *opensource community values, mentoring, on/offline communication guidelines, benefits of writing & documenting things, and more...*</sub>  
-<sub>And I'm ***very*** keen to learn about — *Hardware, Networking (both computer and people networking* 😉 *), and (all things having wires, & circuits & LEDs, & ICs in them. Well, I don't know much in this space, and I want to learn more)*.</sub>
+<sub>I like to talk about — opensource community values, mentoring, on/offline communication guidelines, benefits of writing & documenting things, and more..*</sub>  
+<sub>And I'm ***very*** keen to learn about — Hardware, Networking (both computer and people networking 😉 ), and _(all things having wires, & circuits & LEDs, & ICs in them. Well, I don't know much in this space, and I want to learn more)_.</sub>
 
 <sub>I also started to speak at conferences in past years.</sub>  
 <sub>I've presented talks at ***[KubeCon EU - 2023](https://youtu.be/gKKfXTZd7VU)***, ***[Open Source Summit - EU - 2022](https://youtu.be/uuaCygXJfE4)***, ***[openSUSE Conference - 2023](https://youtu.be/Fqvy30A07_U)***, ***[GNOME Users and Developers European Conference 2020](https://youtu.be/OVUGw5Svn5s?si=oNRfifwwolO8Q6rC)***.</sub>  
