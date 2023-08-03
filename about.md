@@ -8,32 +8,31 @@ title: About
 
 <sub>I am primarily a software engineer, though I have held different titles such as Open Source Engineer, Site Reliability Engineer, and DevOps engineer, on occasion.</sub>
 
-<sub>Currently, I'm working at SUSE as a Kubernetes Integration Engineer. In past, I've contributed to VMware's Tanzu portfolio, both - as a Founding member of the Tanzu Kubernetes LTS (Open Source Engineering) team, and as a Site Reliability Engineer in the Tanzu Kubernetes Grid (TKG) team.  Prior to that, I was part of the Global Cloud Services SRE team at Red Hat.</sub>
+<sub>Currently, I'm working at SUSE as a Kubernetes Integration Engineer.</sub>  
+<sub>In past, I've contributed to VMware's Tanzu portfolio, both - as a Founding member of the Tanzu Kubernetes LTS (Open Source Engineering) team, and as a Site Reliability Engineer in the Tanzu Kubernetes Grid (TKG) team.</sub>  
+<sub>Prior to that, I was part of the Global Cloud Services SRE team at Red Hat.</sub>
 
-<sub>Besides my work, I'm actively involved in the upstream Kubernetes community, contributing to various parts of the project through SIGs such as Release, Testing, ContribEx, and CLI.</sub>
-</br>
-<sub>I'm a Technical Lead for the Kubernetes Special Interest Group - Contributor Experience (SIG ContribEx). I was also one of the Release Lead Shadows for Kubernetes v1.27 & v1.26 release cycles, served as the Enhancement Lead for v1.25 release cycle and have been on the Release Team since v1.23.</sub>
+<sub>Besides my work, I'm actively involved in the upstream Kubernetes community, contributing to various parts of the project through SIGs such as Release, Testing, ContribEx, and CLI.</sub>  
+<sub>I'm a Technical Lead for the Kubernetes Special Interest Group - Contributor Experience (SIG ContribEx).</sub>  
+<sub>I was also one of the Release Lead Shadows for Kubernetes v1.27 & v1.26 release cycles, Enhancement Lead for v1.25 release cycle and have been on the Release Team since v1.23.</sub>
 
-<sub>I was also an Outreachy intern in the past (Dec'2019 - March' 2020), under the GNOME Foundation. I've written about ***[my journey here](https://www.psaggu.com/outreachy.html)***.</sub>
+<sub>I was also an Outreachy intern in the past (Dec'2019 - March' 2020), under the GNOME Foundation.</sub>  
+<sub>I've written about ***[my journey here](https://www.psaggu.com/outreachy.html)***.</sub>
 
-<sub>I like to talk about ~ *Open Source (community values, mentoring, on/offline communication guidelines, benefits of writing & documenting things), GNOME, Golang, and more ...*</sub>
-</br>
+<sub>I like to talk about ~ *opensource community values, mentoring, on/offline communication guidelines, benefits of writing & documenting things, and more...*</sub>  
 <sub>And I'm ***very*** keen to learn about ~ *Hardware, Networking (both computer and people networking 😉), and (all things having wires, & circuits & LEDs, & ICs in them. Well, I don't know much in this space, and I want to learn more)*.</sub>
 
-<sub>I also started to speak at conferences in past years.</sub>
-</br>
-<sub>I've presented talks at ***[KubeCon EU - 2023](https://youtu.be/gKKfXTZd7VU)***, ***[Open Source Summit - EU - 2022](https://youtu.be/uuaCygXJfE4)***, ***[openSUSE Conference - 2023](https://youtu.be/Fqvy30A07_U)***, ***[GNOME Users and Developers European Conference 2020](https://youtu.be/OVUGw5Svn5s?si=oNRfifwwolO8Q6rC)***.</sub>
-</br>
+<sub>I also started to speak at conferences in past years.</sub>  
+<sub>I've presented talks at ***[KubeCon EU - 2023](https://youtu.be/gKKfXTZd7VU)***, ***[Open Source Summit - EU - 2022](https://youtu.be/uuaCygXJfE4)***, ***[openSUSE Conference - 2023](https://youtu.be/Fqvy30A07_U)***, ***[GNOME Users and Developers European Conference 2020](https://youtu.be/OVUGw5Svn5s?si=oNRfifwwolO8Q6rC)***.</sub>  
 <sub>I was also invited to be part of a CNCF Maintainers Panel Discussion at _**[Kubernetes Community Days, Bengaluru 2023](https://youtu.be/umTnFlP3FrY?si=fsEAPbpvhyFDM3Kd)**_.</sub>
 
-<sub>In past, I've also tried my hands at ***[recording podcasts](https://www.youtube.com/watch?v=LnnFjscF4Wc&t=3641s)*** (so, I could talk to, and learn from lots of wonderful people around the world.)</sub>
+<sub>In past, I've also tried my hands at ***[recording podcasts](https://www.youtube.com/watch?v=LnnFjscF4Wc&t=3641s)***</sub>  
+<sub>_(so, I could talk to, and learn from lots of wonderful people around the world.)_</sub>
 
-<sub>This blog is a running record of all things about me, & nothing specific in general.🙂</sub>    
-</br>
+<sub>This blog is a running record of all things about me, & nothing specific in general.🙂</sub>  
 <sub>I talk about ***[what things I'm learning currently](https://www.psaggu.com/)***, my ***[weight loss journey](https://www.psaggu.com/fitness.html)***, some random ***[personal journaling](https://www.psaggu.com/journal.html)*** from the days, and sometimes (which is really *sometimes* only), I try to make ***[beautiful book notes](https://www.psaggu.com/notes.html)***.</sub>
 
-<sub>You could find me at these other places, as well:</sub>
-</br>
+<sub>You could find me at these other places, as well:</sub>  
 <p class="social-icons">
   <a href="https://twitter.com/_psaggu"><i class="fab fa-twitter fa-2x"></i></a>
   <a href="https://github.com/priyankasaggu11929"><i class="fab fa-github fa-2x"></i></a>
