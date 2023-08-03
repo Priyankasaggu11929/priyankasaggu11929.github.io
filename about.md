@@ -16,7 +16,7 @@ title: About
 
 <sub>I was also an Outreachy intern in the past (Dec'2019 - March' 2020), under the GNOME Foundation. I've written about ***[my journey here](https://www.psaggu.com/outreachy.html)***.</sub>
 
-<sub>I like to talk about ~ *Open Source (community values, mentoring, on/offline communication guidelines), GNOME, Golang, and more ...*</sub>
+<sub>I like to talk about ~ *Open Source (community values, mentoring, on/offline communication guidelines, benefits of writing & documenting things), GNOME, Golang, and more ...*</sub>
 </br>
 <sub>And I'm ***very*** keen to learn about ~ *Hardware, Networking (both computer and people networking 😉), and (all things having wires, & circuits & LEDs, & ICs in them. Well, I don't know much in this space, and I want to learn more)*.</sub>
 
