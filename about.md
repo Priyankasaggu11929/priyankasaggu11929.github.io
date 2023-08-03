@@ -12,7 +12,7 @@ title: About
 <sub>In past, I've contributed to VMware's Tanzu portfolio, both — as a Founding member of the Tanzu Kubernetes LTS (Open Source Engineering) team, and as a Site Reliability Engineer in the Tanzu Kubernetes Grid (TKG) team.</sub>  
 <sub>Prior to that, I was part of the Global Cloud Services SRE team at Red Hat.</sub>
 
-<sub>Besides my work, I'm actively involved in the upstream Kubernetes community.</sub>
+<sub>Besides my work, I'm actively involved in the upstream Kubernetes community.</sub>  
 <sub>I've contributed to various parts of the project through SIGs — Release, Testing, ContribEx, and CLI.</sub>  
 <sub>Currenly, I'm a Technical Lead for the Kubernetes Special Interest Group - Contributor Experience (SIG ContribEx).</sub>  
 <sub>I was also one of the Release Lead Shadows for Kubernetes v1.27 & v1.26 release cycles, Enhancement Lead for v1.25 release cycle and have been on the Release Team since v1.23.</sub>
