@@ -24,7 +24,7 @@ title: About
 <sub>And I'm ***very*** keen to learn about — Hardware, Networking (both computer and people networking 😉 ), and _(all things having wires, & circuits & LEDs, & ICs in them. Well, I don't know much in this space, and I want to learn more)_.</sub>
 
 <sub>I also started to speak at conferences in past years.</sub>  
-<sub>I've presented talks at ***[KubeCon EU - 2023](https://youtu.be/gKKfXTZd7VU)***, ***[Open Source Summit - EU - 2022](https://youtu.be/uuaCygXJfE4)***, ***[openSUSE Conference - 2023](https://youtu.be/Fqvy30A07_U)***, ***[GNOME Users and Developers European Conference 2020](https://youtu.be/OVUGw5Svn5s?si=oNRfifwwolO8Q6rC)***.</sub>  
+<sub>I've presented talks at ***[KubeCon EU - 2023](https://youtu.be/gKKfXTZd7VU)***, ***[openSUSE Conference - 2023](https://youtu.be/Fqvy30A07_U)***, ***[Open Source Summit - EU - 2022](https://youtu.be/uuaCygXJfE4)***, ***[GNOME Users and Developers European Conference 2020](https://youtu.be/OVUGw5Svn5s?si=oNRfifwwolO8Q6rC)***.</sub>  
 <sub>I was also invited to be part of a CNCF Maintainers Panel Discussion at _**[Kubernetes Community Days, Bengaluru 2023](https://youtu.be/umTnFlP3FrY?si=fsEAPbpvhyFDM3Kd)**_.</sub>
 
 <sub>In past, I've also tried my hands at ***[recording podcasts](https://www.youtube.com/watch?v=LnnFjscF4Wc&t=3641s)***.</sub>  
