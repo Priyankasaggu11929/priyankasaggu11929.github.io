@@ -7,9 +7,9 @@ heading: ""
 ***Talks, Podcasts, Media Articles, and more ...***
 
 
-##### Talks
-##### Podcasts
-##### Media
+##### [Talks](#talks)
+##### [Podcasts](#podcasts)
+##### [Media](#media)
 
 ### Talks
 
