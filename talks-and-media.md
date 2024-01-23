@@ -97,65 +97,9 @@ heading: ""
 
 - _**Kubernetes 1.29, with Priyanka Saggu — Kubernetes Podcast from Google**_
 
+  ([show transcript](https://kubernetespodcast.com/episode/215-kubernetes-1.29/))
 
-
-    
-
-    <div id="wrapper" class="layout-horizontal style-scope paper-audio-player">
-
-      <div id="left" class="self-start style-scope paper-audio-player">
-
-        <!-- Icon -->
-        <paper-icon-button id="play" icon="paper-audio-icons:play-arrow" class="fit style-scope paper-audio-player x-scope paper-icon-button-0" role="button" aria-label="Play Audio" tabindex="-1" aria-disabled="false"><iron-icon id="icon" class="style-scope paper-icon-button x-scope iron-icon-0"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope iron-icon"><g class="style-scope iron-icon"><path d="M8 5v14l11-7z" class="style-scope iron-icon"></path></g></svg>
-    
-  </iron-icon></paper-icon-button>
-        <paper-icon-button id="pause" icon="paper-audio-icons:pause" class="fit style-scope paper-audio-player x-scope paper-icon-button-0" role="button" aria-label="Pause Audio" tabindex="-1" aria-disabled="false" hidden=""><iron-icon id="icon" class="style-scope paper-icon-button x-scope iron-icon-0"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope iron-icon"><g class="style-scope iron-icon"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" class="style-scope iron-icon"></path></g></svg>
-    
-  </iron-icon></paper-icon-button>
-        <iron-icon id="error" icon="paper-audio-icons:error-outline" class="fit style-scope paper-audio-player x-scope iron-icon-1" hidden=""><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope iron-icon"><g class="style-scope iron-icon"><path d="M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z" class="style-scope iron-icon"></path></g></svg>
-    
-  </iron-icon>
-      </div>
-
-      <div id="center" class="flex style-scope paper-audio-player">
-        <!-- Title -->
-        <div id="title" class="fit style-scope paper-audio-player" role="alert">Episode #215:
-        Kubernetes 1.29, with Priyanka Saggu</div>
-
-        <!-- Audio HTML5 element -->
-        <audio id="audio" class="style-scope paper-audio-player" preload="metadata" src="https://traffic.libsyn.com/e780d51f-f115-44a6-8252-aed9216bb521/KuberCast_EP215_1.0.mp3"></audio>
-
-        <!-- Progress bar -->
-        <div id="progress" class="fit style-scope paper-audio-player"></div>
-
-        <paper-ripple class="style-scope paper-audio-player">
-    
-
-    <div id="background" class="style-scope paper-ripple"></div>
-    <div id="waves" class="style-scope paper-ripple"></div>
-  </paper-ripple>
-
-        <!-- Secondary white title -->
-        <div id="progress2" class="fit style-scope paper-audio-player">
-          <div id="title2" aria-hidden="true" class="style-scope paper-audio-player">Episode #215:
-        Kubernetes 1.29, with Priyanka Saggu</div>
-        </div>
-      </div>
-
-      <div id="right" class="self-end style-scope paper-audio-player">
-
-        <!-- Duration -->
-        <div id="duration" class="fit style-scope paper-audio-player">
-          <span class="fit style-scope paper-audio-player" role="timer" aria-label="Audio Track Length">74:16</span>
-        </div>
-
-        <!-- Icon -->
-        <paper-icon-button id="replay" class="fit style-scope paper-audio-player x-scope paper-icon-button-0" icon="paper-audio-icons:replay" tabindex="-1" role="button" aria-label="Replay Audio" aria-disabled="false"><iron-icon id="icon" class="style-scope paper-icon-button x-scope iron-icon-0"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" style="pointer-events: none; display: block; width: 100%; height: 100%;" class="style-scope iron-icon"><g class="style-scope iron-icon"><path d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z" class="style-scope iron-icon"></path></g></svg>
-    
-  </iron-icon></paper-icon-button>
-      </div>
-    </div>
-  
+  <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/29062578/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 #### 2022
 
