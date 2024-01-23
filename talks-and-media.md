@@ -9,6 +9,7 @@ heading: ""
 - [Talks](#talks)
 - [Podcasts](#podcasts)
 - [Media](#media)
+- [_Other..._](#Other)
 
 ---
 
@@ -125,7 +126,7 @@ heading: ""
 
 - _**The Kubernetes 1.29 release interview — [Let's Get To The News](https://craigbox.substack.com/p/the-kubernetes-129-release-interview)**_
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MEvuX2hc1kdP0V0589LTb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MEvuX2hc1kdP0V0589LTb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <hr style='margin-left: auto; margin-right: auto; margin-bottom: 40px; margin-top: 50px; width:100px; border: none; background-color:rgb(238, 238, 238); color: rgb(238, 238, 238);  height: 1px;'/>
 
@@ -145,9 +146,28 @@ heading: ""
 
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/64hJujVhGokoTYiZDLidXA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-#### 2022
+<hr style='margin-left: auto; margin-right: auto; margin-bottom: 40px; margin-top: 50px; width:100px; border: none; background-color:rgb(238, 238, 238); color: rgb(238, 238, 238);  height: 1px;'/>
+
 
 ---
 
 ## Media
 
+- _**How Kubernetes 1.29 improves open source cloud native production readiness — [sdxcentral](https://www.sdxcentral.com/articles/news/how-kubernetes-1-29-improves-open-source-cloud-native-production-readiness/2023/12/)**_
+
+- _**Kubernetes 1.29 ‘Mandala’ Tests Mutable Pod Resources — [The New Stack](https://thenewstack.io/kubernetes-1-29-mandala-tests-mutable-pod-resources/)**_
+
+- _**On How the Kubernetes v1.29 Logo Came About — [Janusworx](https://janusworx.com/blog/on-how-the-kubernetes-v129-logo-came-about/)**_
+
+- _**CNCF Live Webinar: [Kubernetes 1.29 Release](https://www.cncf.io/online-programs/cncf-live-webinar-kubernetes-1-29-release/)**_ 
+
+- _**CNCF Live Webinar: [Kubernetes v1.25 Release](https://community.cncf.io/events/details/cncf-cncf-online-programs-presents-cncf-live-webinar-kubernetes-v125-release/)**_
+
+
+---
+
+## Other
+
+- _**[Discussing Outreachy & Open Source](https://www.youtube.com/embed/GwSfr64qI7I?si=lgJvJFj4KfeUqjCu)**_
+
+- _**[Dive inside SIG-Contribex](https://youtu.be/J7YZRS9eNyA?feature=shared)**_
