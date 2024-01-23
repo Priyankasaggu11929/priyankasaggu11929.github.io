@@ -83,6 +83,12 @@ heading: ""
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/uuaCygXJfE4?si=knZpFfNpeXB-0gYe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+#### 2020
+
+- _**Intern lightning talks — GNOME Users And Developers European Conference (GUADEC), 2020**_
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OVUGw5Svn5s?si=B-gihwG9OCvSz7EW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
 ---
 
 ## Podcasts
