@@ -153,13 +153,13 @@ heading: ""
 
 ## Media
 
-- _**How Kubernetes 1.29 improves open source cloud native production readiness — [sdxcentral](https://www.sdxcentral.com/articles/news/how-kubernetes-1-29-improves-open-source-cloud-native-production-readiness/2023/12/)**_
-
-- _**Kubernetes 1.29 ‘Mandala’ Tests Mutable Pod Resources — [The New Stack](https://thenewstack.io/kubernetes-1-29-mandala-tests-mutable-pod-resources/)**_
+- _**CNCF Live Webinar: [Kubernetes 1.29 Release](https://www.cncf.io/online-programs/cncf-live-webinar-kubernetes-1-29-release/)**_ 
 
 - _**On How the Kubernetes v1.29 Logo Came About — [Janusworx](https://janusworx.com/blog/on-how-the-kubernetes-v129-logo-came-about/)**_
 
-- _**CNCF Live Webinar: [Kubernetes 1.29 Release](https://www.cncf.io/online-programs/cncf-live-webinar-kubernetes-1-29-release/)**_ 
+- _**How Kubernetes 1.29 improves open source cloud native production readiness — [sdxcentral](https://www.sdxcentral.com/articles/news/how-kubernetes-1-29-improves-open-source-cloud-native-production-readiness/2023/12/)**_
+
+- _**Kubernetes 1.29 ‘Mandala’ Tests Mutable Pod Resources — [The New Stack](https://thenewstack.io/kubernetes-1-29-mandala-tests-mutable-pod-resources/)**_
 
 - _**CNCF Live Webinar: [Kubernetes v1.25 Release](https://community.cncf.io/events/details/cncf-cncf-online-programs-presents-cncf-live-webinar-kubernetes-v125-release/)**_
 
