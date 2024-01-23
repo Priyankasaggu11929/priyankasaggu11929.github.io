@@ -4,7 +4,17 @@ title: Talks & Media
 heading: ""
 ---
 
+***Talks, Podcasts, Media Articles, and more ...***
+
+- Talks
+- Podcasts
+- Media
+
 ### Talks
+
+### Podcasts
+
+### Media
 
 #### Journey Through Time: Understanding Etcd Revisions and Resource Versions in Kubernetes — KubeCon + CloudNativeCon, North America 2023
 
