@@ -141,7 +141,7 @@ heading: ""
 
 <hr style='margin-left: auto; margin-right: auto; margin-bottom: 40px; margin-top: 50px; width:100px; border: none; background-color:rgb(238, 238, 238); color: rgb(238, 238, 238);  height: 1px;'/>  
 
--  _**Unveiling Kubernetes v1.29: Top 4 Game-Changing Features | Mandala-Themed Insights — Cloud Native Talks**_
+-  _**Unveiling Kubernetes v1.29: Top 4 Game-Changing Features, Mandala-Themed Insights — Cloud Native Talks**_
 
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/64hJujVhGokoTYiZDLidXA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
