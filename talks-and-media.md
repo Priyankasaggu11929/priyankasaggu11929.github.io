@@ -16,8 +16,6 @@ heading: ""
 
 #### 2023
 
-<hr style='margin-left: auto; margin-right: auto; margin-bottom: 40px; margin-top: 50px; width:100px; border: none; background-color:rgb(238, 238, 238); color: rgb(238, 238, 238);  height: 1px;'/>
-
 - _**Keynote – Kubernetes Project Updates (SIG Contributor Experience) — KubeCon + CloudNativeCon, North America 2023**_
 
   ([schedule](https://kccncna2023.sched.com/event/1R4cO/keynote-kubernetes-project-updates))
@@ -126,6 +124,14 @@ heading: ""
 <hr style='margin-left: auto; margin-right: auto; margin-bottom: 40px; margin-top: 50px; width:100px; border: none; background-color:rgb(238, 238, 238); color: rgb(238, 238, 238);  height: 1px;'/>
 
 - _**The Kubernetes 1.29 release interview — [Let's Get To The News](https://craigbox.substack.com/p/the-kubernetes-129-release-interview)**_
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MEvuX2hc1kdP0V0589LTb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<hr style='margin-left: auto; margin-right: auto; margin-bottom: 40px; margin-top: 50px; width:100px; border: none; background-color:rgb(238, 238, 238); color: rgb(238, 238, 238);  height: 1px;'/>
+
+- _**Spotlight on Kubernetes v1.29 — Rancher Live, Rancher By SUSE**_
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cFCgWi-CcJg?si=WiYqJvAsi82QLLoC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### 2022
 
