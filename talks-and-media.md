@@ -16,6 +16,12 @@ heading: ""
 
 #### 2023
 
+- _**Keynote – Kubernetes Project Updates (SIG Contributor Experience) — KubeCon + CloudNativeCon, North America 2023**_
+
+  [schedule](https://kccncna2023.sched.com/event/1R4cO/keynote-kubernetes-project-updates)
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Lg5WFV-BWnk?si=JKQBi2PUVXjLAA4V&amp;start=194" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - _**Journey Through Time: Understanding Etcd Revisions and Resource Versions in Kubernetes — KubeCon + CloudNativeCon, North America 2023**_
 
   [schedule](https://sched.co/1R2m8) & [slides](https://static.sched.com/hosted_files/kccncna2023/60/psaggu-etcd-revisisons-KubeConNA23.pdf)
