@@ -6,10 +6,9 @@ heading: ""
 
 ***Talks, Podcasts, Media Articles, and more ...***
 
-
-##### [Talks](#talks)
-##### [Podcasts](#podcasts)
-##### [Media](#media)
+- [Talks](#talks)
+- [Podcasts](#podcasts)
+- [Media](#media)
 
 ### Talks
 
