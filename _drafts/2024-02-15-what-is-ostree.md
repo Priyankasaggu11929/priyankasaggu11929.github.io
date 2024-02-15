@@ -139,3 +139,9 @@ Hello World!
 ok, I went through rest of the documentation and decided to stop and use some demo or use-case content to understand what's the actual use of it.
 
 So, that is all for this one!
+
+---
+
+Came back to put a link to openSUSE transactional-update — https://github.com/openSUSE/transactional-update
+
+All I know so far is, both transactional-update and libostree (aka OSTree) are meant for implementing atomatic updates for linux operating systems.
