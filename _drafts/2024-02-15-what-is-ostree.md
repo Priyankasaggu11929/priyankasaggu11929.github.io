@@ -145,3 +145,10 @@ So, that is all for this one!
 Came back to put a link to openSUSE transactional-update — https://github.com/openSUSE/transactional-update
 
 All I know so far is, both transactional-update and libostree (aka OSTree) are meant for implementing atomatic updates for linux operating systems.
+
+---
+
+I actually came back again to remind me - while it's good (& maybe required) for me to learn about OSTree and transactional-updates right now,
+but my original topic is learning bootc, and how that works.
+
+so, go back to bootc, as soon as I have enough of the ostree fundamentals requried to continue with bootc.
