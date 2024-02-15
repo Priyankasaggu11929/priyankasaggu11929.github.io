@@ -134,6 +134,8 @@ hello.txtfYڅB-Y%o.���gL�4�x�o���<�
 
 > cat repo/objects/66/59da85422d59256f2e16c3ebde1c674ced9934d978e6826fe99fc413db3cb0.file
 Hello World!
-
-
 ```
+
+ok, I went through rest of the documentation and decided to stop and use some demo or use-case content to understand what's the actual use of it.
+
+So, that is all for this one!
